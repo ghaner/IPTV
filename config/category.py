@@ -38,6 +38,7 @@ def get_all_category_names() -> List[str]:
     teleplay_names = _load_json_keys("teleplay.json")
     sceniczone_names = _load_json_keys("sceniczone.json")
     documentary_names = _load_json_keys("documentary.json")
+    taiwan_names = _load_json_keys("taiwan.json")
     return (
         BASE_CATEGORIES
         + province_list
@@ -47,6 +48,7 @@ def get_all_category_names() -> List[str]:
         + teleplay_names
         + sceniczone_names
         + documentary_names
+        + taiwan_names
     )
 def get_channel_categories(name: str, link: str) -> List[str]:
     """
@@ -67,6 +69,7 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     TV_DRAMA_NAMES = _load_json_keys("teleplay.json")
     SCENIC_ZONE_NAMES = _load_json_keys("sceniczone.json")
     DOCUMENTARY_NAMES = _load_json_keys("documentary.json")
+    TAIWAN_NAMES = _load_json_keys("taiwan.json")
     # -------- link链接匹配平台分类 --------
     if "/huya" in link_raw:
         result_cats.add("huya")
@@ -130,6 +133,9 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     for doc_name in DOCUMENTARY_NAMES:
         if doc_name in name_raw:
             result_cats.add("纪录片")
+    for doc_name in TAIWAN_NAMES:
+        if doc_name in name_raw:
+            result_cats.add("台湾")        
     # name包含歌手姓名(singer.json) →歌手分类
     for singer in SINGER_NAMES:
         if singer in name_raw:
