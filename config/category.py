@@ -133,8 +133,8 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     for doc_name in DOCUMENTARY_NAMES:
         if doc_name in name_raw:
             result_cats.add("纪录片")
-    for doc_name in TAIWAN_NAMES:
-        if doc_name in name_raw:
+    for tw_name in TAIWAN_NAMES:
+        if tw_name in name_raw:
             result_cats.add("台湾")        
     # name包含歌手姓名(singer.json) →歌手分类
     for singer in SINGER_NAMES:
