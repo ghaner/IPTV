@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fL0XJF&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://120.198.86.186:9901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://198.204.228.26/live/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=D3LTjJ&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=qYvFjP&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV1",CETV1 [1000kbps 200ms]
+https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2",CETV2 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2",CETV2 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=wXsslc&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV2",CETV2 [1000kbps 200ms]
+http://198.204.228.26/live/cetv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2",CETV2 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=VcK9LD&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV2",CETV2 [1000kbps 200ms]
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+#EXTINF:-1 tvg-id="" tvg-name="CETV3",CETV3 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=s067jF&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV4",CETV4 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=cFDXDG&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV4",CETV4 [1000kbps 200ms]
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+#EXTINF:-1 tvg-id="" tvg-name="CETV4",CETV4 [1000kbps 200ms]
+http://198.204.228.26/live/cetv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV4",CETV4 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CETV4",CETV4 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
