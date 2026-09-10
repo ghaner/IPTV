@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品 [1000kbps 200ms]
-https://live.ottiptv.cc/douyu/9286868
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品 [1000kbps 200ms]
 https://goodiptv.club/douyu/9286868
+#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9286868
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9817729
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品 [1000kbps 200ms]
@@ -38,6 +39,6 @@ https://live.ottiptv.cc/douyu/10419541
 #EXTINF:-1 tvg-id="" tvg-name="赵本山小品",赵本山小品 [1000kbps 200ms]
 http://tv.ximix.us/douyu/9817716
 #EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品 [1000kbps 200ms]
-https://live.ottiptv.cc/douyu/9817716
-#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品 [1000kbps 200ms]
 https://goodiptv.club/douyu/9817716
+#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9817716

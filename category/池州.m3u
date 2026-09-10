@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="安徽池州九华山风景区九华山",安徽池州九华山风景区九华山 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8

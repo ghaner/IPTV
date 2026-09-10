@@ -1,0 +1,70 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://198.204.228.26/live/hljwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://218.206.193.218:8888/hls/63/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://49.87.154.246:10091/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://183.234.143.5:9902/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://107.150.60.122/live/hljwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://120.198.86.186:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://2280.eu.org:1234/738906901$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://183.94.146.79:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://bztv.tvbus.cc:8081/cdnlive/hljws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://61.161.61.119:9004/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://182.150.112.112:2025/hls/66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://j.x.bkpcp.top/jx/HEILJHD
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000095.m3u8$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://192.151.150.154/live/hljwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://219.145.93.74:10000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视",黑龙江卫视 [1000kbps 200ms]
+http://120.196.235.42:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视[1080][S]",黑龙江卫视[1080][S] [1000kbps 200ms]
+http://120.198.95.220:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿",黑龙江少儿 [1000kbps 200ms]
+http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿",黑龙江少儿 [1000kbps 200ms]
+https://ls.qingting.fm/live/4972/64k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江影视",黑龙江影视 [1000kbps 200ms]
+http://112.99.195.122:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江文体",黑龙江文体 [1000kbps 200ms]
+http://112.99.195.122:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻",黑龙江新闻 [1000kbps 200ms]
+https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治",黑龙江新闻法治 [1000kbps 200ms]
+http://112.99.195.122:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江视",黑龙江视 [1000kbps 200ms]
+http://t.061899.xyz/tl/tl.php?id=hljws
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江视",黑龙江视 [1000kbps 200ms]
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江视",黑龙江视 [1000kbps 200ms]
+http://j.s.bkpcp.top/jj/hljws
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江视",黑龙江视 [1000kbps 200ms]
+http://go.bkpcp.top/mg/hljws
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市",黑龙江都市 [1000kbps 200ms]
+http://112.99.195.122:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0

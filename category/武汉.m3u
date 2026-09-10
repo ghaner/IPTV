@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="武汉一台新闻综合",武汉一台新闻综合 [1000kbps 200ms]
+http://livestream.hannews.com.cn/hannews/1511-hannews.m3u8?txSecret=894cfb3bf400ee80f6b4c1a1ed0bd3ab&txTime=760D3C40
+#EXTINF:-1 tvg-id="" tvg-name="武汉一台新闻综合",武汉一台新闻综合 [1000kbps 200ms]
+https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武汉新闻",武汉新闻 [1000kbps 200ms]
+http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1

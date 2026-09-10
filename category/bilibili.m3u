@@ -1,7 +1,8 @@
 #EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="好崩溃",好崩溃 [1000kbps 200ms]
 https://live.ottiptv.cc/bilibili/30787814
 #EXTINF:-1 tvg-id="" tvg-name="无画面画画音乐电台",无画面画画音乐电台 [1000kbps 200ms]
 https://live.ottiptv.cc/bilibili/12980314
-#EXTINF:-1 tvg-id="" tvg-name="补画生日图",补画生日图 [1000kbps 200ms]
-https://live.ottiptv.cc/bilibili/11452384
+#EXTINF:-1 tvg-id="" tvg-name="画碧蓝",画碧蓝 [1000kbps 200ms]
+https://live.ottiptv.cc/bilibili/1778754746

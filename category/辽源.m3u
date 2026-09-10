@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="辽源新闻综合",辽源新闻综合 [1000kbps 200ms]
+http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽源新闻综合 [Geo-blocked]",辽源新闻综合 [Geo-blocked] [1000kbps 200ms]
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8

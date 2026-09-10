@@ -1,0 +1,36 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="广州南国都市",广州南国都市 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻",广州新闻 [1000kbps 200ms]
+http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=xinwen
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻",广州新闻 [1000kbps 200ms]
+https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻",广州新闻 [1000kbps 200ms]
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻",广州新闻 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻",广州新闻 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛",广州竞赛 [1000kbps 200ms]
+http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+http://r.jdshipin.com/iR6Gq
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=zhonghe
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合",广州综合 [1000kbps 200ms]
+http://r.jdshipin.com/snhya

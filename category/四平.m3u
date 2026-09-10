@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="四平新闻综合 [Geo-blocked]",四平新闻综合 [Geo-blocked] [1000kbps 200ms]
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四平综合",四平综合 [1000kbps 200ms]
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四平综合",四平综合 [1000kbps 200ms]
+http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
+#EXTINF:-1 tvg-id="" tvg-name="四平青年喋血曼谷",四平青年喋血曼谷 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382749950

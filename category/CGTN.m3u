@@ -1,12 +1,13 @@
 #EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="CGTN",CGTN [1000kbps 200ms]
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p) [1000kbps 200ms]
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p) [1000kbps 200ms]
-https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p) [1000kbps 200ms]
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p) [1000kbps 200ms]
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (720p)",CGTN (720p) [1000kbps 200ms]
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p) [1000kbps 200ms]

@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山八水河",青岛崂山八水河 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山双福",青岛崂山双福 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8

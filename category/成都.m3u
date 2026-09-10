@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="成都",成都 [1000kbps 200ms]
+https://vdse.bdstatic.com//6fe2aad26fa6f837a26d653194a5f1b3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-11-17T21%3A47%3A08Z%2F-1%2Fhost%2F7b8b0a7aeb16d89d88fabe56265d0c9af2b8589be575eed7f6bb85af82e79e13&vid=11951392440020685184

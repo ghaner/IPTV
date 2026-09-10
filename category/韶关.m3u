@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关公共台 (720p) [Not 24/7]",广东 Ⅰ 韶关公共台 (720p) [Not 24/7] [1000kbps 200ms]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关综合台 (720p) [Not 24/7]",广东 Ⅰ 韶关综合台 (720p) [Not 24/7] [1000kbps 200ms]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8

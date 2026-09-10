@@ -1,0 +1,2 @@
+长春综合,http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合",无锡新闻综合 [1000kbps 200ms]
+http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
