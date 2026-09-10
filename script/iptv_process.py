@@ -15,6 +15,8 @@ CONFIG_DIR = os.path.join(BASE_DIR, "config")
 SOURCES_DIR = os.path.join(BASE_DIR, "sources")
 CATEGORY_DIR = os.path.join(BASE_DIR, "category")
 LOG_DIR = os.path.join(BASE_DIR, "log")
+# 持久化失败计数器文件
+FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
 
 # 创建必要文件夹
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
@@ -26,6 +28,7 @@ CONCURRENCY = 15  # 并发数
 TIMEOUT = 4  # 单个请求超时
 SUCCESS_CODES = {200, 201, 202, 206}
 MAX_RUN_TIME = 5 * 3600 + 30 * 60  # 5.5 小时强制结束
+PERMANENT_FAIL_THRESHOLD = 3  # 连续失败N轮标记永久失效
 
 # 全局变量：控制测速强制终止
 stop_speed_test = False
@@ -95,6 +98,45 @@ def parse_txt(content, source_url):
         elif line.startswith("http"):
             sources.append(f"未知频道,{line} #{source_url}")
     return sources
+
+# ---------------- 失败计数器持久化工具 ----------------
+def load_fail_counter():
+    """加载URL失败轮次计数器 {url: fail_count}"""
+    if not os.path.exists(FAIL_COUNTER_FILE):
+        return dict()
+    try:
+        with open(FAIL_COUNTER_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return dict()
+
+def save_fail_counter(counter):
+    """保存计数器到json"""
+    with open(FAIL_COUNTER_FILE, "w", encoding="utf-8") as f:
+        json.dump(counter, f, ensure_ascii=False, indent=2)
+
+def update_fail_counter(results):
+    """根据本轮测速结果更新失败计数器
+    有效源：重置计数为0；失败源：计数+1
+    返回达到阈值的永久失效url集合
+    """
+    counter = load_fail_counter()
+    permanent_invalid_urls = set()
+
+    for item in results:
+        url = item["url"]
+        is_valid = item["valid"]
+        if is_valid:
+            counter[url] = 0
+        else:
+            old = counter.get(url, 0)
+            counter[url] = old + 1
+            if counter[url] >= PERMANENT_FAIL_THRESHOLD:
+                permanent_invalid_urls.add(url)
+
+    save_fail_counter(counter)
+    print(f"[COUNTER-DEBUG] 更新失败计数器，达到阈值{PERMANENT_FAIL_THRESHOLD}轮失败URL数量：{len(permanent_invalid_urls)}")
+    return permanent_invalid_urls
 
 # ===================== 1.下载直播源 =====================
 async def download_sources():
@@ -309,7 +351,7 @@ async def run_speed_test():
     fail_out = os.path.join(SOURCES_DIR, "测速失败.txt")
     with open(valid_out, "w", encoding="utf-8") as f:
         f.write("\n".join(valid_list))
-    # ==========【修改：覆盖模式 w，不再a追加】==========
+    # 覆盖模式，每轮只保存本轮失败
     with open(fail_out, "w", encoding="utf-8") as f:
         f.write("\n".join(fail_list) + "\n")
 
@@ -335,24 +377,19 @@ def save_speed_csv(results):
             })
     print(f"[STEP5-DEBUG] 测速详情csv已写入log目录，共{len(results)}条记录")
 
-def update_permanent_invalid():
-    """读取本轮测速失败，统计连续3轮失败标记永久失效（注意：你需要持久历史，当前仅读取本轮，如需跨轮需要独立历史文件）"""
-    fail_path = os.path.join(SOURCES_DIR, "测速失败.txt")
-    perm_path = os.path.join(SOURCES_DIR, "永久失效.txt")
-    invalid_urls = set()
-    if os.path.exists(fail_path):
-        with open(fail_path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-            count = defaultdict(int)
-            for l in lines:
-                if "," in l:
-                    url = l.split(",",1)[1].split("#")[0].strip()
-                    count[url] +=1
-                    if count[url] >=3:
-                        invalid_urls.add(l.strip())
-    with open(perm_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(invalid_urls))
-    print(f"[STEP5-DEBUG] 永久失效.txt写入，数量:{len(invalid_urls)}")
+def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
+    """使用持久化计数器输出永久失效.txt"""
+    out_path = os.path.join(SOURCES_DIR, "永久失效.txt")
+    collect = []
+    for line in all_result_lines:
+        if "," not in line:
+            continue
+        url = line.split(",",1)[1].split("#")[0].strip()
+        if url in permanent_invalid_urls:
+            collect.append(line.strip())
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(collect))
+    print(f"[STEP5-DEBUG] 永久失效.txt写入，数量:{len(collect)}")
 
 def generate_source_report(source_map, results):
     total = defaultdict(int)
@@ -409,20 +446,37 @@ def process_valid_sources():
     return lines
 
 def generate_categories(sources):
+    # 清空旧分类文件
     for f in os.listdir(CATEGORY_DIR):
         os.remove(os.path.join(CATEGORY_DIR, f))
     import sys
     sys.path.insert(0, CONFIG_DIR)
-    from category import classify_source
+    # 使用新版分类函数 get_channel_categories
+    from category import get_channel_categories, get_all_category_names
+
+    # 输出全部可枚举分类总数日志
+    all_defined_cats = get_all_category_names()
+    print(f"[STEP6-INFO] 代码预定义全部分类总数：{len(all_defined_cats)}")
+
     cat_map = defaultdict(list)
+    other_count = 0
+    match_count = 0
+
     for line in sources:
         name, url = line.split(",",1)
-        cats = classify_source(name, url)
-        for c in cats:
-            cat_map[c].append(line)
+        cats = get_channel_categories(name, url)
+        if cats:
+            match_count +=1
+            for c in cats:
+                cat_map[c].append(line)
+        else:
+            cat_map["未分类"].append(line)
+            other_count +=1
+
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
     epg_cfg = load_json(os.path.join(CONFIG_DIR, "epg.json"))
-    epg_url = epg_cfg.get("url","")
+    epg_url = epg_cfg.get("epg_url","")
+
     generated = 0
     for cat_name, items in cat_map.items():
         if not items:
@@ -442,7 +496,8 @@ def generate_categories(sources):
                 delay = "200"
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n} [{br}kbps {delay}ms]\n{u}\n')
         generated +=1
-    print(f"[STEP6-END] 分类完成，生成分类文件数量：{generated}")
+
+    print(f"[STEP6-END] 分类完成；命中规则:{match_count}条；归入未分类:{other_count}条；生成分类文件数量：{generated}")
 
 # =====================主流程 =====================
 async def main():
@@ -463,7 +518,18 @@ async def main():
 
     if len(results) > 0:
         save_speed_csv(results)
-        update_permanent_invalid()
+        # 更新持久化失败计数器，获取达到阈值的永久失效URL
+        perm_invalid_url_set = update_fail_counter(results)
+        # 收集本轮全部原始带#源地址的行
+        all_result_lines = []
+        fail_file = os.path.join(SOURCES_DIR, "测速失败.txt")
+        valid_file = os.path.join(SOURCES_DIR, "有效直播源.txt")
+        for fp in [fail_file, valid_file]:
+            if os.path.exists(fp):
+                with open(fp,"r",encoding="utf-8") as f:
+                    all_result_lines.extend([clean_text(l) for l in f if clean_text(l)])
+        update_permanent_invalid(perm_invalid_url_set, all_result_lines)
+
         generate_source_report(source_map, results)
         valid_sources = process_valid_sources()
         if valid_sources:
