@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="安庆新闻综合",安庆新闻综合 [1000kbps 200ms]
-http://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
-#EXTINF:-1 tvg-id="" tvg-name="安庆经济生活",安庆经济生活 [1000kbps 200ms]
-https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1

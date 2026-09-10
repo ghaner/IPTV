@@ -1,9 +1,9 @@
 下沙-游鸿明,https://vd3.bdstatic.com/mda-nj0br2cz06fh2jgb/sc/cae_h264/1664612575982009744/mda-nj0br2cz06fh2jgb.mp4
 光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-光良-童话,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhcjp3c77u6lekc7am0&ratio=720p&line=0
 凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
 刘德华,http://epg.112114.xyz/douyu/2516864
 刘德华-电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424
+刘德华电影,https://live.metshop.top/huya/11342424
 刘若英-很爱很爱你,https://vd2.bdstatic.com/mda-mgsct1dxnx8x3sf5/sc/cae_h264_nowatermark/1627379778549277765/mda-mgsct1dxnx8x3sf5.mp4
 周传雄-关不上的窗,https://vd3.bdstatic.com/mda-pdgeegn0yj4pjw1f/sc/cae_h264/1681728621540755130/mda-pdgeegn0yj4pjw1f.mp4
 周传雄-我的心太乱,https://vd2.bdstatic.com/mda-ngk4k5t7jjw2tz5n/sc/cae_h264/1658389955095214354/mda-ngk4k5t7jjw2tz5n.mp4
@@ -46,6 +46,7 @@
 王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
 王菲-执迷不悔,http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
 王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
 缔爵丶小阿杜,https://live.ottiptv.cc/huya/16755322
 草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
@@ -79,5 +80,5 @@
 陈百强-偏偏喜欢你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c4sd0hjc77uadn62vdpg&ratio=720p&line=0
 陶喆-就是爱你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2j1oprc77u04674qfu0&ratio=720p&line=0
 黄凯芹-伤感的恋人,http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
-黄凯芹-雨中的恋人们,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
 黄凯芹-雨中的恋人们,http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
+黄凯芹-雨中的恋人们,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0

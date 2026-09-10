@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="菏泽新闻综合",菏泽新闻综合 [1000kbps 200ms]
-http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-name="菏泽新闻综合",菏泽新闻综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="菏泽新闻综合",菏泽新闻综合
 http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="菏泽经济生活",菏泽经济生活 [1000kbps 200ms]
-http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-name="菏泽经济生活",菏泽经济生活 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="菏泽新闻综合",菏泽新闻综合
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 tvg-id="" tvg-name="菏泽经济生活",菏泽经济生活
 http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽经济生活",菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd

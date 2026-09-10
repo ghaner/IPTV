@@ -1,336 +1,338 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="2021年最火伤感音乐",2021年最火伤感音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="2021年最火伤感音乐",2021年最火伤感音乐
 https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2021热门伤感DJ",2021热门伤感DJ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="2021热门伤感DJ",2021热门伤感DJ
 https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2021爆红《6首女生版伤感DJ》",2021爆红《6首女生版伤感DJ》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="2021爆红《6首女生版伤感DJ》",2021爆红《6首女生版伤感DJ》
 https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5首伤感DJ",5首伤感DJ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="5首伤感DJ",5首伤感DJ
 https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://111.8.242.142:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://f.123.rr.kg/163189/cctv15
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://111.8.242.127:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://txycdn3.video.qq.com/1370782102.m3u8?time=1789004597&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgILWQuNkSEpy-eVZ3OQXsjUATOBe1yqRD5atUag1kkZ5QEJDvrE_EHin1q6Kly6pKhwQBcJuOHItqnz-rv5bqem6FP8VlQGiVo6cCQ_cHIIT6G8UrcRYdXHvlm1OHF4yh1nGPUmwAhWbSSxg1wzD6_dDjnx35yxLJhhAsFnr-ymZDjaJZ-2uvfZfwSn2ETM0lLEiR64mQtySp7pZwLHD8dc-nOMy8pZxuSJxnA-791GrNmTmPVYmRuKXwv8gMnkYXawtixFaGbF3d7Rqhqxr7WHqhM9CLQ16nYOeCazvJG0l0FZ2rd8ITO5jCAHGwhZTlWsRRhXDXStLIx2oNlk_fbavTdkbC3H7RP6ljMIrZ2H0gK9s1yW4ucmRYWYEz7u0ZvFQ1JJizfpXQCt3vElNwaWMfjcDDrnaVdloc6po35eowPVJ8JCljwCs2G2uxDnFn9NT9a2bnuAHvhpGee6PasY1wjrFX5IamLBhKJFj3gY7I5tY1U3ZI5twLNVp1PK84mDqPOAtfCiGt40cF0ubaOIXQ_5_RNmPSLjHMEwb9bjHdl_h1&drmtype=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://192.151.150.154/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/cctv15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://218.206.193.218:8888/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://173.208.212.130:8181/720p/cctv15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://2280.eu.org:1234/673168223$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://192.151.150.154/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="DJ4首吸烟的女人",DJ4首吸烟的女人 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://txycdn2.video.qq.com/1370782102.m3u8?time=1789008835&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgILsb87w1FxwS4udLYW5LrI6vzTLL5fM5_BFcDqwe8rUWEP5mgvZaZ5ohHzmswzDnJBMBcMgV5Z3RvF8cuvhCrp096ZeIoNVd6pZLvjOVmDIj-h923UQxPt1Y-4tSr3zzUt8RBglcPeYzrJwZBcp3whj-BtpmpLDMW-wVIcca0cDJqgHzIXaN9METSUfgZXz-AulyotkKEJ0707NhEB-Fcy5rQIC82zmKxax43GdwBIwxIQiigPNZ9rZffiFhO0DCReF8Z9f0ooONYeTe5KuxhCZ9tU0HkOn6iHF4_3rLkNZWxC9i9UR7HVlwIMsLIGNEL1e-2mpRVMK4zwZZtwLW-jdINX_UbGn-72wQn1ZNyI5sXpZ2-5P6S2mZe_KsljYH0ty_KlV1QHJ2yjPwUsofdU5w_2OBqGJSYq0m3wr8OXahlyHklzNCNsXvoqgrGDfQNRwytFgf2769Y3KQEGT2pIu281LNALDnm1z2lvhrcGNoXXKLX4H5Y_IKLk3SKjR2f6dGd4wEJzFAiH_o2udtOg22-XkwBMfqZgZmNlH7KAuGYfZH&drmtype=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://f.123.rr.kg/163189/cctv15
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://114.254.38.234:8888/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="DJ4首吸烟的女人",DJ4首吸烟的女人
 https://vd2.bdstatic.com/mda-mg7zcjiauy83ehmz/sc/cae_h264/1625790109974824055/mda-mg7zcjiauy83ehmz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《一个人挺好》",DJ《一个人挺好》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《一个人挺好》",DJ《一个人挺好》
 https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《心在跳情在烧》",DJ《心在跳情在烧》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《心在跳情在烧》",DJ《心在跳情在烧》
 https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《情火》《拥抱你离去》《夜夜夜漫长》",DJ《情火》《拥抱你离去》《夜夜夜漫长》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《情火》《拥抱你离去》《夜夜夜漫长》",DJ《情火》《拥抱你离去》《夜夜夜漫长》
 https://vd3.bdstatic.com/mda-nd3gy7ukv0reh4xv/sc/cae_h264_delogo/1649115109025912038/mda-nd3gy7ukv0reh4xv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《我们不再是从前》",DJ《我们不再是从前》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《我们不再是从前》",DJ《我们不再是从前》
 https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《等爱》",DJ《等爱》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《等爱》",DJ《等爱》
 https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《舍不得又能怎样呢》",DJ《舍不得又能怎样呢》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《舍不得又能怎样呢》",DJ《舍不得又能怎样呢》
 https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《酒醉风雨情》《伤心苦酒》《朋友的酒》《红尘没有错》",DJ《酒醉风雨情》《伤心苦酒》《朋友的酒》《红尘没有错》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《酒醉风雨情》《伤心苦酒》《朋友的酒》《红尘没有错》",DJ《酒醉风雨情》《伤心苦酒》《朋友的酒》《红尘没有错》
 https://vd4.bdstatic.com/mda-nd1a4zuxf78py830/sc/cae_h264_delogo/1649003829932795060/mda-nd1a4zuxf78py830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ《醉过多少回》",DJ《醉过多少回》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ《醉过多少回》",DJ《醉过多少回》
 https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ天后",DJ天后 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ天后",DJ天后
 https://vd3.bdstatic.com/mda-kk5f22n13qna8edp/v1-cae/sc/mda-kk5f22n13qna8edp.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ情歌",DJ情歌 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ情歌",DJ情歌
 https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ情歌5首",DJ情歌5首 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ情歌5首",DJ情歌5首
 https://vd3.bdstatic.com/mda-mmg7iqkrutbwd7az/sc/cae_h264/1639851941696222972/mda-mmg7iqkrutbwd7az.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ情歌8首",DJ情歌8首 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ情歌8首",DJ情歌8首
 https://vd2.bdstatic.com/mda-mk7hhug7aprk2806/sc/cae_h264/1636496746808750167/mda-mk7hhug7aprk2806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ情歌《爱情迷了路》",DJ情歌《爱情迷了路》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ情歌《爱情迷了路》",DJ情歌《爱情迷了路》
 https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ最烈的酒最猛的烟",DJ最烈的酒最猛的烟 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ最烈的酒最猛的烟",DJ最烈的酒最猛的烟
 https://vd4.bdstatic.com/mda-nd3eicnw62x3z3j0/hd/cae_h264_delogo/1649067794176996768/mda-nd3eicnw62x3z3j0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ此生已过半",DJ此生已过半 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ此生已过半",DJ此生已过半
 https://vd3.bdstatic.com/mda-mdaprhx095djift2/hd/mda-mdaprhx095djift2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ流浪兄弟",DJ流浪兄弟 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ流浪兄弟",DJ流浪兄弟
 https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《刚好遇见你》动感旋律，节奏欢快，真好听！",DJ热歌《刚好遇见你》动感旋律，节奏欢快，真好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《刚好遇见你》动感旋律，节奏欢快，真好听！",DJ热歌《刚好遇见你》动感旋律，节奏欢快，真好听！
 https://vd2.bdstatic.com/mda-mkbnj3js267vscyf/1080p/cae_h264/1636894868424831596/mda-mkbnj3js267vscyf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486637-0-0-3a4fdd9031d8b18a26f3a2fbd833b53d&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3436997676&vid=6462333942164781009&klogid=3436997676&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《我们的爱输给了现实》不懂爱情的年纪，以为那就是爱情！",DJ热歌《我们的爱输给了现实》不懂爱情的年纪，以为那就是爱情！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《我们的爱输给了现实》不懂爱情的年纪，以为那就是爱情！",DJ热歌《我们的爱输给了现实》不懂爱情的年纪，以为那就是爱情！
 https://vd2.bdstatic.com/mda-mkbiyef917te8uiv/1080p/cae_h264/1636897539087761298/mda-mkbiyef917te8uiv.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486614-0-0-91d9218a8a6c73b1532b82968debd6e5&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3414580806&vid=5936441682552339466&klogid=3414580806&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《潮汐》歌词直入人心，甜美的嗓音，百听不厌！",DJ热歌《潮汐》歌词直入人心，甜美的嗓音，百听不厌！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ热歌《潮汐》歌词直入人心，甜美的嗓音，百听不厌！",DJ热歌《潮汐》歌词直入人心，甜美的嗓音，百听不厌！
 https://vd4.bdstatic.com/mda-mka98dyf89ms8e4t/1080p/cae_h264/1636811809863321286/mda-mka98dyf89ms8e4t.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486655-0-0-f546d77338c0b9834c0a18f3cdd39fd1&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3455424658&vid=2636573336076949725&klogid=3455424658&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="DJ爱难求",DJ爱难求 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ爱难求",DJ爱难求
 https://vd4.bdstatic.com/mda-mk99haw9m5kp6p5s/default/h264/1636526565199080954/mda-mk99haw9m5kp6p5s.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《三月里的小雨》",DJ版《三月里的小雨》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《三月里的小雨》",DJ版《三月里的小雨》
 https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《原谅你的谎》",DJ版《原谅你的谎》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《原谅你的谎》",DJ版《原谅你的谎》
 https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《时间会知道你好不好》",DJ版《时间会知道你好不好》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《时间会知道你好不好》",DJ版《时间会知道你好不好》
 https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《望爱却步》",DJ版《望爱却步》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《望爱却步》",DJ版《望爱却步》
 https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《爱不得忘不舍》",DJ版《爱不得忘不舍》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《爱不得忘不舍》",DJ版《爱不得忘不舍》
 https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ版《蜜雪冰城》",DJ版《蜜雪冰城》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ版《蜜雪冰城》",DJ版《蜜雪冰城》
 https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
 https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
-https://vd2.bdstatic.com/mda-ncp5ggtppe1c0gw0/720p/h264_delogo/1648094099072851708/mda-ncp5ggtppe1c0gw0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-b75fb95e3bd44e8af5cc964483db1b1a&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=12262793352915624883&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2303&split=1993062&dt=0&nt=0&kpdl=1&h265_m=-1&klogid=0000000000000000&kapid=1&psp=1&psk=8&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
-https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
 https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
-https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
 https://vd4.bdstatic.com/mda-idpg23napy9gsnxb/logo/sc/mda-idpg23napy9gsnxb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲《今夜特别想早点睡》韵味十足，醉人心扉，百听不厌！",DJ舞曲《今夜特别想早点睡》韵味十足，醉人心扉，百听不厌！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
+https://vd2.bdstatic.com/mda-ncp5ggtppe1c0gw0/720p/h264_delogo/1648094099072851708/mda-ncp5ggtppe1c0gw0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-b75fb95e3bd44e8af5cc964483db1b1a&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=12262793352915624883&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2303&split=1993062&dt=0&nt=0&kpdl=1&h265_m=-1&klogid=0000000000000000&kapid=1&psp=1&psk=8&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
+https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲",DJ舞曲
+https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲《今夜特别想早点睡》韵味十足，醉人心扉，百听不厌！",DJ舞曲《今夜特别想早点睡》韵味十足，醉人心扉，百听不厌！
 https://vd2.bdstatic.com/mda-mkm9fi4tg8nkkunq/1080p/cae_h264/1637668358887196528/mda-mkm9fi4tg8nkkunq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486448-0-0-bce7e7708e0766e29da5b8f4b343984f&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3248629375&vid=12010066757240992040&klogid=3248629375&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲《让我做你的眼睛》",DJ舞曲《让我做你的眼睛》 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="DJ舞曲《让我做你的眼睛》",DJ舞曲《让我做你的眼睛》
 https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UP主DJC",UP主DJC [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="UP主DJC",UP主DJC
 https://live.ottiptv.cc/douyu/9429545
-#EXTINF:-1 tvg-id="" tvg-name="《无味》DJ版",《无味》DJ版 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="《无味》DJ版",《无味》DJ版
 https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
-#EXTINF:-1 tvg-id="" tvg-name="一曲DJ版《随缘就好》歌词现实，旋律优美，超好听！",一曲DJ版《随缘就好》歌词现实，旋律优美，超好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一曲DJ版《随缘就好》歌词现实，旋律优美，超好听！",一曲DJ版《随缘就好》歌词现实，旋律优美，超好听！
 https://vd2.bdstatic.com/mda-mju8k4p6wrqy55mb/1080p/cae_h264/1635595913265911907/mda-mju8k4p6wrqy55mb.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487018-0-0-a2ad1246ca56edb8a23d279477af0fbe&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0218919441&vid=7387622007602452996&klogid=0218919441&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="一首DJ情歌《别把一个不把你放心上的人放在心上》送给放不下的你",一首DJ情歌《别把一个不把你放心上的人放在心上》送给放不下的你 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一首DJ情歌《别把一个不把你放心上的人放在心上》送给放不下的你",一首DJ情歌《别把一个不把你放心上的人放在心上》送给放不下的你
 https://vd3.bdstatic.com/mda-mj1d81q42tgqt8fs/1080p/cae_h264/1633231790829922366/mda-mj1d81q42tgqt8fs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569437-0-0-b18c6cf5617e79b5d11ad4e4469e979f&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3437644097&vid=2139741621233891221&klogid=3437644097&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="一首DJ情歌《思念情缘》男女对唱，温馨甜蜜，醉人好听！",一首DJ情歌《思念情缘》男女对唱，温馨甜蜜，醉人好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一首DJ情歌《思念情缘》男女对唱，温馨甜蜜，醉人好听！",一首DJ情歌《思念情缘》男女对唱，温馨甜蜜，醉人好听！
 https://vd3.bdstatic.com/mda-mk4apja8bh3e1wjx/1080p/cae_h264/1636198793212181666/mda-mk4apja8bh3e1wjx.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486862-0-0-46a3a46f12542e88cab80eb4324577af&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0062712046&vid=6814811754061035981&klogid=0062712046&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="一首DJ版《爱如星火》歌声欢快好听，送给天下有情人！",一首DJ版《爱如星火》歌声欢快好听，送给天下有情人！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一首DJ版《爱如星火》歌声欢快好听，送给天下有情人！",一首DJ版《爱如星火》歌声欢快好听，送给天下有情人！
 https://vd3.bdstatic.com/mda-mj157rqbc6im87mi/1080p/cae_h264/1633232929499318101/mda-mj157rqbc6im87mi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569413-0-0-88b546b2ff2aaea81334d0d8d2eb2e18&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3413952905&vid=5748815143477838101&klogid=3413952905&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="一首DJ版《钱不好赚》句句戳心，字字入骨，努力赚钱吧",一首DJ版《钱不好赚》句句戳心，字字入骨，努力赚钱吧 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一首DJ版《钱不好赚》句句戳心，字字入骨，努力赚钱吧",一首DJ版《钱不好赚》句句戳心，字字入骨，努力赚钱吧
 https://vd3.bdstatic.com/mda-mje4sh0tkpk3gwqm/1080p/cae_h264/1634300796098942323/mda-mje4sh0tkpk3gwqm.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487364-0-0-442d4a91c3904333d8db188a1bde29dd&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0564527510&vid=4338655939407645744&klogid=0564527510&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="一首好听的《风马牛与你》DJ版，余生请多指教，失敬失敬",一首好听的《风马牛与你》DJ版，余生请多指教，失敬失敬 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="一首好听的《风马牛与你》DJ版，余生请多指教，失敬失敬",一首好听的《风马牛与你》DJ版，余生请多指教，失敬失敬
 https://vd3.bdstatic.com/mda-mksaprm0vu5ba97j/1080p/cae_h264/1638198999794768353/mda-mksaprm0vu5ba97j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486325-0-0-ee4b60e8954afb58262dc313d2aaab69&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3125258738&vid=7385374314283264861&klogid=3125258738&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《一生只为一人爱》南雁北飞情难载，我问姻缘何时来！",伤感DJ《一生只为一人爱》南雁北飞情难载，我问姻缘何时来！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《一生只为一人爱》南雁北飞情难载，我问姻缘何时来！",伤感DJ《一生只为一人爱》南雁北飞情难载，我问姻缘何时来！
 https://vd3.bdstatic.com/mda-mmwk1xt4s14mpg8i/720p/h264/1640959869978506954/mda-mmwk1xt4s14mpg8i.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485399-0-0-f58bbf653835420637d47aaeabd0d962&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=2199294596&vid=12707921722465544141&klogid=2199294596&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《三分清醒七分醉》感情并非顺风顺水，你把真心给了谁！",伤感DJ《三分清醒七分醉》感情并非顺风顺水，你把真心给了谁！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《三分清醒七分醉》感情并非顺风顺水，你把真心给了谁！",伤感DJ《三分清醒七分醉》感情并非顺风顺水，你把真心给了谁！
 https://vd2.bdstatic.com/mda-mmdknf319i6kpmix/1080p/cae_h264/1639571605614446738/mda-mmdknf319i6kpmix.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485809-0-0-d0d4ca3fb72636eb927c32f837718873&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2609068684&vid=10445610702769616926&klogid=2609068684&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《如今的你在陪伴谁》揣起苦酒心欲碎，攒够失望才体会！",伤感DJ《如今的你在陪伴谁》揣起苦酒心欲碎，攒够失望才体会！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《如今的你在陪伴谁》揣起苦酒心欲碎，攒够失望才体会！",伤感DJ《如今的你在陪伴谁》揣起苦酒心欲碎，攒够失望才体会！
 https://vd2.bdstatic.com/mda-mk5bv7zzzabvw4a4/1080p/cae_h264/1636288599239198515/mda-mk5bv7zzzabvw4a4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486843-0-0-3925d8cb8b10c8ebb1b2277ca4ce542e&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0043150725&vid=1103030330324713519&klogid=0043150725&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《爱到心碎人憔悴》爱太深让人心碎，情太真让人憔悴！",伤感DJ《爱到心碎人憔悴》爱太深让人心碎，情太真让人憔悴！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《爱到心碎人憔悴》爱太深让人心碎，情太真让人憔悴！",伤感DJ《爱到心碎人憔悴》爱太深让人心碎，情太真让人憔悴！
 https://vd4.bdstatic.com/mda-mk7g59tn5e2uv9xh/1080p/cae_h264/1636558174490313944/mda-mk7g59tn5e2uv9xh.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486712-0-0-70a32c9e457eb8831ef197eee64c83aa&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3512668844&vid=2986943785301516758&klogid=3512668844&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《醉也想你》我不是你的唯一，付出再多你也不满意！",伤感DJ《醉也想你》我不是你的唯一，付出再多你也不满意！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ《醉也想你》我不是你的唯一，付出再多你也不满意！",伤感DJ《醉也想你》我不是你的唯一，付出再多你也不满意！
 https://vd3.bdstatic.com/mda-mmtk9vd11gf8fczc/1080p/cae_h264/1640859703637354288/mda-mmtk9vd11gf8fczc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485470-0-0-928ea911b3deeacf48133d5638f87adc&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2270442016&vid=4253756766880974791&klogid=2270442016&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一个人的路口》看透就放手，何必为离开的人等候！",伤感DJ情歌《一个人的路口》看透就放手，何必为离开的人等候！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一个人的路口》看透就放手，何必为离开的人等候！",伤感DJ情歌《一个人的路口》看透就放手，何必为离开的人等候！
 https://vd2.bdstatic.com/mda-mmvkz47mxg5es7gn/1080p/cae_h264/1641143535238081820/mda-mmvkz47mxg5es7gn.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485321-0-0-ad062e5ccda6dc3d075202361bce5db6&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2120962257&vid=9038374787144016226&klogid=2120962257&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一手情二手爱》你一手的情，是我二手的爱！",伤感DJ情歌《一手情二手爱》你一手的情，是我二手的爱！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一手情二手爱》你一手的情，是我二手的爱！",伤感DJ情歌《一手情二手爱》你一手的情，是我二手的爱！
 https://vd2.bdstatic.com/mda-mmbt93dz49h9n6di/1080p/cae_h264/1639508799510396113/mda-mmbt93dz49h9n6di.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485829-0-0-766f74378e95a7fabef3760190beb96b&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2629645282&vid=1939010926057180753&klogid=2629645282&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一醉渡忘川》揽不住要走的风，抱不住整片天空！",伤感DJ情歌《一醉渡忘川》揽不住要走的风，抱不住整片天空！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《一醉渡忘川》揽不住要走的风，抱不住整片天空！",伤感DJ情歌《一醉渡忘川》揽不住要走的风，抱不住整片天空！
 https://vd4.bdstatic.com/mda-mkkmmz04hdzt0d5p/1080p/cae_h264/1637576919104922629/mda-mkkmmz04hdzt0d5p.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486466-0-0-53e3809e7fd3dabddcbd165568a0eb8e&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3266435901&vid=6686908757142837108&klogid=3266435901&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《不爱我请别骗我》句句戳心，超级好听！",伤感DJ情歌《不爱我请别骗我》句句戳心，超级好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《不爱我请别骗我》句句戳心，超级好听！",伤感DJ情歌《不爱我请别骗我》句句戳心，超级好听！
 https://vd2.bdstatic.com/mda-mm3i6848ue0bt815/1080p/cae_h264/1638734323393135212/mda-mm3i6848ue0bt815.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486022-0-0-f3d0b39e3156d95045a81e9fac6b0dd1&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2821949350&vid=9155538970101803203&klogid=2821949350&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《半生风雨半身伤》念念不忘，想回你身旁！",伤感DJ情歌《半生风雨半身伤》念念不忘，想回你身旁！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《半生风雨半身伤》念念不忘，想回你身旁！",伤感DJ情歌《半生风雨半身伤》念念不忘，想回你身旁！
 https://vd3.bdstatic.com/mda-na6mpk23ccntszw1/1080p/cae_h264/1641743963055616018/mda-na6mpk23ccntszw1.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702478089-0-0-2dc5d1bf705a4933bee86b7e1c413700&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2089257481&vid=3851128703405962034&klogid=2089257481&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《只怪当初太爱你》我要忘了你，却无奈又想起！",伤感DJ情歌《只怪当初太爱你》我要忘了你，却无奈又想起！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《只怪当初太爱你》我要忘了你，却无奈又想起！",伤感DJ情歌《只怪当初太爱你》我要忘了你，却无奈又想起！
 https://vd3.bdstatic.com/mda-na7m7tpk5z0xsnj8/1080p/cae_h264_delogo/1641819564559610595/mda-na7m7tpk5z0xsnj8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702478067-0-0-b867b0215def34616d8e55fc71e779b4&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2067517488&vid=4154456131704952997&klogid=2067517488&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《宿醉》干了这杯，让酒入愁肠化作相思泪",伤感DJ情歌《宿醉》干了这杯，让酒入愁肠化作相思泪 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《宿醉》干了这杯，让酒入愁肠化作相思泪",伤感DJ情歌《宿醉》干了这杯，让酒入愁肠化作相思泪
 https://vd2.bdstatic.com/mda-mmum4mvn9qi8mk8c/1080p/cae_h264/1640965819813126486/mda-mmum4mvn9qi8mk8c.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485438-0-0-7f84a9253d3a479e9e002e39598cdaca&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2238055233&vid=5836536336734245983&klogid=2238055233&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《我不后悔爱过你》注满心事的文字，就像一根心头刺！",伤感DJ情歌《我不后悔爱过你》注满心事的文字，就像一根心头刺！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《我不后悔爱过你》注满心事的文字，就像一根心头刺！",伤感DJ情歌《我不后悔爱过你》注满心事的文字，就像一根心头刺！
 https://vd3.bdstatic.com/mda-mmam5dkdtuni7c06/1080p/cae_h264/1639419388752684127/mda-mmam5dkdtuni7c06.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485847-0-0-3da5705628495989ee5b6a5639ce4d71&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2647737804&vid=3390709756227426594&klogid=2647737804&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《我最》此生最美的事，我曾去过你的心！",伤感DJ情歌《我最》此生最美的事，我曾去过你的心！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《我最》此生最美的事，我曾去过你的心！",伤感DJ情歌《我最》此生最美的事，我曾去过你的心！
 https://vd2.bdstatic.com/mda-na4mz89dg0a9hihf/1080p/cae_h264/1641562592513738407/mda-na4mz89dg0a9hihf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485213-0-0-a45822eed91226a4c0911a410bf2e0ca&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2012946488&vid=9664812255484596393&klogid=2012946488&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《来生再爱你一场》醉心感人，流泪也要听完！",伤感DJ情歌《来生再爱你一场》醉心感人，流泪也要听完！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《来生再爱你一场》醉心感人，流泪也要听完！",伤感DJ情歌《来生再爱你一场》醉心感人，流泪也要听完！
 https://vd4.bdstatic.com/mda-mjmj94fufkw12qvg/1080p/cae_h264/1634993380754133804/mda-mjmj94fufkw12qvg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487196-0-0-f87935d9beddf7636290cc748d0cd0c5&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0396684717&vid=10297975540699787275&klogid=0396684717&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《爱成天涯》独特磁性的嗓音，听醉无数痴情人",伤感DJ情歌《爱成天涯》独特磁性的嗓音，听醉无数痴情人 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《爱成天涯》独特磁性的嗓音，听醉无数痴情人",伤感DJ情歌《爱成天涯》独特磁性的嗓音，听醉无数痴情人
 https://vd2.bdstatic.com/mda-mk09aneetd64bvf7/1080p/cae_h264/1635851559875385592/mda-mk09aneetd64bvf7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486955-0-0-a6d17af694ded0893ef4546628b551f5&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0155666132&vid=3293940290522715663&klogid=0155666132&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《眼泪失控》又一次被记忆刺痛，你是我没做完的梦！",伤感DJ情歌《眼泪失控》又一次被记忆刺痛，你是我没做完的梦！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《眼泪失控》又一次被记忆刺痛，你是我没做完的梦！",伤感DJ情歌《眼泪失控》又一次被记忆刺痛，你是我没做完的梦！
 https://vd4.bdstatic.com/mda-na2ikxu7uiwsc7z9/1080p/cae_h264/1641385257305988527/mda-na2ikxu7uiwsc7z9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485264-0-0-d2acda9b688a899eb6bd074d7184c43c&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2064841491&vid=7530073076353394178&klogid=2064841491&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《那个爱情小偷》心若能自控，何苦要心动！",伤感DJ情歌《那个爱情小偷》心若能自控，何苦要心动！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ情歌《那个爱情小偷》心若能自控，何苦要心动！",伤感DJ情歌《那个爱情小偷》心若能自控，何苦要心动！
 https://vd4.bdstatic.com/mda-mjv89ve864ssxvqv/1080p/cae_h264/1635680200617551578/mda-mjv89ve864ssxvqv.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486996-0-0-871911f68751ff8bc8901e6162a69eb2&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0196728220&vid=1566031353983042342&klogid=0196728220&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ歌曲《左手寂寞右手孤独》独特的声音，深情好听",伤感DJ歌曲《左手寂寞右手孤独》独特的声音，深情好听 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ歌曲《左手寂寞右手孤独》独特的声音，深情好听",伤感DJ歌曲《左手寂寞右手孤独》独特的声音，深情好听
 https://vd4.bdstatic.com/mda-mmfkqax0cifpjv3n/1080p/cae_h264/1639942744072465369/mda-mmfkqax0cifpjv3n.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485717-0-0-3422afa1ea8ec1daa2aa8cf1e28edab8&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2517386559&vid=11280794177718837745&klogid=2517386559&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ歌曲《或许是我太傻》放手吧，放下别人也放过自己！",伤感DJ歌曲《或许是我太傻》放手吧，放下别人也放过自己！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ歌曲《或许是我太傻》放手吧，放下别人也放过自己！",伤感DJ歌曲《或许是我太傻》放手吧，放下别人也放过自己！
 https://vd2.bdstatic.com/mda-mm6rfdhk4etuy9qp/1080p/cae_h264/1639058441503984937/mda-mm6rfdhk4etuy9qp.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485925-0-0-79d7699509ad471ff0b3a12344ccfbfd&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2725639201&vid=2955683861067274220&klogid=2725639201&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《做你的雪莲》歌声高亢，爱意深情，唱得沁人心菲！",伤感DJ热歌《做你的雪莲》歌声高亢，爱意深情，唱得沁人心菲！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《做你的雪莲》歌声高亢，爱意深情，唱得沁人心菲！",伤感DJ热歌《做你的雪莲》歌声高亢，爱意深情，唱得沁人心菲！
 https://vd4.bdstatic.com/mda-mk2araj6y9zcgd9s/720p/h264/1635926366515107932/mda-mk2araj6y9zcgd9s.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486908-0-0-dff7926849c1f073d959313bb971589c&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0108668327&vid=12729531137733497725&klogid=0108668327&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！",伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！",伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！
 https://vd3.bdstatic.com/mda-mk6cxr3vscmh7awf/1080p/cae_h264/1636464338134174910/mda-mk6cxr3vscmh7awf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486769-0-0-0e1ffa9646c956a8bfc8e4dae84efaf6&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3569167408&vid=15130139822554162047&klogid=3569167408&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！",伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！",伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！
 https://vd4.bdstatic.com/mda-mjkhhps8w2us10yy/1080p/cae_h264/1634820585404207406/mda-mjkhhps8w2us10yy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487216-0-0-f00db1c930faa0e07c89c1e5f54729fb&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0416272188&vid=18039684079953515698&klogid=0416272188&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ舞曲《我们不再是从前》节奏也太嗨了吧，值得收藏！",伤感DJ舞曲《我们不再是从前》节奏也太嗨了吧，值得收藏！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感DJ舞曲《我们不再是从前》节奏也太嗨了吧，值得收藏！",伤感DJ舞曲《我们不再是从前》节奏也太嗨了吧，值得收藏！
 https://vd2.bdstatic.com/mda-mm0eiumav80b5mk7/1080p/cae_h264/1638541666339159037/mda-mm0eiumav80b5mk7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486061-0-0-79e07662dfa058376e3ac9c52e26680b&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2861756449&vid=5634535584336484333&klogid=2861756449&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="伤感情歌《后悔遇见你》不怕音乐不好听，就怕歌词入了心",伤感情歌《后悔遇见你》不怕音乐不好听，就怕歌词入了心 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="伤感情歌《后悔遇见你》不怕音乐不好听，就怕歌词入了心",伤感情歌《后悔遇见你》不怕音乐不好听，就怕歌词入了心
 https://vd2.bdstatic.com/mda-mktb7if4eb84egai/1080p/cae_h264/1638292236182886694/mda-mktb7if4eb84egai.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486299-0-0-46e7e0edeb8d3021328d513706598963&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3099803158&vid=15701237917493369266&klogid=3099803158&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="刘至佳DJ版《摩登爱情》动感的旋律，越听越上头！",刘至佳DJ版《摩登爱情》动感的旋律，越听越上头！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="刘至佳DJ版《摩登爱情》动感的旋律，越听越上头！",刘至佳DJ版《摩登爱情》动感的旋律，越听越上头！
 https://vd4.bdstatic.com/mda-mkkhyd3rda9k03g8/1080p/cae_h264/1637500166386538901/mda-mkkhyd3rda9k03g8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486484-0-0-8b9bec2a629a005f11c75fecbe719d20&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3284530614&vid=6346658131897571262&klogid=3284530614&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="劲爆DJ热歌《假如有轮回》下辈子太远，这辈子太难！",劲爆DJ热歌《假如有轮回》下辈子太远，这辈子太难！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="劲爆DJ热歌《假如有轮回》下辈子太远，这辈子太难！",劲爆DJ热歌《假如有轮回》下辈子太远，这辈子太难！
 https://vd3.bdstatic.com/mda-mj6h0hgw6sfh93hy/1080p/cae_h264/1633691138524800092/mda-mj6h0hgw6sfh93hy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487600-0-0-104895cc1af1174a415d813d8a1f5952&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0800836052&vid=3635757677230044911&klogid=0800836052&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="古风DJ《一念逍遥》朝阳总是催人醒，唯有晚霞懂我心！",古风DJ《一念逍遥》朝阳总是催人醒，唯有晚霞懂我心！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="古风DJ《一念逍遥》朝阳总是催人醒，唯有晚霞懂我心！",古风DJ《一念逍遥》朝阳总是催人醒，唯有晚霞懂我心！
 https://vd3.bdstatic.com/mda-mmpk5wu38p2zyrnp/1080p/cae_h264/1640445274994989198/mda-mmpk5wu38p2zyrnp.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485547-0-0-62a0f729defc0ee75b93740fee07db0b&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2347529190&vid=11266504940890458147&klogid=2347529190&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="姚倩DJ版《一生为一人》歌词句句深情，醉人好听",姚倩DJ版《一生为一人》歌词句句深情，醉人好听 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="姚倩DJ版《一生为一人》歌词句句深情，醉人好听",姚倩DJ版《一生为一人》歌词句句深情，醉人好听
 https://vd4.bdstatic.com/mda-mmgq65072rfxfcx0/1080p/cae_h264/1640011707869349752/mda-mmgq65072rfxfcx0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485671-0-0-f8b877bcb1c7df324fffaa12435474cf&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2471284876&vid=1477869911006137772&klogid=2471284876&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="孙艺琪DJ版《别说你有多爱我》唱出了多少人的心声，百听不厌",孙艺琪DJ版《别说你有多爱我》唱出了多少人的心声，百听不厌 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="孙艺琪DJ版《别说你有多爱我》唱出了多少人的心声，百听不厌",孙艺琪DJ版《别说你有多爱我》唱出了多少人的心声，百听不厌
 https://vd3.bdstatic.com/mda-mm1gexntj03ivd23/1080p/cae_h264/1638632915018142467/mda-mm1gexntj03ivd23.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486041-0-0-7576f2edb17c275c364474a05f102c54&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2840856087&vid=5342068274781907101&klogid=2840856087&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="孟维来一首DJ版《曾》宁可错过，也不要将就！",孟维来一首DJ版《曾》宁可错过，也不要将就！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="孟维来一首DJ版《曾》宁可错过，也不要将就！",孟维来一首DJ版《曾》宁可错过，也不要将就！
 https://vd2.bdstatic.com/mda-mj3cx3zj4f8qkm0e/1080p/cae_h264/1633404640286340431/mda-mj3cx3zj4f8qkm0e.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569350-0-0-eb384659f586be4083330fa751c5624f&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3350432370&vid=11492558460205180536&klogid=3350432370&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="小丽DJ版《追梦路上一起闯》歌声嘹亮，气势澎湃，好听！",小丽DJ版《追梦路上一起闯》歌声嘹亮，气势澎湃，好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="小丽DJ版《追梦路上一起闯》歌声嘹亮，气势澎湃，好听！",小丽DJ版《追梦路上一起闯》歌声嘹亮，气势澎湃，好听！
 https://vd4.bdstatic.com/mda-mjrdivktmftx1m0i/1080p/cae_h264/1635342338470690214/mda-mjrdivktmftx1m0i.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487076-0-0-988ea36703a4dfa45c6bb923dbc822bf&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0276285910&vid=6553733933129637198&klogid=0276285910&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="小倩DJ版《不要打电话给我》太好听了，人生短暂，别留遗憾！",小倩DJ版《不要打电话给我》太好听了，人生短暂，别留遗憾！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="小倩DJ版《不要打电话给我》太好听了，人生短暂，别留遗憾！",小倩DJ版《不要打电话给我》太好听了，人生短暂，别留遗憾！
 https://vd4.bdstatic.com/mda-mjhf269ea55sq9fe/1080p/cae_h264/1634741374855639849/mda-mjhf269ea55sq9fe.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487240-0-0-746601f23c0f3f23626fcd901d22dd88&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0440137866&vid=14142201851063793862&klogid=0440137866&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="小潘潘DJ版《黄梅戏》遭到无数人吐槽，你觉得怎么样？",小潘潘DJ版《黄梅戏》遭到无数人吐槽，你觉得怎么样？ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="小潘潘DJ版《黄梅戏》遭到无数人吐槽，你觉得怎么样？",小潘潘DJ版《黄梅戏》遭到无数人吐槽，你觉得怎么样？
 https://vd3.bdstatic.com/mda-mjm7zcmze09y5cxz/1080p/cae_h264/1634907104512126095/mda-mjm7zcmze09y5cxz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487095-0-0-cc90c8ec8001cba66be284d8d2be8302&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0295318410&vid=12291824115446037897&klogid=0295318410&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="小琢DJ版《爱的老板娘》我是你的老板娘，谁又是我的郎？",小琢DJ版《爱的老板娘》我是你的老板娘，谁又是我的郎？ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="小琢DJ版《爱的老板娘》我是你的老板娘，谁又是我的郎？",小琢DJ版《爱的老板娘》我是你的老板娘，谁又是我的郎？
 https://vd4.bdstatic.com/mda-mk8cju0fiw1rm6ru/1080p/cae_h264/1636639422528119835/mda-mk8cju0fiw1rm6ru.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486692-0-0-ab8fa5290bd0d3007e4d1fe44f25c97c&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3492369061&vid=7151694120689059858&klogid=3492369061&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="崔伟立一首DJ版《后悔当初没把你挽留》有故事的人百听不厌！",崔伟立一首DJ版《后悔当初没把你挽留》有故事的人百听不厌！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="崔伟立一首DJ版《后悔当初没把你挽留》有故事的人百听不厌！",崔伟立一首DJ版《后悔当初没把你挽留》有故事的人百听不厌！
 https://vd3.bdstatic.com/mda-misf3zd6y99h4m0r/1080p/cae_h264/1632802199232217776/mda-misf3zd6y99h4m0r.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569671-0-0-caa877d19ae870223ca99c724aa8d73d&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0071180075&vid=5375998792842455044&klogid=0071180075&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="庄闲DJ版《今夜想喝醉》借最烈的酒，浇最忧的愁，我干了！",庄闲DJ版《今夜想喝醉》借最烈的酒，浇最忧的愁，我干了！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="庄闲DJ版《今夜想喝醉》借最烈的酒，浇最忧的愁，我干了！",庄闲DJ版《今夜想喝醉》借最烈的酒，浇最忧的愁，我干了！
 https://vd4.bdstatic.com/mda-mjwahmcgivems4w5/720p/h264/1635665254658102157/mda-mjwahmcgivems4w5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486979-0-0-a8dbbbd0cefe3de89c0f259dbee27ff7&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0179891875&vid=5187616029031778308&klogid=0179891875&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="张冬玲DJ版《朋友醉一场》今天大醉一场，忘掉所有不爽！",张冬玲DJ版《朋友醉一场》今天大醉一场，忘掉所有不爽！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="张冬玲DJ版《朋友醉一场》今天大醉一场，忘掉所有不爽！",张冬玲DJ版《朋友醉一场》今天大醉一场，忘掉所有不爽！
 https://vd2.bdstatic.com/mda-mj0ap8r3c8afg7vz/1080p/cae_h264/1633146638076674934/mda-mj0ap8r3c8afg7vz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569516-0-0-27bb1b2aa84a61cbefc59b452b4590a4&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3516106024&vid=9415190895468359156&klogid=3516106024&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="彭清DJ版《反正心都不在了》旋律优美，伤感催泪，听哭了",彭清DJ版《反正心都不在了》旋律优美，伤感催泪，听哭了 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="彭清DJ版《反正心都不在了》旋律优美，伤感催泪，听哭了",彭清DJ版《反正心都不在了》旋律优美，伤感催泪，听哭了
 https://vd4.bdstatic.com/mda-mkebwvuhgbdciib8/1080p/cae_h264/1637152316850737832/mda-mkebwvuhgbdciib8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486555-0-0-bc53de3bdb349cf893f520f3738da602&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3355398373&vid=14644187930222653742&klogid=3355398373&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="心歌DJ版《爱你却不敢告诉你》感伤的旋律，唱出失落的心情",心歌DJ版《爱你却不敢告诉你》感伤的旋律，唱出失落的心情 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="心歌DJ版《爱你却不敢告诉你》感伤的旋律，唱出失落的心情",心歌DJ版《爱你却不敢告诉你》感伤的旋律，唱出失落的心情
 https://vd2.bdstatic.com/mda-mjqietcxrirqg36s/1080p/cae_h264/1635249820338696916/mda-mjqietcxrirqg36s.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487135-0-0-b89aa5059dd368c5b01ecf112a26dbbc&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0335429012&vid=4529704996509774510&klogid=0335429012&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="怀旧音乐",怀旧音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="怀旧音乐",怀旧音乐
 http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="抖音DJ热歌《一生不长余生很短》歌词写的太入心，好听极了",抖音DJ热歌《一生不长余生很短》歌词写的太入心，好听极了 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="抖音DJ热歌《一生不长余生很短》歌词写的太入心，好听极了",抖音DJ热歌《一生不长余生很短》歌词写的太入心，好听极了
 https://vd2.bdstatic.com/mda-mmem2d6jbmtzzmej/720p/h264/1639580062665602731/mda-mmem2d6jbmtzzmej.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485742-0-0-368bb80f76eac2ffe21fae91c4fed650&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=2542433106&vid=14884481823665302579&klogid=2542433106&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="抖音DJ热歌《泪蛋蛋掉在酒杯杯里》动感节奏，超好听",抖音DJ热歌《泪蛋蛋掉在酒杯杯里》动感节奏，超好听 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="抖音DJ热歌《泪蛋蛋掉在酒杯杯里》动感节奏，超好听",抖音DJ热歌《泪蛋蛋掉在酒杯杯里》动感节奏，超好听
 https://vd2.bdstatic.com/mda-mm7s6xwn4wd60pkz/1080p/cae_h264/1639143409358399771/mda-mm7s6xwn4wd60pkz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485905-0-0-2f5e531a0270854915fb250a3eb47ba8&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2705101581&vid=4561847712321510663&klogid=2705101581&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="抖音洗脑神曲《秒针》不怕老歌没人听，就怕老歌带DJ",抖音洗脑神曲《秒针》不怕老歌没人听，就怕老歌带DJ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="抖音洗脑神曲《秒针》不怕老歌没人听，就怕老歌带DJ",抖音洗脑神曲《秒针》不怕老歌没人听，就怕老歌带DJ
 https://vd2.bdstatic.com/mda-mmqnz7kk5itm8z68/1080p/cae_h264/1640552268579823215/mda-mmqnz7kk5itm8z68.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485521-0-0-c6dbe7caa21ef0549532f6be46cd84d1&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2321406632&vid=65931953222926429&klogid=2321406632&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="放松轻音乐",放松轻音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="放松轻音乐",放松轻音乐
 https://live.ottiptv.cc/huya/21241813
-#EXTINF:-1 tvg-id="" tvg-name="斗鱼音乐MV频道",斗鱼音乐MV频道 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼音乐MV频道",斗鱼音乐MV频道
 https://goodiptv.club/douyu/3870925
-#EXTINF:-1 tvg-id="" tvg-name="无画面画画音乐电台",无画面画画音乐电台 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="无画面画画音乐电台",无画面画画音乐电台
 https://live.ottiptv.cc/bilibili/12980314
-#EXTINF:-1 tvg-id="" tvg-name="格格DJ版《你的样子》歌声清脆悦耳，很有穿透力，百听不厌！",格格DJ版《你的样子》歌声清脆悦耳，很有穿透力，百听不厌！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="格格DJ版《你的样子》歌声清脆悦耳，很有穿透力，百听不厌！",格格DJ版《你的样子》歌声清脆悦耳，很有穿透力，百听不厌！
 https://vd3.bdstatic.com/mda-mjtaan173h468x26/1080p/cae_h264/1635509088773317306/mda-mjtaan173h468x26.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487040-0-0-3b0e299b110077474c371c047fb5cc3c&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0240937068&vid=17998439909401456217&klogid=0240937068&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="汪苏泷By2《有点甜》DJ版，甜蜜对唱，想起了我的初恋！",汪苏泷By2《有点甜》DJ版，甜蜜对唱，想起了我的初恋！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="汪苏泷By2《有点甜》DJ版，甜蜜对唱，想起了我的初恋！",汪苏泷By2《有点甜》DJ版，甜蜜对唱，想起了我的初恋！
 https://vd2.bdstatic.com/mda-mjfk1g6ve87wb0wj/1080p/cae_h264/1634470832673248076/mda-mjfk1g6ve87wb0wj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487289-0-0-aa4349909ec4148212c6ebb8de56ba5d&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0489247961&vid=10803154561955645679&klogid=0489247961&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="海来阿木DJ版《你的万水千山》歌声沧桑走心，听完好想哭！",海来阿木DJ版《你的万水千山》歌声沧桑走心，听完好想哭！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="海来阿木DJ版《你的万水千山》歌声沧桑走心，听完好想哭！",海来阿木DJ版《你的万水千山》歌声沧桑走心，听完好想哭！
 https://vd2.bdstatic.com/mda-mitadbtjngjbvsyw/1080p/cae_h264/1632889983253772439/mda-mitadbtjngjbvsyw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569635-0-0-45a7b1b3874690705798e5dc8126101c&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0035709647&vid=3367879899950823700&klogid=0035709647&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="温奕心DJ版《一路生花》愿你昂首阔步，一路繁花似锦！",温奕心DJ版《一路生花》愿你昂首阔步，一路繁花似锦！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="温奕心DJ版《一路生花》愿你昂首阔步，一路繁花似锦！",温奕心DJ版《一路生花》愿你昂首阔步，一路繁花似锦！
 https://vd2.bdstatic.com/mda-mkfa200hpcafz2hb/1080p/cae_h264/1637234010545191725/mda-mkfa200hpcafz2hb.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486539-0-0-356e8d7ce508b2a2218d4c94ad40f2ef&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3339225200&vid=17540000635617899783&klogid=3339225200&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="潮流音乐",潮流音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="潮流音乐",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="热星音乐菌",热星音乐菌 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="热星音乐菌",热星音乐菌
 https://live.ottiptv.cc/douyu/8405922
-#EXTINF:-1 tvg-id="" tvg-name="王心雅DJ版《一剪梅》动感的旋律，听着真带劲",王心雅DJ版《一剪梅》动感的旋律，听着真带劲 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="王心雅DJ版《一剪梅》动感的旋律，听着真带劲",王心雅DJ版《一剪梅》动感的旋律，听着真带劲
 https://vd2.bdstatic.com/mda-mj9gvbwn0ey2xjzu/1080p/cae_h264/1634011600994816774/mda-mj9gvbwn0ey2xjzu.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487443-0-0-306861d9a4fdc0f847e612c8b744791c&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0643082654&vid=12650433202336256976&klogid=0643082654&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="王莎莎DJ版《幸福火辣辣》唱得真好，越听越喜欢！",王莎莎DJ版《幸福火辣辣》唱得真好，越听越喜欢！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="王莎莎DJ版《幸福火辣辣》唱得真好，越听越喜欢！",王莎莎DJ版《幸福火辣辣》唱得真好，越听越喜欢！
 https://vd3.bdstatic.com/mda-mjngtx3j8gru74dw/1080p/cae_h264/1635083855045903586/mda-mjngtx3j8gru74dw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487177-0-0-3db1038fe19b62ad222f3ec89e513674&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0377336831&vid=16732406226225485494&klogid=0377336831&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="王莎莎DJ版《爱走了情还在》旋律悦耳，朗朗上口，百听不腻！",王莎莎DJ版《爱走了情还在》旋律悦耳，朗朗上口，百听不腻！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="王莎莎DJ版《爱走了情还在》旋律悦耳，朗朗上口，百听不腻！",王莎莎DJ版《爱走了情还在》旋律悦耳，朗朗上口，百听不腻！
 https://vd2.bdstatic.com/mda-mm5mrez0tzzvg3q5/1080p/cae_h264/1638970135121171185/mda-mm5mrez0tzzvg3q5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485948-0-0-a35f7f1ce39b1851c73a8ab29b33f185&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2748644014&vid=10146432587870171869&klogid=2748644014&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="王蓉一首DJ版《我不是黄蓉》不愧是经典神曲，听不腻！",王蓉一首DJ版《我不是黄蓉》不愧是经典神曲，听不腻！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="王蓉一首DJ版《我不是黄蓉》不愧是经典神曲，听不腻！",王蓉一首DJ版《我不是黄蓉》不愧是经典神曲，听不腻！
 https://vd4.bdstatic.com/mda-miu9ubbhyi4zpn1u/1080p/cae_h264/1633051851807171949/mda-miu9ubbhyi4zpn1u.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569553-0-0-f439d7c1f1c6a4d66742c9966cafad94&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3553185425&vid=804340858552414672&klogid=3553185425&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="王馨一首DJ版《没有结果的结果》激情动感，谁听谁喜欢！",王馨一首DJ版《没有结果的结果》激情动感，谁听谁喜欢！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="王馨一首DJ版《没有结果的结果》激情动感，谁听谁喜欢！",王馨一首DJ版《没有结果的结果》激情动感，谁听谁喜欢！
 https://vd4.bdstatic.com/mda-mitehzwhsapfvpu4/1080p/cae_h264/1633000841854355208/mda-mitehzwhsapfvpu4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569573-0-0-314abeb46bd9a9785fc2655f9c5eb885&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3572981195&vid=9445795370426553845&klogid=3572981195&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="白沐兮DJ版《一吻红尘》动了情最难放，入了心最难忘！",白沐兮DJ版《一吻红尘》动了情最难放，入了心最难忘！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="白沐兮DJ版《一吻红尘》动了情最难放，入了心最难忘！",白沐兮DJ版《一吻红尘》动了情最难放，入了心最难忘！
 https://vd2.bdstatic.com/mda-mk1dut7ec7ct915y/1080p/cae_h264/1635948815835064195/mda-mk1dut7ec7ct915y.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486934-0-0-845c51cda1330fab5dc07df6f5a08f39&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0134148800&vid=4858392148953832143&klogid=0134148800&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="经典DJ情歌《你的爱太贵》歌词写的太好了，句句都是大实话！",经典DJ情歌《你的爱太贵》歌词写的太好了，句句都是大实话！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="经典DJ情歌《你的爱太贵》歌词写的太好了，句句都是大实话！",经典DJ情歌《你的爱太贵》歌词写的太好了，句句都是大实话！
 https://vd2.bdstatic.com/mda-mjs8qiq2mqs71i29/1080p/cae_h264/1635421526917949410/mda-mjs8qiq2mqs71i29.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487059-0-0-c4db95450d3831f709a94ce7607e8b41&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0259371173&vid=8649084362810065383&klogid=0259371173&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="经典DJ舞曲《眼睛为你流着泪》爱你恨你又牵绊，相爱的人不会走散",经典DJ舞曲《眼睛为你流着泪》爱你恨你又牵绊，相爱的人不会走散 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="经典DJ舞曲《眼睛为你流着泪》爱你恨你又牵绊，相爱的人不会走散",经典DJ舞曲《眼睛为你流着泪》爱你恨你又牵绊，相爱的人不会走散
 https://vd4.bdstatic.com/mda-na3k4dbh89efrr0j/1080p/cae_h264/1641470848298193846/mda-na3k4dbh89efrr0j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485240-0-0-445a55d0a8f85fe9773fc5e6e0bf1927&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2040640786&vid=10446814414146233285&klogid=2040640786&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="胡蜜丹DJ版《摆摊晒爱情》节奏欢快好听，祝天下夫妻甜蜜到老",胡蜜丹DJ版《摆摊晒爱情》节奏欢快好听，祝天下夫妻甜蜜到老 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="胡蜜丹DJ版《摆摊晒爱情》节奏欢快好听，祝天下夫妻甜蜜到老",胡蜜丹DJ版《摆摊晒爱情》节奏欢快好听，祝天下夫妻甜蜜到老
 https://vd3.bdstatic.com/mda-mjq6bv0xvgfechh4/1080p/cae_h264/1635165341782915150/mda-mjq6bv0xvgfechh4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487155-0-0-522a77cadd4037996c3ee76b0a94e60e&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0355684361&vid=16244468181591876944&klogid=0355684361&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="胡蜜丹DJ版《花蝴蝶飞》人美歌甜，节奏欢快，好听！",胡蜜丹DJ版《花蝴蝶飞》人美歌甜，节奏欢快，好听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="胡蜜丹DJ版《花蝴蝶飞》人美歌甜，节奏欢快，好听！",胡蜜丹DJ版《花蝴蝶飞》人美歌甜，节奏欢快，好听！
 https://vd2.bdstatic.com/mda-mk3bz0w5pft9k5bj/sc/cae_h264/1681186263904400896/mda-mk3bz0w5pft9k5bj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486885-0-0-74a843dd146507abc7d28ede818e2f15&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0085549466&vid=11308736946862743676&klogid=0085549466&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="莫叫姐姐DJ版《当我娶过她》吃过她的剩饭，见过她的美！",莫叫姐姐DJ版《当我娶过她》吃过她的剩饭，见过她的美！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="莫叫姐姐DJ版《当我娶过她》吃过她的剩饭，见过她的美！",莫叫姐姐DJ版《当我娶过她》吃过她的剩饭，见过她的美！
 https://vd3.bdstatic.com/mda-mkrbne1bzr2yaeq0/1080p/cae_h264/1638132038964891097/mda-mkrbne1bzr2yaeq0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486345-0-0-40492495028d4cb91389418bb0e1f610&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3145168518&vid=15338453652591330231&klogid=3145168518&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="蓝琪儿DJ版《朋友如酒》干了这杯酒，愿我们友情越来越醇厚",蓝琪儿DJ版《朋友如酒》干了这杯酒，愿我们友情越来越醇厚 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="蓝琪儿DJ版《朋友如酒》干了这杯酒，愿我们友情越来越醇厚",蓝琪儿DJ版《朋友如酒》干了这杯酒，愿我们友情越来越醇厚
 https://vd4.bdstatic.com/mda-misf3zba2s0sr4v7/1080p/cae_h264/1632830979102483905/mda-misf3zba2s0sr4v7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569654-0-0-25ef3a1fa7a834fb9aa9e701f58f0fd7&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0054235104&vid=10118585914730623302&klogid=0054235104&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="蔷薇团长DJ版《伤疤还没好就忘了疼》动人的歌声，越听越喜欢！",蔷薇团长DJ版《伤疤还没好就忘了疼》动人的歌声，越听越喜欢！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="蔷薇团长DJ版《伤疤还没好就忘了疼》动人的歌声，越听越喜欢！",蔷薇团长DJ版《伤疤还没好就忘了疼》动人的歌声，越听越喜欢！
 https://vd2.bdstatic.com/mda-mk4esh525au8m7mu/1080p/cae_h264/1636298910194764111/mda-mk4esh525au8m7mu.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486823-0-0-e496baf712cc857ceb8839bd678564c7&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0023424803&vid=13504008404308067920&klogid=0023424803&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="虎牙音乐",虎牙音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="虎牙音乐",虎牙音乐
 https://live.ottiptv.cc/huya/880207
-#EXTINF:-1 tvg-id="" tvg-name="贺世哲一曲《小小爱河》DJ版，爱河水中游，永浴到白头！",贺世哲一曲《小小爱河》DJ版，爱河水中游，永浴到白头！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="贺世哲一曲《小小爱河》DJ版，爱河水中游，永浴到白头！",贺世哲一曲《小小爱河》DJ版，爱河水中游，永浴到白头！
 https://vd2.bdstatic.com/mda-mjq90fmut69mhk89/720p/h264/1635143019821554230/mda-mjq90fmut69mhk89.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487116-0-0-9b674f51428f8cda61befc28b23a47e0&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0316705160&vid=8308238732901831240&klogid=0316705160&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="贺敬轩DJ版《梦中月》会对我突然愧疚吗，在你爱别人的时候！",贺敬轩DJ版《梦中月》会对我突然愧疚吗，在你爱别人的时候！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="贺敬轩DJ版《梦中月》会对我突然愧疚吗，在你爱别人的时候！",贺敬轩DJ版《梦中月》会对我突然愧疚吗，在你爱别人的时候！
 https://vd4.bdstatic.com/mda-mjg8p508b92rsrmj/1080p/cae_h264/1634645557648771287/mda-mjg8p508b92rsrmj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487255-0-0-fda2b89680b5ee874f9e3c7b5d14a21b&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0455587096&vid=3123779660443570135&klogid=0455587096&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="赵蕊DJ版《君莫追》温婉柔和，耐人寻味，感心动耳！",赵蕊DJ版《君莫追》温婉柔和，耐人寻味，感心动耳！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="赵蕊DJ版《君莫追》温婉柔和，耐人寻味，感心动耳！",赵蕊DJ版《君莫追》温婉柔和，耐人寻味，感心动耳！
 https://vd3.bdstatic.com/mda-mkdcm6f9kgr3uhcc/1080p/cae_h264/1637067845212777377/mda-mkdcm6f9kgr3uhcc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486573-0-0-d3e3d7f91260186d341afca7625cd8ab&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3373516423&vid=13553336532242280787&klogid=3373516423&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="郑亦辰DJ版《错的时间遇见对的你》喜欢不必打扰，默默祝福更好！",郑亦辰DJ版《错的时间遇见对的你》喜欢不必打扰，默默祝福更好！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="郑亦辰DJ版《错的时间遇见对的你》喜欢不必打扰，默默祝福更好！",郑亦辰DJ版《错的时间遇见对的你》喜欢不必打扰，默默祝福更好！
 https://vd4.bdstatic.com/mda-mkg9v34fvvnhs5hy/1080p/cae_h264/1637322309198556058/mda-mkg9v34fvvnhs5hy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486522-0-0-9cf0f0c0f74ca91c6bf54eddf7bd5ffc&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3322093649&vid=7383797042848326452&klogid=3322093649&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="郭玲DJ版《天边的情哥哥》甜美的嗓音，打动无数人的心！",郭玲DJ版《天边的情哥哥》甜美的嗓音，打动无数人的心！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="郭玲DJ版《天边的情哥哥》甜美的嗓音，打动无数人的心！",郭玲DJ版《天边的情哥哥》甜美的嗓音，打动无数人的心！
 https://vd2.bdstatic.com/mda-miv9jtc8xwv75ga0/1080p/cae_h264/1633089218702351555/mda-miv9jtc8xwv75ga0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569533-0-0-ce510fbb93e3f9408b341a12d735ff44&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3533763885&vid=14506774075729975889&klogid=3533763885&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="郭镐鸣DJ版《野摩托》欢快的节奏，听一遍就上头了！",郭镐鸣DJ版《野摩托》欢快的节奏，听一遍就上头了！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="郭镐鸣DJ版《野摩托》欢快的节奏，听一遍就上头了！",郭镐鸣DJ版《野摩托》欢快的节奏，听一遍就上头了！
 https://vd3.bdstatic.com/mda-mj8i7qcs23xhmkb4/1080p/cae_h264/1633953812746957389/mda-mj8i7qcs23xhmkb4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487464-0-0-098595ecbbd7ebb9bc76fc96857ab290&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0663953773&vid=8427531147410630777&klogid=0663953773&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="陆三三DJ版《后来的风》连风都不肯，把你的笑吹给我听！",陆三三DJ版《后来的风》连风都不肯，把你的笑吹给我听！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="陆三三DJ版《后来的风》连风都不肯，把你的笑吹给我听！",陆三三DJ版《后来的风》连风都不肯，把你的笑吹给我听！
 https://vd4.bdstatic.com/mda-mkhabhhbz5czpb70/1080p/cae_h264/1637407605577244419/mda-mkhabhhbz5czpb70.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486502-0-0-019fdaa434d63ed42bf783a6dfd07d61&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3302515252&vid=10753332816957385132&klogid=3302515252&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="雨中百合DJ版《如果爱还在》歌词真实入心，唱的深情感人！",雨中百合DJ版《如果爱还在》歌词真实入心，唱的深情感人！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="雨中百合DJ版《如果爱还在》歌词真实入心，唱的深情感人！",雨中百合DJ版《如果爱还在》歌词真实入心，唱的深情感人！
 https://vd4.bdstatic.com/mda-mk5g6zr143a836t7/1080p/cae_h264/1636385555975792995/mda-mk5g6zr143a836t7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486799-0-0-8b888a5ed8930061d259fafc600dd7bb&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3599774459&vid=4062436383749603592&klogid=3599774459&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="音乐之声",音乐之声 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐之声",音乐之声
 http://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="音乐台长",音乐台长 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐台长",音乐台长
 https://live.ottiptv.cc/douyu/9629943
-#EXTINF:-1 tvg-id="" tvg-name="音乐小石榴",音乐小石榴 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐小石榴",音乐小石榴
 https://live.ottiptv.cc/huya/17091681
-#EXTINF:-1 tvg-id="" tvg-name="音乐才女与霸道总裁的治愈之恋",音乐才女与霸道总裁的治愈之恋 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐才女与霸道总裁的治愈之恋",音乐才女与霸道总裁的治愈之恋
 https://live.ottiptv.cc/yy/1382735573
-#EXTINF:-1 tvg-id="" tvg-name="音乐欣赏",音乐欣赏 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐欣赏",音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场 [1000kbps 200ms]
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="颜值DJ",颜值DJ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="颜值DJ",颜值DJ
 https://live.ottiptv.cc/huya/21241770
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-https://itv.1920.qzz.io/api/ysp.php?id=cctvfyyy
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+https://itv.1920.qzz.io/api/ysp.php?id=cctvfyyy
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+http://207.56.13.146:81/cdnlive/fyyy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://183.11.239.36:808/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风小筝DJ版《是我太傻》爱别人要适可而止，爱自己要尽心尽力！",风小筝DJ版《是我太傻》爱别人要适可而止，爱自己要尽心尽力！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="" tvg-name="风小筝DJ版《是我太傻》爱别人要适可而止，爱自己要尽心尽力！",风小筝DJ版《是我太傻》爱别人要适可而止，爱自己要尽心尽力！
 https://vd2.bdstatic.com/mda-mkca9p72aqsetqey/720p/h264/1636788009824879235/mda-mkca9p72aqsetqey.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486594-0-0-c8d61e4f8693878b1ea39613d8149935&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=3394584497&vid=14179867799459800253&klogid=3394584497&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="魏佳艺DJ版《我的眼泪你不在乎》句句扎心，好听又醉人",魏佳艺DJ版《我的眼泪你不在乎》句句扎心，好听又醉人 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="魏佳艺DJ版《我的眼泪你不在乎》句句扎心，好听又醉人",魏佳艺DJ版《我的眼泪你不在乎》句句扎心，好听又醉人
 https://vd4.bdstatic.com/mda-mmgmwamq5jn9usi2/1080p/cae_h264/1640083864838683591/mda-mmgmwamq5jn9usi2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702485694-0-0-0c33f0a07c4ef2088d6cd18342ebd58a&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2494591077&vid=1384321487330534125&klogid=2494591077&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="魏佳艺一曲DJ伤感情歌《就为一句你爱我》优美旋律，好听入心！",魏佳艺一曲DJ伤感情歌《就为一句你爱我》优美旋律，好听入心！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="魏佳艺一曲DJ伤感情歌《就为一句你爱我》优美旋律，好听入心！",魏佳艺一曲DJ伤感情歌《就为一句你爱我》优美旋律，好听入心！
 https://vd4.bdstatic.com/mda-mm3mfffnftnv6h2w/1080p/cae_h264/1638816524607797606/mda-mm3mfffnftnv6h2w.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486000-0-0-f1f0dfe6a02d36c7447821164dd8a103&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=2800156967&vid=260777725014989128&klogid=2800156967&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="魏新雨DJ版《余情未了》春花秋月何時了，往事知多少？",魏新雨DJ版《余情未了》春花秋月何時了，往事知多少？ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="魏新雨DJ版《余情未了》春花秋月何時了，往事知多少？",魏新雨DJ版《余情未了》春花秋月何時了，往事知多少？
 https://vd2.bdstatic.com/mda-mjfa9b6xmasxj2j2/1080p/cae_h264/1634385943707920275/mda-mjfa9b6xmasxj2j2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487306-0-0-442edf5b91f91c09b90fdee3a7753f1d&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0506216393&vid=15259109499508780766&klogid=0506216393&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="魏新雨DJ版《情花几时开》歌声甜美，旋律欢快，好听醉人！",魏新雨DJ版《情花几时开》歌声甜美，旋律欢快，好听醉人！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="魏新雨DJ版《情花几时开》歌声甜美，旋律欢快，好听醉人！",魏新雨DJ版《情花几时开》歌声甜美，旋律欢快，好听醉人！
 https://vd3.bdstatic.com/mda-misahf85s45hz8uu/1080p/cae_h264/1632915459206549618/mda-misahf85s45hz8uu.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569616-0-0-7e669bf25f744bf66673ff43c17c0feb&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0016472177&vid=17773127067241921554&klogid=0016472177&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="魏新雨一首DJ版《红尘雨》歌声深情悦耳，让人百听不厌！",魏新雨一首DJ版《红尘雨》歌声深情悦耳，让人百听不厌！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="魏新雨一首DJ版《红尘雨》歌声深情悦耳，让人百听不厌！",魏新雨一首DJ版《红尘雨》歌声深情悦耳，让人百听不厌！
 https://vd4.bdstatic.com/mda-mj16u21m4wstgs9s/1080p/cae_h264/1633262319265240484/mda-mj16u21m4wstgs9s.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569390-0-0-9d232e58119b6cb9aba91dd2a6b6d136&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3390276114&vid=9867305214666480915&klogid=3390276114&abtest=114675_1
-#EXTINF:-1 tvg-id="" tvg-name="龙梅子DJ版《泪满天》歌词句句心酸，听哭了无数痴情人！",龙梅子DJ版《泪满天》歌词句句心酸，听哭了无数痴情人！ [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="龙梅子DJ版《泪满天》歌词句句心酸，听哭了无数痴情人！",龙梅子DJ版《泪满天》歌词句句心酸，听哭了无数痴情人！
 https://vd2.bdstatic.com/mda-mitkr95p7kpqacqw/1080p/cae_h264/1632973361582598218/mda-mitkr95p7kpqacqw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569594-0-0-27a81e426c1bfa0e9a2009d48e1efdb0&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3594048854&vid=7078448695502167393&klogid=3594048854&abtest=114675_1

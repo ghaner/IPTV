@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="福州少儿",福州少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="福州少儿",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福州生活",福州生活 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="福州生活",福州生活
 http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8

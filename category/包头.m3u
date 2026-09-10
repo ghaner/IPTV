@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="包头新闻综合",包头新闻综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="包头新闻综合",包头新闻综合
 http://play1-qk.nmtv.cn/live/1735546150395017.m3u8

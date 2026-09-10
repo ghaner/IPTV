@@ -1,68 +1,80 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://107.150.60.122/live/ahwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://198.204.228.26/live/ahwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://183.94.146.79:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/ahws.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://49.87.154.246:10091/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://192.151.150.154/live/ahwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://204.12.221.218:8181/3m1080p/ahws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=7795bb84dbda4acf48d6b44bca6748
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://104.152.209.49:8181/720p/ahws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://j.x.bkpcp.top/jx/ANHUIHD
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
 http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://219.145.93.74:10000/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/ahws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://204.12.221.218:8181/3m1080p/ahws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://j.x.bkpcp.top/jx/ANHUIHD
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://192.151.150.154/live/ahwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://104.152.209.49:8181/720p/ahws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=am1yBM&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
 http://218.206.193.218:8888/hls/46/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://120.76.248.139/live/bfgd/4200000096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
-http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
 http://t.061899.xyz/tl/tl.php?id=ahws
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视[1080][S]",安徽卫视[1080][S] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=8Cx5u9&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://107.150.60.122/live/ahwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://gmxw.7766.org:808/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://219.145.93.74:10000/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://49.87.154.246:10091/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://173.208.212.130:8181/720p/ahws.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://183.94.146.79:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=TFEshi&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://198.204.228.26/live/ahwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://173.208.212.130:8181/720p/ahws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://120.76.248.139/live/bfgd/4200000096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CRZX5H&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=2NmDaA&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=xOh7si&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视",安徽卫视
+http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视[1080][S]",安徽卫视[1080][S]
 http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽国际",安徽国际 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际",安徽国际
 https://m.italkbbtv.com/live/6a3a3784260d0d240f66a62c
-#EXTINF:-1 tvg-id="" tvg-name="安徽国际",安徽国际 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际",安徽国际
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=156420
-#EXTINF:-1 tvg-id="" tvg-name="安徽导视",安徽导视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽导视",安徽导视
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽池州九华山风景区九华山",安徽池州九华山风景区九华山 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽池州九华山风景区九华山",安徽池州九华山风景区九华山
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽黟县芦村远眺",安徽黟县芦村远眺 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽黟县芦村远眺",安徽黟县芦村远眺
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽黟县西递牌坊",安徽黟县西递牌坊 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安徽黟县西递牌坊",安徽黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
