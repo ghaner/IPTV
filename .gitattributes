@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# python脚本
+*.py text eol=lf
+# 直播源文本文件
+*.txt text eol=lf
+*.m3u text eol=lf
+*.m3u8 text eol=lf
+*.json text eol=lf
+# log日志作为文本
+*.log text eol=lf
+# 二进制不做换行转换
+*.png binary
+*.jpg binary
+*.zip binary

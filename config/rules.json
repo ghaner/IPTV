@@ -1,0 +1,6 @@
+{
+  "max_latency_ms": 1200,
+  "min_bitrate_kb": 300,
+  "max_continuous_fail": 3,
+  "enable_m3u8_segment_check": true
+}
