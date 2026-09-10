@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="十堰新闻",十堰新闻 [1000kbps 200ms]
+https://p8.vzan.com/slowlive/687885422202942639/live.m3u8

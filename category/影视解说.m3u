@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影 [1000kbps 200ms]
-https://live.ottiptv.cc/douyu/9643264
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9444320
+#EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9391277
 #EXTINF:-1 tvg-id="" tvg-name="丽姐说电影",丽姐说电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9437283
 #EXTINF:-1 tvg-id="" tvg-name="九叔说电影v",九叔说电影v [1000kbps 200ms]
@@ -41,8 +42,6 @@ https://live.ottiptv.cc/douyu/2104744
 https://live.ottiptv.cc/douyu/1842621
 #EXTINF:-1 tvg-id="" tvg-name="小丑讲电影",小丑讲电影 [1000kbps 200ms]
 https://live.ottiptv.cc/huya/16857432
-#EXTINF:-1 tvg-id="" tvg-name="小丽说电影",小丽说电影 [1000kbps 200ms]
-https://live.ottiptv.cc/douyu/9368016
 #EXTINF:-1 tvg-id="" tvg-name="小乔讲电影",小乔讲电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/8413908
 #EXTINF:-1 tvg-id="" tvg-name="小岛讲电影",小岛讲电影 [1000kbps 200ms]
@@ -63,6 +62,8 @@ https://live.ottiptv.cc/douyu/8762120
 https://live.ottiptv.cc/douyu/8325511
 #EXTINF:-1 tvg-id="" tvg-name="幕撩电影",幕撩电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9486015
+#EXTINF:-1 tvg-id="" tvg-name="微笑影视解说",微笑影视解说 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9476790
 #EXTINF:-1 tvg-id="" tvg-name="我是吃泡面看电影",我是吃泡面看电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/8851063
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影",扁豆看电影 [1000kbps 200ms]
@@ -79,8 +80,6 @@ https://live.ottiptv.cc/douyu/9430717
 https://live.ottiptv.cc/douyu/453963
 #EXTINF:-1 tvg-id="" tvg-name="末日说电影",末日说电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9431125
-#EXTINF:-1 tvg-id="" tvg-name="松轩说电影",松轩说电影 [1000kbps 200ms]
-https://live.ottiptv.cc/douyu/1524969
 #EXTINF:-1 tvg-id="" tvg-name="梓帆说电影",梓帆说电影 [1000kbps 200ms]
 https://live.ottiptv.cc/douyu/9769563
 #EXTINF:-1 tvg-id="" tvg-name="楚哥说电影",楚哥说电影 [1000kbps 200ms]

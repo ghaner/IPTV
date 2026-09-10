@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="淮北新闻综合",淮北新闻综合 [1000kbps 200ms]
+http://vms-x.hbnews.net/video/xwzh.flv
+#EXTINF:-1 tvg-id="" tvg-name="淮北矿业新闻综合",淮北矿业新闻综合 [1000kbps 200ms]
+http://xcblive.hbcoal.com/3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淮北经济生活",淮北经济生活 [1000kbps 200ms]
+http://vms-x.hbnews.net/video/JJSH/index.m3u8

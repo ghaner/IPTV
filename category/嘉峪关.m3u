@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="嘉峪关综合",嘉峪关综合 [1000kbps 200ms]
+http://play.kankanlive.com/live/1720583434627241.m3u8

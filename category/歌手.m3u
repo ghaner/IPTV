@@ -1,8 +1,11 @@
 #EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="下沙-游鸿明",下沙-游鸿明 [1000kbps 200ms]
 https://vd3.bdstatic.com/mda-nj0br2cz06fh2jgb/sc/cae_h264/1664612575982009744/mda-nj0br2cz06fh2jgb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="光良-童话",光良-童话 [1000kbps 200ms]
 http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="光良-童话",光良-童话 [1000kbps 200ms]
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhcjp3c77u6lekc7am0&ratio=720p&line=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰传奇-奢香夫人",凤凰传奇-奢香夫人 [1000kbps 200ms]
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-id="" tvg-name="刘德华",刘德华 [1000kbps 200ms]
@@ -160,6 +163,6 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2j1oprc77u04674
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-伤感的恋人",黄凯芹-伤感的恋人 [1000kbps 200ms]
 http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们 [1000kbps 200ms]
-http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们 [1000kbps 200ms]
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
+#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们 [1000kbps 200ms]
+http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8

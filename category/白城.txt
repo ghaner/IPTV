@@ -1,0 +1,2 @@
+白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8

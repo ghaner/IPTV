@@ -1,0 +1,116 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="辽宁体育",辽宁体育 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁体育",辽宁体育 [1000kbps 200ms]
+http://119.29.233.26:1234/962067526
+#EXTINF:-1 tvg-id="" tvg-name="辽宁体育",辽宁体育 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁公共",辽宁公共 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁公共",辽宁公共 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁公共",辽宁公共 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁北方",辽宁北方 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnbf
+#EXTINF:-1 tvg-id="" tvg-name="辽宁北方",辽宁北方 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁北方",辽宁北方 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://218.13.170.98:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=9YCc1q&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/lnwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://2280.eu.org:1234/630291707$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://t.061899.xyz/tl/tl.php?id=lnws
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CvDBlJ&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/lnwshd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000185.m3u8$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://j.x.bkpcp.top/jx/LIAONHD
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://bztv.tvbus.cc:8081/cdnlive/lnws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=TY9h2p&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://218.206.193.218:8888/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hILD7u&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=I0Jbf2&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=wSypxw&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000058.m3u8$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://61.161.61.119:9004/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://183.94.146.79:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://204.12.221.218:8181/3m1080p/lnws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000141.m3u8$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视",辽宁卫视 [1000kbps 200ms]
+http://192.151.150.154/live/lnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视[1080][S]",辽宁卫视[1080][S] [1000kbps 200ms]
+http://120.198.95.220:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="辽宁影视",辽宁影视 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnys
+#EXTINF:-1 tvg-id="" tvg-name="辽宁影视剧",辽宁影视剧 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁影视剧",辽宁影视剧 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少",辽宁教育青少 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少",辽宁教育青少 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁生活",辽宁生活 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁生活",辽宁生活 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnsh
+#EXTINF:-1 tvg-id="" tvg-name="辽宁生活",辽宁生活 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁经济",辽宁经济 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁经济",辽宁经济 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁经济",辽宁经济 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁都市",辽宁都市 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁都市",辽宁都市 [1000kbps 200ms]
+https://ls.qingting.fm/live/1099/64k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁都市",辽宁都市 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁都市",辽宁都市 [1000kbps 200ms]
+http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁都市",辽宁都市 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnds

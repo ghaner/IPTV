@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="七台河新闻综合",七台河新闻综合 [1000kbps 200ms]
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8

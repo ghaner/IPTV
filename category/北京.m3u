@@ -1,0 +1,82 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="BRTV 北京卫视 (1080p)",BRTV 北京卫视 (1080p) [1000kbps 200ms]
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 tvg-id="" tvg-name="乌兰图雅一首《站在草原望北京》歌声辽阔大气，好听醉人",乌兰图雅一首《站在草原望北京》歌声辽阔大气，好听醉人 [1000kbps 200ms]
+https://vd3.bdstatic.com/mda-mj578x23m493p7yg/1080p/cae_h264/1633605104621061738/mda-mj578x23m493p7yg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702569223-0-0-b8313b847844e5c609484f73fe0fc92d&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3223120003&vid=10781984304468391027&klogid=3223120003&abtest=114675_1
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿",北京卡酷少儿 [1000kbps 200ms]
+http://204.12.221.218:8181/3m1080p/btvkk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://111.8.242.127:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://2280.eu.org:1234/630287636$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://j.x.bkpcp.top/jx/BEIJHD
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://198.204.228.26/live/bjwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://t.061899.xyz/tl/tl.php?id=bjws
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://111.8.242.142:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://218.206.193.218:8888/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=236844036bf99dc93315e92b0e7c2e
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://104.152.209.49:8181/720p/bjws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://183.11.239.36:808/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/bjwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://107.150.60.122/live/bjwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://183.94.146.79:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://192.151.150.154/live/bjwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000083.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/720p/bjws.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/720p/bjws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视",北京卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="北京大妈有话说er",北京大妈有话说er [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9440530
+#EXTINF:-1 tvg-id="" tvg-name="北京影帝",北京影帝 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/214827
+#EXTINF:-1 tvg-id="" tvg-name="北京影帝的分身",北京影帝的分身 [1000kbps 200ms]
+https://live.ottiptv.cc/douyu/9805480
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻 [1000kbps 200ms]
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻 [1000kbps 200ms]
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻 [1000kbps 200ms]
+https://ls.qingting.fm/live/339/64k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京生活",北京生活 [1000kbps 200ms]
+http://8.138.7.223/tv/bj.php?id=0006
+#EXTINF:-1 tvg-id="" tvg-name="北京科教",北京科教 [1000kbps 200ms]
+http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+#EXTINF:-1 tvg-id="" tvg-name="北京财经",北京财经 [1000kbps 200ms]
+http://8.138.7.223/tv/bj.php?id=0005
+#EXTINF:-1 tvg-id="" tvg-name="北京青年",北京青年 [1000kbps 200ms]
+http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8

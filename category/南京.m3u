@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="南京少儿",南京少儿 [1000kbps 200ms]
+http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南京教科",南京教科 [1000kbps 200ms]
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合",南京新闻综合 [1000kbps 200ms]
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南京玄武湖公园",南京玄武湖公园 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏南京牛首山",江苏南京牛首山 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8

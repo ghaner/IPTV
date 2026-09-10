@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="1930年代经典电影",1930年代经典电影 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1356363815
 #EXTINF:-1 tvg-id="" tvg-name="24H地下交通站全",24H地下交通站全 [1000kbps 200ms]
@@ -15,154 +16,146 @@ https://live.ottiptv.cc/yy/1356243352
 https://live.ottiptv.cc/yy/1354210357
 #EXTINF:-1 tvg-id="" tvg-name="Baby影视",Baby影视 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1414838466
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合 [1000kbps 200ms]
-http://txycdn7.video.qq.com/1755328502.m3u8?time=1789005011&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDUCiXF_ooZZ7ZXF-4KQgmzCrDId5CSWSqrvW1yJDX_dEPR1ZDhKGIm59zBjQQZRkB0BcK4BTfiiVOTnqd1XcX6dAN_niK1XVnATD6YQ8oM3GDrmnnUZStsvLCqbAlbA_nrq6kfT6G6XqY4HPeHyTzJ--8xlyYF4fp_IQZrPQ6rWFL1OWldyYiIdd9i4Klf0qB8Y9bJ6kUPYrnitPai46LPIEyJCxTwx4az9aBNPMGGgyRHCXKt-N0KPfNj5SjjsKi3EC5Ce4fJVcobXzYx2Lmwc2Yow-PaGZknWQc35Dba4J5xXabgHkFOPNAB4sEY5nw46dJ1KzatdreUoME3QJ2xR39ySd_29xNIOObacL0eA6ZWk81gF_YpFNuhIiUzXyAKxWGohjW9nGzMKPRAjHo1mPYlD7rSm7LPkmYd9cHZWUV60RtBCp4PcQ0NAWtLiebdHh6rMipXIpcBZG-hsH4qLH3s5E1WRfYPBU1AkP2GSaf2s4maaLsa7kVTaR6YrxbHIr4nfg_nIU-bs7t0eQjNYzLJ-UbZMhd717xEcaJPSc2Ja&drmtype=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺 [1000kbps 200ms]
-http://txycdn6.video.qq.com/1370781402.m3u8?time=1789004722&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIL5OvBnrKEHH3-gDQd-sGCtXJ5TbffQlP3_2IEe-84j5EBnV4cIeHnYALruhNXAYky8BcNhsTa9aoY7VyAbe1bYsywBLwr6Qb0TTQgg3wc0uLaRec4guKypJ_aFUNUKbpxC1yVGrsHoVenBy23MmbufpIN9MwqzONrBPr_rEBkWRRw-FGz892V0P7S8wdpdmu3DudK0p-kwVLVEY35B8pFK29S_hmtlp5HrschsGBth1SZsABxkhC7N9vP2CYBqpFMj2hr7Cyvaqz7ep2g_ImcMnkQdg6kd9fP6uK2Q83nPgfxNcCVE1DZvVp6fTAEqLW8bqU-DcZaZZ_01kw9R01LI56RafQXyfQx5oZl27WSyUEnMIqiYX1sY5sNn5VXoya_hO4anzwrPSUpZWI1ysQT_r3UJoucCsx4SBTHM3__j-OhQLLLyj-OPcqjpfFMxy91V-UY4ZjEqnelq2JUTzRgvwB9GJyy989UuQFXhQzP6ZbSP7BlBUjkG5w6z0JJyykx3NYBl_OT4XKhNky3VVs2kwO5UPYYdzN46L0o9oWRHtqJ8L&drmtype=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际 [1000kbps 200ms]
-http://txycdn1.video.qq.com/1755787502.m3u8?time=1789005038&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIGQkknsmE-2ghSiPEZBzz5PijkYzcu4GFtUAbFKZzvjyEK2xjtb4kei6yBYY3CbJbv0BcJVMWUjVzmqY1FMU_2sy9ouJYW5dL55_nzGxYPJy0ajs3P-PKFvMHnLGa1IOuRnHXzvpdOFLp1R13Jm72lGdG_VkDJT-xDeXnS3oxt65YFtvkb4olmV7uyfIjNEJYCJooXNhfY2LAyCYDz2_AgGiTfEggLfqIO19EuGuM-aGlLw1GHGxFh0rFjj5oRWPqowM5YGRDMyzLmQDiMkZcgjQE2vCWxAg67R8-hmxzNsAh52lB8zeShGDDPgcziYonVQ5wkA2rgXPvHqTzSJf23_vjf-SLmFeAKoHTXOkoSRxYiQAYMfCMlEnDV0NTPysh_fHibHZJjFezziKH5HkovmCTnwzXBCu_rJA917vpVZGznTiDAi2i299morOan8ic745-Wexpij2sj4KiN_tWhtSVXJsYOdJjxz1VSSvfKUVidcuuv2Hf_A1VhiGJ2ab8d4L0p1AV46d-rR8Xnr4Qt8YehnhZqyQ-Ycm7h0r7PgOz11u&drmtype=0
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院",CHC家庭影院 [1000kbps 200ms]
-http://gat.bkpcp.top/ymg.php?id=jtyy
+#EXTINF:-1 tvg-id="" tvg-name="PK地球神",PK地球神 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736872
 #EXTINF:-1 tvg-id="" tvg-name="YY星秀璀璨，精彩不断",YY星秀璀璨，精彩不断 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354808044
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851591
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382746276
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735553
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851599
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382737888
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851576
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851522
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745113
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851580
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736834
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736887
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736805
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736888
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851148
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382851601
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851597
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736813
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745098
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745085
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745094
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745110
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745093
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736842
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851582
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745184
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735540
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736875
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382737892
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735578
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851594
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745104
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851593
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736808
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851541
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382851585
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851589
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851524
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736810
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851583
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736838
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736885
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736795
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736918
+https://live.ottiptv.cc/yy/1382736910
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735624
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851137
+https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382737892
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735545
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851540
+https://live.ottiptv.cc/yy/1382745099
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851590
+https://live.ottiptv.cc/yy/1382736918
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736890
+https://live.ottiptv.cc/yy/1382745103
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851146
+https://live.ottiptv.cc/yy/1382851589
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851602
+https://live.ottiptv.cc/yy/1382745098
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745084
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745114
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736818
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736910
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735579
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735572
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745117
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736975
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851578
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851575
+https://live.ottiptv.cc/yy/1382736875
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382851588
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851579
+https://live.ottiptv.cc/yy/1382851582
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745182
+https://live.ottiptv.cc/yy/1382737888
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736886
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745084
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382851600
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851598
+https://live.ottiptv.cc/yy/1382745184
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735584
+https://live.ottiptv.cc/yy/1382736834
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736885
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736887
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736797
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745085
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745104
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382746276
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745110
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745094
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736795
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851146
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736807
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736797
+https://live.ottiptv.cc/yy/1382735578
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745182
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736888
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851524
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736838
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745113
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745093
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735553
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735540
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736917
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736818
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851599
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735572
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851148
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851602
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736808
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851576
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736890
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851540
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745117
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851575
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735584
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851598
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851597
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851137
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736810
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736805
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735579
 #EXTINF:-1 tvg-id="" tvg-name="angel",angel [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382828770
 #EXTINF:-1 tvg-id="" tvg-name="papi酱主演，北漂生活中的爱情与梦想",papi酱主演，北漂生活中的爱情与梦想 [1000kbps 200ms]
@@ -229,8 +222,6 @@ https://live.ottiptv.cc/yy/1382749903
 https://live.ottiptv.cc/yy/1354933556
 #EXTINF:-1 tvg-id="" tvg-name="以家人之名",以家人之名 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736908
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！",伤感DJ热歌《逃之夭夭》以为你是最好，一切都是徒劳！ [1000kbps 200ms]
-https://vd4.bdstatic.com/mda-mjkhhps8w2us10yy/1080p/cae_h264/1634820585404207406/mda-mjkhhps8w2us10yy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702487216-0-0-f00db1c930faa0e07c89c1e5f54729fb&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=0416272188&vid=18039684079953515698&klogid=0416272188&abtest=114675_1
 #EXTINF:-1 tvg-id="" tvg-name="伪装者",伪装者 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936244
 #EXTINF:-1 tvg-id="" tvg-name="体验另一种生活！",体验另一种生活！ [1000kbps 200ms]
@@ -251,16 +242,12 @@ https://live.ottiptv.cc/yy/1354930945
 https://live.ottiptv.cc/yy/1354282410
 #EXTINF:-1 tvg-id="" tvg-name="保护我家蓉儿",保护我家蓉儿 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1370293254
-#EXTINF:-1 tvg-id="" tvg-name="俺娘田小草",俺娘田小草 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382741638
 #EXTINF:-1 tvg-id="" tvg-name="倚天屠龙记",倚天屠龙记 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/33300793
 #EXTINF:-1 tvg-id="" tvg-name="倚天屠龙记 超清",倚天屠龙记 超清 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354755003
 #EXTINF:-1 tvg-id="" tvg-name="像萤火虫一样用微光治愈精神内耗",像萤火虫一样用微光治愈精神内耗 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930927
-#EXTINF:-1 tvg-id="" tvg-name="儿大不由爹",儿大不由爹 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745106
 #EXTINF:-1 tvg-id="" tvg-name="公主嫁到",公主嫁到 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736915
 #EXTINF:-1 tvg-id="" tvg-name="兴风作浪 2：爆笑搞事再升级",兴风作浪 2：爆笑搞事再升级 [1000kbps 200ms]
@@ -281,8 +268,6 @@ https://live.ottiptv.cc/yy/1382749890
 https://live.ottiptv.cc/yy/1382749914
 #EXTINF:-1 tvg-id="" tvg-name="动作大片",动作大片 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354888739
-#EXTINF:-1 tvg-id="" tvg-name="动漫",动漫 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354143938
 #EXTINF:-1 tvg-id="" tvg-name="动漫《火影疾风传》",动漫《火影疾风传》 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1459675153
 #EXTINF:-1 tvg-id="" tvg-name="动物世界-领略原始野性",动物世界-领略原始野性 [1000kbps 200ms]
@@ -305,8 +290,6 @@ https://live.ottiptv.cc/yy/1382736907
 https://live.ottiptv.cc/yy/1354888733
 #EXTINF:-1 tvg-id="" tvg-name="变形金刚",变形金刚 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736803
-#EXTINF:-1 tvg-id="" tvg-name="叛逆者",叛逆者 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736868
 #EXTINF:-1 tvg-id="" tvg-name="古惑仔",古惑仔 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1458015189
 #EXTINF:-1 tvg-id="" tvg-name="古装剧",古装剧 [1000kbps 200ms]
@@ -381,8 +364,6 @@ https://live.ottiptv.cc/yy/1382736800
 https://live.ottiptv.cc/yy/1354658064
 #EXTINF:-1 tvg-id="" tvg-name="国外高分大片",国外高分大片 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736867
-#EXTINF:-1 tvg-id="" tvg-name="国外黑色喜剧：冷幽默小剧场",国外黑色喜剧：冷幽默小剧场 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745175
 #EXTINF:-1 tvg-id="" tvg-name="国漫动漫",国漫动漫 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354768828
 #EXTINF:-1 tvg-id="" tvg-name="在悬崖边缘狂舞",在悬崖边缘狂舞 [1000kbps 200ms]
@@ -452,9 +433,9 @@ https://live.ottiptv.cc/yy/1354931631
 #EXTINF:-1 tvg-id="" tvg-name="宫锁珠帘",宫锁珠帘 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354926666
 #EXTINF:-1 tvg-id="" tvg-name="宰相刘罗锅",宰相刘罗锅 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382745191
-#EXTINF:-1 tvg-id="" tvg-name="宰相刘罗锅",宰相刘罗锅 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1 tvg-id="" tvg-name="宰相刘罗锅",宰相刘罗锅 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745191
 #EXTINF:-1 tvg-id="" tvg-name="密子君",密子君 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736717
 #EXTINF:-1 tvg-id="" tvg-name="寻秦记-穿越剧经典",寻秦记-穿越剧经典 [1000kbps 200ms]
@@ -493,14 +474,10 @@ https://live.ottiptv.cc/yy/1354926612
 https://live.ottiptv.cc/yy/1382736857
 #EXTINF:-1 tvg-id="" tvg-name="巨蛛嗜血狂",巨蛛嗜血狂 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930903
-#EXTINF:-1 tvg-id="" tvg-name="巩汉林小品",巩汉林小品 [1000kbps 200ms]
-http://120.78.6.151:8968/yy.php?id=1354889035
 #EXTINF:-1 tvg-id="" tvg-name="巩汉林春晚小品合集",巩汉林春晚小品合集 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354889035
 #EXTINF:-1 tvg-id="" tvg-name="带你领略四季的变化",带你领略四季的变化 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930816
-#EXTINF:-1 tvg-id="" tvg-name="幸运贩卖机",幸运贩卖机 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354932407
 #EXTINF:-1 tvg-id="" tvg-name="康熙微服私访记",康熙微服私访记 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1352811698
 #EXTINF:-1 tvg-id="" tvg-name="开播！情景喜剧第二季",开播！情景喜剧第二季 [1000kbps 200ms]
@@ -511,6 +488,8 @@ https://live.ottiptv.cc/yy/1354930961
 https://live.ottiptv.cc/yy/23512910
 #EXTINF:-1 tvg-id="" tvg-name="强悍“杀猪婆”的励志人生",强悍“杀猪婆”的励志人生 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354658062
+#EXTINF:-1 tvg-id="" tvg-name="当旺爸爸-港剧",当旺爸爸-港剧 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1354936208
 #EXTINF:-1 tvg-id="" tvg-name="彪哥逆袭笑翻天",彪哥逆袭笑翻天 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936170
 #EXTINF:-1 tvg-id="" tvg-name="影视小艺",影视小艺 [1000kbps 200ms]
@@ -537,8 +516,12 @@ https://live.ottiptv.cc/yy/1354143966
 https://live.ottiptv.cc/yy/1382736882
 #EXTINF:-1 tvg-id="" tvg-name="我爱我家",我爱我家 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735557
+#EXTINF:-1 tvg-id="" tvg-name="我的体育老师",我的体育老师 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382745169
 #EXTINF:-1 tvg-id="" tvg-name="我的前半生",我的前半生 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735564
+#EXTINF:-1 tvg-id="" tvg-name="我的父亲我的兵",我的父亲我的兵 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1353413714
 #EXTINF:-1 tvg-id="" tvg-name="战争与女性",战争与女性 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382745179
 #EXTINF:-1 tvg-id="" tvg-name="战俘营大逃亡",战俘营大逃亡 [1000kbps 200ms]
@@ -551,6 +534,8 @@ https://live.ottiptv.cc/yy/1354744544
 https://live.ottiptv.cc/yy/1382745090
 #EXTINF:-1 tvg-id="" tvg-name="抗日神片，燃爆抗战热血魂",抗日神片，燃爆抗战热血魂 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354926600
+#EXTINF:-1 tvg-id="" tvg-name="护卫者守护真情",护卫者守护真情 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735627
 #EXTINF:-1 tvg-id="" tvg-name="拳拳到肉，搏击燃情",拳拳到肉，搏击燃情 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736870
 #EXTINF:-1 tvg-id="" tvg-name="指尖舞 正在直播",指尖舞 正在直播 [1000kbps 200ms]
@@ -559,12 +544,12 @@ https://live.ottiptv.cc/yy/1455500825
 https://live.ottiptv.cc/yy/1382829413
 #EXTINF:-1 tvg-id="" tvg-name="搬山道人之落天荒",搬山道人之落天荒 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736916
-#EXTINF:-1 tvg-id="" tvg-name="斗罗小舞 正在直播",斗罗小舞 正在直播 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354768831
 #EXTINF:-1 tvg-id="" tvg-name="新世界",新世界 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736850
 #EXTINF:-1 tvg-id="" tvg-name="新主播",新主播 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1355179797
+#EXTINF:-1 tvg-id="" tvg-name="新主播求关注和支持",新主播求关注和支持 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1353454489
 #EXTINF:-1 tvg-id="" tvg-name="新主播，求照顾",新主播，求照顾 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382690406
 #EXTINF:-1 tvg-id="" tvg-name="新时代农村青年的热血奋斗记",新时代农村青年的热血奋斗记 [1000kbps 200ms]
@@ -577,8 +562,6 @@ http://luobo.bkpcp.top/yy/1354490667
 https://live.ottiptv.cc/yy/1354490667
 #EXTINF:-1 tvg-id="" tvg-name="新白娘子传奇-女神赵雅芝",新白娘子传奇-女神赵雅芝 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930969
-#EXTINF:-1 tvg-id="" tvg-name="施公奇案2-欧阳震华",施公奇案2-欧阳震华 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736824
 #EXTINF:-1 tvg-id="" tvg-name="无厘头的出处",无厘头的出处 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930891
 #EXTINF:-1 tvg-id="" tvg-name="无双花木兰",无双花木兰 [1000kbps 200ms]
@@ -598,11 +581,9 @@ https://live.ottiptv.cc/yy/1354930954
 #EXTINF:-1 tvg-id="" tvg-name="最佳时机：命运转角的最佳抉择与奔赴",最佳时机：命运转角的最佳抉择与奔赴 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936207
 #EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382851530
-#EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382745116
-#EXTINF:-1 tvg-id="" tvg-name="月牙泉",月牙泉 [1000kbps 200ms]
-https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382851530
 #EXTINF:-1 tvg-id="" tvg-name="有个精灵闺蜜是种什么神仙体验",有个精灵闺蜜是种什么神仙体验 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354889015
 #EXTINF:-1 tvg-id="" tvg-name="有趣的小姐姐",有趣的小姐姐 [1000kbps 200ms]
@@ -637,10 +618,12 @@ https://live.ottiptv.cc/yy/34229877
 https://live.ottiptv.cc/yy/1351505899
 #EXTINF:-1 tvg-id="" tvg-name="横行不霸道",横行不霸道 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930189
-#EXTINF:-1 tvg-id="" tvg-name="欢乐集结号",欢乐集结号 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382735550
+#EXTINF:-1 tvg-id="" tvg-name="欢乐一起看",欢乐一起看 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1354930926
 #EXTINF:-1 tvg-id="" tvg-name="欢乐集结号",欢乐集结号 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354931582
+#EXTINF:-1 tvg-id="" tvg-name="欢乐集结号",欢乐集结号 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382735550
 #EXTINF:-1 tvg-id="" tvg-name="欢乐集结号-每天笑不停",欢乐集结号-每天笑不停 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382741642
 #EXTINF:-1 tvg-id="" tvg-name="欢乐集结号2",欢乐集结号2 [1000kbps 200ms]
@@ -662,9 +645,9 @@ https://live.ottiptv.cc/yy/1355532933
 #EXTINF:-1 tvg-id="" tvg-name="正阳门下",正阳门下 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354931580
 #EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1355652820
-#EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1355652820
 #EXTINF:-1 tvg-id="" tvg-name="每天都要快乐哦！",每天都要快乐哦！ [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930909
 #EXTINF:-1 tvg-id="" tvg-name="毒力觉醒的异能逆袭狂潮",毒力觉醒的异能逆袭狂潮 [1000kbps 200ms]
@@ -673,6 +656,8 @@ https://live.ottiptv.cc/yy/1354926735
 https://live.ottiptv.cc/yy/1382745095
 #EXTINF:-1 tvg-id="" tvg-name="水怪2黑木林",水怪2黑木林 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936221
+#EXTINF:-1 tvg-id="" tvg-name="水浒传",水浒传 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1353873252
 #EXTINF:-1 tvg-id="" tvg-name="永远的经典系列",永远的经典系列 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930204
 #EXTINF:-1 tvg-id="" tvg-name="沉浸式体验深海死斗",沉浸式体验深海死斗 [1000kbps 200ms]
@@ -715,8 +700,6 @@ https://live.ottiptv.cc/yy/1354932397
 https://live.ottiptv.cc/yy/1355480591
 #EXTINF:-1 tvg-id="" tvg-name="渴望",渴望 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930963
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=1yYo68&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="漫威十年老粉福利来了",漫威十年老粉福利来了 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930233
 #EXTINF:-1 tvg-id="" tvg-name="漫画解说",漫画解说 [1000kbps 200ms]
@@ -785,8 +768,6 @@ https://live.ottiptv.cc/yy/1354930181
 https://live.ottiptv.cc/yy/1382749913
 #EXTINF:-1 tvg-id="" tvg-name="现代战争教科书神作",现代战争教科书神作 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735571
-#EXTINF:-1 tvg-id="" tvg-name="珍珠港-电影",珍珠港-电影 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354936234
 #EXTINF:-1 tvg-id="" tvg-name="瓦尔多",瓦尔多 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936122
 #EXTINF:-1 tvg-id="" tvg-name="甜宠KIKI",甜宠KIKI [1000kbps 200ms]
@@ -834,9 +815,9 @@ https://live.ottiptv.cc/yy/1382671124
 #EXTINF:-1 tvg-id="" tvg-name="真心想让你幸福",真心想让你幸福 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736876
 #EXTINF:-1 tvg-id="" tvg-name="知否知否应是绿肥红瘦",知否知否应是绿肥红瘦 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354936134
-#EXTINF:-1 tvg-id="" tvg-name="知否知否应是绿肥红瘦",知否知否应是绿肥红瘦 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/21881901
+#EXTINF:-1 tvg-id="" tvg-name="知否知否应是绿肥红瘦",知否知否应是绿肥红瘦 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1354936134
 #EXTINF:-1 tvg-id="" tvg-name="破案港剧",破案港剧 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1350670730
 #EXTINF:-1 tvg-id="" tvg-name="碟中谍系列电影",碟中谍系列电影 [1000kbps 200ms]
@@ -845,6 +826,8 @@ https://live.ottiptv.cc/yy/1382736836
 https://live.ottiptv.cc/yy/1382749907
 #EXTINF:-1 tvg-id="" tvg-name="神医喜来乐",神医喜来乐 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382714119
+#EXTINF:-1 tvg-id="" tvg-name="神厨小福贵",神厨小福贵 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736860
 #EXTINF:-1 tvg-id="" tvg-name="神探狄仁杰1",神探狄仁杰1 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930934
 #EXTINF:-1 tvg-id="" tvg-name="神雕侠侣",神雕侠侣 [1000kbps 200ms]
@@ -855,8 +838,6 @@ https://live.ottiptv.cc/yy/1382745092
 https://live.ottiptv.cc/yy/1354930897
 #EXTINF:-1 tvg-id="" tvg-name="科幻电影",科幻电影 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930209
-#EXTINF:-1 tvg-id="" tvg-name="程响-人间烟火",程响-人间烟火 [1000kbps 200ms]
-https://vd3.bdstatic.com/mda-nia9gqywiryyn8pk/576p/h264/1662878654763005591/mda-nia9gqywiryyn8pk.mp4
 #EXTINF:-1 tvg-id="" tvg-name="空中决战",空中决战 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736880
 #EXTINF:-1 tvg-id="" tvg-name="穿越时空的爱恋",穿越时空的爱恋 [1000kbps 200ms]
@@ -869,16 +850,12 @@ https://live.ottiptv.cc/yy/1382735555
 https://live.ottiptv.cc/yy/1382749896
 #EXTINF:-1 tvg-id="" tvg-name="笑傲江湖 第2季",笑傲江湖 第2季 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736914
-#EXTINF:-1 tvg-id="" tvg-name="第8号当铺",第8号当铺 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1382736905
 #EXTINF:-1 tvg-id="" tvg-name="粟裕大将-影视",粟裕大将-影视 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354926542
 #EXTINF:-1 tvg-id="" tvg-name="精彩动作电影",精彩动作电影 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736823
 #EXTINF:-1 tvg-id="" tvg-name="精彩动作电影享不停",精彩动作电影享不停 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736809
-#EXTINF:-1 tvg-id="" tvg-name="精彩动漫",精彩动漫 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1420843376
 #EXTINF:-1 tvg-id="" tvg-name="精武英雄-李连杰主演经典动作片",精武英雄-李连杰主演经典动作片 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736873
 #EXTINF:-1 tvg-id="" tvg-name="紧急营救",紧急营救 [1000kbps 200ms]
@@ -901,8 +878,6 @@ https://live.ottiptv.cc/yy/1459869766
 https://live.ottiptv.cc/yy/29460894
 #EXTINF:-1 tvg-id="" tvg-name="绝地生死营救",绝地生死营救 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936214
-#EXTINF:-1 tvg-id="" tvg-name="绝对让你笑翻天！",绝对让你笑翻天！ [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354936159
 #EXTINF:-1 tvg-id="" tvg-name="缺宅男女",缺宅男女 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354930937
 #EXTINF:-1 tvg-id="" tvg-name="缺宅男女-精彩港剧",缺宅男女-精彩港剧 [1000kbps 200ms]
@@ -925,8 +900,8 @@ https://live.ottiptv.cc/yy/1354930195
 https://live.ottiptv.cc/yy/1382736852
 #EXTINF:-1 tvg-id="" tvg-name="致敬星爷致敬经典",致敬星爷致敬经典 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354889048
-#EXTINF:-1 tvg-id="" tvg-name="舌尖上的中国第一季",舌尖上的中国第一季 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1354930952
+#EXTINF:-1 tvg-id="" tvg-name="舌尖上的中国第2季",舌尖上的中国第2季 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1354930943
 #EXTINF:-1 tvg-id="" tvg-name="艾迪格里芬：经典就是我",艾迪格里芬：经典就是我 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354932409
 #EXTINF:-1 tvg-id="" tvg-name="苍狼特战突击",苍狼特战突击 [1000kbps 200ms]
@@ -943,8 +918,6 @@ https://live.ottiptv.cc/yy/1354889234
 https://live.ottiptv.cc/yy/1354930971
 #EXTINF:-1 tvg-id="" tvg-name="萌鸡小队S1-国漫",萌鸡小队S1-国漫 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736904
-#EXTINF:-1 tvg-id="" tvg-name="蔡明小品",蔡明小品 [1000kbps 200ms]
-http://120.78.6.151:8968/yy.php?id=1354936177
 #EXTINF:-1 tvg-id="" tvg-name="蔡明春晚小品",蔡明春晚小品 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936177
 #EXTINF:-1 tvg-id="" tvg-name="薛仁贵传奇",薛仁贵传奇 [1000kbps 200ms]
@@ -965,6 +938,8 @@ https://live.ottiptv.cc/yy/1382735570
 https://live.ottiptv.cc/yy/23402146
 #EXTINF:-1 tvg-id="" tvg-name="贾玲春晚小品",贾玲春晚小品 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736720
+#EXTINF:-1 tvg-id="" tvg-name="赌神 港片 喜剧",赌神 港片 喜剧 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1355112116
 #EXTINF:-1 tvg-id="" tvg-name="赌神-发哥",赌神-发哥 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354889044
 #EXTINF:-1 tvg-id="" tvg-name="超喜剧地下交通站男神贾贵",超喜剧地下交通站男神贾贵 [1000kbps 200ms]
@@ -991,6 +966,8 @@ https://live.ottiptv.cc/yy/1382749902
 https://live.ottiptv.cc/yy/1382736892
 #EXTINF:-1 tvg-id="" tvg-name="迈阿密行动街头狂飙",迈阿密行动街头狂飙 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936228
+#EXTINF:-1 tvg-id="" tvg-name="这反差萌让猫奴顶不住",这反差萌让猫奴顶不住 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1354930984
 #EXTINF:-1 tvg-id="" tvg-name="这才是真巨星养成记",这才是真巨星养成记 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735561
 #EXTINF:-1 tvg-id="" tvg-name="这部剧你居然没看过？",这部剧你居然没看过？ [1000kbps 200ms]
@@ -1003,6 +980,8 @@ https://live.ottiptv.cc/yy/1354930912
 https://live.ottiptv.cc/yy/1354888747
 #EXTINF:-1 tvg-id="" tvg-name="速度与激情全集",速度与激情全集 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382749892
+#EXTINF:-1 tvg-id="" tvg-name="速度与激情系列！-精彩大片",速度与激情系列！-精彩大片 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/1382736911
 #EXTINF:-1 tvg-id="" tvg-name="郝蕾演绎-情满四合院",郝蕾演绎-情满四合院 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382745089
 #EXTINF:-1 tvg-id="" tvg-name="重启之深渊疑冢",重启之深渊疑冢 [1000kbps 200ms]
@@ -1025,8 +1004,6 @@ https://live.ottiptv.cc/yy/1382735552
 https://live.ottiptv.cc/yy/1382736815
 #EXTINF:-1 tvg-id="" tvg-name="长夜危机",长夜危机 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736893
-#EXTINF:-1 tvg-id="" tvg-name="闯关东",闯关东 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/1383546866
 #EXTINF:-1 tvg-id="" tvg-name="间接伤害",间接伤害 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354936128
 #EXTINF:-1 tvg-id="" tvg-name="陈情令",陈情令 [1000kbps 200ms]
@@ -1057,22 +1034,8 @@ https://live.ottiptv.cc/yy/1382658790
 https://live.ottiptv.cc/yy/1354936157
 #EXTINF:-1 tvg-id="" tvg-name="非常保镖-经典港剧",非常保镖-经典港剧 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382736903
-#EXTINF:-1 tvg-id="" tvg-name="音乐之声",音乐之声 [1000kbps 200ms]
-http://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="音乐才女与霸道总裁的治愈之恋",音乐才女与霸道总裁的治愈之恋 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735573
-#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场 [1000kbps 200ms]
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="音乐现场",音乐现场 [1000kbps 200ms]
-http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐 [1000kbps 200ms]
-https://itv.1920.qzz.io/api/ysp.php?id=cctvfyyy
 #EXTINF:-1 tvg-id="" tvg-name="飓风营救",飓风营救 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735547
 #EXTINF:-1 tvg-id="" tvg-name="香港院线大片-最新",香港院线大片-最新 [1000kbps 200ms]
@@ -1097,12 +1060,10 @@ https://live.ottiptv.cc/yy/1382749525
 https://live.ottiptv.cc/yy/1463783198
 #EXTINF:-1 tvg-id="" tvg-name="魔幻手机",魔幻手机 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1382735544
-#EXTINF:-1 tvg-id="" tvg-name="鸣沙山",鸣沙山 [1000kbps 200ms]
-https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鹿鼎记",鹿鼎记 [1000kbps 200ms]
-https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-id="" tvg-name="鹿鼎记",鹿鼎记 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1460463356
+#EXTINF:-1 tvg-id="" tvg-name="鹿鼎记",鹿鼎记 [1000kbps 200ms]
+https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-id="" tvg-name="鹿鼎记-周星驰版",鹿鼎记-周星驰版 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/1354658049
 #EXTINF:-1 tvg-id="" tvg-name="黄大妮-电视剧",黄大妮-电视剧 [1000kbps 200ms]

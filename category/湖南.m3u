@@ -1,0 +1,128 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://j.x.bkpcp.top/jx/HUNANHD
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://go.bkpcp.top/mg/hunws
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://t.061899.xyz/tl/tl.php?id=hunws
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=f076bc079ef8dd2b555965201cc9b0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://49.87.154.246:10091/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://218.206.193.218:8888/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://120.76.248.139/live/bfgd/4200000086.m3u8$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/720p/hnws.m3u8$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://111.8.242.127:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://198.204.228.26/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/1080p/hnws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/1080p/hnws.m3u8$LR•IPV4•29『线路11』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://61.136.172.236:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://61.162.52.6:8088/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://173.208.212.130:8181/720p/hnws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://192.151.150.154/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://182.150.112.112:2025/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://221.226.51.220:50081/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://183.94.146.79:9901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://114.254.38.234:8888/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视",湖南卫视 [1000kbps 200ms]
+http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视[1080][S]",湖南卫视[1080][S] [1000kbps 200ms]
+http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视[1080][S]",湖南卫视[1080][S] [1000kbps 200ms]
+http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视[720][S]",湖南卫视[720][S] [1000kbps 200ms]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+#EXTINF:-1 tvg-id="" tvg-name="湖南国际",湖南国际 [1000kbps 200ms]
+http://192.151.150.154/live/hngj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南国际",湖南国际 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=229
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐",湖南娱乐 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=344
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐",湖南娱乐 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/151/2007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界天门山西线玻璃栈道",湖南张家界天门山西线玻璃栈道 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界宝峰湖",湖南张家界宝峰湖 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界御笔峰",湖南张家界御笔峰 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界水绕四门",湖南张家界水绕四门 [1000kbps 200ms]
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南教育",湖南教育 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/156/2011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南爱晚",湖南爱晚 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/150/2006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南爱晚",湖南爱晚 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=261
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影 [1000kbps 200ms]
+http://php.jdshipin.com:8880/iptv.php
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧",湖南电视剧 [1000kbps 200ms]
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧",湖南电视剧 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/148/2004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧",湖南电视剧 [1000kbps 200ms]
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧",湖南电视剧 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
+#EXTINF:-1 tvg-id="" tvg-name="湖南经视",湖南经视 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=280
+#EXTINF:-1 tvg-id="" tvg-name="湖南经视",湖南经视 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/146/2002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市",湖南都市 [1000kbps 200ms]
+http://218.77.84.102:85/tsfile/live/147/2003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市",湖南都市 [1000kbps 200ms]
+http://nn.7x9d.cn/地方台8563/湖南2.php?id=346

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="苏州4k",苏州4k [1000kbps 200ms]
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州文化生活",苏州文化生活 [1000kbps 200ms]
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯",苏州生活资讯 [1000kbps 200ms]
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州电影娱乐",苏州电影娱乐 [1000kbps 200ms]
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州社会经济",苏州社会经济 [1000kbps 200ms]
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8

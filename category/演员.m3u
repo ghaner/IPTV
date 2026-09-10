@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="【周星驰】搞笑电影",【周星驰】搞笑电影 [1000kbps 200ms]
 https://live.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-id="" tvg-name="刘德华",刘德华 [1000kbps 200ms]
