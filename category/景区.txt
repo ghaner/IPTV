@@ -16,7 +16,6 @@
 八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
@@ -41,7 +40,6 @@
 漓江塔景区售票阿姨,https://live.ottiptv.cc/huya/11602082
 狮子山鸟瞰丽江古城,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 西双版纳旅游,https://live.ottiptv.cc/huya/29465880
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
@@ -50,8 +48,7 @@
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
-黄山文旅,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
