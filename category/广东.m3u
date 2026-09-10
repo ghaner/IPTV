@@ -1,154 +1,178 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关公共台 (720p) [Not 24/7]",广东 Ⅰ 韶关公共台 (720p) [Not 24/7] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关公共台 (720p) [Not 24/7]",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关综合台 (720p) [Not 24/7]",广东 Ⅰ 韶关综合台 (720p) [Not 24/7] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东 Ⅰ 韶关综合台 (720p) [Not 24/7]",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-http://mg.hmysapp.cn:177/%E5%B9%BF%E4%B8%9C/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.php?id=301
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://j.x.bkpcp.top/jx/GUANGDHD
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://lsa.familyds.com:8188/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://go.bkpcp.top/mg/gdws
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://61.145.188.90:50055/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://www.3344.uk:8888/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://yanshifen.top:8889/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://219.145.93.74:10000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://2280.eu.org:1234/608831231$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://ikuai.cyruslee.top:8888/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/gdws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://183.94.146.79:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://218.206.193.218:8888/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://120.76.248.139/live/bfgd/4200000092.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=8d3f4fd6315174a3c3529ffb8d8e85
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://120.76.248.139/live/bfgd/4200000092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://j.s.bkpcp.top/jj/gdws
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://www.yahao.host:4022/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://jellyfin.cyruslee.top:8888/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://198.204.228.26/live/gdwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://hongzhijiaoyu.net:8188/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://t.061899.xyz/tl/tl.php?id=gdws
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://192.151.150.154/live/gdwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
-http://173.208.212.130:8181/720p/gdws.m3u8$LR•IPV4•29『线路20』
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=EFT0s4&tk=bknhp6JvJlqE
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kNP855&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="广东体育",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=cxpWx5&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=XOigon&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://hongzhijiaoyu.net:8188/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=2fFegu&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=u3Tnby&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://t.061899.xyz/tl/tl.php?id=gdws
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://jellyfin.cyruslee.top:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://218.206.193.218:8888/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://ikuai.cyruslee.top:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=AUTwfs&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://61.145.188.90:50055/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://lsa.familyds.com:8188/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://192.151.150.154/live/gdwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://www.yahao.host:4022/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://www.3344.uk:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
 http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视[1080][S]",广东卫视[1080][S] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://j.s.bkpcp.top/jj/gdws
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://120.76.248.139/live/bfgd/4200000092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=TAD0sn&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://j.x.bkpcp.top/jx/GUANGDHD
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://183.94.146.79:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://219.145.93.74:10000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://173.208.212.130:8181/720p/gdws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://2280.eu.org:1234/608831231$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://120.76.248.139/live/bfgd/4200000092.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=8d3f4fd6315174a3c3529ffb8d8e85
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://198.204.228.26/live/gdwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://107.150.60.122/live/gdwshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://yanshifen.top:8889/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=PH4he5&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=r79WJV&tk=bknhp6JvJlqE
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视",广东卫视
+http://173.208.212.130:8181/720p/gdws.m3u8$LR•IPV4•29『线路20』
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视[1080][S]",广东卫视[1080][S]
 http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视[1080][S]",广东卫视[1080][S] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视[1080][S]",广东卫视[1080][S]
 http://120.198.95.220:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视[576][S]",广东卫视[576][S] [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视[576][S]",广东卫视[576][S]
 http://124.228.160.190:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
 http://www.3344.uk:8888/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://lsa.familyds.com:8188/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://107.150.60.122/live/gdtvs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
 http://yanshifen.top:8889/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://192.151.150.154/live/gdtvs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://www.yahao.host:4022/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://ikuai.cyruslee.top:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
 http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
 http://61.145.188.90:50055/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://www.yahao.host:4022/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://lsa.familyds.com:8188/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://jellyfin.cyruslee.top:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
 http://198.204.228.26/live/gdtvs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻 [1000kbps 200ms]
-http://183.11.239.36:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻 [1000kbps 200ms]
-http://74.91.26.218:82/live/gdxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://192.151.150.154/live/gdtvs5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://hongzhijiaoyu.net:8188/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://plex.cyruslee.top:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿",广东少儿
+http://107.150.60.122/live/gdtvs5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻
 http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=kCe2IB&tk=bknhp6JvJlqE
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻
+http://183.11.239.36:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻
+http://74.91.26.218:82/live/gdxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻",广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="广东民生",广东民生 [1000kbps 200ms]
-http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东民生",广东民生 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东民生",广东民生
 http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=tcaCFf&tk=bknhp6JvJlqE
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ryc2Yb&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://74.91.26.218:82/live/gdzj.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=VXYNkl&tk=bknhp6JvJlqE
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://mg.hmysapp.cn:177/%E5%B9%BF%E4%B8%9C/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.php?id=301
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
-http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东民生",广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ryc2Yb&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=VXYNkl&tk=bknhp6JvJlqE
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://74.91.26.218:82/live/gdzj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj

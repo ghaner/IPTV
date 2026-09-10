@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="河源公共",河源公共 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="河源公共",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河源公共",河源公共 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="河源公共",河源公共
 https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河源综合",河源综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="河源综合",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河源综合 (540p)",河源综合 (540p) [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="河源综合 (540p)",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8

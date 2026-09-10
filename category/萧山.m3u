@@ -1,12 +1,14 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="萧山新闻综合",萧山新闻综合 [1000kbps 200ms]
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="萧山新闻综合",萧山新闻综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="萧山新闻综合",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="" tvg-name="萧山生活",萧山生活 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="萧山新闻综合",萧山新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="萧山生活",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="萧山生活",萧山生活 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="萧山生活",萧山生活
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="萧山生活",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="" tvg-name="萧山综合",萧山综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="萧山综合",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8

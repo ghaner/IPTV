@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="广元公共",广元公共 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广元公共",广元公共
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广元综合",广元综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="广元综合",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8

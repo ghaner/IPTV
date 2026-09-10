@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="安顺新闻",安顺新闻 [1000kbps 200ms]
-https://ls.qingting.fm/live/5022203/64k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安顺新闻",安顺新闻 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="安顺新闻",安顺新闻
 http://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安顺新闻",安顺新闻
+https://ls.qingting.fm/live/5022203/64k.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="来宾综合",来宾综合 [1000kbps 200ms]
+#EXTINF:-1 tvg-id="" tvg-name="来宾综合",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
