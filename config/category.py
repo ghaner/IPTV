@@ -39,6 +39,7 @@ def get_all_category_names() -> List[str]:
     sceniczone_names = _load_json_keys("sceniczone.json")
     documentary_names = _load_json_keys("documentary.json")
     taiwan_names = _load_json_keys("taiwan.json")
+    huyashow_links = _load_json_keys("huyashow.json")
     return (
         BASE_CATEGORIES
         + province_list
@@ -70,6 +71,7 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     SCENIC_ZONE_NAMES = _load_json_keys("sceniczone.json")
     DOCUMENTARY_NAMES = _load_json_keys("documentary.json")
     TAIWAN_NAMES = _load_json_keys("taiwan.json")
+    HUYASHOW_LINKS = _load_json_keys("huya.json")
     # -------- link链接匹配平台分类 --------
     if "/huya" in link_raw:
         result_cats.add("huya")
@@ -83,6 +85,9 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     for special_frag in SPECIAL_VIDEO_COMMENT_URLS:
         if special_frag in link_raw:
             result_cats.add("影视解说")
+    for huyashow in HUYASHOW_LINKS:
+        if huyashow in link_raw:
+            result_cats.add("虎牙综艺")            
     # -------- name名称匹配基础分类名称（包含相同字符即归类） --------
     for cat in BASE_CATEGORIES:
         if cat in name_raw:
@@ -143,7 +148,7 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     # name包含演员姓名(actor.json) →演员分类
     for actor in ACTOR_NAMES:
         if actor in name_raw:
-            result_cats.add("演员")
+            result_cats.add("演员")            
     # -------- 省级、市级行政区划名称匹配 --------
     for prov in PROVINCE_LIST:
         if prov in name_raw:
