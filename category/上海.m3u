@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="上海新闻",上海新闻
 http://8.138.7.223/tv/5gtv.php?id=36
 #EXTINF:-1 tvg-id="" tvg-name="上海滩",上海滩
-https://vd4.bdstatic.com/mda-keck5jhdaagebxkm/v1-cae/mda-keck5jhdaagebxkm.mp4?auth_key=1602762530-0-0-3e02c62e492e00c28c5557d41188d769&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=288&split=391503
-#EXTINF:-1 tvg-id="" tvg-name="上海滩",上海滩
 http://luobo.bkpcp.top/yy/1382745184
 #EXTINF:-1 tvg-id="" tvg-name="上海滩",上海滩
 https://vdse.bdstatic.com//07c1ef5778a88237371e447488e957e0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-11-18T14%3A24%3A17Z%2F-1%2Fhost%2F2aa3b7951abd3d0f3d7459bd62d8dadd4d387e439db197585f8e96a6df4c489e&vid=16612255534224224798
+#EXTINF:-1 tvg-id="" tvg-name="上海滩",上海滩
+https://vd4.bdstatic.com/mda-keck5jhdaagebxkm/v1-cae/mda-keck5jhdaagebxkm.mp4?auth_key=1602762530-0-0-3e02c62e492e00c28c5557d41188d769&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=288&split=391503
 #EXTINF:-1 tvg-id="" tvg-name="上海第一财经",上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8

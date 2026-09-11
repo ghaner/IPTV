@@ -22,8 +22,6 @@ https://live.ottiptv.cc/yy/1382627144
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="" tvg-name="周星驰电影",周星驰电影
 https://live.metshop.top/huya/11342412
-#EXTINF:-1 tvg-id="" tvg-name="周星驰的直播间",周星驰的直播间
-https://live.ottiptv.cc/douyu/8257039
 #EXTINF:-1 tvg-id="" tvg-name="周润发-电影",周润发-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
 #EXTINF:-1 tvg-id="" tvg-name="周润发-赌神",周润发-赌神
@@ -38,6 +36,8 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=11602043
 https://live.ottiptv.cc/huya/30631744
 #EXTINF:-1 tvg-id="" tvg-name="成龙-电影",成龙-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386
+#EXTINF:-1 tvg-id="" tvg-name="成龙历险纪",成龙历险纪
+https://live.ottiptv.cc/douyu/2287949
 #EXTINF:-1 tvg-id="" tvg-name="成龙电影",成龙电影
 https://live.metshop.top/huya/11342386
 #EXTINF:-1 tvg-id="" tvg-name="成龙系列",成龙系列
@@ -64,8 +64,6 @@ https://live.metshop.top/huya/11601968
 http://tv.zimtv.cn/tv/player/api/huya.php?id=30080244
 #EXTINF:-1 tvg-id="" tvg-name="玉女林青霞",玉女林青霞
 https://live.ottiptv.cc/huya/30631751
-#EXTINF:-1 tvg-id="" tvg-name="王俊凯的资源组",王俊凯的资源组
-https://live.ottiptv.cc/douyu/8862216
 #EXTINF:-1 tvg-id="" tvg-name="电影刘德华",电影刘德华
 http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影梁家辉",电影梁家辉
