@@ -17,6 +17,7 @@ CATEGORY_DIR = os.path.join(BASE_DIR, "category")
 LOG_DIR = os.path.join(BASE_DIR, "log")
 # 持久化失败计数器文件
 FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
+
 # 创建必要文件夹
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
     os.makedirs(d, exist_ok=True)
@@ -196,7 +197,7 @@ async def download_sources():
     return source_map
 
 
-# ===================== 3.汇总新旧直播源 =====================
+# ===================== 2.汇总新旧直播源 =====================
 def merge_sources():
     download = os.path.join(SOURCES_DIR, "下载源.txt")
     valid = os.path.join(SOURCES_DIR, "有效直播源.txt")
@@ -216,10 +217,10 @@ def merge_sources():
     output = os.path.join(SOURCES_DIR, "汇总.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(merged))
-    print(f"[STEP2-DEBUG] 下载源:{cnt_download}条；旧有效源:{cnt_valid_old}条；汇总.txt合计：{len(merged)}条")
+    print(f"[STEP2-END] 汇总完成；下载源:{cnt_download}条；旧有效源:{cnt_valid_old}条；汇总.txt合计：{len(merged)}条")
 
 
-# ===================== 4.汇总直播源初步处理 =====================
+# ===================== 3.汇总直播源初步处理 =====================
 def process_merged():
     merged_path = os.path.join(SOURCES_DIR, "汇总.txt")
     invalid_path = os.path.join(SOURCES_DIR, "永久失效.txt")
@@ -233,7 +234,6 @@ def process_merged():
                 if "," in line:
                     u = line.split(",", 1)[1].split("#")[0].strip()
                     invalid_urls.add(u)
-    # 打印永久失效黑名单加载数量
     print(f"[STEP3-DEBUG] 永久失效.txt加载失效URL总数：{len(invalid_urls)}")
     count_perm_invalid = 0   # 被永久失效列表过滤掉的数量
     count_dup_url = 0         # url重复过滤
@@ -254,7 +254,6 @@ def process_merged():
         if not name or not url:
             count_bad_line += 1
             continue
-        # 永久失效过滤
         if url in invalid_urls:
             count_perm_invalid += 1
             continue
@@ -269,9 +268,7 @@ def process_merged():
     output = os.path.join(SOURCES_DIR, "初处理.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    # 分项过滤结果输出
     print(f"[STEP3-FILTER] 永久失效过滤：{count_perm_invalid} 条；URL去重过滤：{count_dup_url} 条；坏行丢弃：{count_bad_line} 条")
-    # 数值校验
     input_total = len(raw_lines)
     sum_filtered = count_perm_invalid + count_dup_url + count_bad_line
     output_total = len(lines)
@@ -283,7 +280,7 @@ def process_merged():
     print(f"[STEP3-END] 初处理完成，初处理.txt剩余 {len(lines)} 条")
 
 
-# ===================== 5.直播源测速 =====================
+# ===================== 4.直播源测速 =====================
 async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool, str, str, str, str]:
     try:
         async with ffprobe_sem:
@@ -308,12 +305,10 @@ async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool,
                 codec = data[2] if len(data) > 2 else ""
                 br = data[3] if len(data) > 3 else "0"
                 bitrate = str(int(br) // 1000) if br.isdigit() else "0"
-
                 has_video = bool(w and h and w != "N/A" and h != "N/A")
                 if SKIP_AUDIO_ONLY_STREAM and not has_video:
                     return False, "", "", "", ""
                 return True, w, h, codec, bitrate
-
             except asyncio.TimeoutError:
                 proc.kill()
                 await proc.wait()
@@ -341,16 +336,13 @@ async def test_single_source(
         line = clean_text(line)
         if not line or "," not in line:
             return None, line, "bad_line_format"
-
         name, url_part = line.split(",", 1)
         url = url_part.split("#")[0].strip()
         source = url_part.split("#")[1] if "#" in url_part else ""
-
         domain = get_domain(url)
         if domain not in domain_sem_map:
             domain_sem_map[domain] = asyncio.Semaphore(3)
         dom_sem = domain_sem_map[domain]
-
         async with http_sem, dom_sem:
             start = time.time()
             http_ok = False
@@ -368,11 +360,9 @@ async def test_single_source(
                 return None, line, "http_timeout"
             except Exception:
                 return None, line, "http_unknown_exception"
-
             delay = round((time.time() - start) * 1000)
             ff_ok, w, h, codec, br = await ffprobe_check(url, ffprobe_sem)
             valid = http_ok and ff_ok
-
             result = {
                 "name": name, "url": url, "delay": delay,
                 "width": w, "height": h, "codec": codec, "bitrate": br,
@@ -393,23 +383,18 @@ async def run_speed_test():
     with open(input_path, "r", encoding="utf-8") as f:
         lines = [l for l in f if clean_text(l)]
     print(f"[STEP4-DEBUG] 测速任务待检测总条数：{len(lines)}")
-
     speed_test_start = time.time()
     http_sem = asyncio.Semaphore(CONCURRENCY_HTTP)
     ffprobe_sem = asyncio.Semaphore(CONCURRENCY_FFPROBE)
     domain_sem_map: dict[str, asyncio.Semaphore] = dict()
-
-    # aiohttp连接池调优
     connector = aiohttp.TCPConnector(
         limit=CONCURRENCY_HTTP,
         ttl_dns_cache=300,
         force_close=False
     )
-
     valid_tmp = os.path.join(SOURCES_DIR, ".valid.tmp")
     fail_tmp = os.path.join(SOURCES_DIR, ".fail.tmp")
     results = []
-
     async with aiohttp.ClientSession(connector=connector) as session:
         async with asyncio.TaskGroup() as tg:
             task_list = [
@@ -421,7 +406,6 @@ async def run_speed_test():
             f_fail = open(fail_tmp, "w", encoding="utf-8")
             try:
                 for task in asyncio.as_completed(task_list):
-                    # 测速阶段超时检查
                     if time.time() - speed_test_start > MAX_SPEED_TEST_RUN_TIME:
                         print(f"⚠️ [STEP4] 测速阶段达到最大时长 {MAX_SPEED_TEST_RUN_TIME}s，触发TaskGroup取消全部测速任务")
                         for t in task_list:
@@ -429,7 +413,6 @@ async def run_speed_test():
                                 t.cancel()
                         stop_speed_test = True
                         break
-
                     res, origin_line, err_reason = await task
                     completed_count += 1
                     if res is not None:
@@ -438,7 +421,6 @@ async def run_speed_test():
                             f_valid.write(origin_line + "\n")
                         else:
                             f_fail.write(origin_line + "\n")
-
                     if completed_count % 50 == 0:
                         valid_cnt = sum(1 for r in results if r["valid"])
                         fail_cnt = len(results) - valid_cnt
@@ -446,25 +428,21 @@ async def run_speed_test():
             finally:
                 f_valid.close()
                 f_fail.close()
-
-    # 临时文件替换正式文件
     valid_out = os.path.join(SOURCES_DIR, "有效直播源.txt")
     fail_out = os.path.join(SOURCES_DIR, "测速失败.txt")
     if os.path.exists(valid_tmp):
         os.replace(valid_tmp, valid_out)
     if os.path.exists(fail_tmp):
         os.replace(fail_tmp, fail_out)
-
     valid_final = sum(1 for r in results if r["valid"])
     fail_final = len(results) - valid_final
     print(f"[STEP4-END] 测速结束；有效:{valid_final}条；本轮失败:{fail_final}条；总结果集:{len(results)}")
     return results
 
 
-# ===================== 6.测速结果处理｜【方案A：累积持久黑名单】 =====================
+# ===================== 5.测速结果处理｜【方案A：累积持久黑名单】 =====================
 def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
     out_path = os.path.join(SOURCES_DIR, "永久失效.txt")
-    # 读取历史黑名单
     old_lines = []
     old_url_set = set()
     if os.path.exists(out_path):
@@ -476,7 +454,6 @@ def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
                 old_lines.append(ll)
                 u = ll.split(",", 1)[1].split("#")[0].strip()
                 old_url_set.add(u)
-    # 收集本轮新触发永久失效、且不在历史黑名单内的行
     new_collect = []
     for line in all_result_lines:
         if "," not in line:
@@ -484,17 +461,15 @@ def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
         url = line.split(",", 1)[1].split("#")[0].strip()
         if url in permanent_invalid_urls and url not in old_url_set:
             new_collect.append(line.strip())
-    # 合并旧+新增，按URL去重
     total_lines = old_lines + new_collect
     final_map = {}
     for l in total_lines:
         u = l.split(",", 1)[1].split("#")[0].strip()
         final_map[u] = l
     final_lines = list(final_map.values())
-    # 写回完整黑名单
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
-    print(f"[STEP5-DEBUG] 永久失效.txt：历史载入{len(old_lines)}条；本轮新增{len(new_collect)}条；合并后总黑名单:{len(final_lines)}条")
+    print(f"[STEP5-END] 永久失效.txt更新完成；历史载入{len(old_lines)}条；本轮新增{len(new_collect)}条；合并后总黑名单:{len(final_lines)}条")
 
 
 def generate_source_report(source_map, results):
@@ -526,10 +501,10 @@ def generate_source_report(source_map, results):
     bad_out = os.path.join(SOURCES_DIR, "失效源地址.txt")
     with open(bad_out, "w", encoding="utf-8") as f:
         f.write("\n".join(bad_urls))
-    print(f"[STEP5-DEBUG] 源质量报告已生成，失效率TOP3源：{bad_urls}")
+    print(f"[STEP5-END] 源质量报告已生成，失效率TOP3源：{bad_urls}")
 
 
-# =====================7.有效直播源处理&分类 =====================
+# =====================6.有效直播源处理&分类 =====================
 def process_valid_sources():
     path = os.path.join(SOURCES_DIR, "有效直播源.txt")
     if not os.path.exists(path):
@@ -549,19 +524,16 @@ def process_valid_sources():
     lines = sorted(list(set(lines)), key=lambda x: x.split(",")[0])
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"[STEP6-DEBUG] 有效源处理：输入{raw_count}，去重排序后输出{len(lines)}条")
+    print(f"[STEP6-END] 有效源处理完成：输入{raw_count}，去重排序后输出{len(lines)}条")
     return lines
 
 
 def generate_categories(sources):
-    # 清空旧分类文件
     for f in os.listdir(CATEGORY_DIR):
         os.remove(os.path.join(CATEGORY_DIR, f))
     import sys
     sys.path.insert(0, CONFIG_DIR)
-    # 使用新版分类函数 get_channel_categories
     from category import get_channel_categories, get_all_category_names
-    # 输出全部可枚举分类总数日志
     all_defined_cats = get_all_category_names()
     print(f"[STEP6-INFO] 代码预定义全部分类总数：{len(all_defined_cats)}")
     cat_map = defaultdict(list)
@@ -607,16 +579,18 @@ async def main():
     print("=" * 60)
     global start_time
     start_time = time.time()
+
     source_map = await download_sources()
     if not source_map:
         print("[FATAL]下载阶段无数据，任务直接退出")
         return
+
     merge_sources()
     process_merged()
     results = await run_speed_test()
+
     if len(results) > 0:
         perm_invalid_url_set = update_fail_counter(results)
-        # 收集本轮全部原始带#源地址的行
         all_result_lines = []
         fail_file = os.path.join(SOURCES_DIR, "测速失败.txt")
         valid_file = os.path.join(SOURCES_DIR, "有效直播源.txt")
@@ -624,6 +598,7 @@ async def main():
             if os.path.exists(fp):
                 with open(fp, "r", encoding="utf-8") as f:
                     all_result_lines.extend([clean_text(l) for l in f if clean_text(l)])
+
         update_permanent_invalid(perm_invalid_url_set, all_result_lines)
         generate_source_report(source_map, results)
         valid_sources = process_valid_sources()
@@ -631,6 +606,7 @@ async def main():
             generate_categories(valid_sources)
     else:
         print("[WARN]测速结果为空，跳过统计、分类")
+
     elapsed = round(time.time() - start_time, 2)
     print("=" * 60)
     print(f"✅全部流程结束，总耗时 {elapsed} 秒")
