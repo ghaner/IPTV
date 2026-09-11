@@ -1,1 +1,2 @@
 辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+辽源新闻综合 [Geo-blocked],https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8

@@ -3,13 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="下沙-游鸿明",下沙-游鸿明
 https://vd3.bdstatic.com/mda-nj0br2cz06fh2jgb/sc/cae_h264/1664612575982009744/mda-nj0br2cz06fh2jgb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="光良-童话",光良-童话
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhcjp3c77u6lekc7am0&ratio=720p&line=0
+#EXTINF:-1 tvg-id="" tvg-name="光良-童话",光良-童话
 http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰传奇-奢香夫人",凤凰传奇-奢香夫人
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-id="" tvg-name="刘德华",刘德华
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-id="" tvg-name="刘德华-电影",刘德华-电影
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424
 #EXTINF:-1 tvg-id="" tvg-name="刘德华电影",刘德华电影
 https://live.metshop.top/huya/11342424
 #EXTINF:-1 tvg-id="" tvg-name="刘若英-很爱很爱你",刘若英-很爱很爱你
@@ -48,8 +46,6 @@ http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="孟庭苇-风里的梦",孟庭苇-风里的梦
 http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="张信哲",张信哲
-https://vd4.bdstatic.com/mda-paq1rstx5psmnh4d/sc/cae_h264/1674629486930515540/mda-paq1rstx5psmnh4d.mp4
 #EXTINF:-1 tvg-id="" tvg-name="张国荣-沉默是金",张国荣-沉默是金
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cgjuqvbc77uc1cnf47ag&ratio=720p&line=0
 #EXTINF:-1 tvg-id="" tvg-name="张国荣与周润发的兄弟情",张国荣与周润发的兄弟情
@@ -68,8 +64,6 @@ http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/14
 http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="张杰-星星",张杰-星星
 https://vd3.bdstatic.com/mda-mcf4jracp0aq1b64/sc/cae_h264/1615836158/mda-mcf4jracp0aq1b64.mp4
-#EXTINF:-1 tvg-id="" tvg-name="林忆莲-假如让你吻下去",林忆莲-假如让你吻下去
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cm13h63c77u825g1pq90&ratio=720p&line=0
 #EXTINF:-1 tvg-id="" tvg-name="梁静茹-勇气",梁静茹-勇气
 http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="梁静茹-问",梁静茹-问
@@ -132,8 +126,6 @@ https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
 https://vd4.bdstatic.com/mda-nk78bdfwcjeh3hvw/720p/h264/1667886784673447421/mda-nk78bdfwcjeh3hvw.mp4
 #EXTINF:-1 tvg-id="" tvg-name="钟爱陶喆",钟爱陶喆
 https://live.ottiptv.cc/huya/30080186
-#EXTINF:-1 tvg-id="" tvg-name="陈奕迅-落花流水",陈奕迅-落花流水
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cngumojc77ubsn73764g&ratio=720p&line=0
 #EXTINF:-1 tvg-id="" tvg-name="陈慧娴-人生何处不相逢",陈慧娴-人生何处不相逢
 http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陈慧娴-千千阙歌",陈慧娴-千千阙歌
@@ -142,8 +134,6 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cobq6e3c77udq71o
 http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陈慧娴-归来吧",陈慧娴-归来吧
 http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陈慧娴-情意结",陈慧娴-情意结
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7mte0bc77u646crfqj0&ratio=720p&line=0
 #EXTINF:-1 tvg-id="" tvg-name="陈慧娴-红茶馆",陈慧娴-红茶馆
 http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陈慧娴-跳舞街",陈慧娴-跳舞街
@@ -165,6 +155,6 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2j1oprc77u04674
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-伤感的恋人",黄凯芹-伤感的恋人
 http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
-http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
+#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
+http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8

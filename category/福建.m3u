@@ -2,10 +2,12 @@
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="福建公共",福建公共
 https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="" tvg-name="福建新闻",福建新闻
-http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿",福建少儿
+http://183.250.156.180:9999/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福建新闻",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="福建新闻",福建新闻
+http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="福建旅游",福建旅游
 https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="福建武夷山玉女峰",福建武夷山玉女峰
