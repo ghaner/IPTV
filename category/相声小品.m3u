@@ -1,13 +1,17 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
-https://live.ottiptv.cc/douyu/9286868
-#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
 https://goodiptv.club/douyu/9286868
-#EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
-https://live.ottiptv.cc/douyu/9817729
+#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
+https://live.ottiptv.cc/douyu/9286868
+#EXTINF:-1 tvg-id="" tvg-name="《东北小品》",《东北小品》
+https://live.ottiptv.cc/yy/29600150
+#EXTINF:-1 tvg-id="" tvg-name="东北小品王",东北小品王
+https://live.ottiptv.cc/yy/34313906
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
 http://tv.ximix.us/douyu/9817729
+#EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
+https://live.ottiptv.cc/douyu/9817729
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝经典小品",宋小宝经典小品
 https://goodiptv.club/douyu/9817729
 #EXTINF:-1 tvg-id="" tvg-name="巩汉林小品",巩汉林小品
@@ -39,6 +43,6 @@ https://live.ottiptv.cc/douyu/10419541
 #EXTINF:-1 tvg-id="" tvg-name="赵本山小品",赵本山小品
 http://tv.ximix.us/douyu/9817716
 #EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
-https://live.ottiptv.cc/douyu/9817716
-#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
 https://goodiptv.club/douyu/9817716
+#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
+https://live.ottiptv.cc/douyu/9817716
