@@ -1,67 +1,65 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://f.123.rr.kg/163189/cctv2
+http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路14』
+http://120.76.248.139/live/bfgd/4200000061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+http://2280.eu.org:1234/631780532$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://114.254.38.234:8888/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://chen.ccwu.cc:1234/631780532$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://2280.eu.org:1234/631780532$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://218.206.193.218:8888/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8
+http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://114.254.38.234:8888/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://pull-hls-f26.douyincdn.com/media/stream-119931326014423724.m3u8?expire=6aaa3da5&sign=9793a0121f9fb1453226a767c858b368&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609091456360226BD6719C601C32015-nEZq6r
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://f.123.rr.kg/163189/cctv2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://218.206.193.218:8888/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://2280.eu.org:1234/631780532$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="上海第一财经",上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方财经",东方财经
@@ -71,18 +69,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京财经",北京财经
 http://8.138.7.223/tv/bj.php?id=0005
 #EXTINF:-1 tvg-id="" tvg-name="深圳财经生活",深圳财经生活
-http://nn.7x9d.cn/深圳最新.php?id=szcjsh
-#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活",深圳财经生活
 http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活",深圳财经生活
+http://nn.7x9d.cn/深圳最新.php?id=szcjsh
 #EXTINF:-1 tvg-id="" tvg-name="点掌财经",点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="第一财经",第一财经
-http://ls.qingting.fm/live/276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一财经",第一财经
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一财经",第一财经
 http://8.138.7.223/tv/5gtv.php?id=17
 #EXTINF:-1 tvg-id="" tvg-name="第一财经",第一财经
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=kztZo3&tk=FgM0vQMejxvG
+http://ls.qingting.fm/live/276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一财经",第一财经
 http://123.207.224.130:123/shanghai/caijing.php?id=dycj

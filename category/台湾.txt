@@ -3,13 +3,11 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 中天新闻台,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34817
-中天新闻台,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻台,http://rihou.cc:555/tv/中天新闻
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 纬来体育台,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
 纬来日本台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34853

@@ -1,9 +1,5 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="-小癲",-小癲
-https://live.ottiptv.cc/huya/11602065
-#EXTINF:-1 tvg-id="" tvg-name="-若凌Provence-",-若凌Provence-
-https://live.ottiptv.cc/huya/11352955
 #EXTINF:-1 tvg-id="" tvg-name="ByDiy",ByDiy
 https://live.ottiptv.cc/huya/20985807
 #EXTINF:-1 tvg-id="" tvg-name="Time小时间",Time小时间
@@ -18,8 +14,6 @@ https://live.ottiptv.cc/huya/20969093
 https://live.ottiptv.cc/huya/24609812
 #EXTINF:-1 tvg-id="" tvg-name="十五块五吴清鸥",十五块五吴清鸥
 https://live.ottiptv.cc/huya/30080237
-#EXTINF:-1 tvg-id="" tvg-name="千里",千里
-https://live.ottiptv.cc/huya/20985776
 #EXTINF:-1 tvg-id="" tvg-name="古咕咕",古咕咕
 https://live.ottiptv.cc/huya/29465875
 #EXTINF:-1 tvg-id="" tvg-name="吃点好的吧",吃点好的吧
@@ -39,9 +33,9 @@ https://live.ottiptv.cc/huya/20985830
 #EXTINF:-1 tvg-id="" tvg-name="尐饭团",尐饭团
 https://live.ottiptv.cc/huya/11352907
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314157
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
 https://live.ottiptv.cc/huya/21241845
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314157
 #EXTINF:-1 tvg-id="" tvg-name="我爱黑科技",我爱黑科技
 https://live.ottiptv.cc/huya/11602068
 #EXTINF:-1 tvg-id="" tvg-name="摄氏零度",摄氏零度
@@ -80,8 +74,6 @@ https://live.ottiptv.cc/huya/11336725
 https://live.ottiptv.cc/huya/20969140
 #EXTINF:-1 tvg-id="" tvg-name="耳姬",耳姬
 https://live.ottiptv.cc/huya/21241812
-#EXTINF:-1 tvg-id="" tvg-name="葱花",葱花
-https://live.ottiptv.cc/huya/11352938
 #EXTINF:-1 tvg-id="" tvg-name="蝉噪见之矣",蝉噪见之矣
 https://live.ottiptv.cc/huya/29982609
 #EXTINF:-1 tvg-id="" tvg-name="西双版纳旅游",西双版纳旅游

@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="承德文化旅游",承德文化旅游
-https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="承德新闻综合",承德新闻综合
-https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
