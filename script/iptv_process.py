@@ -7,7 +7,6 @@ import time
 from datetime import datetime
 from collections import defaultdict
 from typing import Optional, Tuple
-
 # ===================== 基础配置 =====================
 # 文件夹路径
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -17,11 +16,9 @@ CATEGORY_DIR = os.path.join(BASE_DIR, "category")
 LOG_DIR = os.path.join(BASE_DIR, "log")
 # 持久化失败计数器文件
 FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
-
 # 创建必要文件夹
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
     os.makedirs(d, exist_ok=True)
-
 # 测速配置
 VLC_UA = "VLC/3.0.20 LibVLC/3.0.20"
 CONCURRENCY_HTTP = 15       # http请求并发
@@ -32,11 +29,9 @@ MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # 仅测速阶段最大运行时�
 PERMANENT_FAIL_THRESHOLD = 3  # 连续失败N轮标记永久失效
 HTTP_READ_BYTES = 2048       # http读取流字节数，优化检测准确性
 SKIP_AUDIO_ONLY_STREAM = False # 是否跳过仅音频流；True=仅音频视为无效，False允许纯音频源有效
-
 # 全局变量：控制测速强制终止(TaskGroup接管实际取消，保留兼容旧打印)
 stop_speed_test = False
 start_time = time.time()
-
 # ===================== 工具函数 =====================
 def load_json(path):
     """加载JSON文件【带调试日志】"""
@@ -57,18 +52,12 @@ def load_json(path):
     except Exception as e:
         print(f"[ERROR] 文件读取异常 {path}: {str(e)}")
         return []
-
-
 def clean_text(s):
     """清理空白字符"""
     return s.strip() if s else ""
-
-
 def url_standardize(url):
     """URL标准化"""
     return clean_text(url)
-
-
 def get_domain(url: str) -> str:
     """提取域名用于域名限流"""
     try:
@@ -77,8 +66,6 @@ def get_domain(url: str) -> str:
         return p.netloc or "unknown"
     except Exception:
         return "unknown"
-
-
 def parse_m3u(content, source_url):
     """解析M3U/M3U8文件，提取name和url"""
     sources = []
@@ -98,8 +85,6 @@ def parse_m3u(content, source_url):
                 sources.append(f"{clean_text(current_name)},{line} #{source_url}")
             current_name = ""
     return sources
-
-
 def parse_txt(content, source_url):
     """解析TXT直播源文件"""
     sources = []
@@ -115,8 +100,6 @@ def parse_txt(content, source_url):
         elif line.startswith("http"):
             sources.append(f"未知频道,{line} #{source_url}")
     return sources
-
-
 # ---------------- 失败计数器持久化工具 ----------------
 def load_fail_counter():
     """加载URL失败轮次计数器 {url: fail_count}"""
@@ -127,14 +110,10 @@ def load_fail_counter():
             return json.load(f)
     except Exception:
         return dict()
-
-
 def save_fail_counter(counter):
     """保存计数器到json"""
     with open(FAIL_COUNTER_FILE, "w", encoding="utf-8") as f:
         json.dump(counter, f, ensure_ascii=False, indent=2)
-
-
 def update_fail_counter(results):
     """根据本轮测速结果更新失败计数器
     有效源：重置计数为0；失败源：计数+1
@@ -155,8 +134,6 @@ def update_fail_counter(results):
     save_fail_counter(counter)
     print(f"[COUNTER-DEBUG] 更新失败计数器，达到阈值{PERMANENT_FAIL_THRESHOLD}轮失败URL数量：{len(permanent_invalid_urls)}")
     return permanent_invalid_urls
-
-
 # ===================== 1.下载直播源 =====================
 async def download_sources():
     """从配置文件下载所有直播源"""
@@ -195,8 +172,6 @@ async def download_sources():
         f.write("\n".join(all_sources))
     print(f"[STEP1-END] 下载完成，下载源.txt总条数：{len(all_sources)}")
     return source_map
-
-
 # ===================== 2.汇总新旧直播源 =====================
 def merge_sources():
     download = os.path.join(SOURCES_DIR, "下载源.txt")
@@ -218,8 +193,6 @@ def merge_sources():
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(merged))
     print(f"[STEP2-END] 汇总完成；下载源:{cnt_download}条；旧有效源:{cnt_valid_old}条；汇总.txt合计：{len(merged)}条")
-
-
 # ===================== 3.汇总直播源初步处理 =====================
 def process_merged():
     merged_path = os.path.join(SOURCES_DIR, "汇总.txt")
@@ -278,8 +251,6 @@ def process_merged():
     else:
         print(f"[STEP3-CHECK] ⚠️计数校验不匹配！输入:{input_total} 计算合计:{calc_total}，请检查计数逻辑")
     print(f"[STEP3-END] 初处理完成，初处理.txt剩余 {len(lines)} 条")
-
-
 # ===================== 4.直播源测速 =====================
 async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool, str, str, str, str]:
     try:
@@ -319,8 +290,6 @@ async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool,
                     await proc.wait()
     except Exception:
         return False, "", "", "", ""
-
-
 async def test_single_source(
     session: aiohttp.ClientSession,
     http_sem: asyncio.Semaphore,
@@ -373,8 +342,6 @@ async def test_single_source(
         raise
     except Exception:
         return None, line, "task_inner_exception"
-
-
 async def run_speed_test():
     input_path = os.path.join(SOURCES_DIR, "初处理.txt")
     if not os.path.exists(input_path):
@@ -438,8 +405,6 @@ async def run_speed_test():
     fail_final = len(results) - valid_final
     print(f"[STEP4-END] 测速结束；有效:{valid_final}条；本轮失败:{fail_final}条；总结果集:{len(results)}")
     return results
-
-
 # ===================== 5.测速结果处理｜【方案A：累积持久黑名单】 =====================
 def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
     out_path = os.path.join(SOURCES_DIR, "永久失效.txt")
@@ -470,8 +435,6 @@ def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
     print(f"[STEP5-END] 永久失效.txt更新完成；历史载入{len(old_lines)}条；本轮新增{len(new_collect)}条；合并后总黑名单:{len(final_lines)}条")
-
-
 def generate_source_report(source_map, results):
     total = defaultdict(int)
     valid = defaultdict(int)
@@ -502,8 +465,6 @@ def generate_source_report(source_map, results):
     with open(bad_out, "w", encoding="utf-8") as f:
         f.write("\n".join(bad_urls))
     print(f"[STEP5-END] 源质量报告已生成，失效率TOP3源：{bad_urls}")
-
-
 # =====================6.有效直播源处理&分类 =====================
 def process_valid_sources():
     path = os.path.join(SOURCES_DIR, "有效直播源.txt")
@@ -524,10 +485,24 @@ def process_valid_sources():
     lines = sorted(list(set(lines)), key=lambda x: x.split(",")[0])
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
+
+    # 新增：将有效直播源转为m3u格式输出到sources文件夹
+    m3u_out_path = os.path.join(SOURCES_DIR, "有效直播源.m3u")
+    epg_cfg = load_json(os.path.join(CONFIG_DIR, "epg.json"))
+    epg_url = epg_cfg.get("epg_url", "")
+    epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
+    with open(m3u_out_path, "w", encoding="utf-8") as fm:
+        fm.write("#EXTM3U\n")
+        if epg_url:
+            fm.write(f'#EXT-X-URL: {epg_url}\n')
+        for line in lines:
+            n, u = line.split(",", 1)
+            tvg_id = epg_map.get(n, "")
+            fm.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
+    print(f"[STEP6-INFO] 有效直播源.m3u已生成，路径:{m3u_out_path}")
+
     print(f"[STEP6-END] 有效源处理完成：输入{raw_count}，去重排序后输出{len(lines)}条")
     return lines
-
-
 def generate_categories(sources):
     for f in os.listdir(CATEGORY_DIR):
         os.remove(os.path.join(CATEGORY_DIR, f))
@@ -570,8 +545,6 @@ def generate_categories(sources):
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
         generated += 1
     print(f"[STEP6-END] 分类完成；命中规则:{match_count}条；归入未分类:{other_count}条；生成分类文件数量：{generated}")
-
-
 # =====================主流程 =====================
 async def main():
     print("=" * 60)
@@ -579,16 +552,13 @@ async def main():
     print("=" * 60)
     global start_time
     start_time = time.time()
-
     source_map = await download_sources()
     if not source_map:
         print("[FATAL]下载阶段无数据，任务直接退出")
         return
-
     merge_sources()
     process_merged()
     results = await run_speed_test()
-
     if len(results) > 0:
         perm_invalid_url_set = update_fail_counter(results)
         all_result_lines = []
@@ -598,7 +568,6 @@ async def main():
             if os.path.exists(fp):
                 with open(fp, "r", encoding="utf-8") as f:
                     all_result_lines.extend([clean_text(l) for l in f if clean_text(l)])
-
         update_permanent_invalid(perm_invalid_url_set, all_result_lines)
         generate_source_report(source_map, results)
         valid_sources = process_valid_sources()
@@ -606,12 +575,9 @@ async def main():
             generate_categories(valid_sources)
     else:
         print("[WARN]测速结果为空，跳过统计、分类")
-
     elapsed = round(time.time() - start_time, 2)
     print("=" * 60)
     print(f"✅全部流程结束，总耗时 {elapsed} 秒")
     print("=" * 60)
-
-
 if __name__ == "__main__":
     asyncio.run(main())
