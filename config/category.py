@@ -71,7 +71,7 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     SCENIC_ZONE_NAMES = _load_json_keys("sceniczone.json")
     DOCUMENTARY_NAMES = _load_json_keys("documentary.json")
     TAIWAN_NAMES = _load_json_keys("taiwan.json")
-    HUYASHOW_LINKS = _load_json_keys("huya.json")
+    HUYASHOW_LINKS = _load_json_keys("huyashow.json")
     # -------- link链接匹配平台分类 --------
     if "/huya" in link_raw:
         result_cats.add("huya")
