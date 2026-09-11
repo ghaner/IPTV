@@ -72,7 +72,7 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     """
     输入频道name、link(链接)，返回该频道归属的所有分类列表
     全部逐条归类，不要遗漏；一个频道可属于多个分类；无任何命中则归入【未分类】
-    ✅匹配逻辑已改为忽略大小写，输出分类名称保持原始大小写
+    ✅匹配逻辑忽略大小写，输出分类名称保持原始大小写
     :param name: 频道名称
     :param link: 直播源链接
     :return: 分类字符串列表
@@ -86,9 +86,8 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     raw_data = cache_data["raw"]
     lower_data = cache_data["lower"]
 
-    # 修复：定义base_categories局部变量
+    #定义局部变量
     base_categories = raw_data["base_categories"]
-
     PROVINCE_LIST = raw_data["province"]
     PROVINCE_LOWER = lower_data["province"]
     CITY_LIST = raw_data["city"]
@@ -102,6 +101,8 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     SCENIC_ZONE_NAMES = raw_data["sceniczone"]
     SCENIC_ZONE_LOWER = lower_data["sceniczone"]
     DOCUMENTARY_NAMES = raw_data["documentary"]
+    DOCUMENTARY_LOWER = lower_data["documentary"]
+    DOCUMENTARY_LINKS = raw_data["documentary"]
     DOCUMENTARY_LOWER = lower_data["documentary"]
     TAIWAN_NAMES = raw_data["taiwan"]
     TAIWAN_LOWER = lower_data["taiwan"]
@@ -123,10 +124,12 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     for show_raw, show_low in zip(SHOW_LINKS, SHOW_LOWER):
         if show_low in link_lower:
             result_cats.add("综艺")
-
     for mtcommentary_raw, mtcommentary_low in zip(MTCOMMENTARY_LINKS, MTCOMMENTARY_LOWER):
         if mtcommentary_low in link_lower:
             result_cats.add("影视解说")
+    for DOCUMENTARY_raw, DOCUMENTARY_low in zip(DOCUMENTARY_LINKS, DOCUMENTARY_LOWER):
+        if DOCUMENTARY_low in link_lower:
+            result_cats.add("纪录片")            
     # -------- name名称匹配基础分类名称（忽略大小写） --------
     for cat in base_categories:
         if cat.lower() in name_lower:
