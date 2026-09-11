@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 ,====== 凤凰卫视 ======
+http://0/0.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台HD
+http://218.206.193.218:8888/hls/110/index.m3u8
+#EXTINF:-1 ,====== 电影 ======
+http://1/1.m3u8
+#EXTINF:-1 ,冰冰影剧
+https://live.ottiptv.cc/douyu/74374
+#EXTINF:-1 ,特辑电影院
+https://live.ottiptv.cc/douyu/3637778
+#EXTINF:-1 ,超人
+https://live.ottiptv.cc/huya/23903164
+#EXTINF:-1 ,天火
+https://live.ottiptv.cc/yy/1382736715
+
+
+#EXTINF:-1 ,====== 电视剧 ======
+http://2/2.m3u8
+#EXTINF:-1 ,乡村爱情
+http://live.metshop.top/huya/30080255
+#EXTINF:-1 ,乡村爱情
+https://live.ottiptv.cc/huya/30080255
+#EXTINF:-1 ,乡村爱情
+http://tv.zimtv.cn/tv/player/api/huya.php?id=30080255
+#EXTINF:-1 ,地下交通站
+https://live.ottiptv.cc/yy/37880083
+#EXTINF:-1 ,地下交通站
+https://live.ottiptv.cc/yy/1352227227
+#EXTINF:-1 ,狂飙
+https://live.ottiptv.cc/yy/1354806550
+#EXTINF:-1 ,在暴雪时分
+https://live.metshop.top/huya/23865161
+#EXTINF:-1 ,在暴雪时分
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
+#EXTINF:-1 ,大染坊
+https://live.ottiptv.cc/yy/1353215589
+
+
+#EXTINF:-1 ,西游记 86版
+http://tv.zimtv.cn/tv/player/api/huya.php?id=26355861
+#EXTINF:-1 ,三国演义 
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 ,三国演义 
+https://live.ottiptv.cc/yy/1354936241
+#EXTINF:-1 ,三国演义
+https://live.ottiptv.cc/yy/1354930932
+#EXTINF:-1 ,水浒传 新
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
+#EXTINF:-1 ,欢乐颂
+https://live.ottiptv.cc/yy/1354932433
+#EXTINF:-1 ,欢乐颂
+https://live.ottiptv.cc/yy/1382851577
+#EXTINF:-1 ,伪装者
+https://live.ottiptv.cc/yy/1354936244
+
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059598
+#EXTINF:-1 ,你是我的荣耀
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352920
+#EXTINF:-1 ,永夜星河
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23734169
+#EXTINF:-1 ,刑事侦缉档案
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465856
+#EXTINF:-1 ,刑事侦缉档案
+https://live.metshop.top/huya/29465856
+#EXTINF:-1 ,风筝
+https://live.ottiptv.cc/yy/1354931585
+#EXTINF:-1 ,麻雀
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342433
+#EXTINF:-1 ,创世纪
+https://live.metshop.top/huya/29465852
+#EXTINF:-1 ,唐朝诡事录
+https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1 ,卫子夫
+https://live.ottiptv.cc/yy/1382735569
+#EXTINF:-1 ,二炮手
+https://live.ottiptv.cc/yy/1354930964
+#EXTINF:-1 ,宰相刘罗锅
+https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1 ,宰相刘罗锅
+https://live.ottiptv.cc/yy/1382745191
+#EXTINF:-1 ,康熙微服私访记
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342418
+#EXTINF:-1 ,康熙微服私访记
+https://live.ottiptv.cc/yy/1352811698
+#EXTINF:-1 ,延禧宫略
+http://tv.zimtv.cn/tv/player/api/huya.php?id=26355864
+#EXTINF:-1 ,家有儿女
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352872
+#EXTINF:-1 ,开端
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342397
+#EXTINF:-1 ,少年包青天
+https://live.ottiptv.cc/yy/1356043677
+#EXTINF:-1 ,少年包青天
+https://live.ottiptv.cc/yy/1382736814
+
+#EXTINF:-1 ,犬王
+https://live.ottiptv.cc/yy/1354936141
+#EXTINF:-1 ,大江大河
+https://live.ottiptv.cc/yy/1382736806
+#EXTINF:-1 ,大江大河
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
+#EXTINF:-1 ,麻辣变形计
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352948
+#EXTINF:-1 ,庆余年
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
+#EXTINF:-1 ,我的体育老师
+https://live.ottiptv.cc/yy/1382745169
+#EXTINF:-1 ,我的前半生
+https://live.ottiptv.cc/yy/1382735564
+#EXTINF:-1 ,天道
+https://live.ottiptv.cc/yy/1382735574
+#EXTINF:-1 ,情满四合院
+https://live.ottiptv.cc/yy/1382735541
+#EXTINF:-1 ,如果岁月可回头
+https://live.ottiptv.cc/yy/1382736883
+#EXTINF:-1 ,新白娘子传奇
+http://luobo.bkpcp.top/yy/1354490667
+#EXTINF:-1 ,新白娘子传奇
+https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 ,新白娘子传奇
+https://live.ottiptv.cc/yy/1354930969
+#EXTINF:-1 ,你是我的荣耀
+https://live.ottiptv.cc/yy/1354931488
+#EXTINF:-1 ,仙剑奇侠传
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 ,雪豹
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29580970
+#EXTINF:-1 ,星汉灿烂・月升沧海
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336591
+#EXTINF:-1 ,李卫当官
+http://tv.zimtv.cn/tv/player/api/huya.php?id=26355788
+#EXTINF:-1 ,猫和老鼠
+https://live.ottiptv.cc/huya/11352879
+#EXTINF:-1 ,六扇门
+http://live.metshop.top/huya/21059578?cdn=alicdn
+#EXTINF:-1 ,六扇门
+https://live.ottiptv.cc/huya/21059578
+#EXTINF:-1 ,大明宫词
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059598
+#EXTINF:-1 ,武林外传
+https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 ,武林外传
+https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 ,法证先锋
+https://live.ottiptv.cc/yy/1354930939
+#EXTINF:-1 ,楚留香新传
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23863804
+#EXTINF:-1 ,甜蜜家园（人类怪物化）
+https://live.ottiptv.cc/huya/20969140
+#EXTINF:-1 ,最后生还者
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602086
+#EXTINF:-1 ,怒火救援
+http://tv.zimtv.cn/tv/player/api/huya.php?id=26355768
+#EXTINF:-1 ,====== = 综艺 = ======
+http://3/3.m3u8
+#EXTINF:-1 ,奔跑吧
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 ,奔跑吧
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 ,奔跑吧
+https://live.ottiptv.cc/huya/29465875
+#EXTINF:-1 ,run man
+https://live.ottiptv.cc/huya/24879365
+#EXTINF:-1 ,run man
+https://live.ottiptv.cc/huya/11336725
+#EXTINF:-1 ,极限挑战
+https://live.ottiptv.cc/huya/23352563
+#EXTINF:-1 ,极限挑战
+https://live.ottiptv.cc/huya/29982632
+#EXTINF:-1 ,开心俱乐部
+https://live.ottiptv.cc/huya/20969093
+#EXTINF:-1 ,我们的客栈
+https://live.ottiptv.cc/huya/24609812
+#EXTINF:-1 ,团建不能停
+https://live.ottiptv.cc/huya/23865124
+#EXTINF:-1 ,毛雪旺
+https://live.ottiptv.cc/huya/21059580
+#EXTINF:-1 ,战至巅峰
+https://live.ottiptv.cc/huya/20985869
+#EXTINF:-1 ,五十公里桃花坞
+https://live.ottiptv.cc/huya/20969125
+#EXTINF:-1 ,五十公里桃花坞
+https://live.ottiptv.cc/huya/29465869
+#EXTINF:-1 ,相声有新人
+https://live.ottiptv.cc/huya/20985830
+#EXTINF:-1 ,咱们穿越吧
+https://live.ottiptv.cc/huya/11352907
+#EXTINF:-1 ,咱们穿越吧
+https://live.ottiptv.cc/huya/21241812
+#EXTINF:-1 ,来吧冠军
+https://live.ottiptv.cc/huya/29982618
+#EXTINF:-1 ,心动的信号
+https://live.ottiptv.cc/huya/24314157
+#EXTINF:-1 ,五哈
+https://live.ottiptv.cc/huya/30080247
+#EXTINF:-1 ,二十四小时
+https://live.ottiptv.cc/huya/29982610
+#EXTINF:-1 ,脱口秀大会
+https://live.ottiptv.cc/huya/30080243
+#EXTINF:-1 ,现在就出发
+https://live.ottiptv.cc/huya/21059551
+#EXTINF:-1 ,王耀庆
+https://live.ottiptv.cc/huya/29982630
+#EXTINF:-1 ,嗨放派
+https://live.ottiptv.cc/huya/20985785
+#EXTINF:-1 ,欢乐喜剧人
+https://live.ottiptv.cc/huya/30080194
+#EXTINF:-1 ,少年团
+https://live.ottiptv.cc/huya/29982609
+#EXTINF:-1 ,====== 歌综艺 ======
+http://4/4.m3u8
+#EXTINF:-1 ,天赐的声音
+https://live.ottiptv.cc/huya/30080249
+#EXTINF:-1 ,中国新歌声
+https://live.ottiptv.cc/huya/21241845
+#EXTINF:-1 ,====== 演唱会 ======
+http://5/5.m3u8
+#EXTINF:-1 ,维密秀
+https://live.ottiptv.cc/huya/18501378,,,,,,,,,,,,,,
+#EXTINF:-1 ,====== 小品 ======
+http://6/6.m3u8
+#EXTINF:-1 ,巩汉林
+https://live.ottiptv.cc/huya/11602068
+#EXTINF:-1 ,东北F4
+https://live.ottiptv.cc/huya/11352938
+#EXTINF:-1 ,====== 电视栏目 ======
+http://7/7.m3u8
+#EXTINF:-1 ,百家讲坛
+https://live.ottiptv.cc/huya/11602032
+#EXTINF:-1 ,爱情保护战
+https://live.ottiptv.cc/huya/29465877
+#EXTINF:-1 ,中国新相亲
+https://live.ottiptv.cc/huya/20985780
+#EXTINF:-1 ,最强大脑
+https://live.ottiptv.cc/huya/29465880
+#EXTINF:-1 ,最强大脑
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465880
+#EXTINF:-1 ,娱乐百分百
+https://live.ottiptv.cc/huya/21059569
+#EXTINF:-1 ,====== 纪录片 ======
+http://8/8.m3u8
+#EXTINF:-1 ,极限重生
+https://live.ottiptv.cc/huya/20969143
+#EXTINF:-1 ,====== 影视 ======
+http://9/9.m3u8
+
+#EXTINF:-1 ,刀刀影院
+https://live.ottiptv.cc/douyu/747764
+#EXTINF:-1 ,华语影视
+https://live.ottiptv.cc/douyu/3928
+#EXTINF:-1 ,====== 电视剧频道 ======
+http://10/10.m3u8
+#EXTINF:-1 ,CCTV 8 电视剧
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0

@@ -98,6 +98,8 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     ACTOR_LOWER = lower_data["actor"]
     TV_DRAMA_NAMES = raw_data["teleplay"]
     TV_DRAMA_LOWER = lower_data["teleplay"]
+    TV_DRAMA_LINKS = raw_data["teleplay"]
+    TV_DRAMA_LOWER = lower_data["teleplay"]
     SCENIC_ZONE_NAMES = raw_data["sceniczone"]
     SCENIC_ZONE_LOWER = lower_data["sceniczone"]
     DOCUMENTARY_NAMES = raw_data["documentary"]
@@ -130,6 +132,9 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     for DOCUMENTARY_raw, DOCUMENTARY_low in zip(DOCUMENTARY_LINKS, DOCUMENTARY_LOWER):
         if DOCUMENTARY_low in link_lower:
             result_cats.add("纪录片")            
+    for TV_DRAMA_raw, TV_DRAMA_low in zip(TV_DRAMA_LINKS, TV_DRAMA_LOWER):
+        if TV_DRAMA_low in link_lower:
+            result_cats.add("电视剧")            
     # -------- name名称匹配基础分类名称（忽略大小写） --------
     for cat in base_categories:
         if cat.lower() in name_lower:
