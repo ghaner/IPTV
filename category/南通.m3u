@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="南通新闻综合",南通新闻综合
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=sbddYS&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="御所田南通",御所田南通
 https://live.ottiptv.cc/huya/26355773

@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="爱咕异世界：绘画交友 禁Ai的二次元社区",爱咕异世界：绘画交友 禁Ai的二次元社区
-https://live.ottiptv.cc/bilibili/31024260
-#EXTINF:-1 tvg-id="" tvg-name="祖传板绘老手艺，纯人工无ai！",祖传板绘老手艺，纯人工无ai！
-https://live.ottiptv.cc/bilibili/3235910
-#EXTINF:-1 tvg-id="" tvg-name="高难度淋美感",高难度淋美感
-https://live.ottiptv.cc/bilibili/2210380
+#EXTINF:-1 tvg-id="" tvg-name="给小女友播一会儿",给小女友播一会儿
+https://live.ottiptv.cc/bilibili/307021

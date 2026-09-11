@@ -1,101 +1,85 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="11No巴蒂11",11No巴蒂11
+https://live.ottiptv.cc/douyu/9455937
 #EXTINF:-1 tvg-id="" tvg-name="168我们幸福相伴",168我们幸福相伴
 https://live.ottiptv.cc/douyu/12892956
 #EXTINF:-1 tvg-id="" tvg-name="1900影剧室",1900影剧室
 https://live.ottiptv.cc/douyu/7796193
-#EXTINF:-1 tvg-id="" tvg-name="28岁电影",28岁电影
-https://live.ottiptv.cc/douyu/8884164
-#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
-https://goodiptv.club/douyu/9286868
 #EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
 https://live.ottiptv.cc/douyu/9286868
-#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
-https://live.ottiptv.cc/douyu/9643264
+#EXTINF:-1 tvg-id="" tvg-name="3030相声小品",3030相声小品
+https://goodiptv.club/douyu/9286868
 #EXTINF:-1 tvg-id="" tvg-name="5毒士",5毒士
 https://live.ottiptv.cc/douyu/9406600
-#EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
-https://live.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="7师傅",7师傅
 https://live.ottiptv.cc/douyu/17732
-#EXTINF:-1 tvg-id="" tvg-name="98博博",98博博
-https://live.ottiptv.cc/douyu/12824429
 #EXTINF:-1 tvg-id="" tvg-name="9iota",9iota
 https://live.ottiptv.cc/douyu/8881729
-#EXTINF:-1 tvg-id="" tvg-name="AAPLEDOG",AAPLEDOG
-https://live.ottiptv.cc/douyu/5133586
-#EXTINF:-1 tvg-id="" tvg-name="AK萌虎",AK萌虎
-https://live.ottiptv.cc/douyu/4049310
 #EXTINF:-1 tvg-id="" tvg-name="Acer丶宏正",Acer丶宏正
 https://live.ottiptv.cc/douyu/10670244
 #EXTINF:-1 tvg-id="" tvg-name="Angela小兔",Angela小兔
 https://live.ottiptv.cc/douyu/9617766
-#EXTINF:-1 tvg-id="" tvg-name="CNFly兔",CNFly兔
-https://live.ottiptv.cc/douyu/8943972
 #EXTINF:-1 tvg-id="" tvg-name="CmoStar",CmoStar
 https://live.ottiptv.cc/douyu/10282256
-#EXTINF:-1 tvg-id="" tvg-name="Co视文化",Co视文化
-https://live.ottiptv.cc/douyu/1060418
 #EXTINF:-1 tvg-id="" tvg-name="Devil青酱",Devil青酱
 https://live.ottiptv.cc/douyu/9510544
+#EXTINF:-1 tvg-id="" tvg-name="FGO丶Master1",FGO丶Master1
+https://live.ottiptv.cc/douyu/9477851
 #EXTINF:-1 tvg-id="" tvg-name="Hi欣欣",Hi欣欣
 https://live.ottiptv.cc/douyu/11996166
-#EXTINF:-1 tvg-id="" tvg-name="JhZj丶天明",JhZj丶天明
-https://live.ottiptv.cc/douyu/1006179
 #EXTINF:-1 tvg-id="" tvg-name="JustXiaIt嘻咦啊看",JustXiaIt嘻咦啊看
 https://live.ottiptv.cc/douyu/2660125
+#EXTINF:-1 tvg-id="" tvg-name="KBShinya",KBShinya
+https://live.ottiptv.cc/douyu/8970851
+#EXTINF:-1 tvg-id="" tvg-name="KUMA轻松熊博士",KUMA轻松熊博士
+https://live.ottiptv.cc/douyu/2282604
 #EXTINF:-1 tvg-id="" tvg-name="KyoKyo不是QQ",KyoKyo不是QQ
 https://live.ottiptv.cc/douyu/4732337
-#EXTINF:-1 tvg-id="" tvg-name="LR1245",LR1245
-https://live.ottiptv.cc/douyu/12534632
+#EXTINF:-1 tvg-id="" tvg-name="LOUIS樱",LOUIS樱
+https://live.ottiptv.cc/douyu/9235284
 #EXTINF:-1 tvg-id="" tvg-name="MJ小林大人嗷",MJ小林大人嗷
 https://live.ottiptv.cc/douyu/9204381
 #EXTINF:-1 tvg-id="" tvg-name="Melo的健身课堂",Melo的健身课堂
 https://live.ottiptv.cc/douyu/9306609
+#EXTINF:-1 tvg-id="" tvg-name="Michael说大片",Michael说大片
+https://live.ottiptv.cc/douyu/8841881
 #EXTINF:-1 tvg-id="" tvg-name="MordonFreeman是谁",MordonFreeman是谁
 https://live.ottiptv.cc/douyu/9524579
 #EXTINF:-1 tvg-id="" tvg-name="OneGuy丶",OneGuy丶
 https://live.ottiptv.cc/douyu/9734098
-#EXTINF:-1 tvg-id="" tvg-name="Only丶邵氏",Only丶邵氏
-https://live.ottiptv.cc/douyu/4246519
 #EXTINF:-1 tvg-id="" tvg-name="PP看动漫",PP看动漫
 https://live.ottiptv.cc/douyu/9837291
 #EXTINF:-1 tvg-id="" tvg-name="Poison丶冰冰",Poison丶冰冰
 https://live.ottiptv.cc/douyu/74374
-#EXTINF:-1 tvg-id="" tvg-name="QLIMES",QLIMES
-https://live.ottiptv.cc/douyu/1039732
-#EXTINF:-1 tvg-id="" tvg-name="SKYE魏",SKYE魏
-https://live.ottiptv.cc/douyu/9460834
+#EXTINF:-1 tvg-id="" tvg-name="RNDxc",RNDxc
+https://live.ottiptv.cc/douyu/4585643
 #EXTINF:-1 tvg-id="" tvg-name="Svip丶YoYo",Svip丶YoYo
 https://live.ottiptv.cc/douyu/3472959
-#EXTINF:-1 tvg-id="" tvg-name="WANJINNY",WANJINNY
-https://live.ottiptv.cc/douyu/9567755
 #EXTINF:-1 tvg-id="" tvg-name="a5dmin",a5dmin
 https://live.ottiptv.cc/douyu/1102973
 #EXTINF:-1 tvg-id="" tvg-name="a萌小翘臀",a萌小翘臀
 https://live.ottiptv.cc/douyu/7552568
-#EXTINF:-1 tvg-id="" tvg-name="bestthings丶放假",bestthings丶放假
-https://live.ottiptv.cc/douyu/11752532
 #EXTINF:-1 tvg-id="" tvg-name="dw151295068",dw151295068
 https://live.ottiptv.cc/douyu/12655359
-#EXTINF:-1 tvg-id="" tvg-name="epcdiy",epcdiy
-https://live.ottiptv.cc/douyu/8759268
 #EXTINF:-1 tvg-id="" tvg-name="gslaini",gslaini
 https://live.ottiptv.cc/douyu/6997954
+#EXTINF:-1 tvg-id="" tvg-name="sweet夏有甜",sweet夏有甜
+https://live.ottiptv.cc/douyu/4808115
+#EXTINF:-1 tvg-id="" tvg-name="xiaoxiao1004",xiaoxiao1004
+https://live.ottiptv.cc/douyu/2569874
 #EXTINF:-1 tvg-id="" tvg-name="一个机智张张",一个机智张张
 https://live.ottiptv.cc/douyu/9653063
 #EXTINF:-1 tvg-id="" tvg-name="一把钢刀镇斗虞",一把钢刀镇斗虞
 https://live.ottiptv.cc/douyu/7356023
+#EXTINF:-1 tvg-id="" tvg-name="一束光开始",一束光开始
+https://live.ottiptv.cc/douyu/8662684
 #EXTINF:-1 tvg-id="" tvg-name="一条正弦sin",一条正弦sin
 https://live.ottiptv.cc/douyu/9497985
 #EXTINF:-1 tvg-id="" tvg-name="一条闲木鱼",一条闲木鱼
 https://live.ottiptv.cc/douyu/10102281
 #EXTINF:-1 tvg-id="" tvg-name="一目十影",一目十影
 https://live.ottiptv.cc/douyu/3643605
-#EXTINF:-1 tvg-id="" tvg-name="一颗咕咕星",一颗咕咕星
-https://live.ottiptv.cc/douyu/9388557
-#EXTINF:-1 tvg-id="" tvg-name="一颗糖糖canddy",一颗糖糖canddy
-https://live.ottiptv.cc/douyu/9192852
 #EXTINF:-1 tvg-id="" tvg-name="万事通熊猫",万事通熊猫
 https://live.ottiptv.cc/douyu/7812810
 #EXTINF:-1 tvg-id="" tvg-name="万合出品",万合出品
@@ -106,14 +90,10 @@ https://goodiptv.club/douyu/9220456
 https://live.ottiptv.cc/douyu/9815091
 #EXTINF:-1 tvg-id="" tvg-name="三七电影V",三七电影V
 https://live.ottiptv.cc/douyu/9457792
-#EXTINF:-1 tvg-id="" tvg-name="三国演义-top1",三国演义-top1
-https://live.ottiptv.cc/douyu/12886210
+#EXTINF:-1 tvg-id="" tvg-name="三个老爸实验室",三个老爸实验室
+https://live.ottiptv.cc/douyu/9090487
 #EXTINF:-1 tvg-id="" tvg-name="三国颜老师",三国颜老师
 https://live.ottiptv.cc/douyu/12253936
-#EXTINF:-1 tvg-id="" tvg-name="三新动漫",三新动漫
-https://live.ottiptv.cc/douyu/9548279
-#EXTINF:-1 tvg-id="" tvg-name="不二真探",不二真探
-https://live.ottiptv.cc/douyu/10319545
 #EXTINF:-1 tvg-id="" tvg-name="世界未解之谜M",世界未解之谜M
 https://live.ottiptv.cc/douyu/9369468
 #EXTINF:-1 tvg-id="" tvg-name="丛林工程师",丛林工程师
@@ -124,26 +104,22 @@ https://live.ottiptv.cc/douyu/9541849
 https://live.ottiptv.cc/douyu/9393501
 #EXTINF:-1 tvg-id="" tvg-name="九叔说电影v",九叔说电影v
 https://live.ottiptv.cc/douyu/9348282
-#EXTINF:-1 tvg-id="" tvg-name="书岳钓鱼",书岳钓鱼
-https://live.ottiptv.cc/douyu/10100206
-#EXTINF:-1 tvg-id="" tvg-name="二哈讲电影",二哈讲电影
-https://live.ottiptv.cc/douyu/8778280
-#EXTINF:-1 tvg-id="" tvg-name="享看电影",享看电影
-https://live.ottiptv.cc/douyu/8974130
+#EXTINF:-1 tvg-id="" tvg-name="乡村水龙",乡村水龙
+https://live.ottiptv.cc/douyu/9486905
 #EXTINF:-1 tvg-id="" tvg-name="京城笑工坊",京城笑工坊
 https://live.ottiptv.cc/douyu/10329324
+#EXTINF:-1 tvg-id="" tvg-name="亮亮也是酿酿",亮亮也是酿酿
+https://live.ottiptv.cc/douyu/4340136
 #EXTINF:-1 tvg-id="" tvg-name="代娱说美剧",代娱说美剧
 https://live.ottiptv.cc/douyu/9123570
 #EXTINF:-1 tvg-id="" tvg-name="任已嘘嘘",任已嘘嘘
 https://live.ottiptv.cc/douyu/11777375
 #EXTINF:-1 tvg-id="" tvg-name="伊太刀刀",伊太刀刀
 https://live.ottiptv.cc/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-name="伦帝电影说",伦帝电影说
-https://live.ottiptv.cc/douyu/9368091
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V",伯乐说电影V
 https://live.ottiptv.cc/douyu/9386057
-#EXTINF:-1 tvg-id="" tvg-name="你是我的真爱吗m",你是我的真爱吗m
-https://live.ottiptv.cc/douyu/4184217
+#EXTINF:-1 tvg-id="" tvg-name="佛曰影视",佛曰影视
+https://live.ottiptv.cc/douyu/9671758
 #EXTINF:-1 tvg-id="" tvg-name="你的瑜伽女孩",你的瑜伽女孩
 https://live.ottiptv.cc/douyu/10205199
 #EXTINF:-1 tvg-id="" tvg-name="你真像个小丑",你真像个小丑
@@ -156,30 +132,32 @@ https://live.ottiptv.cc/douyu/5803764
 https://live.ottiptv.cc/douyu/10121755
 #EXTINF:-1 tvg-id="" tvg-name="傲娇的超级赛亚人",傲娇的超级赛亚人
 https://live.ottiptv.cc/douyu/4373285
+#EXTINF:-1 tvg-id="" tvg-name="兔兔MC维辰软桃团",兔兔MC维辰软桃团
+https://live.ottiptv.cc/douyu/8266799
 #EXTINF:-1 tvg-id="" tvg-name="农村一级野钓大师",农村一级野钓大师
 https://live.ottiptv.cc/douyu/9433591
 #EXTINF:-1 tvg-id="" tvg-name="农氏野钓",农氏野钓
 https://live.ottiptv.cc/douyu/10103361
 #EXTINF:-1 tvg-id="" tvg-name="冥王星丶丶",冥王星丶丶
 https://live.ottiptv.cc/douyu/296575
+#EXTINF:-1 tvg-id="" tvg-name="冬熊零食铺",冬熊零食铺
+https://live.ottiptv.cc/douyu/10586105
 #EXTINF:-1 tvg-id="" tvg-name="冬粮说故事",冬粮说故事
 https://live.ottiptv.cc/douyu/5192695
 #EXTINF:-1 tvg-id="" tvg-name="冰冰影厅✔原",冰冰影厅✔原
 https://goodiptv.club/douyu/74374
-#EXTINF:-1 tvg-id="" tvg-name="凤起青云",凤起青云
-https://live.ottiptv.cc/douyu/749124
-#EXTINF:-1 tvg-id="" tvg-name="分享备用",分享备用
-https://live.ottiptv.cc/douyu/5804577
-#EXTINF:-1 tvg-id="" tvg-name="刘哔电影",刘哔电影
-https://live.ottiptv.cc/douyu/2632223
 #EXTINF:-1 tvg-id="" tvg-name="刘德华",刘德华
 http://epg.112114.xyz/douyu/2516864
 #EXTINF:-1 tvg-id="" tvg-name="刘老师说电影",刘老师说电影
 https://live.ottiptv.cc/douyu/8317926
+#EXTINF:-1 tvg-id="" tvg-name="别闹了美越",别闹了美越
+https://live.ottiptv.cc/douyu/9548244
+#EXTINF:-1 tvg-id="" tvg-name="到远方旅行",到远方旅行
+https://live.ottiptv.cc/douyu/9614588
 #EXTINF:-1 tvg-id="" tvg-name="剧能下饭鹰",剧能下饭鹰
 https://live.ottiptv.cc/douyu/11931032
-#EXTINF:-1 tvg-id="" tvg-name="动画魂",动画魂
-https://live.ottiptv.cc/douyu/9393242
+#EXTINF:-1 tvg-id="" tvg-name="勤时铭悦",勤时铭悦
+https://live.ottiptv.cc/douyu/8790357
 #EXTINF:-1 tvg-id="" tvg-name="北京影帝",北京影帝
 https://live.ottiptv.cc/douyu/214827
 #EXTINF:-1 tvg-id="" tvg-name="北京影帝的分身",北京影帝的分身
@@ -194,6 +172,8 @@ https://goodiptv.club/douyu/3928
 https://live.ottiptv.cc/douyu/10084875
 #EXTINF:-1 tvg-id="" tvg-name="南国小豆豆",南国小豆豆
 https://live.ottiptv.cc/douyu/3310454
+#EXTINF:-1 tvg-id="" tvg-name="卿离倾心",卿离倾心
+https://live.ottiptv.cc/douyu/7286439
 #EXTINF:-1 tvg-id="" tvg-name="历史经典烩",历史经典烩
 https://live.ottiptv.cc/douyu/9487003
 #EXTINF:-1 tvg-id="" tvg-name="去种田的向凹凸",去种田的向凹凸
@@ -206,14 +186,14 @@ https://live.ottiptv.cc/douyu/9367541
 https://live.ottiptv.cc/douyu/9958943
 #EXTINF:-1 tvg-id="" tvg-name="可乐影院",可乐影院
 https://goodiptv.club/douyu/20415
+#EXTINF:-1 tvg-id="" tvg-name="史君观影",史君观影
+https://live.ottiptv.cc/douyu/9644669
 #EXTINF:-1 tvg-id="" tvg-name="史君说剧",史君说剧
 https://live.ottiptv.cc/douyu/9419771
-#EXTINF:-1 tvg-id="" tvg-name="吃草莓的果子狸V",吃草莓的果子狸V
-https://live.ottiptv.cc/douyu/9382395
-#EXTINF:-1 tvg-id="" tvg-name="君笑坊",君笑坊
-https://live.ottiptv.cc/douyu/9444093
-#EXTINF:-1 tvg-id="" tvg-name="吟游诗人基德",吟游诗人基德
-https://live.ottiptv.cc/douyu/9337049
+#EXTINF:-1 tvg-id="" tvg-name="叶墨的百妖馆",叶墨的百妖馆
+https://live.ottiptv.cc/douyu/9517351
+#EXTINF:-1 tvg-id="" tvg-name="吃鸡小表弟",吃鸡小表弟
+https://live.ottiptv.cc/douyu/9370197
 #EXTINF:-1 tvg-id="" tvg-name="吸奇侠",吸奇侠
 https://live.ottiptv.cc/douyu/8986636
 #EXTINF:-1 tvg-id="" tvg-name="周六野Zoey",周六野Zoey
@@ -222,20 +202,20 @@ https://live.ottiptv.cc/douyu/8912150
 https://live.ottiptv.cc/douyu/6434857
 #EXTINF:-1 tvg-id="" tvg-name="周星驰的直播间",周星驰的直播间
 https://live.ottiptv.cc/douyu/8257039
-#EXTINF:-1 tvg-id="" tvg-name="咆哮丶土拨鼠",咆哮丶土拨鼠
-https://live.ottiptv.cc/douyu/9564230
-#EXTINF:-1 tvg-id="" tvg-name="哇萨比抓马WD",哇萨比抓马WD
-https://live.ottiptv.cc/douyu/8808506
-#EXTINF:-1 tvg-id="" tvg-name="唐司令说电影",唐司令说电影
-https://live.ottiptv.cc/douyu/8774345
 #EXTINF:-1 tvg-id="" tvg-name="喜人电影",喜人电影
 https://live.ottiptv.cc/douyu/10348735
 #EXTINF:-1 tvg-id="" tvg-name="喜剧电影笑不停",喜剧电影笑不停
 https://live.ottiptv.cc/douyu/10298856
+#EXTINF:-1 tvg-id="" tvg-name="喝水少年孙十一",喝水少年孙十一
+https://live.ottiptv.cc/douyu/9619048
 #EXTINF:-1 tvg-id="" tvg-name="嘴巴鼻子没有沟",嘴巴鼻子没有沟
 https://live.ottiptv.cc/douyu/10217984
+#EXTINF:-1 tvg-id="" tvg-name="国际吸猫协会",国际吸猫协会
+https://live.ottiptv.cc/douyu/8657834
 #EXTINF:-1 tvg-id="" tvg-name="培根悖论唠唠嗑",培根悖论唠唠嗑
 https://live.ottiptv.cc/douyu/5354713
+#EXTINF:-1 tvg-id="" tvg-name="堇姑娘",堇姑娘
+https://live.ottiptv.cc/douyu/297689
 #EXTINF:-1 tvg-id="" tvg-name="壹丨哥",壹丨哥
 https://live.ottiptv.cc/douyu/5692901
 #EXTINF:-1 tvg-id="" tvg-name="夏利俊EWE路亚",夏利俊EWE路亚
@@ -248,22 +228,34 @@ https://live.ottiptv.cc/douyu/9498506
 https://live.ottiptv.cc/douyu/7256376
 #EXTINF:-1 tvg-id="" tvg-name="多多看车",多多看车
 https://live.ottiptv.cc/douyu/4921957
+#EXTINF:-1 tvg-id="" tvg-name="多巴安工作室",多巴安工作室
+https://live.ottiptv.cc/douyu/9446799
+#EXTINF:-1 tvg-id="" tvg-name="夜与白鲸V",夜与白鲸V
+https://live.ottiptv.cc/douyu/9734515
+#EXTINF:-1 tvg-id="" tvg-name="大坑侦探社",大坑侦探社
+https://live.ottiptv.cc/douyu/9440339
+#EXTINF:-1 tvg-id="" tvg-name="大帅比陈雅楠",大帅比陈雅楠
+https://live.ottiptv.cc/douyu/9718700
 #EXTINF:-1 tvg-id="" tvg-name="大庆在农村",大庆在农村
 https://live.ottiptv.cc/douyu/9477316
+#EXTINF:-1 tvg-id="" tvg-name="大汁猪",大汁猪
+https://live.ottiptv.cc/douyu/9191071
+#EXTINF:-1 tvg-id="" tvg-name="大河庄一世繁华",大河庄一世繁华
+https://live.ottiptv.cc/douyu/9501548
 #EXTINF:-1 tvg-id="" tvg-name="大漠叔叔Dm",大漠叔叔Dm
 https://live.ottiptv.cc/douyu/1109218
-#EXTINF:-1 tvg-id="" tvg-name="大米饭影视",大米饭影视
-https://live.ottiptv.cc/douyu/9824094
-#EXTINF:-1 tvg-id="" tvg-name="大趴电影院",大趴电影院
-https://live.ottiptv.cc/douyu/8747638
+#EXTINF:-1 tvg-id="" tvg-name="大胡子魏",大胡子魏
+https://live.ottiptv.cc/douyu/8792763
 #EXTINF:-1 tvg-id="" tvg-name="大雪压晴松",大雪压晴松
 https://live.ottiptv.cc/douyu/12618544
-#EXTINF:-1 tvg-id="" tvg-name="天JIANG",天JIANG
-https://live.ottiptv.cc/douyu/9455480
-#EXTINF:-1 tvg-id="" tvg-name="天堂电影1895",天堂电影1895
-https://live.ottiptv.cc/douyu/9573592
+#EXTINF:-1 tvg-id="" tvg-name="天才大熊猫啊",天才大熊猫啊
+https://live.ottiptv.cc/douyu/10646699
 #EXTINF:-1 tvg-id="" tvg-name="奇光主播",奇光主播
 https://live.ottiptv.cc/douyu/8009547
+#EXTINF:-1 tvg-id="" tvg-name="奇光主播",奇光主播
+https://goodiptv.club/douyu/8009547
+#EXTINF:-1 tvg-id="" tvg-name="奇光主播Blaze",奇光主播Blaze
+https://live.ottiptv.cc/douyu/12817608
 #EXTINF:-1 tvg-id="" tvg-name="奇光主播e",奇光主播e
 https://live.ottiptv.cc/douyu/11849873
 #EXTINF:-1 tvg-id="" tvg-name="奇光主播e",奇光主播e
@@ -274,38 +266,40 @@ https://live.ottiptv.cc/douyu/12560807
 https://live.ottiptv.cc/douyu/953193
 #EXTINF:-1 tvg-id="" tvg-name="奥雷卡尔克斯",奥雷卡尔克斯
 https://live.ottiptv.cc/douyu/1224356
-#EXTINF:-1 tvg-id="" tvg-name="女神金",女神金
-https://goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-id="" tvg-name="好剧看不停",好剧看不停
 https://live.ottiptv.cc/douyu/9388938
-#EXTINF:-1 tvg-id="" tvg-name="娱乐新番",娱乐新番
-https://live.ottiptv.cc/douyu/9564845
-#EXTINF:-1 tvg-id="" tvg-name="婧公子",婧公子
-https://live.ottiptv.cc/douyu/9464182
+#EXTINF:-1 tvg-id="" tvg-name="孙毛毛Suny",孙毛毛Suny
+https://live.ottiptv.cc/douyu/9424103
 #EXTINF:-1 tvg-id="" tvg-name="宇哥讲电影",宇哥讲电影
 https://live.ottiptv.cc/douyu/2104744
-#EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
-http://tv.ximix.us/douyu/9817729
+#EXTINF:-1 tvg-id="" tvg-name="宇宙探索飞船",宇宙探索飞船
+https://live.ottiptv.cc/douyu/9456028
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
 https://live.ottiptv.cc/douyu/9817729
+#EXTINF:-1 tvg-id="" tvg-name="宋小宝小品",宋小宝小品
+http://tv.ximix.us/douyu/9817729
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝经典小品",宋小宝经典小品
 https://goodiptv.club/douyu/9817729
-#EXTINF:-1 tvg-id="" tvg-name="宝蓝和朋友们",宝蓝和朋友们
-https://live.ottiptv.cc/douyu/9283356
+#EXTINF:-1 tvg-id="" tvg-name="将军侃片",将军侃片
+https://live.ottiptv.cc/douyu/8529736
+#EXTINF:-1 tvg-id="" tvg-name="尉迟杰影评",尉迟杰影评
+https://live.ottiptv.cc/douyu/8850682
 #EXTINF:-1 tvg-id="" tvg-name="小三笠笠酱",小三笠笠酱
 https://live.ottiptv.cc/douyu/9188696
+#EXTINF:-1 tvg-id="" tvg-name="小侠来了",小侠来了
+https://live.ottiptv.cc/douyu/9734042
 #EXTINF:-1 tvg-id="" tvg-name="小兰酱177",小兰酱177
 https://live.ottiptv.cc/douyu/11490031
-#EXTINF:-1 tvg-id="" tvg-name="小刚学长o",小刚学长o
-https://live.ottiptv.cc/douyu/9701497
-#EXTINF:-1 tvg-id="" tvg-name="小太V",小太V
-https://live.ottiptv.cc/douyu/9606954
+#EXTINF:-1 tvg-id="" tvg-name="小司马说剧",小司马说剧
+https://live.ottiptv.cc/douyu/9660127
 #EXTINF:-1 tvg-id="" tvg-name="小小天才搞笑视频",小小天才搞笑视频
 https://live.ottiptv.cc/douyu/9419678
 #EXTINF:-1 tvg-id="" tvg-name="小小甜的骑士",小小甜的骑士
 https://live.ottiptv.cc/douyu/9236042
 #EXTINF:-1 tvg-id="" tvg-name="小明不背锅up",小明不背锅up
 https://live.ottiptv.cc/douyu/117854
+#EXTINF:-1 tvg-id="" tvg-name="小木鱼de妈妈",小木鱼de妈妈
+https://live.ottiptv.cc/douyu/11199147
 #EXTINF:-1 tvg-id="" tvg-name="小毅主播K",小毅主播K
 https://live.ottiptv.cc/douyu/12851401
 #EXTINF:-1 tvg-id="" tvg-name="小毅主播L",小毅主播L
@@ -314,24 +308,14 @@ https://live.ottiptv.cc/douyu/12890335
 https://live.ottiptv.cc/douyu/11851549
 #EXTINF:-1 tvg-id="" tvg-name="小毅主播e",小毅主播e
 https://goodiptv.club/douyu/11851549
-#EXTINF:-1 tvg-id="" tvg-name="小毅主播q",小毅主播q
-https://live.ottiptv.cc/douyu/6906628
-#EXTINF:-1 tvg-id="" tvg-name="小毅主播q",小毅主播q
-https://goodiptv.club/douyu/6906628
 #EXTINF:-1 tvg-id="" tvg-name="小涛讲电影V",小涛讲电影V
 https://live.ottiptv.cc/douyu/8415464
-#EXTINF:-1 tvg-id="" tvg-name="小爱看大片",小爱看大片
-https://live.ottiptv.cc/douyu/9312805
 #EXTINF:-1 tvg-id="" tvg-name="小片片说大片",小片片说大片
 https://live.ottiptv.cc/douyu/4258555
 #EXTINF:-1 tvg-id="" tvg-name="小片片说大片二台",小片片说大片二台
 https://live.ottiptv.cc/douyu/10011547
 #EXTINF:-1 tvg-id="" tvg-name="小约翰可汗",小约翰可汗
 https://live.ottiptv.cc/douyu/9738854
-#EXTINF:-1 tvg-id="" tvg-name="小艾大叔",小艾大叔
-https://live.ottiptv.cc/douyu/9314668
-#EXTINF:-1 tvg-id="" tvg-name="小陶气说动漫",小陶气说动漫
-https://live.ottiptv.cc/douyu/9527700
 #EXTINF:-1 tvg-id="" tvg-name="小青放映社",小青放映社
 https://live.ottiptv.cc/douyu/9314689
 #EXTINF:-1 tvg-id="" tvg-name="小馒头叫包几",小馒头叫包几
@@ -342,20 +326,18 @@ https://live.ottiptv.cc/douyu/9396672
 https://live.ottiptv.cc/douyu/9627625
 #EXTINF:-1 tvg-id="" tvg-name="少打白骨精",少打白骨精
 https://live.ottiptv.cc/douyu/11531165
+#EXTINF:-1 tvg-id="" tvg-name="屁屁鲁男孩",屁屁鲁男孩
+https://live.ottiptv.cc/douyu/708526
 #EXTINF:-1 tvg-id="" tvg-name="山下智博official",山下智博official
 https://live.ottiptv.cc/douyu/9186596
 #EXTINF:-1 tvg-id="" tvg-name="崔杋圭五颜一",崔杋圭五颜一
 https://live.ottiptv.cc/douyu/8189873
-#EXTINF:-1 tvg-id="" tvg-name="工藤新医heart",工藤新医heart
-https://live.ottiptv.cc/douyu/8741860
-#EXTINF:-1 tvg-id="" tvg-name="已知艺术家漫画解说",已知艺术家漫画解说
-https://live.ottiptv.cc/douyu/5907076
+#EXTINF:-1 tvg-id="" tvg-name="崽崽撩电影",崽崽撩电影
+https://live.ottiptv.cc/douyu/8325511
 #EXTINF:-1 tvg-id="" tvg-name="师落",师落
 https://live.ottiptv.cc/douyu/6911044
 #EXTINF:-1 tvg-id="" tvg-name="庄尼兔拟音实验室",庄尼兔拟音实验室
 https://live.ottiptv.cc/douyu/9546169
-#EXTINF:-1 tvg-id="" tvg-name="庆皇龙利余",庆皇龙利余
-https://live.ottiptv.cc/douyu/9524210
 #EXTINF:-1 tvg-id="" tvg-name="开心嘴炮",开心嘴炮
 https://live.ottiptv.cc/douyu/9026377
 #EXTINF:-1 tvg-id="" tvg-name="开心锤锤",开心锤锤
@@ -366,10 +348,8 @@ https://live.ottiptv.cc/douyu/9018297
 http://tv.ximix.us/douyu/10153463
 #EXTINF:-1 tvg-id="" tvg-name="开心麻花经典小品",开心麻花经典小品
 https://live.ottiptv.cc/douyu/10153463
-#EXTINF:-1 tvg-id="" tvg-name="开箱嘤嘤怪",开箱嘤嘤怪
-https://live.ottiptv.cc/douyu/10319056
-#EXTINF:-1 tvg-id="" tvg-name="张宇394795",张宇394795
-https://live.ottiptv.cc/douyu/7508566
+#EXTINF:-1 tvg-id="" tvg-name="张小莹要独立",张小莹要独立
+https://live.ottiptv.cc/douyu/9647285
 #EXTINF:-1 tvg-id="" tvg-name="强人说笑",强人说笑
 https://live.ottiptv.cc/douyu/10329713
 #EXTINF:-1 tvg-id="" tvg-name="当幽兰剑遇上链子刀",当幽兰剑遇上链子刀
@@ -378,8 +358,6 @@ https://live.ottiptv.cc/douyu/6027991
 https://live.ottiptv.cc/douyu/3439096
 #EXTINF:-1 tvg-id="" tvg-name="当铁手团遇到光复社",当铁手团遇到光复社
 https://live.ottiptv.cc/douyu/5875025
-#EXTINF:-1 tvg-id="" tvg-name="影子叔V",影子叔V
-https://live.ottiptv.cc/douyu/9446338
 #EXTINF:-1 tvg-id="" tvg-name="影视梗大叔",影视梗大叔
 https://live.ottiptv.cc/douyu/9480648
 #EXTINF:-1 tvg-id="" tvg-name="彼岸心属MADEIN伊藤美优",彼岸心属MADEIN伊藤美优
@@ -388,32 +366,32 @@ https://live.ottiptv.cc/douyu/40471
 https://live.ottiptv.cc/douyu/3113309
 #EXTINF:-1 tvg-id="" tvg-name="徐大sao",徐大sao
 https://live.ottiptv.cc/douyu/7107176
-#EXTINF:-1 tvg-id="" tvg-name="德井鱼",德井鱼
-https://live.ottiptv.cc/douyu/9184833
+#EXTINF:-1 tvg-id="" tvg-name="御魔君",御魔君
+https://live.ottiptv.cc/douyu/9199976
 #EXTINF:-1 tvg-id="" tvg-name="快看张不止",快看张不止
 https://live.ottiptv.cc/douyu/8413226
 #EXTINF:-1 tvg-id="" tvg-name="怠惰守夜",怠惰守夜
 https://live.ottiptv.cc/douyu/8842108
-#EXTINF:-1 tvg-id="" tvg-name="怪事屋",怪事屋
-https://live.ottiptv.cc/douyu/8706084
 #EXTINF:-1 tvg-id="" tvg-name="怪兽马提尼电影",怪兽马提尼电影
 https://live.ottiptv.cc/douyu/9075333
-#EXTINF:-1 tvg-id="" tvg-name="怪味爆米花电影",怪味爆米花电影
-https://live.ottiptv.cc/douyu/9422144
+#EXTINF:-1 tvg-id="" tvg-name="恨鐵",恨鐵
+https://live.ottiptv.cc/douyu/6369954
 #EXTINF:-1 tvg-id="" tvg-name="恰饭橘",恰饭橘
 https://live.ottiptv.cc/douyu/7974136
 #EXTINF:-1 tvg-id="" tvg-name="悬疑MOVIE",悬疑MOVIE
 https://live.ottiptv.cc/douyu/9601429
 #EXTINF:-1 tvg-id="" tvg-name="懒猫是只喵",懒猫是只喵
 https://live.ottiptv.cc/douyu/260322
-#EXTINF:-1 tvg-id="" tvg-name="戏晶SHOW",戏晶SHOW
-https://live.ottiptv.cc/douyu/9565130
-#EXTINF:-1 tvg-id="" tvg-name="成龙历险纪",成龙历险纪
-https://live.ottiptv.cc/douyu/2287949
+#EXTINF:-1 tvg-id="" tvg-name="我叫孙火旺",我叫孙火旺
+https://live.ottiptv.cc/douyu/9770949
+#EXTINF:-1 tvg-id="" tvg-name="我是一只粽子啊啊",我是一只粽子啊啊
+https://live.ottiptv.cc/douyu/8867276
 #EXTINF:-1 tvg-id="" tvg-name="我砸晕了牛顿奥",我砸晕了牛顿奥
 https://live.ottiptv.cc/douyu/1218414
 #EXTINF:-1 tvg-id="" tvg-name="戴萌兔",戴萌兔
 https://live.ottiptv.cc/douyu/9522315
+#EXTINF:-1 tvg-id="" tvg-name="户外老曹",户外老曹
+https://live.ottiptv.cc/douyu/9957389
 #EXTINF:-1 tvg-id="" tvg-name="扒圈圈V",扒圈圈V
 https://live.ottiptv.cc/douyu/9649913
 #EXTINF:-1 tvg-id="" tvg-name="拳击大王",拳击大王
@@ -422,18 +400,12 @@ https://live.ottiptv.cc/douyu/9385340
 https://live.ottiptv.cc/douyu/9484105
 #EXTINF:-1 tvg-id="" tvg-name="挖沟连彭沟长",挖沟连彭沟长
 https://live.ottiptv.cc/douyu/8413092
-#EXTINF:-1 tvg-id="" tvg-name="搞笑动漫大本营",搞笑动漫大本营
-https://live.ottiptv.cc/douyu/9650181
+#EXTINF:-1 tvg-id="" tvg-name="探秘者大正",探秘者大正
+https://live.ottiptv.cc/douyu/9330485
 #EXTINF:-1 tvg-id="" tvg-name="敢来碰我",敢来碰我
 https://live.ottiptv.cc/douyu/10308225
-#EXTINF:-1 tvg-id="" tvg-name="敬汉卿250",敬汉卿250
-https://live.ottiptv.cc/douyu/2912165
-#EXTINF:-1 tvg-id="" tvg-name="数据库saber",数据库saber
-https://live.ottiptv.cc/douyu/9720506
 #EXTINF:-1 tvg-id="" tvg-name="文侠灬楊楊",文侠灬楊楊
 https://live.ottiptv.cc/douyu/10317257
-#EXTINF:-1 tvg-id="" tvg-name="文曰小强",文曰小强
-https://live.ottiptv.cc/douyu/2680501
 #EXTINF:-1 tvg-id="" tvg-name="文西与阿漆",文西与阿漆
 https://live.ottiptv.cc/douyu/8737695
 #EXTINF:-1 tvg-id="" tvg-name="斗鱼恐怖游戏合集",斗鱼恐怖游戏合集
@@ -442,6 +414,8 @@ https://live.ottiptv.cc/douyu/10401481
 https://goodiptv.club/douyu/85894
 #EXTINF:-1 tvg-id="" tvg-name="斗鱼音乐MV频道",斗鱼音乐MV频道
 https://goodiptv.club/douyu/3870925
+#EXTINF:-1 tvg-id="" tvg-name="旧梦随人心",旧梦随人心
+https://live.ottiptv.cc/douyu/692533
 #EXTINF:-1 tvg-id="" tvg-name="昆特牌之大哥食正野",昆特牌之大哥食正野
 https://live.ottiptv.cc/douyu/7919720
 #EXTINF:-1 tvg-id="" tvg-name="星君说电影",星君说电影
@@ -450,8 +424,6 @@ https://live.ottiptv.cc/douyu/8014467
 https://live.ottiptv.cc/douyu/9570579
 #EXTINF:-1 tvg-id="" tvg-name="是个小可爱iiii",是个小可爱iiii
 https://live.ottiptv.cc/douyu/9650782
-#EXTINF:-1 tvg-id="" tvg-name="是你的迷弟吖",是你的迷弟吖
-https://live.ottiptv.cc/douyu/7039598
 #EXTINF:-1 tvg-id="" tvg-name="是小x同学呀",是小x同学呀
 https://live.ottiptv.cc/douyu/9415020
 #EXTINF:-1 tvg-id="" tvg-name="是忆昔啊",是忆昔啊
@@ -462,10 +434,12 @@ https://live.ottiptv.cc/douyu/426517
 https://live.ottiptv.cc/douyu/1275878
 #EXTINF:-1 tvg-id="" tvg-name="有部电影儿",有部电影儿
 https://live.ottiptv.cc/douyu/9736479
-#EXTINF:-1 tvg-id="" tvg-name="朱一旦的枯燥生活v",朱一旦的枯燥生活v
-https://live.ottiptv.cc/douyu/7907979
+#EXTINF:-1 tvg-id="" tvg-name="杀人飯",杀人飯
+https://live.ottiptv.cc/douyu/9600777
 #EXTINF:-1 tvg-id="" tvg-name="李允儿er的助眠小窝",李允儿er的助眠小窝
 https://live.ottiptv.cc/douyu/9038894
+#EXTINF:-1 tvg-id="" tvg-name="林九影视",林九影视
+https://live.ottiptv.cc/douyu/7212528
 #EXTINF:-1 tvg-id="" tvg-name="林家渔妹",林家渔妹
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-id="" tvg-name="林正英",林正英
@@ -474,24 +448,22 @@ http://epg.112114.xyz/douyu/218859
 https://live.ottiptv.cc/douyu/9191790
 #EXTINF:-1 tvg-id="" tvg-name="柠柠柠萌菌",柠柠柠萌菌
 https://live.ottiptv.cc/douyu/9720895
-#EXTINF:-1 tvg-id="" tvg-name="植物椿de房间",植物椿de房间
-https://live.ottiptv.cc/douyu/9771247
-#EXTINF:-1 tvg-id="" tvg-name="楚哥说电影",楚哥说电影
-https://live.ottiptv.cc/douyu/9375743
+#EXTINF:-1 tvg-id="" tvg-name="正宗吔汁吔树牌",正宗吔汁吔树牌
+https://live.ottiptv.cc/douyu/10217953
 #EXTINF:-1 tvg-id="" tvg-name="每日好电影V",每日好电影V
 https://live.ottiptv.cc/douyu/9533302
+#EXTINF:-1 tvg-id="" tvg-name="民间高手show",民间高手show
+https://live.ottiptv.cc/douyu/10372765
 #EXTINF:-1 tvg-id="" tvg-name="永远快乐的小美女",永远快乐的小美女
 https://live.ottiptv.cc/douyu/6091425
 #EXTINF:-1 tvg-id="" tvg-name="求求扣扣困困",求求扣扣困困
 https://live.ottiptv.cc/douyu/8795274
-#EXTINF:-1 tvg-id="" tvg-name="汇竞技",汇竞技
-https://live.ottiptv.cc/douyu/12837494
-#EXTINF:-1 tvg-id="" tvg-name="泽静",泽静
-https://live.ottiptv.cc/douyu/9055742
+#EXTINF:-1 tvg-id="" tvg-name="沉郁观影",沉郁观影
+https://live.ottiptv.cc/douyu/9393577
 #EXTINF:-1 tvg-id="" tvg-name="洛克电影",洛克电影
 https://live.ottiptv.cc/douyu/9414884
-#EXTINF:-1 tvg-id="" tvg-name="流浪吧王温暖",流浪吧王温暖
-https://live.ottiptv.cc/douyu/655973
+#EXTINF:-1 tvg-id="" tvg-name="海森堡事件录",海森堡事件录
+https://live.ottiptv.cc/douyu/9754849
 #EXTINF:-1 tvg-id="" tvg-name="海狸呐",海狸呐
 https://live.ottiptv.cc/douyu/5841922
 #EXTINF:-1 tvg-id="" tvg-name="海男Rexv",海男Rexv
@@ -510,8 +482,6 @@ https://live.ottiptv.cc/douyu/10103411
 https://live.ottiptv.cc/douyu/9650246
 #EXTINF:-1 tvg-id="" tvg-name="漫威君",漫威君
 https://live.ottiptv.cc/douyu/1713615
-#EXTINF:-1 tvg-id="" tvg-name="漫画解说",漫画解说
-https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人",火龙果讲电影本人
 https://live.ottiptv.cc/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影",火龙果说电影
@@ -524,22 +494,24 @@ https://live.ottiptv.cc/douyu/8405922
 http://www.goodiptv.club/douyu/5522351
 #EXTINF:-1 tvg-id="" tvg-name="热门港剧✔原",热门港剧✔原
 https://goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-id="" tvg-name="熊猫电影",熊猫电影
+https://live.ottiptv.cc/douyu/3506483
+#EXTINF:-1 tvg-id="" tvg-name="爆笑行为大赏",爆笑行为大赏
+https://live.ottiptv.cc/douyu/10329767
+#EXTINF:-1 tvg-id="" tvg-name="爪子drumdoll",爪子drumdoll
+https://live.ottiptv.cc/douyu/6428730
+#EXTINF:-1 tvg-id="" tvg-name="爱唱跳Rap的胖虎",爱唱跳Rap的胖虎
+https://live.ottiptv.cc/douyu/5895598
 #EXTINF:-1 tvg-id="" tvg-name="爱好恐怖片的美男子",爱好恐怖片的美男子
 https://live.ottiptv.cc/douyu/9280384
 #EXTINF:-1 tvg-id="" tvg-name="爱护大自然的小沫",爱护大自然的小沫
 https://live.ottiptv.cc/douyu/12885097
-#EXTINF:-1 tvg-id="" tvg-name="爱旅行的巧克力",爱旅行的巧克力
-https://live.ottiptv.cc/douyu/9653323
-#EXTINF:-1 tvg-id="" tvg-name="爱星影视",爱星影视
-https://live.ottiptv.cc/douyu/9476806
 #EXTINF:-1 tvg-id="" tvg-name="爱爱小s",爱爱小s
 https://live.ottiptv.cc/douyu/10308312
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影",牛叔说电影
 https://live.ottiptv.cc/douyu/2758565
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影二台",牛叔说电影二台
 https://live.ottiptv.cc/douyu/10010651
-#EXTINF:-1 tvg-id="" tvg-name="牛奶味的梦猪猪",牛奶味的梦猪猪
-https://live.ottiptv.cc/douyu/5261342
 #EXTINF:-1 tvg-id="" tvg-name="特辑电影",特辑电影
 https://goodiptv.club/douyu/3637778
 #EXTINF:-1 tvg-id="" tvg-name="特辑电影院",特辑电影院
@@ -550,16 +522,10 @@ https://live.ottiptv.cc/douyu/4332
 https://live.ottiptv.cc/douyu/12183882
 #EXTINF:-1 tvg-id="" tvg-name="独立鱼电影",独立鱼电影
 https://live.ottiptv.cc/douyu/2413555
-#EXTINF:-1 tvg-id="" tvg-name="猎奇笔记本",猎奇笔记本
-https://live.ottiptv.cc/douyu/9627172
 #EXTINF:-1 tvg-id="" tvg-name="猛禽西伯利亚白猿",猛禽西伯利亚白猿
 https://live.ottiptv.cc/douyu/10074407
 #EXTINF:-1 tvg-id="" tvg-name="猪弟驸马爷",猪弟驸马爷
 https://live.ottiptv.cc/douyu/8862501
-#EXTINF:-1 tvg-id="" tvg-name="猫-咪",猫-咪
-https://live.ottiptv.cc/douyu/11673725
-#EXTINF:-1 tvg-id="" tvg-name="猫咪天龙八部",猫咪天龙八部
-https://live.ottiptv.cc/douyu/12879724
 #EXTINF:-1 tvg-id="" tvg-name="猫猫村长",猫猫村长
 https://live.ottiptv.cc/douyu/4716
 #EXTINF:-1 tvg-id="" tvg-name="猫记丶",猫记丶
@@ -568,10 +534,10 @@ https://live.ottiptv.cc/douyu/9242659
 https://live.ottiptv.cc/douyu/9402110
 #EXTINF:-1 tvg-id="" tvg-name="王大齐吖",王大齐吖
 https://live.ottiptv.cc/douyu/3647278
+#EXTINF:-1 tvg-id="" tvg-name="王德发的导演小阿伟",王德发的导演小阿伟
+https://live.ottiptv.cc/douyu/9430799
 #EXTINF:-1 tvg-id="" tvg-name="甜漫妮666",甜漫妮666
 https://live.ottiptv.cc/douyu/1569773
-#EXTINF:-1 tvg-id="" tvg-name="甜粉粉的旅人呀",甜粉粉的旅人呀
-https://live.ottiptv.cc/douyu/7335280
 #EXTINF:-1 tvg-id="" tvg-name="用户1275665728",用户1275665728
 https://live.ottiptv.cc/douyu/9067836
 #EXTINF:-1 tvg-id="" tvg-name="用户2979576101",用户2979576101
@@ -584,66 +550,66 @@ https://live.ottiptv.cc/douyu/12878276
 https://live.ottiptv.cc/douyu/12435386
 #EXTINF:-1 tvg-id="" tvg-name="用青春去旅行",用青春去旅行
 https://live.ottiptv.cc/douyu/9629423
+#EXTINF:-1 tvg-id="" tvg-name="田浅浅w",田浅浅w
+https://live.ottiptv.cc/douyu/9747144
 #EXTINF:-1 tvg-id="" tvg-name="电影七十二变",电影七十二变
 https://live.ottiptv.cc/douyu/9323164
 #EXTINF:-1 tvg-id="" tvg-name="电影先锋V",电影先锋V
 https://live.ottiptv.cc/douyu/8711212
 #EXTINF:-1 tvg-id="" tvg-name="电影刘油果",电影刘油果
 https://live.ottiptv.cc/douyu/3985805
-#EXTINF:-1 tvg-id="" tvg-name="电影漩涡",电影漩涡
-https://live.ottiptv.cc/douyu/8706350
+#EXTINF:-1 tvg-id="" tvg-name="电影迷小雅",电影迷小雅
+https://live.ottiptv.cc/douyu/9639225
 #EXTINF:-1 tvg-id="" tvg-name="电影黑匣子",电影黑匣子
 https://live.ottiptv.cc/douyu/8706652
 #EXTINF:-1 tvg-id="" tvg-name="疯狂小潴潴",疯狂小潴潴
 https://live.ottiptv.cc/douyu/5522351
 #EXTINF:-1 tvg-id="" tvg-name="疯狂尛瀦瀦",疯狂尛瀦瀦
 https://live.ottiptv.cc/douyu/4290711
-#EXTINF:-1 tvg-id="" tvg-name="白了个痴",白了个痴
-https://live.ottiptv.cc/douyu/319576
-#EXTINF:-1 tvg-id="" tvg-name="白燥No1",白燥No1
-https://live.ottiptv.cc/douyu/280064
 #EXTINF:-1 tvg-id="" tvg-name="百万巨星麒麟君",百万巨星麒麟君
 https://live.ottiptv.cc/douyu/3431701
-#EXTINF:-1 tvg-id="" tvg-name="目及WATCHER",目及WATCHER
-https://live.ottiptv.cc/douyu/8712204
 #EXTINF:-1 tvg-id="" tvg-name="睡丝虫",睡丝虫
 https://live.ottiptv.cc/douyu/10308234
-#EXTINF:-1 tvg-id="" tvg-name="石头老纪",石头老纪
-https://live.ottiptv.cc/douyu/9047060
 #EXTINF:-1 tvg-id="" tvg-name="碎片记",碎片记
 https://live.ottiptv.cc/douyu/9412981
-#EXTINF:-1 tvg-id="" tvg-name="神羊说电影",神羊说电影
-https://live.ottiptv.cc/douyu/9443552
+#EXTINF:-1 tvg-id="" tvg-name="秋月剪水",秋月剪水
+https://live.ottiptv.cc/douyu/9588891
 #EXTINF:-1 tvg-id="" tvg-name="科幻Fans布玛",科幻Fans布玛
 https://live.ottiptv.cc/douyu/3508304
-#EXTINF:-1 tvg-id="" tvg-name="科幻战舰",科幻战舰
-https://live.ottiptv.cc/douyu/8772060
 #EXTINF:-1 tvg-id="" tvg-name="程情寫意",程情寫意
 https://live.ottiptv.cc/douyu/9191358
-#EXTINF:-1 tvg-id="" tvg-name="穆杉车话",穆杉车话
-https://live.ottiptv.cc/douyu/9602107
-#EXTINF:-1 tvg-id="" tvg-name="立秋动画",立秋动画
-https://live.ottiptv.cc/douyu/10351891
+#EXTINF:-1 tvg-id="" tvg-name="童乐说电影",童乐说电影
+https://live.ottiptv.cc/douyu/9660704
 #EXTINF:-1 tvg-id="" tvg-name="竹内亮导演",竹内亮导演
 https://live.ottiptv.cc/douyu/8933612
 #EXTINF:-1 tvg-id="" tvg-name="竹叶的熊猫",竹叶的熊猫
 https://live.ottiptv.cc/douyu/3870925
+#EXTINF:-1 tvg-id="" tvg-name="笑点组长",笑点组长
+https://live.ottiptv.cc/douyu/9535757
+#EXTINF:-1 tvg-id="" tvg-name="笑笑笑团长",笑笑笑团长
+https://live.ottiptv.cc/douyu/10329368
 #EXTINF:-1 tvg-id="" tvg-name="篮球之家老李",篮球之家老李
 https://live.ottiptv.cc/douyu/9170147
 #EXTINF:-1 tvg-id="" tvg-name="篮球人物",篮球人物
 https://live.ottiptv.cc/douyu/8434598
 #EXTINF:-1 tvg-id="" tvg-name="篮球小人物",篮球小人物
 https://live.ottiptv.cc/douyu/9184257
+#EXTINF:-1 tvg-id="" tvg-name="篮球过人技巧",篮球过人技巧
+https://live.ottiptv.cc/douyu/9406897
 #EXTINF:-1 tvg-id="" tvg-name="篮球长镜头",篮球长镜头
 https://live.ottiptv.cc/douyu/9399887
 #EXTINF:-1 tvg-id="" tvg-name="米尼影院",米尼影院
 https://live.ottiptv.cc/douyu/7642724
+#EXTINF:-1 tvg-id="" tvg-name="粤知一二",粤知一二
+https://live.ottiptv.cc/douyu/2940299
 #EXTINF:-1 tvg-id="" tvg-name="粤语电影",粤语电影
 https://goodiptv.club/douyu/1226741
 #EXTINF:-1 tvg-id="" tvg-name="粤语电影丶",粤语电影丶
 https://live.ottiptv.cc/douyu/1226741
 #EXTINF:-1 tvg-id="" tvg-name="纪录片之家字幕组",纪录片之家字幕组
 https://live.ottiptv.cc/douyu/8834003
+#EXTINF:-1 tvg-id="" tvg-name="纳豆奶奶666",纳豆奶奶666
+https://live.ottiptv.cc/douyu/8745628
 #EXTINF:-1 tvg-id="" tvg-name="纸鸢SomniumV",纸鸢SomniumV
 https://live.ottiptv.cc/douyu/9506782
 #EXTINF:-1 tvg-id="" tvg-name="经典",经典
@@ -654,12 +620,16 @@ https://goodiptv.club/douyu/9067836
 https://live.ottiptv.cc/douyu/9401305
 #EXTINF:-1 tvg-id="" tvg-name="维塔利在野外",维塔利在野外
 https://live.ottiptv.cc/douyu/9804068
-#EXTINF:-1 tvg-id="" tvg-name="网神影厅",网神影厅
-https://goodiptv.club/douyu/508118
+#EXTINF:-1 tvg-id="" tvg-name="网友咸几几",网友咸几几
+https://live.ottiptv.cc/douyu/2174405
 #EXTINF:-1 tvg-id="" tvg-name="网神影厅",网神影厅
 https://live.ottiptv.cc/douyu/508118
+#EXTINF:-1 tvg-id="" tvg-name="网神影厅",网神影厅
+https://goodiptv.club/douyu/508118
 #EXTINF:-1 tvg-id="" tvg-name="罗休休休",罗休休休
 https://live.ottiptv.cc/douyu/9403178
+#EXTINF:-1 tvg-id="" tvg-name="罗叔说戏",罗叔说戏
+https://live.ottiptv.cc/douyu/9788756
 #EXTINF:-1 tvg-id="" tvg-name="翼风110",翼风110
 https://live.ottiptv.cc/douyu/3573342
 #EXTINF:-1 tvg-id="" tvg-name="老段带你钓青鱼",老段带你钓青鱼
@@ -668,10 +638,10 @@ https://live.ottiptv.cc/douyu/10105639
 https://live.ottiptv.cc/douyu/2337939
 #EXTINF:-1 tvg-id="" tvg-name="老王忆经典",老王忆经典
 https://live.ottiptv.cc/douyu/9687733
-#EXTINF:-1 tvg-id="" tvg-name="老王追剧吧",老王追剧吧
-https://live.ottiptv.cc/douyu/9937291
 #EXTINF:-1 tvg-id="" tvg-name="老高与小茉的死忠粉",老高与小茉的死忠粉
 https://live.ottiptv.cc/douyu/236461
+#EXTINF:-1 tvg-id="" tvg-name="老鱼说剧",老鱼说剧
+https://live.ottiptv.cc/douyu/9994377
 #EXTINF:-1 tvg-id="" tvg-name="聚聚聚一个月",聚聚聚一个月
 https://live.ottiptv.cc/douyu/4105989
 #EXTINF:-1 tvg-id="" tvg-name="胆子不小的郑吉祥",胆子不小的郑吉祥
@@ -680,58 +650,72 @@ https://live.ottiptv.cc/douyu/9171887
 https://live.ottiptv.cc/douyu/5448413
 #EXTINF:-1 tvg-id="" tvg-name="胥渡吧直播号",胥渡吧直播号
 https://live.ottiptv.cc/douyu/2040822
+#EXTINF:-1 tvg-id="" tvg-name="胶片看电影",胶片看电影
+https://live.ottiptv.cc/douyu/3715426
 #EXTINF:-1 tvg-id="" tvg-name="脑袋大1937",脑袋大1937
 https://live.ottiptv.cc/douyu/7655471
+#EXTINF:-1 tvg-id="" tvg-name="腹黑电影",腹黑电影
+https://live.ottiptv.cc/douyu/8867878
 #EXTINF:-1 tvg-id="" tvg-name="自说自话的总裁",自说自话的总裁
 https://live.ottiptv.cc/douyu/9317739
 #EXTINF:-1 tvg-id="" tvg-name="芒果酱Mangoo",芒果酱Mangoo
 https://live.ottiptv.cc/douyu/138959
-#EXTINF:-1 tvg-id="" tvg-name="花町馆长",花町馆长
-https://live.ottiptv.cc/douyu/2295993
-#EXTINF:-1 tvg-id="" tvg-name="花花与三猫CatLive",花花与三猫CatLive
-https://live.ottiptv.cc/douyu/7348194
+#EXTINF:-1 tvg-id="" tvg-name="芙芙家的洗碗君",芙芙家的洗碗君
+https://live.ottiptv.cc/douyu/9446706
 #EXTINF:-1 tvg-id="" tvg-name="芳芳说故事",芳芳说故事
 https://live.ottiptv.cc/douyu/9401905
+#EXTINF:-1 tvg-id="" tvg-name="芽老师最爱的小胖宝贝",芽老师最爱的小胖宝贝
+https://live.ottiptv.cc/douyu/238643
 #EXTINF:-1 tvg-id="" tvg-name="英大吉来了",英大吉来了
 https://live.ottiptv.cc/douyu/9174097
 #EXTINF:-1 tvg-id="" tvg-name="苹果Zei妖",苹果Zei妖
 https://live.ottiptv.cc/douyu/2793084
 #EXTINF:-1 tvg-id="" tvg-name="苹果Zei甜",苹果Zei甜
 https://live.ottiptv.cc/douyu/1174353
-#EXTINF:-1 tvg-id="" tvg-name="茶啊二中官方",茶啊二中官方
-https://live.ottiptv.cc/douyu/2925610
 #EXTINF:-1 tvg-id="" tvg-name="草帽丶海贼团",草帽丶海贼团
 https://live.ottiptv.cc/douyu/997925
-#EXTINF:-1 tvg-id="" tvg-name="荒野万池王",荒野万池王
-https://live.ottiptv.cc/douyu/9544576
+#EXTINF:-1 tvg-id="" tvg-name="草泥泥影院",草泥泥影院
+https://live.ottiptv.cc/douyu/9091049
 #EXTINF:-1 tvg-id="" tvg-name="荒野伊甸园",荒野伊甸园
 https://live.ottiptv.cc/douyu/9611578
 #EXTINF:-1 tvg-id="" tvg-name="荒野有声书",荒野有声书
 https://live.ottiptv.cc/douyu/10650322
 #EXTINF:-1 tvg-id="" tvg-name="荒野视界",荒野视界
 https://live.ottiptv.cc/douyu/10675329
+#EXTINF:-1 tvg-id="" tvg-name="莫扎金",莫扎金
+https://live.ottiptv.cc/douyu/9272077
 #EXTINF:-1 tvg-id="" tvg-name="菇菇说过",菇菇说过
 https://live.ottiptv.cc/douyu/8788687
-#EXTINF:-1 tvg-id="" tvg-name="菠萝屋SpongeBob",菠萝屋SpongeBob
-https://live.ottiptv.cc/douyu/12400977
 #EXTINF:-1 tvg-id="" tvg-name="菠萝屋的海绵宝宝",菠萝屋的海绵宝宝
 https://live.ottiptv.cc/douyu/3949681
+#EXTINF:-1 tvg-id="" tvg-name="萌宠妙妙屋",萌宠妙妙屋
+https://live.ottiptv.cc/douyu/8653533
 #EXTINF:-1 tvg-id="" tvg-name="萌小鬼",萌小鬼
 https://live.ottiptv.cc/douyu/3928
-#EXTINF:-1 tvg-id="" tvg-name="萨摩耶王小羊",萨摩耶王小羊
-https://live.ottiptv.cc/douyu/9559063
 #EXTINF:-1 tvg-id="" tvg-name="董王老登",董王老登
 https://live.ottiptv.cc/douyu/9412287
+#EXTINF:-1 tvg-id="" tvg-name="蓝星人一ET",蓝星人一ET
+https://live.ottiptv.cc/douyu/9431727
+#EXTINF:-1 tvg-id="" tvg-name="蔡老板家的长工丶",蔡老板家的长工丶
+https://live.ottiptv.cc/douyu/8869614
 #EXTINF:-1 tvg-id="" tvg-name="蕃薯粥粥煮好了",蕃薯粥粥煮好了
 https://live.ottiptv.cc/douyu/11878141
 #EXTINF:-1 tvg-id="" tvg-name="虫哥说电影",虫哥说电影
 https://live.ottiptv.cc/douyu/8915074
+#EXTINF:-1 tvg-id="" tvg-name="见世君V",见世君V
+https://live.ottiptv.cc/douyu/10220896
 #EXTINF:-1 tvg-id="" tvg-name="许君聪经典小品",许君聪经典小品
 https://live.ottiptv.cc/douyu/10419558
+#EXTINF:-1 tvg-id="" tvg-name="话龙电竞",话龙电竞
+https://live.ottiptv.cc/douyu/9957571
+#EXTINF:-1 tvg-id="" tvg-name="说笑武林",说笑武林
+https://live.ottiptv.cc/douyu/10329706
 #EXTINF:-1 tvg-id="" tvg-name="谁语说电影",谁语说电影
 https://live.ottiptv.cc/douyu/8705754
 #EXTINF:-1 tvg-id="" tvg-name="谦变万华27978",谦变万华27978
 https://live.ottiptv.cc/douyu/12330744
+#EXTINF:-1 tvg-id="" tvg-name="贝爷求生影视",贝爷求生影视
+https://live.ottiptv.cc/douyu/9661369
 #EXTINF:-1 tvg-id="" tvg-name="贝爷贰厅",贝爷贰厅
 https://goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-name="贰哥电影",贰哥电影
@@ -747,39 +731,33 @@ https://live.ottiptv.cc/douyu/9837104
 #EXTINF:-1 tvg-id="" tvg-name="赵本山小品",赵本山小品
 http://tv.ximix.us/douyu/9817716
 #EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
-https://live.ottiptv.cc/douyu/9817716
-#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
 https://goodiptv.club/douyu/9817716
+#EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品",赵本山经典小品
+https://live.ottiptv.cc/douyu/9817716
+#EXTINF:-1 tvg-id="" tvg-name="赶海大弟",赶海大弟
+https://live.ottiptv.cc/douyu/9348766
 #EXTINF:-1 tvg-id="" tvg-name="趁我们还年轻812",趁我们还年轻812
 https://live.ottiptv.cc/douyu/7805562
-#EXTINF:-1 tvg-id="" tvg-name="车模颜值大赏",车模颜值大赏
-https://live.ottiptv.cc/douyu/10118209
 #EXTINF:-1 tvg-id="" tvg-name="过往1908",过往1908
 https://live.ottiptv.cc/douyu/8721095
-#EXTINF:-1 tvg-id="" tvg-name="迷剧阿菁",迷剧阿菁
-https://live.ottiptv.cc/douyu/9486024
 #EXTINF:-1 tvg-id="" tvg-name="追寻那解不开的问题",追寻那解不开的问题
 https://live.ottiptv.cc/douyu/5727066
-#EXTINF:-1 tvg-id="" tvg-name="逗米说电影",逗米说电影
-https://live.ottiptv.cc/douyu/421222
+#EXTINF:-1 tvg-id="" tvg-name="逐梦电影",逐梦电影
+https://live.ottiptv.cc/douyu/4058285
 #EXTINF:-1 tvg-id="" tvg-name="郑云工作室",郑云工作室
 https://live.ottiptv.cc/douyu/2995636
+#EXTINF:-1 tvg-id="" tvg-name="郭云神奇",郭云神奇
+https://live.ottiptv.cc/douyu/8694831
 #EXTINF:-1 tvg-id="" tvg-name="都市夜魔人老王",都市夜魔人老王
 https://live.ottiptv.cc/douyu/610972
-#EXTINF:-1 tvg-id="" tvg-name="鄂东老男孩",鄂东老男孩
-https://live.ottiptv.cc/douyu/8837707
-#EXTINF:-1 tvg-id="" tvg-name="酉晨君",酉晨君
-https://live.ottiptv.cc/douyu/9484541
-#EXTINF:-1 tvg-id="" tvg-name="野格影视",野格影视
-https://live.ottiptv.cc/douyu/9931766
+#EXTINF:-1 tvg-id="" tvg-name="醉我天涯zwty",醉我天涯zwty
+https://live.ottiptv.cc/douyu/9479775
 #EXTINF:-1 tvg-id="" tvg-name="野行涛哥V",野行涛哥V
 https://live.ottiptv.cc/douyu/9329608
-#EXTINF:-1 tvg-id="" tvg-name="金枪娱",金枪娱
-https://live.ottiptv.cc/douyu/2798717
 #EXTINF:-1 tvg-id="" tvg-name="钓鱼大锋子",钓鱼大锋子
 https://live.ottiptv.cc/douyu/10074370
-#EXTINF:-1 tvg-id="" tvg-name="铁头钢脚",铁头钢脚
-https://live.ottiptv.cc/douyu/9322081
+#EXTINF:-1 tvg-id="" tvg-name="钓鱼欧尼AnglerJJung",钓鱼欧尼AnglerJJung
+https://live.ottiptv.cc/douyu/10616765
 #EXTINF:-1 tvg-id="" tvg-name="铁甲影院",铁甲影院
 https://live.ottiptv.cc/douyu/1274132
 #EXTINF:-1 tvg-id="" tvg-name="铁甲影院",铁甲影院
@@ -792,24 +770,14 @@ https://live.ottiptv.cc/douyu/9410946
 https://live.ottiptv.cc/douyu/10475459
 #EXTINF:-1 tvg-id="" tvg-name="阿七点歌台",阿七点歌台
 https://goodiptv.club/douyu/3186217
-#EXTINF:-1 tvg-id="" tvg-name="阿尔法是只边牧",阿尔法是只边牧
-https://live.ottiptv.cc/douyu/8662812
 #EXTINF:-1 tvg-id="" tvg-name="阿成漫漫看",阿成漫漫看
 https://live.ottiptv.cc/douyu/8799435
-#EXTINF:-1 tvg-id="" tvg-name="霹雳舞大叔",霹雳舞大叔
-https://live.ottiptv.cc/douyu/1528853
 #EXTINF:-1 tvg-id="" tvg-name="音乐台长",音乐台长
 https://live.ottiptv.cc/douyu/9629943
 #EXTINF:-1 tvg-id="" tvg-name="飞行员欧文讲故事",飞行员欧文讲故事
 https://live.ottiptv.cc/douyu/9678790
-#EXTINF:-1 tvg-id="" tvg-name="鬼兄奇谈",鬼兄奇谈
-https://live.ottiptv.cc/douyu/8722254
 #EXTINF:-1 tvg-id="" tvg-name="魔术师丶西索",魔术师丶西索
 https://live.ottiptv.cc/douyu/6610883
-#EXTINF:-1 tvg-id="" tvg-name="鯋鱼辰辰",鯋鱼辰辰
-https://live.ottiptv.cc/douyu/7623292
-#EXTINF:-1 tvg-id="" tvg-name="鲤环姬Lee",鲤环姬Lee
-https://live.ottiptv.cc/douyu/9791703
 #EXTINF:-1 tvg-id="" tvg-name="鸡哥聊电影",鸡哥聊电影
 https://live.ottiptv.cc/douyu/5067952
 #EXTINF:-1 tvg-id="" tvg-name="鸡腿子软糖",鸡腿子软糖
@@ -818,6 +786,8 @@ https://live.ottiptv.cc/douyu/8695854
 https://live.ottiptv.cc/douyu/9445244
 #EXTINF:-1 tvg-id="" tvg-name="麦绿素dustdream",麦绿素dustdream
 https://live.ottiptv.cc/douyu/9336437
+#EXTINF:-1 tvg-id="" tvg-name="黑T毒物",黑T毒物
+https://live.ottiptv.cc/douyu/3579219
 #EXTINF:-1 tvg-id="" tvg-name="黑色脑回路",黑色脑回路
 https://live.ottiptv.cc/douyu/9339300
 #EXTINF:-1 tvg-id="" tvg-name="齐木楠雄的哦呼v",齐木楠雄的哦呼v
@@ -828,5 +798,7 @@ https://live.ottiptv.cc/douyu/1487654
 https://live.ottiptv.cc/douyu/9374865
 #EXTINF:-1 tvg-id="" tvg-name="龙视爱笑会议室",龙视爱笑会议室
 https://live.ottiptv.cc/douyu/9375430
+#EXTINF:-1 tvg-id="" tvg-name="龙视超级笑匠",龙视超级笑匠
+https://live.ottiptv.cc/douyu/9375450
 #EXTINF:-1 tvg-id="" tvg-name="龙馍馍UP",龙馍馍UP
 https://live.ottiptv.cc/douyu/1717648

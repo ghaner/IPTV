@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="北海新闻",北海新闻
+http://45.192.97.170:8880/play/2390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北海新闻综合",北海新闻综合
+https://live.gxrb.com.cn/gx/beihai/index.m3u8

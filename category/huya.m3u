@@ -61,11 +61,11 @@ http://8.155.43.98:35455/huya/30814432
 #EXTINF:-1 tvg-id="" tvg-name="JJ斗地主",JJ斗地主
 http://1.14.124.206:35455/huya/30814432
 #EXTINF:-1 tvg-id="" tvg-name="JJ斗地主",JJ斗地主
-http://1.14.124.206:35455/huya/152698
+http://8.155.43.98:35455/huya/152698
 #EXTINF:-1 tvg-id="" tvg-name="JJ斗地主",JJ斗地主
 http://1.14.124.206:35455/huya/30814433
 #EXTINF:-1 tvg-id="" tvg-name="JJ斗地主",JJ斗地主
-http://8.155.43.98:35455/huya/152698
+http://1.14.124.206:35455/huya/152698
 #EXTINF:-1 tvg-id="" tvg-name="Joey-王祖贤",Joey-王祖贤
 https://live.ottiptv.cc/huya/30631750
 #EXTINF:-1 tvg-id="" tvg-name="JuicyM",JuicyM
@@ -233,9 +233,9 @@ https://live.ottiptv.cc/huya/26355771
 #EXTINF:-1 tvg-id="" tvg-name="不良人",不良人
 http://tv.zimtv.cn/tv/player/api/huya.php?id=30080218
 #EXTINF:-1 tvg-id="" tvg-name="与凤行",与凤行
-http://222.186.39.21:35466/huya/26355866
-#EXTINF:-1 tvg-id="" tvg-name="与凤行",与凤行
 http://live.ottiptv.cc/huya/26355866
+#EXTINF:-1 tvg-id="" tvg-name="与凤行",与凤行
+http://222.186.39.21:35466/huya/26355866
 #EXTINF:-1 tvg-id="" tvg-name="与凤行",与凤行
 http://8.155.43.98:35455/huya/26355866
 #EXTINF:-1 tvg-id="" tvg-name="专情于你",专情于你
@@ -317,9 +317,9 @@ https://live.ottiptv.cc/huya/136154
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影",亮哥讲电影
 https://live.ottiptv.cc/huya/16144175
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
-https://live.ottiptv.cc/huya/29982687
-#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
 https://live.ottiptv.cc/huya/21059622
+#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
+https://live.ottiptv.cc/huya/29982687
 #EXTINF:-1 tvg-id="" tvg-name="人类观察员love",人类观察员love
 https://live.ottiptv.cc/huya/29982628
 #EXTINF:-1 tvg-id="" tvg-name="人间眩法师",人间眩法师
@@ -399,9 +399,9 @@ https://live.ottiptv.cc/huya/11602081
 #EXTINF:-1 tvg-id="" tvg-name="全糖艳麦zoo",全糖艳麦zoo
 https://live.ottiptv.cc/huya/31183563
 #EXTINF:-1 tvg-id="" tvg-name="全职高手",全职高手
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11352901
-#EXTINF:-1 tvg-id="" tvg-name="全职高手",全职高手
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21059628
+#EXTINF:-1 tvg-id="" tvg-name="全职高手",全职高手
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352901
 #EXTINF:-1 tvg-id="" tvg-name="全能偶像",全能偶像
 https://live.ottiptv.cc/huya/21241763
 #EXTINF:-1 tvg-id="" tvg-name="全能改造王",全能改造王
@@ -447,19 +447,19 @@ https://live.ottiptv.cc/huya/29982661
 #EXTINF:-1 tvg-id="" tvg-name="击剑的爱好者",击剑的爱好者
 https://live.ottiptv.cc/huya/30080152
 #EXTINF:-1 tvg-id="" tvg-name="刑事侦缉档案",刑事侦缉档案
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465856
+#EXTINF:-1 tvg-id="" tvg-name="刑事侦缉档案",刑事侦缉档案
 https://live.metshop.top/huya/29465856
 #EXTINF:-1 tvg-id="" tvg-name="刑事侦缉档案",刑事侦缉档案
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23734169
-#EXTINF:-1 tvg-id="" tvg-name="刑事侦缉档案",刑事侦缉档案
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29465856
 #EXTINF:-1 tvg-id="" tvg-name="刘德华-电影",刘德华-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424
 #EXTINF:-1 tvg-id="" tvg-name="刘德华电影",刘德华电影
 https://live.metshop.top/huya/11342424
 #EXTINF:-1 tvg-id="" tvg-name="创世纪",创世纪
-https://live.metshop.top/huya/29465852
-#EXTINF:-1 tvg-id="" tvg-name="创世纪",创世纪
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465852
+#EXTINF:-1 tvg-id="" tvg-name="创世纪",创世纪
+https://live.metshop.top/huya/29465852
 #EXTINF:-1 tvg-id="" tvg-name="创世纪",创世纪
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23749083
 #EXTINF:-1 tvg-id="" tvg-name="初心",初心
@@ -472,8 +472,6 @@ https://live.ottiptv.cc/huya/11352901
 https://live.ottiptv.cc/huya/20985854
 #EXTINF:-1 tvg-id="" tvg-name="剧情扣人心弦",剧情扣人心弦
 https://live.ottiptv.cc/huya/29465850
-#EXTINF:-1 tvg-id="" tvg-name="剧能说",剧能说
-https://live.ottiptv.cc/huya/30298490
 #EXTINF:-1 tvg-id="" tvg-name="剧迷大本营",剧迷大本营
 https://live.ottiptv.cc/huya/21688738
 #EXTINF:-1 tvg-id="" tvg-name="力哥影視",力哥影視
@@ -594,8 +592,6 @@ https://live.ottiptv.cc/huya/26355792
 https://live.ottiptv.cc/huya/29982658
 #EXTINF:-1 tvg-id="" tvg-name="同芋螺",同芋螺
 https://live.ottiptv.cc/huya/26355801
-#EXTINF:-1 tvg-id="" tvg-name="后宫生存攻略",后宫生存攻略
-https://live.ottiptv.cc/huya/30080183
 #EXTINF:-1 tvg-id="" tvg-name="吐槽运动",吐槽运动
 https://live.ottiptv.cc/huya/11342436
 #EXTINF:-1 tvg-id="" tvg-name="向阳花",向阳花
@@ -767,15 +763,17 @@ https://live.ottiptv.cc/huya/23728651
 #EXTINF:-1 tvg-id="" tvg-name="大懒猫",大懒猫
 https://live.ottiptv.cc/huya/11602046
 #EXTINF:-1 tvg-id="" tvg-name="大时代",大时代
-http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
-#EXTINF:-1 tvg-id="" tvg-name="大时代",大时代
 https://live.metshop.top/huya/23865161
+#EXTINF:-1 tvg-id="" tvg-name="大时代",大时代
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
 #EXTINF:-1 tvg-id="" tvg-name="大染坊",大染坊
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11602086
 #EXTINF:-1 tvg-id="" tvg-name="大根公子",大根公子
 https://live.ottiptv.cc/huya/23865186
 #EXTINF:-1 tvg-id="" tvg-name="大梨o",大梨o
 https://live.ottiptv.cc/huya/30830295
+#EXTINF:-1 tvg-id="" tvg-name="大法师大法师",大法师大法师
+https://live.ottiptv.cc/huya/29674255
 #EXTINF:-1 tvg-id="" tvg-name="大漠李白",大漠李白
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-id="" tvg-name="大潘影视",大潘影视
@@ -814,6 +812,8 @@ https://live.ottiptv.cc/huya/30065341
 https://live.ottiptv.cc/huya/30277823
 #EXTINF:-1 tvg-id="" tvg-name="天龙八部",天龙八部
 https://live.metshop.top/huya/20985816
+#EXTINF:-1 tvg-id="" tvg-name="天龙八部",天龙八部
+https://live.metshop.top/huya/23903123
 #EXTINF:-1 tvg-id="" tvg-name="天龙八部-胡军",天龙八部-胡军
 http://tv.zimtv.cn/tv/player/api/huya.php?id=20985816
 #EXTINF:-1 tvg-id="" tvg-name="天龙八部97版",天龙八部97版
@@ -843,11 +843,11 @@ https://live.ottiptv.cc/huya/29856678
 #EXTINF:-1 tvg-id="" tvg-name="妖孽CC",妖孽CC
 https://live.ottiptv.cc/huya/11352945
 #EXTINF:-1 tvg-id="" tvg-name="妙手仁心",妙手仁心
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29465853
-#EXTINF:-1 tvg-id="" tvg-name="妙手仁心",妙手仁心
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23829543
 #EXTINF:-1 tvg-id="" tvg-name="妙手仁心",妙手仁心
 https://live.metshop.top/huya/29465853
+#EXTINF:-1 tvg-id="" tvg-name="妙手仁心",妙手仁心
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465853
 #EXTINF:-1 tvg-id="" tvg-name="威尼斯的贡多拉",威尼斯的贡多拉
 https://live.ottiptv.cc/huya/29465883
 #EXTINF:-1 tvg-id="" tvg-name="威猛先生",威猛先生
@@ -876,6 +876,8 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=23735126
 https://live.ottiptv.cc/huya/11352886
 #EXTINF:-1 tvg-id="" tvg-name="宇宙摸魚人",宇宙摸魚人
 https://live.ottiptv.cc/huya/26355763
+#EXTINF:-1 tvg-id="" tvg-name="宇宙无敌韩三金",宇宙无敌韩三金
+https://live.ottiptv.cc/huya/15494057
 #EXTINF:-1 tvg-id="" tvg-name="宇宙科幻合集",宇宙科幻合集
 https://live.metshop.top/huya/11342428
 #EXTINF:-1 tvg-id="" tvg-name="安逗和黑仔",安逗和黑仔
@@ -898,6 +900,8 @@ https://live.ottiptv.cc/huya/30080235
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21059614
 #EXTINF:-1 tvg-id="" tvg-name="宫斗剧",宫斗剧
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465868
+#EXTINF:-1 tvg-id="" tvg-name="家有儿女",家有儿女
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352872
 #EXTINF:-1 tvg-id="" tvg-name="家里有只小汤圆",家里有只小汤圆
 https://live.ottiptv.cc/huya/28078466
 #EXTINF:-1 tvg-id="" tvg-name="宸艺艺",宸艺艺
@@ -911,9 +915,9 @@ https://live.ottiptv.cc/huya/11602076
 #EXTINF:-1 tvg-id="" tvg-name="寻秦记",寻秦记
 https://live.metshop.top/huya/29465848
 #EXTINF:-1 tvg-id="" tvg-name="寻秦记",寻秦记
-http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
-#EXTINF:-1 tvg-id="" tvg-name="寻秦记",寻秦记
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465848
+#EXTINF:-1 tvg-id="" tvg-name="寻秦记",寻秦记
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
 #EXTINF:-1 tvg-id="" tvg-name="封神榜",封神榜
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465849
 #EXTINF:-1 tvg-id="" tvg-name="封神榜",封神榜
@@ -1074,6 +1078,8 @@ https://live.ottiptv.cc/huya/26355824
 https://live.ottiptv.cc/huya/29982652
 #EXTINF:-1 tvg-id="" tvg-name="山如翠浪帶",山如翠浪帶
 https://live.ottiptv.cc/huya/26355806
+#EXTINF:-1 tvg-id="" tvg-name="岩石上的树",岩石上的树
+https://live.ottiptv.cc/huya/30080222
 #EXTINF:-1 tvg-id="" tvg-name="岳岳追剧呀",岳岳追剧呀
 https://live.ottiptv.cc/huya/30438843
 #EXTINF:-1 tvg-id="" tvg-name="崇礼燕平",崇礼燕平
@@ -1216,6 +1222,8 @@ https://live.ottiptv.cc/huya/26355795
 https://live.ottiptv.cc/huya/26355866
 #EXTINF:-1 tvg-id="" tvg-name="感此芳树下",感此芳树下
 https://live.ottiptv.cc/huya/651536
+#EXTINF:-1 tvg-id="" tvg-name="愤怒的小金花",愤怒的小金花
+https://live.ottiptv.cc/huya/30837912
 #EXTINF:-1 tvg-id="" tvg-name="成龙-动作之王",成龙-动作之王
 https://live.ottiptv.cc/huya/30631744
 #EXTINF:-1 tvg-id="" tvg-name="成龙-电影",成龙-电影
@@ -1237,41 +1245,41 @@ https://live.ottiptv.cc/huya/21059634
 #EXTINF:-1 tvg-id="" tvg-name="我才是打工人",我才是打工人
 https://live.ottiptv.cc/huya/23860039
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314158
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/21241843
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
 https://live.ottiptv.cc/huya/21241844
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/21059616
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314159
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/21241801
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/21241845
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/21241840
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314165
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/20985853
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314166
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/20985765
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314021
-#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314157
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
 https://live.ottiptv.cc/huya/24314162
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
-https://live.ottiptv.cc/huya/24314163
+https://live.ottiptv.cc/huya/24314021
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/21241840
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314159
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314165
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
 https://live.ottiptv.cc/huya/21241841
 #EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314163
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/21059616
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/21241843
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/20985765
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314166
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314157
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
 https://live.ottiptv.cc/huya/24314160
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314158
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/21241801
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/20985853
+#EXTINF:-1 tvg-id="" tvg-name="我是一颗小虎牙",我是一颗小虎牙
+https://live.ottiptv.cc/huya/21241845
 #EXTINF:-1 tvg-id="" tvg-name="我是三三呀",我是三三呀
 https://live.ottiptv.cc/huya/25105263
 #EXTINF:-1 tvg-id="" tvg-name="我是周粤驰",我是周粤驰
@@ -1325,11 +1333,11 @@ https://live.ottiptv.cc/huya/21059623
 #EXTINF:-1 tvg-id="" tvg-name="扫地僧",扫地僧
 https://live.ottiptv.cc/huya/11342394
 #EXTINF:-1 tvg-id="" tvg-name="扫黄先锋",扫黄先锋
+https://live.metshop.top/huya/29465855
+#EXTINF:-1 tvg-id="" tvg-name="扫黄先锋",扫黄先锋
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23903196
 #EXTINF:-1 tvg-id="" tvg-name="扫黄先锋",扫黄先锋
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465855
-#EXTINF:-1 tvg-id="" tvg-name="扫黄先锋",扫黄先锋
-https://live.metshop.top/huya/29465855
 #EXTINF:-1 tvg-id="" tvg-name="扫黑风暴",扫黑风暴
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342404
 #EXTINF:-1 tvg-id="" tvg-name="报告老板",报告老板
@@ -1446,6 +1454,8 @@ https://live.ottiptv.cc/huya/26355791
 https://live.ottiptv.cc/huya/23829543
 #EXTINF:-1 tvg-id="" tvg-name="是小美人鱼啊",是小美人鱼啊
 https://live.ottiptv.cc/huya/20432223
+#EXTINF:-1 tvg-id="" tvg-name="是红鲤鱼绿鲤鱼与驴",是红鲤鱼绿鲤鱼与驴
+https://live.ottiptv.cc/huya/21059561
 #EXTINF:-1 tvg-id="" tvg-name="是西门大官人啊",是西门大官人啊
 https://live.ottiptv.cc/huya/21059571
 #EXTINF:-1 tvg-id="" tvg-name="是醉芙吖",是醉芙吖
@@ -1496,6 +1506,8 @@ https://live.ottiptv.cc/huya/20969100
 https://live.ottiptv.cc/huya/31002881
 #EXTINF:-1 tvg-id="" tvg-name="本是凉薄之人怎暖他人",本是凉薄之人怎暖他人
 https://live.ottiptv.cc/huya/21059630
+#EXTINF:-1 tvg-id="" tvg-name="李一彤彤",李一彤彤
+https://live.ottiptv.cc/huya/31209506
 #EXTINF:-1 tvg-id="" tvg-name="李卫当官",李卫当官
 http://tv.zimtv.cn/tv/player/api/huya.php?id=26355788
 #EXTINF:-1 tvg-id="" tvg-name="李大湿",李大湿
@@ -1542,6 +1554,8 @@ https://live.ottiptv.cc/huya/30569095
 https://live.ottiptv.cc/huya/24778726
 #EXTINF:-1 tvg-id="" tvg-name="柔式解压",柔式解压
 https://live.ottiptv.cc/huya/30764819
+#EXTINF:-1 tvg-id="" tvg-name="柔柔微冷",柔柔微冷
+https://live.ottiptv.cc/huya/31138934
 #EXTINF:-1 tvg-id="" tvg-name="柚柚",柚柚
 https://live.ottiptv.cc/huya/30080197
 #EXTINF:-1 tvg-id="" tvg-name="柠檬树下你和我",柠檬树下你和我
@@ -1572,6 +1586,8 @@ https://live.ottiptv.cc/huya/20969102
 https://live.ottiptv.cc/huya/31109333
 #EXTINF:-1 tvg-id="" tvg-name="梨花娇滴滴",梨花娇滴滴
 https://live.ottiptv.cc/huya/30080216
+#EXTINF:-1 tvg-id="" tvg-name="楚汉骄雄",楚汉骄雄
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854
 #EXTINF:-1 tvg-id="" tvg-name="楚汉骄雄",楚汉骄雄
 https://live.metshop.top/huya/29465854
 #EXTINF:-1 tvg-id="" tvg-name="楚门聊电影",楚门聊电影
@@ -1694,8 +1710,6 @@ https://live.metshop.top/huya/29465851
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11279251
 #EXTINF:-1 tvg-id="" tvg-name="活佛济公",活佛济公
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342400
-#EXTINF:-1 tvg-id="" tvg-name="活佛济公3",活佛济公3
-https://live.metshop.top/huya/23903123
 #EXTINF:-1 tvg-id="" tvg-name="活泼如清泉",活泼如清泉
 https://live.ottiptv.cc/huya/30826141
 #EXTINF:-1 tvg-id="" tvg-name="活泼有趣的熊猫",活泼有趣的熊猫
@@ -1736,6 +1750,8 @@ https://live.ottiptv.cc/huya/23903152
 https://live.ottiptv.cc/huya/23903183
 #EXTINF:-1 tvg-id="" tvg-name="港剧影视汇",港剧影视汇
 https://live.ottiptv.cc/huya/23903142
+#EXTINF:-1 tvg-id="" tvg-name="港剧慢品汇",港剧慢品汇
+https://live.ottiptv.cc/huya/23865142
 #EXTINF:-1 tvg-id="" tvg-name="港剧推荐喵",港剧推荐喵
 https://live.ottiptv.cc/huya/23902242
 #EXTINF:-1 tvg-id="" tvg-name="港剧日记",港剧日记
@@ -1802,6 +1818,8 @@ https://live.ottiptv.cc/huya/20985864
 https://live.ottiptv.cc/huya/15966357
 #EXTINF:-1 tvg-id="" tvg-name="熬夜看球帝",熬夜看球帝
 https://live.ottiptv.cc/huya/29465877
+#EXTINF:-1 tvg-id="" tvg-name="爆裂电影2",爆裂电影2
+https://live.ottiptv.cc/huya/29982678
 #EXTINF:-1 tvg-id="" tvg-name="爱吃桃子的喵",爱吃桃子的喵
 https://live.ottiptv.cc/huya/18501378
 #EXTINF:-1 tvg-id="" tvg-name="爱吃芒果的香蕉",爱吃芒果的香蕉
@@ -2057,17 +2075,17 @@ https://live.ottiptv.cc/huya/30307442
 #EXTINF:-1 tvg-id="" tvg-name="童可可",童可可
 https://live.ottiptv.cc/huya/11352967
 #EXTINF:-1 tvg-id="" tvg-name="笑傲江湖",笑傲江湖
-https://live.metshop.top/huya/26355790
+https://live.metshop.top/huya/23865142
 #EXTINF:-1 tvg-id="" tvg-name="笑傲江湖",笑傲江湖
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23865142
 #EXTINF:-1 tvg-id="" tvg-name="笑傲江湖",笑傲江湖
-https://live.metshop.top/huya/23865142
+https://live.metshop.top/huya/26355790
 #EXTINF:-1 tvg-id="" tvg-name="笑傲江湖",笑傲江湖
 http://tv.zimtv.cn/tv/player/api/huya.php?id=26355790
 #EXTINF:-1 tvg-id="" tvg-name="笑看风云",笑看风云
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29465858
-#EXTINF:-1 tvg-id="" tvg-name="笑看风云",笑看风云
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23865058
+#EXTINF:-1 tvg-id="" tvg-name="笑看风云",笑看风云
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465858
 #EXTINF:-1 tvg-id="" tvg-name="笑看风云",笑看风云
 https://live.metshop.top/huya/29465858
 #EXTINF:-1 tvg-id="" tvg-name="笑笑",笑笑
@@ -2156,6 +2174,8 @@ https://live.ottiptv.cc/huya/31125346
 https://live.ottiptv.cc/huya/30080194
 #EXTINF:-1 tvg-id="" tvg-name="繁花",繁花
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
+#EXTINF:-1 tvg-id="" tvg-name="红厂-百里老贼",红厂-百里老贼
+https://live.ottiptv.cc/huya/31311959
 #EXTINF:-1 tvg-id="" tvg-name="红茶妹妹",红茶妹妹
 https://live.ottiptv.cc/huya/11336592
 #EXTINF:-1 tvg-id="" tvg-name="纪晓岚",纪晓岚
@@ -2336,6 +2356,8 @@ https://live.ottiptv.cc/huya/29465879
 https://live.ottiptv.cc/huya/30080241
 #EXTINF:-1 tvg-id="" tvg-name="葱爆牛柳鱂魚",葱爆牛柳鱂魚
 https://live.ottiptv.cc/huya/26355778
+#EXTINF:-1 tvg-id="" tvg-name="葱花",葱花
+https://live.ottiptv.cc/huya/11352938
 #EXTINF:-1 tvg-id="" tvg-name="蒲公英电影",蒲公英电影
 https://live.ottiptv.cc/huya/28806637
 #EXTINF:-1 tvg-id="" tvg-name="蓝翔新三国",蓝翔新三国
@@ -2388,6 +2410,8 @@ https://live.ottiptv.cc/huya/29831106
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352970
 #EXTINF:-1 tvg-id="" tvg-name="蝉噪见之矣",蝉噪见之矣
 https://live.ottiptv.cc/huya/29982609
+#EXTINF:-1 tvg-id="" tvg-name="街头唱歌",街头唱歌
+https://live.ottiptv.cc/huya/20985812
 #EXTINF:-1 tvg-id="" tvg-name="街头熟男颜控社",街头熟男颜控社
 https://live.ottiptv.cc/huya/20969118
 #EXTINF:-1 tvg-id="" tvg-name="袖中忽见洮河北",袖中忽见洮河北
@@ -2428,8 +2452,12 @@ https://live.ottiptv.cc/huya/30311497
 https://live.ottiptv.cc/huya/29465853
 #EXTINF:-1 tvg-id="" tvg-name="视死思项羽",视死思项羽
 https://live.ottiptv.cc/huya/29982655
+#EXTINF:-1 tvg-id="" tvg-name="视觉-秦VV",视觉-秦VV
+https://live.ottiptv.cc/huya/396738
 #EXTINF:-1 tvg-id="" tvg-name="語之不顾細谨",語之不顾細谨
 https://live.ottiptv.cc/huya/26355785
+#EXTINF:-1 tvg-id="" tvg-name="订阅我就发财",订阅我就发财
+https://live.ottiptv.cc/huya/29465863
 #EXTINF:-1 tvg-id="" tvg-name="许冠英-电影",许冠英-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11601972
 #EXTINF:-1 tvg-id="" tvg-name="诗语墨",诗语墨
@@ -2473,9 +2501,9 @@ https://live.ottiptv.cc/huya/15894162
 #EXTINF:-1 tvg-id="" tvg-name="越哥说电影2",越哥说电影2
 https://live.ottiptv.cc/huya/29982680
 #EXTINF:-1 tvg-id="" tvg-name="越式酥麻",越式酥麻
-https://live.ottiptv.cc/huya/30764818
-#EXTINF:-1 tvg-id="" tvg-name="越式酥麻",越式酥麻
 https://live.ottiptv.cc/huya/30764822
+#EXTINF:-1 tvg-id="" tvg-name="越式酥麻",越式酥麻
+https://live.ottiptv.cc/huya/30764818
 #EXTINF:-1 tvg-id="" tvg-name="跳水这件事",跳水这件事
 https://live.ottiptv.cc/huya/29982662
 #EXTINF:-1 tvg-id="" tvg-name="身外桂鱼",身外桂鱼
@@ -2631,11 +2659,11 @@ https://live.ottiptv.cc/huya/23863833
 #EXTINF:-1 tvg-id="" tvg-name="阿飞",阿飞
 https://live.ottiptv.cc/huya/11352934
 #EXTINF:-1 tvg-id="" tvg-name="陀枪师姐",陀枪师姐
+https://live.metshop.top/huya/29465857
+#EXTINF:-1 tvg-id="" tvg-name="陀枪师姐",陀枪师姐
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465857
 #EXTINF:-1 tvg-id="" tvg-name="陀枪师姐",陀枪师姐
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23860039
-#EXTINF:-1 tvg-id="" tvg-name="陀枪师姐",陀枪师姐
-https://live.metshop.top/huya/29465857
 #EXTINF:-1 tvg-id="" tvg-name="陆小凤",陆小凤
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29808803
 #EXTINF:-1 tvg-id="" tvg-name="陆贞传奇",陆贞传奇
@@ -2680,8 +2708,6 @@ https://live.ottiptv.cc/huya/31067746
 https://live.ottiptv.cc/huya/30765312
 #EXTINF:-1 tvg-id="" tvg-name="霜云行",霜云行
 https://live.ottiptv.cc/huya/30364065
-#EXTINF:-1 tvg-id="" tvg-name="露珠宝贝的梦幻城堡",露珠宝贝的梦幻城堡
-https://live.ottiptv.cc/huya/31239976
 #EXTINF:-1 tvg-id="" tvg-name="露露姐",露露姐
 https://live.ottiptv.cc/huya/11601964
 #EXTINF:-1 tvg-id="" tvg-name="霸总傲天短剧",霸总傲天短剧
@@ -2778,8 +2804,6 @@ https://live.ottiptv.cc/huya/30380969
 https://live.ottiptv.cc/huya/11601970
 #EXTINF:-1 tvg-id="" tvg-name="鹊刀门",鹊刀门
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352963
-#EXTINF:-1 tvg-id="" tvg-name="鹊刀门传奇",鹊刀门传奇
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29805872
 #EXTINF:-1 tvg-id="" tvg-name="鹿鼎记-梁朝伟",鹿鼎记-梁朝伟
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23734183
 #EXTINF:-1 tvg-id="" tvg-name="鹿鼎记小春版",鹿鼎记小春版
@@ -2808,5 +2832,3 @@ https://live.ottiptv.cc/huya/30080195
 https://live.ottiptv.cc/huya/29807061
 #EXTINF:-1 tvg-id="" tvg-name="龙岭迷窟",龙岭迷窟
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465863
-#EXTINF:-1 tvg-id="" tvg-name="龙门镖局",龙门镖局
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11352874
