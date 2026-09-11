@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
+https://live.ottiptv.cc/douyu/9643264
 #EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
 https://live.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说
@@ -15,9 +17,9 @@ https://live.ottiptv.cc/douyu/8974130
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影",亮哥讲电影
 https://live.ottiptv.cc/huya/16144175
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
-https://live.ottiptv.cc/huya/21059622
-#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
 https://live.ottiptv.cc/huya/29982687
+#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
+https://live.ottiptv.cc/huya/21059622
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V",伯乐说电影V
 https://live.ottiptv.cc/douyu/9386057
 #EXTINF:-1 tvg-id="" tvg-name="俗哥看电影",俗哥看电影
