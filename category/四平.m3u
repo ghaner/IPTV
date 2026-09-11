@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="四平新闻综合 [Geo-blocked]",四平新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四平综合",四平综合
-http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
-#EXTINF:-1 tvg-id="" tvg-name="四平综合",四平综合
 http://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四平青年喋血曼谷",四平青年喋血曼谷
-https://live.ottiptv.cc/yy/1382749950
+#EXTINF:-1 tvg-id="" tvg-name="四平综合",四平综合
+http://evfh-www.plus.jlntv.cn/siping/folder134/folder158

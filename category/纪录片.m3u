@@ -18,6 +18,8 @@ https://live.ottiptv.cc/yy/79382500
 https://live.ottiptv.cc/huya/11342420
 #EXTINF:-1 tvg-id="" tvg-name="小木子先生丶",小木子先生丶
 https://live.ottiptv.cc/huya/11342396
+#EXTINF:-1 tvg-id="" tvg-name="小虎牙-QGOoMx3C4k",小虎牙-QGOoMx3C4k
+https://live.ottiptv.cc/huya/20985822
 #EXTINF:-1 tvg-id="" tvg-name="市民刘先生",市民刘先生
 https://live.ottiptv.cc/huya/23728647
 #EXTINF:-1 tvg-id="" tvg-name="憨豆先生-经典喜剧",憨豆先生-经典喜剧
@@ -28,8 +30,6 @@ https://live.ottiptv.cc/huya/23860049
 https://live.ottiptv.cc/yy/1382749889
 #EXTINF:-1 tvg-id="" tvg-name="热心市民高先生",热心市民高先生
 https://live.ottiptv.cc/huya/11602037
-#EXTINF:-1 tvg-id="" tvg-name="祖传板绘老手艺，纯人工无ai！",祖传板绘老手艺，纯人工无ai！
-https://live.ottiptv.cc/bilibili/3235910
 #EXTINF:-1 tvg-id="" tvg-name="纪录片之家字幕组",纪录片之家字幕组
 https://live.ottiptv.cc/douyu/8834003
 #EXTINF:-1 tvg-id="" tvg-name="老广的味道 第3季-美食纪录片",老广的味道 第3季-美食纪录片
@@ -47,6 +47,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf6
 #EXTINF:-1 tvg-id="" tvg-name="航拍中国第二季",航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439
-#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
 https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439

@@ -1,5 +1,5 @@
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
+通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
 通化新闻 [Geo-blocked],https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8

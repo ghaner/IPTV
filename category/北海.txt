@@ -1,0 +1,2 @@
+北海新闻,http://45.192.97.170:8880/play/2390.m3u8
+北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8

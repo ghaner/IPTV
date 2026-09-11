@@ -5872,3 +5872,14 @@ It's BIG BRAIN TIME!,https://live.ottiptv.cc/bilibili/742699#https://raw.githubu
 我也不想买啊，可他太帅了！,https://live.ottiptv.cc/bilibili/1730079108#https://raw.githubusercontent.com/David1016/live-merged/refs/heads/main/LIVE-merged.m3u
 画练习,https://live.ottiptv.cc/bilibili/1975552394#https://raw.githubusercontent.com/David1016/live-merged/refs/heads/main/LIVE-merged.m3u
 水浒传,https://live.ottiptv.cc/yy/1353873252#https://raw.githubusercontent.com/18302983787/iptv-api-gmh/refs/heads/master/output/result.m3u
+竹公子有礼了,https://live.ottiptv.cc/douyu/8887432#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+名曰老饕,https://live.ottiptv.cc/douyu/1732550#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+预言家Alice,https://live.ottiptv.cc/douyu/9483772#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+漫尼动画,https://live.ottiptv.cc/douyu/10364790#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+神烦xp,https://live.ottiptv.cc/douyu/8286679#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+灯泡兄弟影游谈,https://live.ottiptv.cc/douyu/1690081#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+我们可爱的程程,https://live.ottiptv.cc/douyu/329667#https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+海峡卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=202609111603052911b907d2ce479b8f56815479868736&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260911160305&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20260911160305&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1b4464f3e875cb629b4c965717bbe6d1#https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+吉林卫视,http://114.254.38.234:8888/rtp/239.3.1.240:8172#https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+陕西卫视,http://114.254.38.234:8888/rtp/239.3.1.41:8140#https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f8cdd49c9e0d08a985779a8d51d9463c&wsTime=1746507627#https://raw.githubusercontent.com/18302983787/iptv-api-gmh/refs/heads/master/output/result.m3u

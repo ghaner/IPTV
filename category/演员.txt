@@ -17,7 +17,6 @@
 徐峥-电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602043
 成龙-动作之王,https://live.ottiptv.cc/huya/30631744
 成龙-电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386
-成龙历险纪,https://live.ottiptv.cc/douyu/2287949
 成龙电影,https://live.metshop.top/huya/11342386
 成龙系列,https://live.ottiptv.cc/yy/1354888751
 李连杰-功夫皇帝,https://live.ottiptv.cc/huya/30631746
