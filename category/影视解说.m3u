@@ -1,7 +1,17 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
+https://live.ottiptv.cc/douyu/9444320
+#EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说
+https://live.ottiptv.cc/douyu/9391277
+#EXTINF:-1 tvg-id="" tvg-name="丽姐说电影",丽姐说电影
+https://live.ottiptv.cc/douyu/9437283
 #EXTINF:-1 tvg-id="" tvg-name="九叔说电影v",九叔说电影v
 https://live.ottiptv.cc/douyu/9348282
+#EXTINF:-1 tvg-id="" tvg-name="二哈讲电影",二哈讲电影
+https://live.ottiptv.cc/douyu/8778280
+#EXTINF:-1 tvg-id="" tvg-name="享看电影",享看电影
+https://live.ottiptv.cc/douyu/8974130
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影",亮哥讲电影
 https://live.ottiptv.cc/huya/16144175
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
@@ -10,26 +20,74 @@ https://live.ottiptv.cc/huya/21059622
 https://live.ottiptv.cc/huya/29982687
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V",伯乐说电影V
 https://live.ottiptv.cc/douyu/9386057
+#EXTINF:-1 tvg-id="" tvg-name="俗哥看电影",俗哥看电影
+https://live.ottiptv.cc/douyu/2161818
 #EXTINF:-1 tvg-id="" tvg-name="刘老师说电影",刘老师说电影
 https://live.ottiptv.cc/douyu/8317926
+#EXTINF:-1 tvg-id="" tvg-name="博然讲电影",博然讲电影
+https://live.ottiptv.cc/douyu/9561992
+#EXTINF:-1 tvg-id="" tvg-name="周墨看电影",周墨看电影
+https://live.ottiptv.cc/douyu/9505584
+#EXTINF:-1 tvg-id="" tvg-name="唐司令说电影",唐司令说电影
+https://live.ottiptv.cc/douyu/8774345
+#EXTINF:-1 tvg-id="" tvg-name="喵妹说电影",喵妹说电影
+https://live.ottiptv.cc/douyu/9312432
+#EXTINF:-1 tvg-id="" tvg-name="女汉子说电影",女汉子说电影
+https://live.ottiptv.cc/douyu/9395966
 #EXTINF:-1 tvg-id="" tvg-name="宇哥讲电影",宇哥讲电影
 https://live.ottiptv.cc/douyu/2104744
+#EXTINF:-1 tvg-id="" tvg-name="安小闫说电影x",安小闫说电影x
+https://live.ottiptv.cc/douyu/1842621
 #EXTINF:-1 tvg-id="" tvg-name="小丑讲电影",小丑讲电影
 https://live.ottiptv.cc/huya/16857432
+#EXTINF:-1 tvg-id="" tvg-name="小丽说电影",小丽说电影
+https://live.ottiptv.cc/douyu/9368016
+#EXTINF:-1 tvg-id="" tvg-name="小乔讲电影",小乔讲电影
+https://live.ottiptv.cc/douyu/8413908
+#EXTINF:-1 tvg-id="" tvg-name="小岛讲电影",小岛讲电影
+https://live.ottiptv.cc/douyu/9390955
 #EXTINF:-1 tvg-id="" tvg-name="小川侃电影",小川侃电影
 https://live.ottiptv.cc/huya/15870999
+#EXTINF:-1 tvg-id="" tvg-name="小浅说电影",小浅说电影
+https://live.ottiptv.cc/douyu/9665834
 #EXTINF:-1 tvg-id="" tvg-name="小涛讲电影V",小涛讲电影V
 https://live.ottiptv.cc/douyu/8415464
+#EXTINF:-1 tvg-id="" tvg-name="小超讲电影",小超讲电影
+https://live.ottiptv.cc/douyu/3432645
 #EXTINF:-1 tvg-id="" tvg-name="小马哥说电影",小马哥说电影
 https://live.ottiptv.cc/douyu/9396672
+#EXTINF:-1 tvg-id="" tvg-name="少年看电影",少年看电影
+https://live.ottiptv.cc/douyu/8762120
 #EXTINF:-1 tvg-id="" tvg-name="崽崽撩电影",崽崽撩电影
 https://live.ottiptv.cc/douyu/8325511
+#EXTINF:-1 tvg-id="" tvg-name="幕撩电影",幕撩电影
+https://live.ottiptv.cc/douyu/9486015
+#EXTINF:-1 tvg-id="" tvg-name="微笑影视解说",微笑影视解说
+https://live.ottiptv.cc/douyu/9476790
+#EXTINF:-1 tvg-id="" tvg-name="我是吃泡面看电影",我是吃泡面看电影
+https://live.ottiptv.cc/douyu/8851063
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影",扁豆看电影
 https://live.ottiptv.cc/huya/16028551
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影2",扁豆看电影2
 https://live.ottiptv.cc/huya/21059623
+#EXTINF:-1 tvg-id="" tvg-name="指缝里看电影",指缝里看电影
+https://live.ottiptv.cc/douyu/9647834
 #EXTINF:-1 tvg-id="" tvg-name="星君说电影",星君说电影
 https://live.ottiptv.cc/douyu/8014467
+#EXTINF:-1 tvg-id="" tvg-name="晓晓说电影",晓晓说电影
+https://live.ottiptv.cc/douyu/9430717
+#EXTINF:-1 tvg-id="" tvg-name="晓麦讲电影",晓麦讲电影
+https://live.ottiptv.cc/douyu/453963
+#EXTINF:-1 tvg-id="" tvg-name="末日说电影",末日说电影
+https://live.ottiptv.cc/douyu/9431125
+#EXTINF:-1 tvg-id="" tvg-name="松轩说电影",松轩说电影
+https://live.ottiptv.cc/douyu/1524969
+#EXTINF:-1 tvg-id="" tvg-name="梓帆说电影",梓帆说电影
+https://live.ottiptv.cc/douyu/9769563
+#EXTINF:-1 tvg-id="" tvg-name="楚哥说电影",楚哥说电影
+https://live.ottiptv.cc/douyu/9375743
+#EXTINF:-1 tvg-id="" tvg-name="汪哥说电影",汪哥说电影
+https://live.ottiptv.cc/douyu/9312685
 #EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人",火龙果讲电影本人
 https://live.ottiptv.cc/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影",火龙果说电影
@@ -40,25 +98,47 @@ https://live.ottiptv.cc/huya/15966357
 https://live.ottiptv.cc/douyu/2758565
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影二台",牛叔说电影二台
 https://live.ottiptv.cc/douyu/10010651
+#EXTINF:-1 tvg-id="" tvg-name="猫叔说电影",猫叔说电影
+https://live.ottiptv.cc/douyu/9820039
+#EXTINF:-1 tvg-id="" tvg-name="珞珞说电影",珞珞说电影
+https://live.ottiptv.cc/douyu/3718888
 #EXTINF:-1 tvg-id="" tvg-name="电影最TOP",电影最TOP
 https://live.ottiptv.cc/huya/11774959
 #EXTINF:-1 tvg-id="" tvg-name="电影最TOP2",电影最TOP2
 https://live.ottiptv.cc/huya/29982676
 #EXTINF:-1 tvg-id="" tvg-name="电影迷小雅",电影迷小雅
 https://live.ottiptv.cc/douyu/9639225
+#EXTINF:-1 tvg-id="" tvg-name="看电影了没V",看电影了没V
+https://live.ottiptv.cc/douyu/9562616
 #EXTINF:-1 tvg-id="" tvg-name="童乐说电影",童乐说电影
 https://live.ottiptv.cc/douyu/9660704
+#EXTINF:-1 tvg-id="" tvg-name="老邪说电影",老邪说电影
+https://live.ottiptv.cc/douyu/9222870
 #EXTINF:-1 tvg-id="" tvg-name="胶片看电影",胶片看电影
 https://live.ottiptv.cc/douyu/3715426
+#EXTINF:-1 tvg-id="" tvg-name="菠萝说电影",菠萝说电影
+https://live.ottiptv.cc/douyu/3714736
 #EXTINF:-1 tvg-id="" tvg-name="虫哥说电影",虫哥说电影
 https://live.ottiptv.cc/douyu/8915074
+#EXTINF:-1 tvg-id="" tvg-name="西施撩电影",西施撩电影
+https://live.ottiptv.cc/douyu/7532080
+#EXTINF:-1 tvg-id="" tvg-name="说说电影故事",说说电影故事
+https://live.ottiptv.cc/douyu/9444627
 #EXTINF:-1 tvg-id="" tvg-name="谁语说电影",谁语说电影
 https://live.ottiptv.cc/douyu/8705754
 #EXTINF:-1 tvg-id="" tvg-name="越哥说电影",越哥说电影
 https://live.ottiptv.cc/huya/15894162
 #EXTINF:-1 tvg-id="" tvg-name="越哥说电影2",越哥说电影2
 https://live.ottiptv.cc/huya/29982680
+#EXTINF:-1 tvg-id="" tvg-name="辰哥说电影",辰哥说电影
+https://live.ottiptv.cc/douyu/9371407
+#EXTINF:-1 tvg-id="" tvg-name="逗米说电影",逗米说电影
+https://live.ottiptv.cc/douyu/421222
+#EXTINF:-1 tvg-id="" tvg-name="钱小元说电影",钱小元说电影
+https://live.ottiptv.cc/douyu/9368265
 #EXTINF:-1 tvg-id="" tvg-name="鱼丸说电影",鱼丸说电影
 https://live.ottiptv.cc/huya/16615910
+#EXTINF:-1 tvg-id="" tvg-name="鲨说电影",鲨说电影
+https://live.ottiptv.cc/douyu/9544628
 #EXTINF:-1 tvg-id="" tvg-name="鹏友说电影",鹏友说电影
 https://live.ottiptv.cc/douyu/9445244

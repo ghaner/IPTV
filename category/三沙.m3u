@@ -1,22 +1,22 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://111.231.6.102:1234/961023778
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=AOARP7&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
 http://198.204.228.26/live/ssws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://182.61.15.47:80/961023778
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=AOARP7&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://107.150.60.122/live/ssws.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=NcDMNc&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
 http://182.61.15.163:80/961023778
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=NcDMNc&tk=FgM0vQMejxvG
+http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
+http://111.231.6.102:1234/961023778
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
+http://182.61.15.47:80/961023778
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
+http://107.150.60.122/live/ssws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视",三沙卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
