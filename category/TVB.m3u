@@ -1,35 +1,37 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus",TVB Plus
+https://10.fast.hidns.vip/163189/tvbp/
+#EXTINF:-1 tvg-id="" tvg-name="TVB Plus",TVB Plus
 https://cdn3.indevs.in/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="" tvg-name="TVB Plus",TVB Plus
-https://10.fast.hidns.vip/163189/tvbp/
 #EXTINF:-1 tvg-id="" tvg-name="TVBPearl",TVBPearl
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-#EXTINF:-1 tvg-id="" tvg-name="TVBPearl",TVBPearl
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="" tvg-name="TVBPearl",TVBPearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="" tvg-name="TVBPearl",TVBPearl
-http://r.jdshipin.com/ZQ4kN
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-id="" tvg-name="TVBPearl",TVBPearl
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 #EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
 http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
+http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
+http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
 https://cdn3.123.rr.kg/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
 https://cdn6.cc.cd/163189/tvbp
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus",TVBPlus
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="" tvg-name="TVBS",TVBS
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34915
 #EXTINF:-1 tvg-id="" tvg-name="TVBS",TVBS
 https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS",TVBS
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34915
 #EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台",TVBS新闻台
@@ -41,35 +43,33 @@ https://live.ottiptv.cc/huya/23865072
 #EXTINF:-1 tvg-id="" tvg-name="TVB无线新闻",TVB无线新闻
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
-https://cdn6.cc.cd/163189/tvbxh$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
-https://cdn6.cc.cd/163189/tvbxh
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
-https://cdn3.indevs.in/stream/live/tvbxh/
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
 https://10.fast.hidns.vip/163189/xinghe/
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
+https://cdn6.cc.cd/163189/tvbxh$LR•IPV4•29『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
 http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
+https://cdn6.cc.cd/163189/tvbxh
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVB练习生",TVB练习生
 https://live.ottiptv.cc/huya/23865132
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-https://cdn6.163189.xyz/163189/fct
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
+https://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
@@ -79,42 +79,46 @@ http://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台",TVB翡翠台
+http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-id="" tvg-name="TVB追剧小能手",TVB追剧小能手
 https://live.ottiptv.cc/huya/23865179
 #EXTINF:-1 tvg-id="" tvg-name="iTVB大后宫",iTVB大后宫
 https://live.ottiptv.cc/huya/23863804
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://10.fast.hidns.vip/163189/fct/
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn6.cc.cd/163189/hlfct
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-http://211.97.63.3:3443/hls/541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn6.cc.cd/163189/fct$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn3.indevs.in/stream/live/hlt/
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn6.cc.cd/163189/hlfct$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
 http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
-https://cdn6.cc.cd/163189/fct
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn6.cc.cd/163189/fct$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+http://211.97.63.3:3443/hls/541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn6.cc.cd/163189/hlfct
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn6.cc.cd/163189/fct
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://10.fast.hidns.vip/163189/fct/
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台",翡翠台
+https://cdn6.cc.cd/163189/hlfct$LR•IPV4•29『线路1』
