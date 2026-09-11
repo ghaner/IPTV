@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
+#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
+https://live.ottiptv.cc/douyu/9643264
 #EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
 https://live.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说
@@ -68,6 +70,8 @@ https://live.ottiptv.cc/douyu/9476790
 https://live.ottiptv.cc/douyu/8851063
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影",扁豆看电影
 https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 tvg-id="" tvg-name="扁豆看电影2",扁豆看电影2
+https://live.ottiptv.cc/huya/21059623
 #EXTINF:-1 tvg-id="" tvg-name="指缝里看电影",指缝里看电影
 https://live.ottiptv.cc/douyu/9647834
 #EXTINF:-1 tvg-id="" tvg-name="星君说电影",星君说电影
@@ -90,8 +94,6 @@ https://live.ottiptv.cc/douyu/9312685
 https://live.ottiptv.cc/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影",火龙果说电影
 https://live.ottiptv.cc/douyu/9559158
-#EXTINF:-1 tvg-id="" tvg-name="熊妹撩电影",熊妹撩电影
-https://live.ottiptv.cc/huya/15966357
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影",牛叔说电影
 https://live.ottiptv.cc/douyu/2758565
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影二台",牛叔说电影二台
@@ -108,6 +110,8 @@ https://live.ottiptv.cc/huya/29982676
 https://live.ottiptv.cc/douyu/9639225
 #EXTINF:-1 tvg-id="" tvg-name="看电影了没V",看电影了没V
 https://live.ottiptv.cc/douyu/9562616
+#EXTINF:-1 tvg-id="" tvg-name="神羊说电影",神羊说电影
+https://live.ottiptv.cc/douyu/9443552
 #EXTINF:-1 tvg-id="" tvg-name="童乐说电影",童乐说电影
 https://live.ottiptv.cc/douyu/9660704
 #EXTINF:-1 tvg-id="" tvg-name="老邪说电影",老邪说电影

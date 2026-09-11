@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="亳州农村",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亳州农村",亳州农村
 http://zbbf2.ahbztv.com/live/418.flv
 #EXTINF:-1 tvg-id="" tvg-name="亳州农村",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
+#EXTINF:-1 tvg-id="" tvg-name="亳州农村",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亳州新闻综合",亳州新闻综合
 http://zbbf2.ahbztv.com/live/416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亳州新闻综合",亳州新闻综合
