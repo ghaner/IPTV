@@ -43,7 +43,7 @@ def load_all_json_data() -> dict:
         "sceniczone": _load_json_keys("sceniczone.json"),
         "documentary": _load_json_keys("documentary.json"),
         "taiwan": _load_json_keys("taiwan.json"),
-        "huyashow": _load_json_keys("huyashow.json"),
+        "show": _load_json_keys("show.json"),
         "mtcommentary": _load_json_keys("MTcommentary.json"),
     }
     # 预计算小写关键词，用于忽略大小写匹配
@@ -105,8 +105,8 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     DOCUMENTARY_LOWER = lower_data["documentary"]
     TAIWAN_NAMES = raw_data["taiwan"]
     TAIWAN_LOWER = lower_data["taiwan"]
-    HUYASHOW_LINKS = raw_data["huyashow"]
-    HUYASHOW_LOWER = lower_data["huyashow"]
+    SHOW_LINKS = raw_data["show"]
+    SHOW_LOWER = lower_data["show"]
 
     MTCOMMENTARY_LINKS = raw_data["mtcommentary"]
     MTCOMMENTARY_LOWER = lower_data["mtcommentary"]
@@ -120,9 +120,9 @@ def get_channel_categories(name: str, link: str) -> List[str]:
     if "/yy/" in link_lower:
         result_cats.add("yy")
     # 特殊链接片段归入影视解说
-    for huyashow_raw, huyashow_low in zip(HUYASHOW_LINKS, HUYASHOW_LOWER):
-        if huyashow_low in link_lower:
-            result_cats.add("虎牙综艺")
+    for show_raw, show_low in zip(SHOW_LINKS, SHOW_LOWER):
+        if show_low in link_lower:
+            result_cats.add("综艺")
 
     for mtcommentary_raw, mtcommentary_low in zip(MTCOMMENTARY_LINKS, MTCOMMENTARY_LOWER):
         if mtcommentary_low in link_lower:
