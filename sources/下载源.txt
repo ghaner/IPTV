@@ -6591,20 +6591,20 @@ CGTN (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENG
 CGTN Documentary (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8 #https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
 CGTN (720p),https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8 #https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
 Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8 #https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a221151ee26ac2b7424c0a6746691270&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=cf8f1311d0e2b8fd7d54e19e5019e228&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=377cbf9dd4acdc302ce317dd60764f76&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=696831b377187602b0d116b106727794&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=b6168ff9818c454d2d1fe76e5871f652&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=d284591a11036eb15d9c75a5bc3c56ff&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=17b89823c8cafe02cf1159605aa12762&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=9f7fce793066d4db17c42e3fda46f330&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=a571f5a0e29fd6c47a99fc1c586e875e&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c257ecb52f190349604e3ad0124dba2f&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=bfbe621c2737523a3de6fa0af31b98b6&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=1ecb9dee813019a808c8acf0da78e2ee&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=44ce3668c0b3c02600d03f00994beef2&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=99ed1fddbd5759c64dc015852e77639e&wsTime=1789135464 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=88d364a8034d02adb7e8b18a04c5f2f5&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=9091e7217c5a6b9a98ba63c2b4bbd2ec&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a0f1687bac2096d2536272826ecbbc9c&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=8a8a27abb7b1d512acd9bf0f8dc9d705&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=fb9a2e3e984155ad2fbe6fffd3834864&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=93fadb79752e64c5f88d553d26fbca96&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=6bbad542f6d0ff6df4ba29d7c9117cd4&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=a0ae4b5456fafa19c68439057d43fb47&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=521b05c2a33879c4120e9618dc3a1c14&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=3e6e67eb7d26c0efd127c7fc7c972c48&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=af688088dd2fa8cb011088f47b82f4c6&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=aa0f0bc9685b2170afd13e91c80e75f7&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=66326d5918c3a6278fbeb144be4be254&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=61c4e07bf9c2f74f02c2aefcda0069b1&wsTime=1789139081 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8 #https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
@@ -6903,6 +6903,9 @@ CCTV1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•29『线路
 CCTV1综合,http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路18』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://112.30.73.119:9901/tsfile/live/1425_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路19』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,https://cdn6.cc.cd/163189/cctv1 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV1综合,http://go.bkpcp.top/mg/cctv1 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV1综合,http://k.061899.xyz/k.php?id=cctv1 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV1综合,http://j.s.bkpcp.top/jj/cctv1 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://mg.cttv.vip/608807420 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://chen.ccwu.cc:1234/608807420 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://2280.eu.org:1234/608807420 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -6935,11 +6938,11 @@ CCTV1综合,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa
 CCTV1综合,http://111.8.242.127:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://218.206.193.218:8888/hls/1/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://222.134.19.49:8090/608807420 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://223.167.230.155:4022/rtp/239.45.3.145:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://114.254.38.234:8888/rtp/239.3.1.129:8008 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://69.30.245.50/live/cctv1.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://198.204.240.250:82/live/cctv1.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://mg.cttv.vip/631780532$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://chen.ccwu.cc:1234/631780532$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -6956,6 +6959,9 @@ CCTV2财经,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8$LR•IPV4•29『线路
 CCTV2财经,http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV2财经,http://go.bkpcp.top/mg/cctv2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV2财经,http://k.061899.xyz/k.php?id=cctv2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV2财经,http://j.s.bkpcp.top/jj/cctv2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://mg.cttv.vip/631780532 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://chen.ccwu.cc:1234/631780532 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV2财经,http://2280.eu.org:1234/631780532 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7003,6 +7009,9 @@ CCTV3综艺,http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•29『线路1
 CCTV3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://112.30.73.119:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV3综艺,http://go.bkpcp.top/mg/cctv3 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV3综艺,http://k.061899.xyz/k.php?id=cctv3 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV3综艺,http://j.s.bkpcp.top/jj/cctv3 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://mg.cttv.vip/624878271 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://chen.ccwu.cc:1234/624878271 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://2280.eu.org:1234/624878271 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7027,6 +7036,7 @@ CCTV3综艺,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conten
 CCTV3综艺,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://218.206.193.218:8888/hls/3/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://222.134.19.49:8090/624878271 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV3综艺,http://69.30.245.50/live/cctv3.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://223.167.230.155:4022/rtp/239.45.1.68:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://114.254.38.234:8888/rtp/239.3.1.172:8001 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7060,6 +7070,11 @@ CCTV4中文国际,http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•29『
 CCTV4中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•29『线路27』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路28』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://cfss.cc/cdn/dy/CCTV4...flv #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://go.bkpcp.top/mg/cctv4 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://k.061899.xyz/k.php?id=cctv4 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://k.061899.xyz/k.php?id=cctv4m #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://k.061899.xyz/k.php?id=cctv4o #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://j.s.bkpcp.top/jj/cctv4 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://mg.cttv.vip/631780421 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://mg.cttv.vip/608807419 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://mg.cttv.vip/608807416 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7105,9 +7120,9 @@ CCTV4中文国际,http://222.134.19.49:8090/631780421 #https://raw.githubusercon
 CCTV4中文国际,http://222.134.19.49:8090/608807419 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://222.134.19.49:8090/608807416 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://223.167.230.155:4022/rtp/239.45.0.2:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV4中文国际,http://114.254.38.234:8888/rtp/239.3.1.213:4220 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://114.254.38.234:8888/rtp/239.3.1.214:4220 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://114.254.38.234:8888/rtp/239.3.1.105:8092 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV4中文国际,http://114.254.38.234:8888/rtp/239.3.1.213:4220 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://198.204.240.250:82/live/cctv4k.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://mg.cttv.vip/641886683$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7136,6 +7151,14 @@ CCTV5体育,http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•29『线路
 CCTV5体育,http://173.208.212.130:8181/1080p/cctv5p.m3u8$LR•IPV4•29『线路24』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路25』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://112.30.73.119:9901/tsfile/live/1422_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路26』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://go.bkpcp.top/mg/cctv5 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://go.bkpcp.top/mg/cctv5p #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://m.061899.xyz/mg/cctv5p #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://k.061899.xyz/k.php?id=cctv5 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://k.061899.xyz/k.php?id=cctv5p #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://j.s.bkpcp.top/jj/cctv5 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://j.s.bkpcp.top/jj/cctv5p #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://mg.cttv.vip/641886683 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://chen.ccwu.cc:1234/641886683 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://2280.eu.org:1234/641886683 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7171,8 +7194,8 @@ CCTV5体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conten
 CCTV5体育,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://218.206.193.218:8888/hls/5/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://222.134.19.49:8090/641886683 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV5体育,http://223.167.230.155:4022/rtp/239.45.1.69:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://114.254.38.234:8888/rtp/239.3.1.173:8001 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV5体育,http://223.167.230.155:4022/rtp/239.45.1.69:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,http://114.254.38.234:8888/rtp/239.3.1.130:8004 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5体育,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV5+体育赛事,http://mg.cttv.vip/641886773$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7206,6 +7229,9 @@ CCTV6电影,http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•29『线路1
 CCTV6电影,http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://112.30.73.119:9901/tsfile/live/1423_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV6电影,http://go.bkpcp.top/mg/cctv6 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV6电影,http://k.061899.xyz/k.php?id=cctv6 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV6电影,http://j.s.bkpcp.top/jj/cctv6 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://mg.cttv.vip/624878396 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://chen.ccwu.cc:1234/624878396 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://2280.eu.org:1234/624878396 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7234,9 +7260,9 @@ CCTV6电影,http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playliv
 CCTV6电影,http://111.8.242.127:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://218.206.193.218:8888/hls/6/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://222.134.19.49:8090/624878396 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV6电影,http://69.30.245.50/live/cctv6.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://223.167.230.155:4022/rtp/239.45.1.70:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://114.254.38.234:8888/rtp/239.3.1.174:8001 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV6电影,http://69.30.245.50/live/cctv6.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV6电影,http://198.204.240.250:82/live/cctv6.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://mg.cttv.vip/673168121$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://chen.ccwu.cc:1234/673168121$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7252,6 +7278,9 @@ CCTV7国防军事,http://198.204.228.26/live/cctv7hd.m3u8$LR•IPV4•29『线�
 CCTV7国防军事,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8$LR•IPV4•29『线路12』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV7国防军事,http://go.bkpcp.top/mg/cctv7 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV7国防军事,http://k.061899.xyz/k.php?id=cctv7 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV7国防军事,http://j.s.bkpcp.top/jj/cctv7 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://mg.cttv.vip/673168121 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://chen.ccwu.cc:1234/673168121 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://2280.eu.org:1234/673168121 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7278,9 +7307,9 @@ CCTV7国防军事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLiv
 CCTV7国防军事,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=24ca971ed180c0b85d5988c883e05f #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://218.206.193.218:8888/hls/7/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://222.134.19.49:8090/673168121 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://223.167.230.155:4022/rtp/239.45.3.56:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV7国防军事,http://114.254.38.234:8888/rtp/239.3.1.61:8104 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://mg.cttv.vip/624878356$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://chen.ccwu.cc:1234/624878356$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://2280.eu.org:1234/624878356$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7302,6 +7331,9 @@ CCTV8电视剧,http://173.208.212.130:8181/720p/cctv8k.m3u8$LR•IPV4•29『线
 CCTV8电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•29『线路19』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路20』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://112.30.73.119:9901/tsfile/live/1424_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路21』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV8电视剧,http://go.bkpcp.top/mg/cctv8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV8电视剧,http://k.061899.xyz/k.php?id=cctv8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV8电视剧,http://j.s.bkpcp.top/jj/cctv8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://mg.cttv.vip/624878356 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://chen.ccwu.cc:1234/624878356 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://2280.eu.org:1234/624878356 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7332,10 +7364,11 @@ CCTV8电视剧,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=7641ec47b
 CCTV8电视剧,http://111.8.242.142:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://218.206.193.218:8888/hls/8/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://222.134.19.49:8090/624878356 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV8电视剧,http://69.30.245.50/live/cctv8.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://223.167.230.155:4022/rtp/239.45.1.71:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://114.254.38.234:8888/rtp/239.3.1.175:8001 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV8电视剧,http://198.204.240.250:82/live/cctv8k.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://mg.cttv.vip/673168140$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://chen.ccwu.cc:1234/673168140$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://2280.eu.org:1234/673168140$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7353,6 +7386,9 @@ CCTV9纪录,http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•29『线路1
 CCTV9纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://112.30.73.119:9901/tsfile/live/1419_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV9纪录,http://go.bkpcp.top/mg/cctv9 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV9纪录,http://k.061899.xyz/k.php?id=cctv9 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV9纪录,http://j.s.bkpcp.top/jj/cctv9 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://mg.cttv.vip/673168140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://chen.ccwu.cc:1234/673168140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://2280.eu.org:1234/673168140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7384,7 +7420,6 @@ CCTV9纪录,http://111.8.242.142:9999/tsfile/live/1036_1.m3u8?key=txiptv&playliv
 CCTV9纪录,http://111.8.242.127:9999/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://218.206.193.218:8888/hls/9/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://222.134.19.49:8090/673168140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://223.167.230.155:4022/rtp/239.45.3.4:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,http://114.254.38.234:8888/rtp/239.3.1.62:8112 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV9纪录,https://xykt-fix.github.io/Y77.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7404,6 +7439,11 @@ CCTV10科教,http://198.204.228.26/live/cctv10hd.m3u8$LR•IPV4•29『线路12�
 CCTV10科教,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://go.bkpcp.top/mg/cctv10 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://m.061899.xyz/mg/cctv10 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://k.061899.xyz/k.php?id=cctv10 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://j.s.bkpcp.top/jj/cctv10 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://mg.cttv.vip/624878405 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://chen.ccwu.cc:1234/624878405 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://2280.eu.org:1234/624878405 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7432,9 +7472,9 @@ CCTV10科教,http://111.8.242.142:9999/tsfile/live/1039_1.m3u8?key=txiptv&playli
 CCTV10科教,http://111.8.242.127:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://218.206.193.218:8888/hls/10/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://222.134.19.49:8090/624878405 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV10科教,http://223.167.230.155:4022/rtp/239.45.3.8:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,http://114.254.38.234:8888/rtp/239.3.1.63:8116 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://223.167.230.155:4022/rtp/239.45.3.8:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV10科教,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://mg.cttv.vip/667987558$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://chen.ccwu.cc:1234/667987558$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7453,6 +7493,11 @@ CCTV11戏曲,http://173.208.212.130:8181/720p/cctv11.m3u8$LR•IPV4•29『线�
 CCTV11戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://112.30.73.119:9901/tsfile/live/1420_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV11戏曲,http://go.bkpcp.top/mg/cctv11 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV11戏曲,http://m.061899.xyz/mg/cctv11 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV11戏曲,http://k.061899.xyz/k.php?id=cctv11 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV11戏曲,http://j.s.bkpcp.top/jj/cctv11 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV11戏曲,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://mg.cttv.vip/667987558 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://chen.ccwu.cc:1234/667987558 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV11戏曲,http://2280.eu.org:1234/667987558 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7500,6 +7545,11 @@ CCTV12社会与法,http://173.208.212.130:8181/720p/cctv12.m3u8$LR•IPV4•29�
 CCTV12社会与法,http://173.208.212.130:8181/1080p/cctv12.m3u8$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://112.30.73.119:9901/tsfile/live/1414_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://go.bkpcp.top/mg/cctv12 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://m.061899.xyz/mg/cctv12 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://k.061899.xyz/k.php?id=cctv12 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://j.s.bkpcp.top/jj/cctv12 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://mg.cttv.vip/673168185 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://chen.ccwu.cc:1234/673168185 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://2280.eu.org:1234/673168185 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7527,9 +7577,9 @@ CCTV12社会与法,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d5
 CCTV12社会与法,http://111.8.242.127:9999/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://218.206.193.218:8888/hls/12/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://222.134.19.49:8090/673168185 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://223.167.230.155:4022/rtp/239.45.3.10:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV12社会与法,http://114.254.38.234:8888/rtp/239.3.1.64:8124 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,https://10.fast.hidns.vip/163189/cctv13/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://mg.cttv.vip/608807423$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://chen.ccwu.cc:1234/608807423$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7549,6 +7599,11 @@ CCTV13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•29『线�
 CCTV13新闻,http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://112.30.73.119:9901/tsfile/live/1416_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路18』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,https://10.fast.hidns.vip/163189/cctv13/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV13新闻,http://go.bkpcp.top/mg/cctv13 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV13新闻,http://m.061899.xyz/mg/cctv13 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV13新闻,http://k.061899.xyz/k.php?id=cctv13 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV13新闻,http://j.s.bkpcp.top/jj/cctv13 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV13新闻,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://mg.cttv.vip/608807423 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://chen.ccwu.cc:1234/608807423 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://2280.eu.org:1234/608807423 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7582,6 +7637,11 @@ CCTV13新闻,http://223.167.230.155:4022/rtp/239.45.1.198:5140 #https://raw.gith
 CCTV13新闻,http://114.254.38.234:8888/rtp/239.3.1.124:8128 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://pull-hls-f26.douyinliving.com/media/stream-120022690769404754.m3u8?expire=6aaa3e05&sign=70bff80bed34b158c2d72f944c457622&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260909145812733CE56B34D0DEE658F5-5HDIU5 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV13新闻,http://pull-hls-f11.douyinliving.com/media/stream-120022690769404754.m3u8?expire=1789541978&sign=3deb8ffebd773b2b3e460301c6cb8f67&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-2026090914593803A065C82FB964DEC55E-SXAbpz #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV14少儿,http://go.bkpcp.top/mg/cctv14 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV14少儿,http://m.061899.xyz/mg/cctv14 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV14少儿,http://k.061899.xyz/k.php?id=cctv14 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV14少儿,http://j.s.bkpcp.top/jj/cctv14 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV14少儿,http://120.76.248.139/live/bfgd/4200000132.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV14少儿,http://107.150.60.122/live/cctv14hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7609,6 +7669,7 @@ CCTV15音乐,http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线�
 CCTV15音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•29『线路15』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://112.30.73.119:9901/tsfile/live/1418_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://mg.cttv.vip/673168223 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://chen.ccwu.cc:1234/673168223 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://2280.eu.org:1234/673168223 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7637,10 +7698,10 @@ CCTV15音乐,http://111.8.242.142:9999/tsfile/live/1049_1.m3u8?key=txiptv&playli
 CCTV15音乐,http://111.8.242.127:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://218.206.193.218:8888/hls/15/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://222.134.19.49:8090/673168223 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://223.167.230.155:4022/rtp/239.45.1.200:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,http://114.254.38.234:8888/rtp/239.3.1.153:8136 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV15音乐,https://xykt-fix.github.io/play/a02e/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV17农业农村,http://mg.cttv.vip/673168256$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV17农业农村,http://chen.ccwu.cc:1234/673168256$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 CCTV17农业农村,http://2280.eu.org:1234/673168256$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7750,6 +7811,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$6M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$2M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 天津卫视,http://218.206.193.218:8888/hls/50/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+天津卫视,http://223.167.230.155:4022/rtp/239.45.1.124:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 天津卫视,http://114.254.38.234:8888/rtp/239.3.1.141:1234 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 天津卫视,http://183.11.239.36:808/hls/42/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 河北卫视,http://mg.cttv.vip/962042070$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7778,7 +7840,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 河北卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017118&livemode=1&stbId=yu&mode=1&$4M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 河北卫视,http://218.206.193.218:8888/hls/47/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 河北卫视,http://222.134.19.49:8090/962042070 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 河北卫视,http://223.167.230.155:4022/rtp/239.45.1.44:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 河北卫视,http://114.254.38.234:8888/rtp/239.3.1.148:8072 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7801,7 +7862,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 山西卫视,http://218.206.193.218:8888/hls/57/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 山西卫视,http://223.167.230.155:4022/rtp/239.45.1.229:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 山西卫视,http://114.254.38.234:8888/rtp/239.3.1.42:8172 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7934,7 +7994,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8$LR•IPV4•29『线路12』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://112.30.73.119:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://mg.cttv.vip/651632648 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://chen.ccwu.cc:1234/651632648 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://2280.eu.org:1234/651632648 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -7950,9 +8009,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 东方卫视,http://112.30.73.119:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://45.192.97.170:8880/play/26.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-东方卫视,http://bp-resource-dfl.bestv.cn/151/3/video.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://120.48.113.49:6006/651632648 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=yu&mode=1&$8M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=yu&mode=1&$4M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1&$2M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8036,7 +8093,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 浙江卫视,http://218.13.170.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江卫视,http://111.8.242.142:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江卫视,http://111.8.242.127:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江卫视,http://223.167.230.155:4022/rtp/239.45.3.178:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江卫视,http://114.254.38.234:8888/rtp/239.3.1.137:8036 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8066,6 +8122,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 安徽卫视,http://218.206.193.218:8888/hls/46/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 安徽卫视,http://223.167.230.155:4022/rtp/239.45.1.120:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 安徽卫视,http://114.254.38.234:8888/rtp/239.3.1.211:8064 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://mg.cttv.vip/783847495$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://chen.ccwu.cc:1234/783847495$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://2280.eu.org:1234/783847495$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8099,6 +8156,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 江西卫视,http://218.206.193.218:8888/hls/56/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://111.8.242.127:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://222.134.19.49:8090/783847495 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://223.167.230.155:4022/rtp/239.45.1.122:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 江西卫视,http://114.254.38.234:8888/rtp/239.3.1.123:8164 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8199,7 +8257,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 湖北卫视,http://218.206.193.218:8888/hls/40/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 湖北卫视,http://218.13.170.98:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 湖北卫视,http://222.134.19.49:8090/947472496 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 湖北卫视,http://223.167.230.155:4022/rtp/239.45.3.239:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 湖北卫视,http://114.254.38.234:8888/rtp/239.3.1.138:8044 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8256,6 +8313,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 广东卫视,http://112.30.73.119:9901/tsfile/live/1273_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路22』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东卫视,http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8$LR•IPV4•29『线路23』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东卫视,http://119.29.142.81:4022/udp/239.77.0.84:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+广东卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.84:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.84:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8442,8 +8500,8 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 陕西卫视,http://111.8.242.142:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 陕西卫视,http://111.8.242.127:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 陕西卫视,http://222.134.19.49:8090/738910838 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-陕西卫视,http://223.167.230.155:4022/rtp/239.45.1.232:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 陕西卫视,http://114.254.38.234:8888/rtp/239.3.1.41:8140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+陕西卫视,http://223.167.230.155:4022/rtp/239.45.1.232:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://107.150.60.122/live/gswshd.m3u8$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8465,7 +8523,6 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=yu&mode=1&$4M #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=56f338f40bb838f06c469ff7600515 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://218.206.193.218:8888/hls/58/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://223.167.230.155:4022/rtp/239.45.1.234:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 甘肃卫视,http://114.254.38.234:8888/rtp/239.3.1.49:8188 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 青海卫视,http://mg.cttv.vip/947472506$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8523,6 +8580,7 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 宁夏卫视,http://111.8.242.127:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏卫视,http://218.206.193.218:8888/hls/51/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏卫视,http://222.134.19.49:8090/738910535 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏卫视,http://223.167.230.155:4022/rtp/239.45.1.213:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏卫视,http://114.254.38.234:8888/rtp/239.3.1.46:8124 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8548,16 +8606,16 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 新疆卫视,http://218.206.193.218:8888/hls/64/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 新疆卫视,http://223.167.230.155:4022/rtp/239.45.1.116:5140 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 新疆卫视,http://114.254.38.234:8888/rtp/239.3.1.48:8160 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-旅游卫视,http://111.8.242.142:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-旅游卫视,http://111.8.242.127:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn6.cc.cd/163189/fct$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8$LR•IPV4•29『线路3』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv$LR•IPV4•29『线路4』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn6.cc.cd/163189/hlfct$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn3.indevs.in/stream/live/hlt/$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://10.fast.hidns.vip/163189/fct/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn6.cc.cd/163189/fct #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8566,16 +8624,20 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 翡翠台,https://10.fast.hidns.vip/163189/fct/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://cdn6.163189.xyz/163189/fct4k #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 明珠台,https://10.fast.hidns.vip/163189/mzt/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 明珠台,https://10.fast.hidns.vip/163189/mzt/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 无线新闻台,https://cdn6.cc.cd/163189/wxxw$LR•IPV4•29『线路2』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8583,11 +8645,11 @@ CCTV17农业农村,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14
 无线新闻台,https://cdn6.cc.cd/163189/wxxw #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 无线新闻台,http://bziyunshao.synology.me:8890/bysid/83 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 无线新闻台,http://c.123.rr.kg/163189/wxxw #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/ #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 TVB星河,https://cdn6.cc.cd/163189/tvbxh$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8664,6 +8726,7 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe #https://raw.githubuse
 广东少儿,http://192.151.150.154/live/gdtvs5.m3u8$LR•IPV4•29『线路13』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8$LR•IPV4•29『线路14』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://119.29.142.81:4022/udp/239.77.0.250:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+广东少儿,http://hongzhijiaoyu.net:8188/udp/239.77.0.250:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://lsa.familyds.com:8188/udp/239.77.0.250:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.250:5146 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8679,7 +8742,6 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe #https://raw.githubuse
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
@@ -8697,7 +8759,6 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe #https://raw.githubuse
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 深圳少儿,http://nn.7x9d.cn/深圳最新.php?id=szse$LR•IPV4•29『线路1』 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
-深圳少儿,http://nn.7x9d.cn/深圳最新.php?id=szse #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8 #https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
 2026-09-11 10:15:25,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4 #https://raw.githubusercontent.com/David1016/live-merged/refs/heads/main/LIVE-merged.m3u

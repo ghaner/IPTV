@@ -24,18 +24,24 @@ https://live.ottiptv.cc/huya/20985822
 https://live.ottiptv.cc/huya/23728647
 #EXTINF:-1 tvg-id="" tvg-name="憨豆先生-经典喜剧",憨豆先生-经典喜剧
 https://live.ottiptv.cc/yy/1354936239
+#EXTINF:-1 tvg-id="" tvg-name="搞笑孟文明",搞笑孟文明
+https://live.ottiptv.cc/douyu/9766337
 #EXTINF:-1 tvg-id="" tvg-name="正经纪录片",正经纪录片
 https://live.ottiptv.cc/huya/23860049
 #EXTINF:-1 tvg-id="" tvg-name="海洋幻梦-泰剧",海洋幻梦-泰剧
 https://live.ottiptv.cc/yy/1382749889
 #EXTINF:-1 tvg-id="" tvg-name="热心市民高先生",热心市民高先生
 https://live.ottiptv.cc/huya/11602037
+#EXTINF:-1 tvg-id="" tvg-name="無才先生",無才先生
+https://live.ottiptv.cc/douyu/8317571
 #EXTINF:-1 tvg-id="" tvg-name="纪录片之家字幕组",纪录片之家字幕组
 https://live.ottiptv.cc/douyu/8834003
 #EXTINF:-1 tvg-id="" tvg-name="老广的味道 第3季-美食纪录片",老广的味道 第3季-美食纪录片
 https://live.ottiptv.cc/yy/1382735565
 #EXTINF:-1 tvg-id="" tvg-name="老广的味道-美食之旅",老广的味道-美食之旅
 https://live.ottiptv.cc/yy/1354932375
+#EXTINF:-1 tvg-id="" tvg-name="育碧先生v",育碧先生v
+https://live.ottiptv.cc/douyu/9505962
 #EXTINF:-1 tvg-id="" tvg-name="舌尖上的中国第2季",舌尖上的中国第2季
 https://live.ottiptv.cc/yy/1354930943
 #EXTINF:-1 tvg-id="" tvg-name="舌尖上的中国第一季",舌尖上的中国第一季
@@ -47,6 +53,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf6
 #EXTINF:-1 tvg-id="" tvg-name="航拍中国第二季",航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
-https://live.ottiptv.cc/yy/1356043620
-#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439
+#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
+https://live.ottiptv.cc/yy/1356043620
