@@ -1,44 +1,56 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://t.061899.xyz/tl/tl.php?id=qhws
+http://183.234.143.5:9902/tsfile/live/1112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://218.206.193.218:8888/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://198.204.228.26/live/qhws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
 http://111.8.242.142:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://j.x.bkpcp.top/jx/QHWS
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
 http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
 http://112.234.22.76:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+http://2280.eu.org:1234/947472506$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://198.204.228.26/live/qhws.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
+http://182.61.15.163:80/947472506
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://114.254.38.234:8888/rtp/239.3.1.44:8184
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://bztv.tvbus.cc:8081/cdnlive/qhws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://183.234.143.5:9902/tsfile/live/1112_1.m3u8?key=txiptv&playlive=0&authid=0
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
 http://192.151.150.154/live/qhws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://218.206.193.218:8888/hls/35/index.m3u8
+http://t.061899.xyz/tl/tl.php?id=qhws
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://120.76.248.139/live/bfgd/4200000111.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/qhws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$LR•IPV4•29『线路3』
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://2280.eu.org:1234/947472506$LR•IPV4•29『线路2』
+http://114.254.38.234:8888/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+http://2280.eu.org:1234/947472506$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
 http://118.193.115.2:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=e2f3355104f5f2c6dffeabac6d14c7
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://107.150.60.122/live/qhws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://120.76.248.139/live/bfgd/4200000111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://chen.ccwu.cc:1234/947472506$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视[576][S]",青海卫视[576][S]
+http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0

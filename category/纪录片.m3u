@@ -52,3 +52,5 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf6
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
 https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439

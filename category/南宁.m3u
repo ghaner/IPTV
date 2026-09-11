@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="南宁公共",南宁公共
-https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁公共",南宁公共
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
-#EXTINF:-1 tvg-id="" tvg-name="南宁公共",南宁公共
-http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南宁影娱乐",南宁影娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 #EXTINF:-1 tvg-id="" tvg-name="南宁影视娱乐",南宁影视娱乐
