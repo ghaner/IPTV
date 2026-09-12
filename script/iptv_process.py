@@ -7,59 +7,59 @@ import time
 from datetime import datetime
 from collections import defaultdict
 from typing import Optional, Tuple
-# ===================== åŸºç¡€é…ç½® =====================
-# æ–‡ä»¶å¤¹è·¯å¾„
+# ===================== »ù´¡ÅäÖÃ =====================
+# ÎÄ¼ş¼ĞÂ·¾¶
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_DIR = os.path.join(BASE_DIR, "config")
 SOURCES_DIR = os.path.join(BASE_DIR, "sources")
 CATEGORY_DIR = os.path.join(BASE_DIR, "category")
 LOG_DIR = os.path.join(BASE_DIR, "log")
-# æŒä¹…åŒ–å¤±è´¥è®¡æ•°å™¨æ–‡ä»¶
+# ³Ö¾Ã»¯Ê§°Ü¼ÆÊıÆ÷ÎÄ¼ş
 FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
-# åˆ›å»ºå¿…è¦æ–‡ä»¶å¤¹
+# ´´½¨±ØÒªÎÄ¼ş¼Ğ
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
     os.makedirs(d, exist_ok=True)
-# æµ‹é€Ÿé…ç½®
+# ²âËÙÅäÖÃ
 VLC_UA = "VLC/3.0.20 LibVLC/3.0.20"
-CONCURRENCY_HTTP = 15       # httpè¯·æ±‚å¹¶å‘
-CONCURRENCY_FFPROBE = 8     # ffprobeå­è¿›ç¨‹å¹¶å‘(CPUå¯†é›†ï¼Œä½äºhttp)
-TIMEOUT = 4                 # å•ä¸ªhttpè¯·æ±‚è¶…æ—¶
+CONCURRENCY_HTTP = 15       # httpÇëÇó²¢·¢
+CONCURRENCY_FFPROBE = 8     # ffprobe×Ó½ø³Ì²¢·¢(CPUÃÜ¼¯£¬µÍÓÚhttp)
+TIMEOUT = 4                 # µ¥¸öhttpÇëÇó³¬Ê±
 SUCCESS_CODES = {200, 201, 202, 206}
-MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # ä»…æµ‹é€Ÿé˜¶æ®µæœ€å¤§è¿è¡Œæ—¶é•¿5.5å°æ—¶
-PERMANENT_FAIL_THRESHOLD = 3  # è¿ç»­å¤±è´¥Nè½®æ ‡è®°æ°¸ä¹…å¤±æ•ˆ
-HTTP_READ_BYTES = 2048       # httpè¯»å–æµå­—èŠ‚æ•°ï¼Œä¼˜åŒ–æ£€æµ‹å‡†ç¡®æ€§
-SKIP_AUDIO_ONLY_STREAM = False # æ˜¯å¦è·³è¿‡ä»…éŸ³é¢‘æµï¼›True=ä»…éŸ³é¢‘è§†ä¸ºæ— æ•ˆï¼ŒFalseå…è®¸çº¯éŸ³é¢‘æºæœ‰æ•ˆ
-# å…¨å±€å˜é‡ï¼šæ§åˆ¶æµ‹é€Ÿå¼ºåˆ¶ç»ˆæ­¢(TaskGroupæ¥ç®¡å®é™…å–æ¶ˆï¼Œä¿ç•™å…¼å®¹æ—§æ‰“å°)
+MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # ½ö²âËÙ½×¶Î×î´óÔËĞĞÊ±³¤5.5Ğ¡Ê±
+PERMANENT_FAIL_THRESHOLD = 3  # Á¬ĞøÊ§°ÜNÂÖ±ê¼ÇÓÀ¾ÃÊ§Ğ§
+HTTP_READ_BYTES = 2048       # http¶ÁÈ¡Á÷×Ö½ÚÊı£¬ÓÅ»¯¼ì²â×¼È·ĞÔ
+SKIP_AUDIO_ONLY_STREAM = False # ÊÇ·ñÌø¹ı½öÒôÆµÁ÷£»True=½öÒôÆµÊÓÎªÎŞĞ§£¬FalseÔÊĞí´¿ÒôÆµÔ´ÓĞĞ§
+# È«¾Ö±äÁ¿£º¿ØÖÆ²âËÙÇ¿ÖÆÖÕÖ¹(TaskGroup½Ó¹ÜÊµ¼ÊÈ¡Ïû£¬±£Áô¼æÈİ¾É´òÓ¡)
 stop_speed_test = False
 start_time = time.time()
-# ===================== å·¥å…·å‡½æ•° =====================
+# ===================== ¹¤¾ßº¯Êı =====================
 def load_json(path):
-    """åŠ è½½JSONæ–‡ä»¶ã€å¸¦è°ƒè¯•æ—¥å¿—ã€‘"""
+    """¼ÓÔØJSONÎÄ¼ş¡¾´øµ÷ÊÔÈÕÖ¾¡¿"""
     if not os.path.exists(path):
-        print(f"[ERROR] JSONæ–‡ä»¶ä¸å­˜åœ¨: {path}")
+        print(f"[ERROR] JSONÎÄ¼ş²»´æÔÚ: {path}")
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
-            print(f"[DEBUG] åŠ è½½ {os.path.basename(path)}ï¼Œè¯»å–åˆ—è¡¨é•¿åº¦ï¼š{len(data)}")
+            print(f"[DEBUG] ¼ÓÔØ {os.path.basename(path)}£¬¶ÁÈ¡ÁĞ±í³¤¶È£º{len(data)}")
         else:
-            print(f"[DEBUG] åŠ è½½ {os.path.basename(path)}ï¼Œè¯»å–å­—å…¸ï¼Œkeys:{list(data.keys())}")
+            print(f"[DEBUG] ¼ÓÔØ {os.path.basename(path)}£¬¶ÁÈ¡×Öµä£¬keys:{list(data.keys())}")
         return data
     except json.JSONDecodeError as e:
-        print(f"[ERROR] JSONè§£æå¤±è´¥ {path} : {str(e)}")
+        print(f"[ERROR] JSON½âÎöÊ§°Ü {path} : {str(e)}")
         return []
     except Exception as e:
-        print(f"[ERROR] æ–‡ä»¶è¯»å–å¼‚å¸¸ {path}: {str(e)}")
+        print(f"[ERROR] ÎÄ¼ş¶ÁÈ¡Òì³£ {path}: {str(e)}")
         return []
 def clean_text(s):
-    """æ¸…ç†ç©ºç™½å­—ç¬¦"""
+    """ÇåÀí¿Õ°××Ö·û"""
     return s.strip() if s else ""
 def url_standardize(url):
-    """URLæ ‡å‡†åŒ–"""
+    """URL±ê×¼»¯"""
     return clean_text(url)
 def get_domain(url: str) -> str:
-    """æå–åŸŸåç”¨äºåŸŸåé™æµ"""
+    """ÌáÈ¡ÓòÃûÓÃÓÚÓòÃûÏŞÁ÷"""
     try:
         from urllib.parse import urlparse
         p = urlparse(url)
@@ -67,7 +67,7 @@ def get_domain(url: str) -> str:
     except Exception:
         return "unknown"
 def parse_m3u(content, source_url):
-    """è§£æM3U/M3U8æ–‡ä»¶ï¼Œæå–nameå’Œurl"""
+    """½âÎöM3U/M3U8ÎÄ¼ş£¬ÌáÈ¡nameºÍurl"""
     sources = []
     name_pattern = re.compile(r'tvg-name="([^"]+)"')
     lines = content.splitlines()
@@ -79,14 +79,14 @@ def parse_m3u(content, source_url):
             if match:
                 current_name = match.group(1)
             else:
-                current_name = line.split(",")[-1] if "," in line else "æœªçŸ¥é¢‘é“"
+                current_name = line.split(",")[-1] if "," in line else "Î´ÖªÆµµÀ"
         elif line.startswith("http"):
             if current_name and line:
                 sources.append(f"{clean_text(current_name)},{line} #{source_url}")
             current_name = ""
     return sources
 def parse_txt(content, source_url):
-    """è§£æTXTç›´æ’­æºæ–‡ä»¶"""
+    """½âÎöTXTÖ±²¥Ô´ÎÄ¼ş"""
     sources = []
     lines = content.splitlines()
     for line in lines:
@@ -98,11 +98,11 @@ def parse_txt(content, source_url):
             if url.startswith("http"):
                 sources.append(f"{clean_text(name)},{clean_text(url)} #{source_url}")
         elif line.startswith("http"):
-            sources.append(f"æœªçŸ¥é¢‘é“,{line} #{source_url}")
+            sources.append(f"Î´ÖªÆµµÀ,{line} #{source_url}")
     return sources
-# ---------------- å¤±è´¥è®¡æ•°å™¨æŒä¹…åŒ–å·¥å…· ----------------
+# ---------------- Ê§°Ü¼ÆÊıÆ÷³Ö¾Ã»¯¹¤¾ß ----------------
 def load_fail_counter():
-    """åŠ è½½URLå¤±è´¥è½®æ¬¡è®¡æ•°å™¨ {url: fail_count}"""
+    """¼ÓÔØURLÊ§°ÜÂÖ´Î¼ÆÊıÆ÷ {url: fail_count}"""
     if not os.path.exists(FAIL_COUNTER_FILE):
         return dict()
     try:
@@ -111,13 +111,13 @@ def load_fail_counter():
     except Exception:
         return dict()
 def save_fail_counter(counter):
-    """ä¿å­˜è®¡æ•°å™¨åˆ°json"""
+    """±£´æ¼ÆÊıÆ÷µ½json"""
     with open(FAIL_COUNTER_FILE, "w", encoding="utf-8") as f:
         json.dump(counter, f, ensure_ascii=False, indent=2)
 def update_fail_counter(results):
-    """æ ¹æ®æœ¬è½®æµ‹é€Ÿç»“æœæ›´æ–°å¤±è´¥è®¡æ•°å™¨
-    æœ‰æ•ˆæºï¼šé‡ç½®è®¡æ•°ä¸º0ï¼›å¤±è´¥æºï¼šè®¡æ•°+1
-    è¿”å›è¾¾åˆ°é˜ˆå€¼çš„æ°¸ä¹…å¤±æ•ˆurlé›†åˆ
+    """¸ù¾İ±¾ÂÖ²âËÙ½á¹û¸üĞÂÊ§°Ü¼ÆÊıÆ÷
+    ÓĞĞ§Ô´£ºÖØÖÃ¼ÆÊıÎª0£»Ê§°ÜÔ´£º¼ÆÊı+1
+    ·µ»Ø´ïµ½ãĞÖµµÄÓÀ¾ÃÊ§Ğ§url¼¯ºÏ
     """
     counter = load_fail_counter()
     permanent_invalid_urls = set()
@@ -132,30 +132,30 @@ def update_fail_counter(results):
             if counter[url] >= PERMANENT_FAIL_THRESHOLD:
                 permanent_invalid_urls.add(url)
     save_fail_counter(counter)
-    print(f"[COUNTER-DEBUG] æ›´æ–°å¤±è´¥è®¡æ•°å™¨ï¼Œè¾¾åˆ°é˜ˆå€¼{PERMANENT_FAIL_THRESHOLD}è½®å¤±è´¥URLæ•°é‡ï¼š{len(permanent_invalid_urls)}")
+    print(f"[COUNTER-DEBUG] ¸üĞÂÊ§°Ü¼ÆÊıÆ÷£¬´ïµ½ãĞÖµ{PERMANENT_FAIL_THRESHOLD}ÂÖÊ§°ÜURLÊıÁ¿£º{len(permanent_invalid_urls)}")
     return permanent_invalid_urls
-# ===================== 1.ä¸‹è½½ç›´æ’­æº =====================
+# ===================== 1.ÏÂÔØÖ±²¥Ô´ =====================
 async def download_sources():
-    """ä»é…ç½®æ–‡ä»¶ä¸‹è½½æ‰€æœ‰ç›´æ’­æº"""
+    """´ÓÅäÖÃÎÄ¼şÏÂÔØËùÓĞÖ±²¥Ô´"""
     url_file = os.path.join(CONFIG_DIR, "DOWNLOAD_SOURCE_URLS.json")
     source_urls = load_json(url_file)
     if not isinstance(source_urls, list) or len(source_urls) == 0:
-        print("[FATAL] DOWNLOAD_SOURCE_URLS.json ä¸‹è½½åœ°å€ä¸ºç©ºï¼Œç»ˆæ­¢ä¸‹è½½ï¼")
+        print("[FATAL] DOWNLOAD_SOURCE_URLS.json ÏÂÔØµØÖ·Îª¿Õ£¬ÖÕÖ¹ÏÂÔØ£¡")
         return {}
     all_sources = []
     source_map = defaultdict(list)
-    print(f"[STEP1-DEBUG] å¾…ä¸‹è½½æºæ•°é‡ï¼š{len(source_urls)}")
+    print(f"[STEP1-DEBUG] ´ıÏÂÔØÔ´ÊıÁ¿£º{len(source_urls)}")
     async with aiohttp.ClientSession() as session:
         for idx, source_url in enumerate(source_urls):
             try:
-                print(f"[STEP1] ({idx+1}/{len(source_urls)}) ä¸‹è½½: {source_url}")
+                print(f"[STEP1] ({idx+1}/{len(source_urls)}) ÏÂÔØ: {source_url}")
                 async with session.get(
                     source_url,
                     headers={"User-Agent": VLC_UA},
                     timeout=aiohttp.ClientTimeout(total=10)
                 ) as resp:
                     if resp.status not in SUCCESS_CODES:
-                        print(f"[WARN] çŠ¶æ€ç å¼‚å¸¸ {source_url} status={resp.status}")
+                        print(f"[WARN] ×´Ì¬ÂëÒì³£ {source_url} status={resp.status}")
                         continue
                     content = await resp.text(errors="ignore")
                     if source_url.endswith((".m3u", ".m3u8")):
@@ -164,18 +164,18 @@ async def download_sources():
                         items = parse_txt(content, source_url)
                     all_sources.extend(items)
                     source_map[source_url] = items
-                    print(f"[STEP1-DEBUG] {source_url} è§£æå¾—åˆ° {len(items)} æ¡æº")
+                    print(f"[STEP1-DEBUG] {source_url} ½âÎöµÃµ½ {len(items)} ÌõÔ´")
             except Exception as e:
-                print(f"[ERROR] ä¸‹è½½å¤±è´¥ {source_url}: {str(e)}")
-    output = os.path.join(SOURCES_DIR, "ä¸‹è½½æº.txt")
+                print(f"[ERROR] ÏÂÔØÊ§°Ü {source_url}: {str(e)}")
+    output = os.path.join(SOURCES_DIR, "ÏÂÔØÔ´.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(all_sources))
-    print(f"[STEP1-END] ä¸‹è½½å®Œæˆï¼Œä¸‹è½½æº.txtæ€»æ¡æ•°ï¼š{len(all_sources)}")
+    print(f"[STEP1-END] ÏÂÔØÍê³É£¬ÏÂÔØÔ´.txt×ÜÌõÊı£º{len(all_sources)}")
     return source_map
-# ===================== 2.æ±‡æ€»æ–°æ—§ç›´æ’­æº =====================
+# ===================== 2.»ã×ÜĞÂ¾ÉÖ±²¥Ô´ =====================
 def merge_sources():
-    download = os.path.join(SOURCES_DIR, "ä¸‹è½½æº.txt")
-    valid = os.path.join(SOURCES_DIR, "æœ‰æ•ˆç›´æ’­æº.txt")
+    download = os.path.join(SOURCES_DIR, "ÏÂÔØÔ´.txt")
+    valid = os.path.join(SOURCES_DIR, "ÓĞĞ§Ö±²¥Ô´.txt")
     merged = []
     cnt_download = 0
     cnt_valid_old = 0
@@ -189,16 +189,16 @@ def merge_sources():
             old_valid = [clean_text(l) for l in f if clean_text(l)]
             merged.extend(old_valid)
             cnt_valid_old = len(old_valid)
-    output = os.path.join(SOURCES_DIR, "æ±‡æ€».txt")
+    output = os.path.join(SOURCES_DIR, "»ã×Ü.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(merged))
-    print(f"[STEP2-END] æ±‡æ€»å®Œæˆï¼›ä¸‹è½½æº:{cnt_download}æ¡ï¼›æ—§æœ‰æ•ˆæº:{cnt_valid_old}æ¡ï¼›æ±‡æ€».txtåˆè®¡ï¼š{len(merged)}æ¡")
-# ===================== 3.æ±‡æ€»ç›´æ’­æºåˆæ­¥å¤„ç† =====================
+    print(f"[STEP2-END] »ã×ÜÍê³É£»ÏÂÔØÔ´:{cnt_download}Ìõ£»¾ÉÓĞĞ§Ô´:{cnt_valid_old}Ìõ£»»ã×Ü.txtºÏ¼Æ£º{len(merged)}Ìõ")
+# ===================== 3.»ã×ÜÖ±²¥Ô´³õ²½´¦Àí =====================
 def process_merged():
-    merged_path = os.path.join(SOURCES_DIR, "æ±‡æ€».txt")
-    invalid_path = os.path.join(SOURCES_DIR, "æ°¸ä¹…å¤±æ•ˆ.txt")
+    merged_path = os.path.join(SOURCES_DIR, "»ã×Ü.txt")
+    invalid_path = os.path.join(SOURCES_DIR, "ÓÀ¾ÃÊ§Ğ§.txt")
     if not os.path.exists(merged_path):
-        print("[WARN] æ±‡æ€».txtä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå¤„ç†")
+        print("[WARN] »ã×Ü.txt²»´æÔÚ£¬Ìø¹ı³õ´¦Àí")
         return
     invalid_urls = set()
     if os.path.exists(invalid_path):
@@ -207,14 +207,14 @@ def process_merged():
                 if "," in line:
                     u = line.split(",", 1)[1].split("#")[0].strip()
                     invalid_urls.add(u)
-    print(f"[STEP3-DEBUG] æ°¸ä¹…å¤±æ•ˆ.txtåŠ è½½å¤±æ•ˆURLæ€»æ•°ï¼š{len(invalid_urls)}")
-    count_perm_invalid = 0   # è¢«æ°¸ä¹…å¤±æ•ˆåˆ—è¡¨è¿‡æ»¤æ‰çš„æ•°é‡
-    count_dup_url = 0         # urlé‡å¤è¿‡æ»¤
-    count_bad_line = 0        # åè¡Œï¼ˆç©ºåå­—ã€ç©ºurlç­‰ï¼‰
+    print(f"[STEP3-DEBUG] ÓÀ¾ÃÊ§Ğ§.txt¼ÓÔØÊ§Ğ§URL×ÜÊı£º{len(invalid_urls)}")
+    count_perm_invalid = 0   # ±»ÓÀ¾ÃÊ§Ğ§ÁĞ±í¹ıÂËµôµÄÊıÁ¿
+    count_dup_url = 0         # urlÖØ¸´¹ıÂË
+    count_bad_line = 0        # »µĞĞ£¨¿ÕÃû×Ö¡¢¿ÕurlµÈ£©
     raw_lines = []
     with open(merged_path, "r", encoding="utf-8") as f:
         raw_lines = [clean_text(l) for l in f if clean_text(l)]
-    print(f"[STEP3-DEBUG] åˆå¤„ç†è¾“å…¥åŸå§‹æ¡æ•°ï¼š{len(raw_lines)}")
+    print(f"[STEP3-DEBUG] ³õ´¦ÀíÊäÈëÔ­Ê¼ÌõÊı£º{len(raw_lines)}")
     lines = []
     url_set = set()
     for line in raw_lines:
@@ -238,20 +238,20 @@ def process_merged():
             continue
         url_set.add(url)
         lines.append(f"{clean_text(name)},{url}{comment}")
-    output = os.path.join(SOURCES_DIR, "åˆå¤„ç†.txt")
+    output = os.path.join(SOURCES_DIR, "³õ´¦Àí.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"[STEP3-FILTER] æ°¸ä¹…å¤±æ•ˆè¿‡æ»¤ï¼š{count_perm_invalid} æ¡ï¼›URLå»é‡è¿‡æ»¤ï¼š{count_dup_url} æ¡ï¼›åè¡Œä¸¢å¼ƒï¼š{count_bad_line} æ¡")
+    print(f"[STEP3-FILTER] ÓÀ¾ÃÊ§Ğ§¹ıÂË£º{count_perm_invalid} Ìõ£»URLÈ¥ÖØ¹ıÂË£º{count_dup_url} Ìõ£»»µĞĞ¶ªÆú£º{count_bad_line} Ìõ")
     input_total = len(raw_lines)
     sum_filtered = count_perm_invalid + count_dup_url + count_bad_line
     output_total = len(lines)
     calc_total = sum_filtered + output_total
     if input_total == calc_total:
-        print(f"[STEP3-CHECK] âœ…è®¡æ•°æ ¡éªŒé€šè¿‡ï¼šè¾“å…¥{input_total} = è¿‡æ»¤{sum_filtered} + è¾“å‡º{output_total}")
+        print(f"[STEP3-CHECK] ?¼ÆÊıĞ£ÑéÍ¨¹ı£ºÊäÈë{input_total} = ¹ıÂË{sum_filtered} + Êä³ö{output_total}")
     else:
-        print(f"[STEP3-CHECK] âš ï¸è®¡æ•°æ ¡éªŒä¸åŒ¹é…ï¼è¾“å…¥:{input_total} è®¡ç®—åˆè®¡:{calc_total}ï¼Œè¯·æ£€æŸ¥è®¡æ•°é€»è¾‘")
-    print(f"[STEP3-END] åˆå¤„ç†å®Œæˆï¼Œåˆå¤„ç†.txtå‰©ä½™ {len(lines)} æ¡")
-# ===================== 4.ç›´æ’­æºæµ‹é€Ÿ =====================
+        print(f"[STEP3-CHECK] ??¼ÆÊıĞ£Ñé²»Æ¥Åä£¡ÊäÈë:{input_total} ¼ÆËãºÏ¼Æ:{calc_total}£¬Çë¼ì²é¼ÆÊıÂß¼­")
+    print(f"[STEP3-END] ³õ´¦ÀíÍê³É£¬³õ´¦Àí.txtÊ£Óà {len(lines)} Ìõ")
+# ===================== 4.Ö±²¥Ô´²âËÙ =====================
 async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool, str, str, str, str]:
     try:
         async with ffprobe_sem:
@@ -298,8 +298,8 @@ async def test_single_source(
     line: str
 ) -> Tuple[Optional[dict], Optional[str], str]:
     """
-    è¿”å› (result, origin_line, error_reason)
-    error_reason: ç©ºå­—ç¬¦ä¸²ä»£è¡¨æ— å¼‚å¸¸ï¼Œæ­£å¸¸å®Œæˆæµ‹é€Ÿï¼›å…¶ä½™ä¸ºå¤±è´¥æè¿°
+    ·µ»Ø (result, origin_line, error_reason)
+    error_reason: ¿Õ×Ö·û´®´ú±íÎŞÒì³££¬Õı³£Íê³É²âËÙ£»ÆäÓàÎªÊ§°ÜÃèÊö
     """
     try:
         line = clean_text(line)
@@ -343,13 +343,13 @@ async def test_single_source(
     except Exception:
         return None, line, "task_inner_exception"
 async def run_speed_test():
-    input_path = os.path.join(SOURCES_DIR, "åˆå¤„ç†.txt")
+    input_path = os.path.join(SOURCES_DIR, "³õ´¦Àí.txt")
     if not os.path.exists(input_path):
-        print("[WARN] åˆå¤„ç†.txtä¸å­˜åœ¨ï¼Œè·³è¿‡æµ‹é€Ÿ")
+        print("[WARN] ³õ´¦Àí.txt²»´æÔÚ£¬Ìø¹ı²âËÙ")
         return []
     with open(input_path, "r", encoding="utf-8") as f:
         lines = [l for l in f if clean_text(l)]
-    print(f"[STEP4-DEBUG] æµ‹é€Ÿä»»åŠ¡å¾…æ£€æµ‹æ€»æ¡æ•°ï¼š{len(lines)}")
+    print(f"[STEP4-DEBUG] ²âËÙÈÎÎñ´ı¼ì²â×ÜÌõÊı£º{len(lines)}")
     speed_test_start = time.time()
     http_sem = asyncio.Semaphore(CONCURRENCY_HTTP)
     ffprobe_sem = asyncio.Semaphore(CONCURRENCY_FFPROBE)
@@ -374,7 +374,7 @@ async def run_speed_test():
             try:
                 for task in asyncio.as_completed(task_list):
                     if time.time() - speed_test_start > MAX_SPEED_TEST_RUN_TIME:
-                        print(f"âš ï¸ [STEP4] æµ‹é€Ÿé˜¶æ®µè¾¾åˆ°æœ€å¤§æ—¶é•¿ {MAX_SPEED_TEST_RUN_TIME}sï¼Œè§¦å‘TaskGroupå–æ¶ˆå…¨éƒ¨æµ‹é€Ÿä»»åŠ¡")
+                        print(f"?? [STEP4] ²âËÙ½×¶Î´ïµ½×î´óÊ±³¤ {MAX_SPEED_TEST_RUN_TIME}s£¬´¥·¢TaskGroupÈ¡ÏûÈ«²¿²âËÙÈÎÎñ")
                         for t in task_list:
                             if not t.done():
                                 t.cancel()
@@ -391,23 +391,23 @@ async def run_speed_test():
                     if completed_count % 50 == 0:
                         valid_cnt = sum(1 for r in results if r["valid"])
                         fail_cnt = len(results) - valid_cnt
-                        print(f"[STEP4-PROGRESS] å·²æµ‹é€Ÿ {completed_count}/{len(lines)} æœ‰æ•ˆ:{valid_cnt} å¤±è´¥:{fail_cnt} last_err:{err_reason}")
+                        print(f"[STEP4-PROGRESS] ÒÑ²âËÙ {completed_count}/{len(lines)} ÓĞĞ§:{valid_cnt} Ê§°Ü:{fail_cnt} last_err:{err_reason}")
             finally:
                 f_valid.close()
                 f_fail.close()
-    valid_out = os.path.join(SOURCES_DIR, "æœ‰æ•ˆç›´æ’­æº.txt")
-    fail_out = os.path.join(SOURCES_DIR, "æµ‹é€Ÿå¤±è´¥.txt")
+    valid_out = os.path.join(SOURCES_DIR, "ÓĞĞ§Ö±²¥Ô´.txt")
+    fail_out = os.path.join(SOURCES_DIR, "²âËÙÊ§°Ü.txt")
     if os.path.exists(valid_tmp):
         os.replace(valid_tmp, valid_out)
     if os.path.exists(fail_tmp):
         os.replace(fail_tmp, fail_out)
     valid_final = sum(1 for r in results if r["valid"])
     fail_final = len(results) - valid_final
-    print(f"[STEP4-END] æµ‹é€Ÿç»“æŸï¼›æœ‰æ•ˆ:{valid_final}æ¡ï¼›æœ¬è½®å¤±è´¥:{fail_final}æ¡ï¼›æ€»ç»“æœé›†:{len(results)}")
+    print(f"[STEP4-END] ²âËÙ½áÊø£»ÓĞĞ§:{valid_final}Ìõ£»±¾ÂÖÊ§°Ü:{fail_final}Ìõ£»×Ü½á¹û¼¯:{len(results)}")
     return results
-# ===================== 5.æµ‹é€Ÿç»“æœå¤„ç†ï½œã€æ–¹æ¡ˆAï¼šç´¯ç§¯æŒä¹…é»‘åå•ã€‘ =====================
+# ===================== 5.²âËÙ½á¹û´¦Àí£ü¡¾·½°¸A£ºÀÛ»ı³Ö¾ÃºÚÃûµ¥¡¿ =====================
 def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
-    out_path = os.path.join(SOURCES_DIR, "æ°¸ä¹…å¤±æ•ˆ.txt")
+    out_path = os.path.join(SOURCES_DIR, "ÓÀ¾ÃÊ§Ğ§.txt")
     old_lines = []
     old_url_set = set()
     if os.path.exists(out_path):
@@ -434,7 +434,7 @@ def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
     final_lines = list(final_map.values())
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
-    print(f"[STEP5-END] æ°¸ä¹…å¤±æ•ˆ.txtæ›´æ–°å®Œæˆï¼›å†å²è½½å…¥{len(old_lines)}æ¡ï¼›æœ¬è½®æ–°å¢{len(new_collect)}æ¡ï¼›åˆå¹¶åæ€»é»‘åå•:{len(final_lines)}æ¡")
+    print(f"[STEP5-END] ÓÀ¾ÃÊ§Ğ§.txt¸üĞÂÍê³É£»ÀúÊ·ÔØÈë{len(old_lines)}Ìõ£»±¾ÂÖĞÂÔö{len(new_collect)}Ìõ£»ºÏ²¢ºó×ÜºÚÃûµ¥:{len(final_lines)}Ìõ")
 def generate_source_report(source_map, results):
     total = defaultdict(int)
     valid = defaultdict(int)
@@ -461,15 +461,15 @@ def generate_source_report(source_map, results):
     with open(report_path, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
     bad_urls = [r["source_url"] for r in sorted(report, key=lambda x: x["failure_rate"], reverse=True)[:3]]
-    bad_out = os.path.join(SOURCES_DIR, "å¤±æ•ˆæºåœ°å€.txt")
+    bad_out = os.path.join(SOURCES_DIR, "Ê§Ğ§Ô´µØÖ·.txt")
     with open(bad_out, "w", encoding="utf-8") as f:
         f.write("\n".join(bad_urls))
-    print(f"[STEP5-END] æºè´¨é‡æŠ¥å‘Šå·²ç”Ÿæˆï¼Œå¤±æ•ˆç‡TOP3æºï¼š{bad_urls}")
-# =====================6.æœ‰æ•ˆç›´æ’­æºå¤„ç†&åˆ†ç±» =====================
+    print(f"[STEP5-END] Ô´ÖÊÁ¿±¨¸æÒÑÉú³É£¬Ê§Ğ§ÂÊTOP3Ô´£º{bad_urls}")
+# =====================6.ÓĞĞ§Ö±²¥Ô´´¦Àí&·ÖÀà =====================
 def process_valid_sources():
-    path = os.path.join(SOURCES_DIR, "æœ‰æ•ˆç›´æ’­æº.txt")
+    path = os.path.join(SOURCES_DIR, "ÓĞĞ§Ö±²¥Ô´.txt")
     if not os.path.exists(path):
-        print("[WARN]æœ‰æ•ˆç›´æ’­æº.txtä¸å­˜åœ¨")
+        print("[WARN]ÓĞĞ§Ö±²¥Ô´.txt²»´æÔÚ")
         return []
     raw_count = 0
     lines = []
@@ -485,32 +485,28 @@ def process_valid_sources():
     lines = sorted(list(set(lines)), key=lambda x: x.split(",")[0])
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-
-    # æ–°å¢ï¼šå°†æœ‰æ•ˆç›´æ’­æºè½¬ä¸ºm3uæ ¼å¼è¾“å‡ºåˆ°sourcesæ–‡ä»¶å¤¹
-    m3u_out_path = os.path.join(SOURCES_DIR, "æœ‰æ•ˆç›´æ’­æº.m3u")
-    epg_cfg = load_json(os.path.join(CONFIG_DIR, "epg.json"))
-    epg_url = epg_cfg.get("epg_url", "")
+    # ×ÜºÏ¼¯m3u£º²»ÔÙÌí¼Ó#EPGURL±êÇ©
+    m3u_out_path = os.path.join(SOURCES_DIR, "ÓĞĞ§Ö±²¥Ô´.m3u")
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
     with open(m3u_out_path, "w", encoding="utf-8") as fm:
         fm.write("#EXTM3U\n")
-        if epg_url:
-            fm.write(f'#EXT-X-URL: {epg_url}\n')
         for line in lines:
             n, u = line.split(",", 1)
             tvg_id = epg_map.get(n, "")
             fm.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
-    print(f"[STEP6-INFO] æœ‰æ•ˆç›´æ’­æº.m3uå·²ç”Ÿæˆï¼Œè·¯å¾„:{m3u_out_path}")
-
-    print(f"[STEP6-END] æœ‰æ•ˆæºå¤„ç†å®Œæˆï¼šè¾“å…¥{raw_count}ï¼Œå»é‡æ’åºåè¾“å‡º{len(lines)}æ¡")
+    print(f"[STEP6-INFO] ÓĞĞ§Ö±²¥Ô´.m3uÒÑÉú³É£¬Â·¾¶:{m3u_out_path}")
+    print(f"[STEP6-END] ÓĞĞ§Ô´´¦ÀíÍê³É£ºÊäÈë{raw_count}£¬È¥ÖØÅÅĞòºóÊä³ö{len(lines)}Ìõ")
     return lines
 def generate_categories(sources):
+    # °×Ãûµ¥£º½öÕâĞ©·ÖÀàµÄm3uĞ´Èë#EPGURL£¬ÒÑĞŞ¸ÄÑëÊÓ ¡ú CCTV
+    EPG_ALLOW_CATS = {"CCTV", "ÎÀÊÓ", "µØ·½Ì¨"}
     for f in os.listdir(CATEGORY_DIR):
         os.remove(os.path.join(CATEGORY_DIR, f))
     import sys
     sys.path.insert(0, CONFIG_DIR)
     from category import get_channel_categories, get_all_category_names
     all_defined_cats = get_all_category_names()
-    print(f"[STEP6-INFO] ä»£ç é¢„å®šä¹‰å…¨éƒ¨åˆ†ç±»æ€»æ•°ï¼š{len(all_defined_cats)}")
+    print(f"[STEP6-INFO] ´úÂëÔ¤¶¨ÒåÈ«²¿·ÖÀà×ÜÊı£º{len(all_defined_cats)}")
     cat_map = defaultdict(list)
     other_count = 0
     match_count = 0
@@ -522,11 +518,12 @@ def generate_categories(sources):
             for c in cats:
                 cat_map[c].append(line)
         else:
-            cat_map["æœªåˆ†ç±»"].append(line)
+            cat_map["Î´·ÖÀà"].append(line)
             other_count += 1
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
     epg_cfg = load_json(os.path.join(CONFIG_DIR, "epg.json"))
     epg_url = epg_cfg.get("epg_url", "")
+    tvg_logo_base = epg_cfg.get("tvg_logo_base", "").rstrip("/")
     generated = 0
     for cat_name, items in cat_map.items():
         if not items:
@@ -537,24 +534,30 @@ def generate_categories(sources):
         m3u_path = os.path.join(CATEGORY_DIR, f"{cat_name}.m3u")
         with open(m3u_path, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
-            if epg_url:
-                f.write(f'#EXT-X-URL: {epg_url}\n')
+            # Ö»ÓĞ°×Ãûµ¥ÄÚ·ÖÀà²ÅĞ´#EPGURL
+            if cat_name in EPG_ALLOW_CATS and epg_url:
+                f.write(f'#EPGURL={epg_url}\n')
             for line in items:
                 n, u = line.split(",", 1)
                 tvg_id = epg_map.get(n, "")
-                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
+                # Ö»ÓĞ°×Ãûµ¥·ÖÀà²ÅÊä³ötvg?logo
+                if cat_name in EPG_ALLOW_CATS and tvg_id and tvg_logo_base:
+                    logo_url = f"{tvg_logo_base}/{tvg_id}.png"
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}" tvg-logo="{logo_url}",{n}\n{u}\n')
+                else:
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
         generated += 1
-    print(f"[STEP6-END] åˆ†ç±»å®Œæˆï¼›å‘½ä¸­è§„åˆ™:{match_count}æ¡ï¼›å½’å…¥æœªåˆ†ç±»:{other_count}æ¡ï¼›ç”Ÿæˆåˆ†ç±»æ–‡ä»¶æ•°é‡ï¼š{generated}")
-# =====================ä¸»æµç¨‹ =====================
+    print(f"[STEP6-END] ·ÖÀàÍê³É£»ÃüÖĞ¹æÔò:{match_count}Ìõ£»¹éÈëÎ´·ÖÀà:{other_count}Ìõ£»Éú³É·ÖÀàÎÄ¼şÊıÁ¿£º{generated}")
+# =====================Ö÷Á÷³Ì =====================
 async def main():
     print("=" * 60)
-    print(f"IPTä»»åŠ¡å¯åŠ¨ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"IPTÈÎÎñÆô¶¯ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     global start_time
     start_time = time.time()
     source_map = await download_sources()
     if not source_map:
-        print("[FATAL]ä¸‹è½½é˜¶æ®µæ— æ•°æ®ï¼Œä»»åŠ¡ç›´æ¥é€€å‡º")
+        print("[FATAL]ÏÂÔØ½×¶ÎÎŞÊı¾İ£¬ÈÎÎñÖ±½ÓÍË³ö")
         return
     merge_sources()
     process_merged()
@@ -562,8 +565,8 @@ async def main():
     if len(results) > 0:
         perm_invalid_url_set = update_fail_counter(results)
         all_result_lines = []
-        fail_file = os.path.join(SOURCES_DIR, "æµ‹é€Ÿå¤±è´¥.txt")
-        valid_file = os.path.join(SOURCES_DIR, "æœ‰æ•ˆç›´æ’­æº.txt")
+        fail_file = os.path.join(SOURCES_DIR, "²âËÙÊ§°Ü.txt")
+        valid_file = os.path.join(SOURCES_DIR, "ÓĞĞ§Ö±²¥Ô´.txt")
         for fp in [fail_file, valid_file]:
             if os.path.exists(fp):
                 with open(fp, "r", encoding="utf-8") as f:
@@ -574,10 +577,10 @@ async def main():
         if valid_sources:
             generate_categories(valid_sources)
     else:
-        print("[WARN]æµ‹é€Ÿç»“æœä¸ºç©ºï¼Œè·³è¿‡ç»Ÿè®¡ã€åˆ†ç±»")
+        print("[WARN]²âËÙ½á¹ûÎª¿Õ£¬Ìø¹ıÍ³¼Æ¡¢·ÖÀà")
     elapsed = round(time.time() - start_time, 2)
     print("=" * 60)
-    print(f"âœ…å…¨éƒ¨æµç¨‹ç»“æŸï¼Œæ€»è€—æ—¶ {elapsed} ç§’")
+    print(f"?È«²¿Á÷³Ì½áÊø£¬×ÜºÄÊ± {elapsed} Ãë")
     print("=" * 60)
 if __name__ == "__main__":
     asyncio.run(main())
