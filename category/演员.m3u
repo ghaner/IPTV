@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="【周星驰】搞笑电影",【周星驰】搞笑电影
 https://live.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-id="" tvg-name="刘德华",刘德华
@@ -20,8 +19,12 @@ https://live.ottiptv.cc/huya/30631741
 https://live.ottiptv.cc/yy/1382627144
 #EXTINF:-1 tvg-id="" tvg-name="周星驰-电影",周星驰-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
+#EXTINF:-1 tvg-id="" tvg-name="周星驰喜剧武侠恐怖好看",周星驰喜剧武侠恐怖好看
+https://live.ottiptv.cc/yy/29945997
 #EXTINF:-1 tvg-id="" tvg-name="周星驰电影",周星驰电影
 https://live.metshop.top/huya/11342412
+#EXTINF:-1 tvg-id="" tvg-name="周星驰的直播间",周星驰的直播间
+https://live.ottiptv.cc/douyu/8257039
 #EXTINF:-1 tvg-id="" tvg-name="周润发-电影",周润发-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
 #EXTINF:-1 tvg-id="" tvg-name="周润发-赌神",周润发-赌神
@@ -64,6 +67,8 @@ https://live.metshop.top/huya/11601968
 http://tv.zimtv.cn/tv/player/api/huya.php?id=30080244
 #EXTINF:-1 tvg-id="" tvg-name="玉女林青霞",玉女林青霞
 https://live.ottiptv.cc/huya/30631751
+#EXTINF:-1 tvg-id="" tvg-name="王俊凯的资源组",王俊凯的资源组
+https://live.ottiptv.cc/douyu/8862216
 #EXTINF:-1 tvg-id="" tvg-name="电影刘德华",电影刘德华
 http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影梁家辉",电影梁家辉

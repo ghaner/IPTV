@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="1987年春晚",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1988年春晚",1988年春晚

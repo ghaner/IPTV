@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
-#EXTINF:-1 tvg-id="" tvg-name="邢台生活",邢台生活
+#EXTINF:-1 tvg-id="" tvg-name="邢台城市生活",邢台城市生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邢台综合",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8

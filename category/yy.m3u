@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="1930年代经典电影",1930年代经典电影
 https://live.ottiptv.cc/yy/1356363815
 #EXTINF:-1 tvg-id="" tvg-name="24H地下交通站全",24H地下交通站全
@@ -10,6 +9,8 @@ https://live.ottiptv.cc/yy/1356212303
 https://live.ottiptv.cc/yy/1355052097
 #EXTINF:-1 tvg-id="" tvg-name="24小时循环播电视剧",24小时循环播电视剧
 https://live.ottiptv.cc/yy/53320802
+#EXTINF:-1 tvg-id="" tvg-name="3D轻语 来放松",3D轻语 来放松
+https://live.ottiptv.cc/yy/1382750627
 #EXTINF:-1 tvg-id="" tvg-name="8090年的热血与回忆",8090年的热血与回忆
 https://live.ottiptv.cc/yy/1356243352
 #EXTINF:-1 tvg-id="" tvg-name="83射雕英雄传",83射雕英雄传
@@ -21,147 +22,153 @@ https://live.ottiptv.cc/yy/1382736872
 #EXTINF:-1 tvg-id="" tvg-name="YY星秀璀璨，精彩不断",YY星秀璀璨，精彩不断
 https://live.ottiptv.cc/yy/1354808044
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736910
+https://live.ottiptv.cc/yy/1382851600
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851146
+https://live.ottiptv.cc/yy/1382735624
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745184
+https://live.ottiptv.cc/yy/1382851148
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851580
+https://live.ottiptv.cc/yy/1382851524
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851540
+https://live.ottiptv.cc/yy/1382736797
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851578
+https://live.ottiptv.cc/yy/1382736975
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736813
+https://live.ottiptv.cc/yy/1382736795
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736808
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745182
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736890
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851585
+https://live.ottiptv.cc/yy/1382851598
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382737888
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736888
+https://live.ottiptv.cc/yy/1382736838
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745084
+https://live.ottiptv.cc/yy/1382851602
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745114
+https://live.ottiptv.cc/yy/1382851540
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851579
+https://live.ottiptv.cc/yy/1382745182
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736842
+https://live.ottiptv.cc/yy/1382745099
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851590
+https://live.ottiptv.cc/yy/1382745094
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851597
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745104
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745110
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382736886
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382736810
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736838
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735553
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851599
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745085
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745094
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736795
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851600
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736818
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382746276
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736918
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851575
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745113
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851601
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745098
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736805
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735540
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851524
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851591
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851583
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735578
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851593
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851602
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382851541
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736887
+https://live.ottiptv.cc/yy/1382736890
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745110
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736885
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851137
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851598
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851148
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735584
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745099
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851588
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851594
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735624
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736807
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736875
-#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382735572
+https://live.ottiptv.cc/yy/1382736808
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382735545
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736834
+https://live.ottiptv.cc/yy/1382745084
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382851576
+https://live.ottiptv.cc/yy/1382851601
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735579
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736807
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735584
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735578
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736885
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736818
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745098
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851599
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382745103
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745104
+https://live.ottiptv.cc/yy/1382736887
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382736975
+https://live.ottiptv.cc/yy/1382746276
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736875
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736910
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736834
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735572
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736805
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736918
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851589
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745117
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851597
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735553
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745093
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851585
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736813
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736842
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851588
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851146
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851575
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851137
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851576
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382735540
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382736888
+#EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
+https://live.ottiptv.cc/yy/1382745113
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382737892
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
 https://live.ottiptv.cc/yy/1382736917
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745093
+https://live.ottiptv.cc/yy/1382745114
 #EXTINF:-1 tvg-id="" tvg-name="YY用户",YY用户
-https://live.ottiptv.cc/yy/1382745117
+https://live.ottiptv.cc/yy/1382851582
 #EXTINF:-1 tvg-id="" tvg-name="angel",angel
 https://live.ottiptv.cc/yy/1382828770
 #EXTINF:-1 tvg-id="" tvg-name="papi酱主演，北漂生活中的爱情与梦想",papi酱主演，北漂生活中的爱情与梦想
 https://live.ottiptv.cc/yy/1382745124
 #EXTINF:-1 tvg-id="" tvg-name="《东北小品》",《东北小品》
 https://live.ottiptv.cc/yy/29600150
+#EXTINF:-1 tvg-id="" tvg-name="《武林外传》武侠",《武林外传》武侠
+https://live.ottiptv.cc/yy/1394000563
 #EXTINF:-1 tvg-id="" tvg-name="《石敢当》六耳猕猴",《石敢当》六耳猕猴
 https://live.ottiptv.cc/yy/1394156613
 #EXTINF:-1 tvg-id="" tvg-name="【力量之火凤凰】",【力量之火凤凰】
@@ -170,12 +177,16 @@ https://live.ottiptv.cc/yy/1508456184
 https://live.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-id="" tvg-name="【新三国】",【新三国】
 https://live.ottiptv.cc/yy/1382851415
+#EXTINF:-1 tvg-id="" tvg-name="【新三国】吕布",【新三国】吕布
+https://live.ottiptv.cc/yy/1382851459
 #EXTINF:-1 tvg-id="" tvg-name="【新三国】日版",【新三国】日版
 https://live.ottiptv.cc/yy/1382851457
 #EXTINF:-1 tvg-id="" tvg-name="【武林客栈】",【武林客栈】
 https://live.ottiptv.cc/yy/1382773728
 #EXTINF:-1 tvg-id="" tvg-name="【狂飙】",【狂飙】
 https://live.ottiptv.cc/yy/1354806550
+#EXTINF:-1 tvg-id="" tvg-name="【靓剑】乐乐陪看",【靓剑】乐乐陪看
+https://live.ottiptv.cc/yy/1352946111
 #EXTINF:-1 tvg-id="" tvg-name="一代经典电影，我很快乐",一代经典电影，我很快乐
 https://live.ottiptv.cc/yy/1354932420
 #EXTINF:-1 tvg-id="" tvg-name="一分钟学道菜",一分钟学道菜
@@ -202,6 +213,8 @@ https://live.ottiptv.cc/yy/1354930967
 https://live.ottiptv.cc/yy/1354930924
 #EXTINF:-1 tvg-id="" tvg-name="东北小品王",东北小品王
 https://live.ottiptv.cc/yy/34313906
+#EXTINF:-1 tvg-id="" tvg-name="中华英雄之风云再起",中华英雄之风云再起
+https://live.ottiptv.cc/yy/1354932402
 #EXTINF:-1 tvg-id="" tvg-name="中国味道 第4季-美食纪录片",中国味道 第4季-美食纪录片
 https://live.ottiptv.cc/yy/1382736845
 #EXTINF:-1 tvg-id="" tvg-name="举起手来-惊险抗日",举起手来-惊险抗日
@@ -209,9 +222,9 @@ https://live.ottiptv.cc/yy/1382736877
 #EXTINF:-1 tvg-id="" tvg-name="了不起的萝莉小玲",了不起的萝莉小玲
 https://live.ottiptv.cc/yy/1382736799
 #EXTINF:-1 tvg-id="" tvg-name="二号交通站",二号交通站
-https://live.ottiptv.cc/yy/1382735582
-#EXTINF:-1 tvg-id="" tvg-name="二号交通站",二号交通站
 https://live.ottiptv.cc/yy/1354930965
+#EXTINF:-1 tvg-id="" tvg-name="二号交通站",二号交通站
+https://live.ottiptv.cc/yy/1382735582
 #EXTINF:-1 tvg-id="" tvg-name="亲爱的味道",亲爱的味道
 https://live.ottiptv.cc/yy/1382749953
 #EXTINF:-1 tvg-id="" tvg-name="亲爱的热爱的",亲爱的热爱的
@@ -224,12 +237,16 @@ https://live.ottiptv.cc/yy/54886912
 https://live.ottiptv.cc/yy/1382736723
 #EXTINF:-1 tvg-id="" tvg-name="他的一生竟然如此悲伤",他的一生竟然如此悲伤
 https://live.ottiptv.cc/yy/1354930957
-#EXTINF:-1 tvg-id="" tvg-name="仙剑奇侠传",仙剑奇侠传
+#EXTINF:-1 tvg-id="" tvg-name="仙剑奇侠传-神仙姐姐驾到",仙剑奇侠传-神仙姐姐驾到
 https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 tvg-id="" tvg-name="仙剑风云再起",仙剑风云再起
+https://live.ottiptv.cc/yy/1354933556
 #EXTINF:-1 tvg-id="" tvg-name="以家人之名",以家人之名
 https://live.ottiptv.cc/yy/1382736908
 #EXTINF:-1 tvg-id="" tvg-name="伪装者",伪装者
 https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 tvg-id="" tvg-name="体验另一种生活！",体验另一种生活！
+https://live.ottiptv.cc/yy/1354936229
 #EXTINF:-1 tvg-id="" tvg-name="你是我的荣耀",你是我的荣耀
 https://live.ottiptv.cc/yy/1354931488
 #EXTINF:-1 tvg-id="" tvg-name="你最爱的小龙女-神雕侠侣",你最爱的小龙女-神雕侠侣
@@ -260,10 +277,10 @@ https://live.ottiptv.cc/yy/1354936120
 https://live.ottiptv.cc/yy/1382736833
 #EXTINF:-1 tvg-id="" tvg-name="军旅剧（回忆经典）",军旅剧（回忆经典）
 https://live.ottiptv.cc/yy/1356306672
-#EXTINF:-1 tvg-id="" tvg-name="农家小菜",农家小菜
-https://live.ottiptv.cc/yy/1382736894
 #EXTINF:-1 tvg-id="" tvg-name="决战中的较量才是神仙打架",决战中的较量才是神仙打架
 https://live.ottiptv.cc/yy/1382828769
+#EXTINF:-1 tvg-id="" tvg-name="凡人修仙~24h经典好剧",凡人修仙~24h经典好剧
+https://live.ottiptv.cc/yy/1354744544
 #EXTINF:-1 tvg-id="" tvg-name="刘英岁月",刘英岁月
 https://live.ottiptv.cc/yy/1354926537
 #EXTINF:-1 tvg-id="" tvg-name="利刀出鞘",利刀出鞘
@@ -282,6 +299,8 @@ https://live.ottiptv.cc/yy/1459675153
 https://live.ottiptv.cc/yy/1382743138
 #EXTINF:-1 tvg-id="" tvg-name="匪帮传奇故事",匪帮传奇故事
 https://live.ottiptv.cc/yy/1382749941
+#EXTINF:-1 tvg-id="" tvg-name="千里不留行",千里不留行
+https://live.ottiptv.cc/yy/1382736865
 #EXTINF:-1 tvg-id="" tvg-name="华子系列",华子系列
 https://live.ottiptv.cc/yy/1354888726
 #EXTINF:-1 tvg-id="" tvg-name="单挑荒野第一季",单挑荒野第一季
@@ -302,6 +321,8 @@ https://live.ottiptv.cc/yy/1458015189
 https://live.ottiptv.cc/yy/1356158015
 #EXTINF:-1 tvg-id="" tvg-name="另类猪妖爆笑逆袭",另类猪妖爆笑逆袭
 https://live.ottiptv.cc/yy/1354936155
+#EXTINF:-1 tvg-id="" tvg-name="史前一万年",史前一万年
+https://live.ottiptv.cc/yy/1382736855
 #EXTINF:-1 tvg-id="" tvg-name="史诗级科幻电影-阿凡达",史诗级科幻电影-阿凡达
 https://live.ottiptv.cc/yy/1382735577
 #EXTINF:-1 tvg-id="" tvg-name="叶问1-4-甄子丹",叶问1-4-甄子丹
@@ -316,6 +337,10 @@ https://live.ottiptv.cc/yy/1354930968
 https://live.ottiptv.cc/yy/1354888671
 #EXTINF:-1 tvg-id="" tvg-name="周星驰-星爷来了",周星驰-星爷来了
 https://live.ottiptv.cc/yy/1382627144
+#EXTINF:-1 tvg-id="" tvg-name="周星驰喜剧武侠恐怖好看",周星驰喜剧武侠恐怖好看
+https://live.ottiptv.cc/yy/29945997
+#EXTINF:-1 tvg-id="" tvg-name="哈利波特全集",哈利波特全集
+https://live.ottiptv.cc/yy/1382745105
 #EXTINF:-1 tvg-id="" tvg-name="哑巴竟然会说话",哑巴竟然会说话
 https://live.ottiptv.cc/yy/1354932427
 #EXTINF:-1 tvg-id="" tvg-name="哮天犬闹龙宫",哮天犬闹龙宫
@@ -337,13 +362,13 @@ https://live.ottiptv.cc/yy/1382735585
 #EXTINF:-1 tvg-id="" tvg-name="四平青年喋血曼谷",四平青年喋血曼谷
 https://live.ottiptv.cc/yy/1382749950
 #EXTINF:-1 tvg-id="" tvg-name="回家的诱惑",回家的诱惑
+https://live.ottiptv.cc/yy/1354658043
+#EXTINF:-1 tvg-id="" tvg-name="回家的诱惑",回家的诱惑
 https://live.ottiptv.cc/yy/1354658048
 #EXTINF:-1 tvg-id="" tvg-name="国产动作电影",国产动作电影
 https://live.ottiptv.cc/yy/1382736858
 #EXTINF:-1 tvg-id="" tvg-name="国产大片电影",国产大片电影
 https://live.ottiptv.cc/yy/1354926655
-#EXTINF:-1 tvg-id="" tvg-name="国产家庭电视剧-如果岁月可回头",国产家庭电视剧-如果岁月可回头
-https://live.ottiptv.cc/yy/1382736883
 #EXTINF:-1 tvg-id="" tvg-name="国产搞笑喜剧片",国产搞笑喜剧片
 https://live.ottiptv.cc/yy/1354932431
 #EXTINF:-1 tvg-id="" tvg-name="国产电影-就是闹着玩的",国产电影-就是闹着玩的
@@ -376,8 +401,12 @@ https://live.ottiptv.cc/yy/1352227227
 https://live.ottiptv.cc/yy/1354936160
 #EXTINF:-1 tvg-id="" tvg-name="士兵突击",士兵突击
 https://live.ottiptv.cc/yy/1382768483
+#EXTINF:-1 tvg-id="" tvg-name="复仇者联盟全季",复仇者联盟全季
+https://live.ottiptv.cc/yy/1354936167
 #EXTINF:-1 tvg-id="" tvg-name="夏洛特烦恼-国内电影-喜剧",夏洛特烦恼-国内电影-喜剧
 https://live.ottiptv.cc/yy/1354936201
+#EXTINF:-1 tvg-id="" tvg-name="外国科幻大片",外国科幻大片
+https://live.ottiptv.cc/yy/1382747628
 #EXTINF:-1 tvg-id="" tvg-name="外星人入侵",外星人入侵
 https://live.ottiptv.cc/yy/1382745181
 #EXTINF:-1 tvg-id="" tvg-name="大台风",大台风
@@ -386,6 +415,8 @@ https://live.ottiptv.cc/yy/1382735583
 https://live.ottiptv.cc/yy/1354930979
 #EXTINF:-1 tvg-id="" tvg-name="大家车言论",大家车言论
 https://live.ottiptv.cc/yy/1382570702
+#EXTINF:-1 tvg-id="" tvg-name="大明王朝",大明王朝
+https://live.ottiptv.cc/yy/1382736879
 #EXTINF:-1 tvg-id="" tvg-name="大染坊",大染坊
 https://live.ottiptv.cc/yy/1353215589
 #EXTINF:-1 tvg-id="" tvg-name="大汉贤后卫子夫",大汉贤后卫子夫
@@ -403,9 +434,9 @@ https://live.ottiptv.cc/yy/1382735574
 #EXTINF:-1 tvg-id="" tvg-name="天龙 神雕金庸",天龙 神雕金庸
 https://live.ottiptv.cc/yy/1356043609
 #EXTINF:-1 tvg-id="" tvg-name="天龙八部",天龙八部
-https://live.ottiptv.cc/yy/1351814644
-#EXTINF:-1 tvg-id="" tvg-name="天龙八部",天龙八部
 http://luobo.bkpcp.top/yy/1382736855
+#EXTINF:-1 tvg-id="" tvg-name="失眠的 来这里",失眠的 来这里
+https://live.ottiptv.cc/yy/1457062440
 #EXTINF:-1 tvg-id="" tvg-name="夺面双雄",夺面双雄
 https://live.ottiptv.cc/yy/1354932441
 #EXTINF:-1 tvg-id="" tvg-name="奇葩侦探高能探案",奇葩侦探高能探案
@@ -446,6 +477,8 @@ http://luobo.bkpcp.top/yy/1353426319
 https://live.ottiptv.cc/yy/1382828771
 #EXTINF:-1 tvg-id="" tvg-name="小朋友可爱到家了",小朋友可爱到家了
 https://live.ottiptv.cc/yy/1354930887
+#EXTINF:-1 tvg-id="" tvg-name="小玲儿 正在直播",小玲儿 正在直播
+https://live.ottiptv.cc/yy/1351814644
 #EXTINF:-1 tvg-id="" tvg-name="小甜甜    鹊刀门",小甜甜    鹊刀门
 https://live.ottiptv.cc/yy/1354689861
 #EXTINF:-1 tvg-id="" tvg-name="少寒回归啦-真",少寒回归啦-真
@@ -454,6 +487,8 @@ https://live.ottiptv.cc/yy/13739310
 https://live.ottiptv.cc/yy/1356043677
 #EXTINF:-1 tvg-id="" tvg-name="少年包青天第三部",少年包青天第三部
 https://live.ottiptv.cc/yy/1382736814
+#EXTINF:-1 tvg-id="" tvg-name="少年包青天美黑之旅",少年包青天美黑之旅
+https://live.ottiptv.cc/yy/1354936141
 #EXTINF:-1 tvg-id="" tvg-name="少年四大名捕",少年四大名捕
 https://live.ottiptv.cc/yy/1354936203
 #EXTINF:-1 tvg-id="" tvg-name="少年歌行",少年歌行
@@ -470,6 +505,8 @@ https://live.ottiptv.cc/yy/1382736857
 https://live.ottiptv.cc/yy/1354930903
 #EXTINF:-1 tvg-id="" tvg-name="巩汉林春晚小品合集",巩汉林春晚小品合集
 https://live.ottiptv.cc/yy/1354889035
+#EXTINF:-1 tvg-id="" tvg-name="带你领略四季的变化",带你领略四季的变化
+https://live.ottiptv.cc/yy/1354930816
 #EXTINF:-1 tvg-id="" tvg-name="幸运贩卖机",幸运贩卖机
 https://live.ottiptv.cc/yy/1354932407
 #EXTINF:-1 tvg-id="" tvg-name="康熙微服私访记",康熙微服私访记
@@ -524,14 +561,12 @@ https://live.ottiptv.cc/yy/1382745179
 https://live.ottiptv.cc/yy/1354930915
 #EXTINF:-1 tvg-id="" tvg-name="战地：异种浩劫",战地：异种浩劫
 https://live.ottiptv.cc/yy/1382736804
-#EXTINF:-1 tvg-id="" tvg-name="战狼10086",战狼10086
-https://live.ottiptv.cc/yy/1382773686
 #EXTINF:-1 tvg-id="" tvg-name="战狼7吴京退役",战狼7吴京退役
 https://live.ottiptv.cc/yy/1382773714
-#EXTINF:-1 tvg-id="" tvg-name="打狗棍~24h经典好剧",打狗棍~24h经典好剧
-https://live.ottiptv.cc/yy/1354744544
 #EXTINF:-1 tvg-id="" tvg-name="打破第四面墙",打破第四面墙
 https://live.ottiptv.cc/yy/1382745090
+#EXTINF:-1 tvg-id="" tvg-name="抗战神剧",抗战神剧
+https://live.ottiptv.cc/yy/1507704566
 #EXTINF:-1 tvg-id="" tvg-name="抗日神片，燃爆抗战热血魂",抗日神片，燃爆抗战热血魂
 https://live.ottiptv.cc/yy/1354926600
 #EXTINF:-1 tvg-id="" tvg-name="护卫者守护真情",护卫者守护真情
@@ -552,14 +587,18 @@ https://live.ottiptv.cc/yy/1382736850
 https://live.ottiptv.cc/yy/1355179797
 #EXTINF:-1 tvg-id="" tvg-name="新主播求关注和支持",新主播求关注和支持
 https://live.ottiptv.cc/yy/1353454489
+#EXTINF:-1 tvg-id="" tvg-name="新主播，求照顾",新主播，求照顾
+https://live.ottiptv.cc/yy/1382690406
 #EXTINF:-1 tvg-id="" tvg-name="新时代农村青年的热血奋斗记",新时代农村青年的热血奋斗记
 https://live.ottiptv.cc/yy/1382736715
 #EXTINF:-1 tvg-id="" tvg-name="新独臂刀诠释老派暴力美学",新独臂刀诠释老派暴力美学
 https://live.ottiptv.cc/yy/1353413683
 #EXTINF:-1 tvg-id="" tvg-name="新白娘子传奇",新白娘子传奇
-http://luobo.bkpcp.top/yy/1354490667
-#EXTINF:-1 tvg-id="" tvg-name="新白娘子传奇",新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 tvg-id="" tvg-name="新白娘子传奇",新白娘子传奇
+http://luobo.bkpcp.top/yy/1354490667
+#EXTINF:-1 tvg-id="" tvg-name="新白娘子传奇-女神赵雅芝",新白娘子传奇-女神赵雅芝
+https://live.ottiptv.cc/yy/1354930969
 #EXTINF:-1 tvg-id="" tvg-name="施公奇案2-欧阳震华",施公奇案2-欧阳震华
 https://live.ottiptv.cc/yy/1382736824
 #EXTINF:-1 tvg-id="" tvg-name="无厘头的出处",无厘头的出处
@@ -572,6 +611,8 @@ https://live.ottiptv.cc/yy/1354932390
 https://live.ottiptv.cc/yy/1382749905
 #EXTINF:-1 tvg-id="" tvg-name="易中天品三国",易中天品三国
 https://live.ottiptv.cc/yy/1354931498
+#EXTINF:-1 tvg-id="" tvg-name="昕儿 正在直播",昕儿 正在直播
+https://live.ottiptv.cc/yy/1353852605
 #EXTINF:-1 tvg-id="" tvg-name="智取威虎山",智取威虎山
 https://live.ottiptv.cc/yy/1382736843
 #EXTINF:-1 tvg-id="" tvg-name="暗夜良人：暗夜出击护良善",暗夜良人：暗夜出击护良善
@@ -579,9 +620,9 @@ https://live.ottiptv.cc/yy/1354930954
 #EXTINF:-1 tvg-id="" tvg-name="最佳时机：命运转角的最佳抉择与奔赴",最佳时机：命运转角的最佳抉择与奔赴
 https://live.ottiptv.cc/yy/1354936207
 #EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春
-https://live.ottiptv.cc/yy/1382745116
-#EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春
 https://live.ottiptv.cc/yy/1382851530
+#EXTINF:-1 tvg-id="" tvg-name="最美的青春",最美的青春
+https://live.ottiptv.cc/yy/1382745116
 #EXTINF:-1 tvg-id="" tvg-name="有个精灵闺蜜是种什么神仙体验",有个精灵闺蜜是种什么神仙体验
 https://live.ottiptv.cc/yy/1354889015
 #EXTINF:-1 tvg-id="" tvg-name="有趣的小姐姐",有趣的小姐姐
@@ -592,14 +633,20 @@ https://live.ottiptv.cc/yy/1354889019
 https://live.ottiptv.cc/yy/1354933529
 #EXTINF:-1 tvg-id="" tvg-name="本山快乐营-爆笑小品",本山快乐营-爆笑小品
 https://live.ottiptv.cc/yy/1354930948
+#EXTINF:-1 tvg-id="" tvg-name="本山快乐营1",本山快乐营1
+https://live.ottiptv.cc/yy/1354936209
 #EXTINF:-1 tvg-id="" tvg-name="本山快乐营2",本山快乐营2
 https://live.ottiptv.cc/yy/1382736718
 #EXTINF:-1 tvg-id="" tvg-name="朵宝陪你看狄仁杰",朵宝陪你看狄仁杰
 https://live.ottiptv.cc/yy/1353753252
 #EXTINF:-1 tvg-id="" tvg-name="机械战警1-3",机械战警1-3
 https://live.ottiptv.cc/yy/1382736854
+#EXTINF:-1 tvg-id="" tvg-name="杀机四伏",杀机四伏
+https://live.ottiptv.cc/yy/1354936195
 #EXTINF:-1 tvg-id="" tvg-name="李连杰功夫 经典武侠",李连杰功夫 经典武侠
 https://live.ottiptv.cc/yy/74613175
+#EXTINF:-1 tvg-id="" tvg-name="村里来了个洋媳妇",村里来了个洋媳妇
+https://live.ottiptv.cc/yy/1354936181
 #EXTINF:-1 tvg-id="" tvg-name="来看修牛蹄",来看修牛蹄
 https://live.ottiptv.cc/yy/1382749887
 #EXTINF:-1 tvg-id="" tvg-name="来自星星的你",来自星星的你
@@ -628,16 +675,16 @@ https://live.ottiptv.cc/yy/1382736889
 https://live.ottiptv.cc/yy/1382745119
 #EXTINF:-1 tvg-id="" tvg-name="欢乐颂",欢乐颂
 https://live.ottiptv.cc/yy/1382851577
+#EXTINF:-1 tvg-id="" tvg-name="欢喜冤家宜解不宜结",欢喜冤家宜解不宜结
+https://live.ottiptv.cc/yy/1382736853
 #EXTINF:-1 tvg-id="" tvg-name="欢喜冤家的爱情-夏日乐悠悠",欢喜冤家的爱情-夏日乐悠悠
 https://live.ottiptv.cc/yy/1354936191
-#EXTINF:-1 tvg-id="" tvg-name="欢迎光临",欢迎光临
-https://live.ottiptv.cc/yy/1355532933
 #EXTINF:-1 tvg-id="" tvg-name="正阳门下",正阳门下
 https://live.ottiptv.cc/yy/1354931580
 #EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传
-https://live.ottiptv.cc/yy/1355344777
-#EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传
 https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 tvg-id="" tvg-name="武林外传",武林外传
+https://live.ottiptv.cc/yy/1355344777
 #EXTINF:-1 tvg-id="" tvg-name="每天都要快乐哦！",每天都要快乐哦！
 https://live.ottiptv.cc/yy/1354930909
 #EXTINF:-1 tvg-id="" tvg-name="毒力觉醒的异能逆袭狂潮",毒力觉醒的异能逆袭狂潮
@@ -662,8 +709,6 @@ https://live.ottiptv.cc/yy/1382736817
 https://live.ottiptv.cc/yy/1354930939
 #EXTINF:-1 tvg-id="" tvg-name="泰式欢乐超上头",泰式欢乐超上头
 https://live.ottiptv.cc/yy/1354936217
-#EXTINF:-1 tvg-id="" tvg-name="洪大哥系列",洪大哥系列
-https://live.ottiptv.cc/yy/1354888743
 #EXTINF:-1 tvg-id="" tvg-name="洪金宝福星系列",洪金宝福星系列
 https://live.ottiptv.cc/yy/1354924839
 #EXTINF:-1 tvg-id="" tvg-name="流金岁月-经典港剧",流金岁月-经典港剧
@@ -714,20 +759,22 @@ https://live.ottiptv.cc/yy/1382749918
 https://live.ottiptv.cc/yy/1354931495
 #EXTINF:-1 tvg-id="" tvg-name="熊出没之探险日记-森林探险记",熊出没之探险日记-森林探险记
 https://live.ottiptv.cc/yy/1382745122
+#EXTINF:-1 tvg-id="" tvg-name="熊出没之探险日记S1-国漫",熊出没之探险日记S1-国漫
+https://live.ottiptv.cc/yy/1354930977
 #EXTINF:-1 tvg-id="" tvg-name="燃爆动作片",燃爆动作片
 https://live.ottiptv.cc/yy/1382736801
 #EXTINF:-1 tvg-id="" tvg-name="燃眉追击（普通话）",燃眉追击（普通话）
 https://live.ottiptv.cc/yy/1354936136
 #EXTINF:-1 tvg-id="" tvg-name="燕双鹰",燕双鹰
 https://live.ottiptv.cc/yy/1352227153
+#EXTINF:-1 tvg-id="" tvg-name="燕双鹰",燕双鹰
+https://live.ottiptv.cc/yy/1354143942
 #EXTINF:-1 tvg-id="" tvg-name="爆笑小品大合集",爆笑小品大合集
 https://live.ottiptv.cc/yy/1382736821
 #EXTINF:-1 tvg-id="" tvg-name="爆笑电影！王牌大贱谍2-3",爆笑电影！王牌大贱谍2-3
 https://live.ottiptv.cc/yy/1382735556
 #EXTINF:-1 tvg-id="" tvg-name="爆笑诡扯记",爆笑诡扯记
 https://live.ottiptv.cc/yy/1354936249
-#EXTINF:-1 tvg-id="" tvg-name="爱在璀璨时",爱在璀璨时
-https://live.ottiptv.cc/yy/1354926671
 #EXTINF:-1 tvg-id="" tvg-name="父母爱情",父母爱情
 https://live.ottiptv.cc/yy/1354926650
 #EXTINF:-1 tvg-id="" tvg-name="牧野诡事之赤丹珠",牧野诡事之赤丹珠
@@ -744,6 +791,8 @@ https://live.ottiptv.cc/yy/1351755386
 https://live.ottiptv.cc/yy/1354936116
 #EXTINF:-1 tvg-id="" tvg-name="猎魔道人在线施法",猎魔道人在线施法
 https://live.ottiptv.cc/yy/1382735566
+#EXTINF:-1 tvg-id="" tvg-name="猛男必进 来放松啦",猛男必进 来放松啦
+https://live.ottiptv.cc/yy/1382720905
 #EXTINF:-1 tvg-id="" tvg-name="猩球崛起-怪兽片合集",猩球崛起-怪兽片合集
 https://live.ottiptv.cc/yy/1354930181
 #EXTINF:-1 tvg-id="" tvg-name="王牌保镖在此",王牌保镖在此
@@ -760,10 +809,14 @@ https://live.ottiptv.cc/yy/1382744423
 https://live.ottiptv.cc/yy/1454732419
 #EXTINF:-1 tvg-id="" tvg-name="甜心少女冲冲冲",甜心少女冲冲冲
 https://live.ottiptv.cc/yy/1382736832
+#EXTINF:-1 tvg-id="" tvg-name="甜甜的恋爱 这狗粮我吃了",甜甜的恋爱 这狗粮我吃了
+https://live.ottiptv.cc/yy/1354932438
 #EXTINF:-1 tvg-id="" tvg-name="生死极速救援",生死极速救援
 https://live.ottiptv.cc/yy/1382736719
 #EXTINF:-1 tvg-id="" tvg-name="田园生活",田园生活
 https://live.ottiptv.cc/yy/1382736898
+#EXTINF:-1 tvg-id="" tvg-name="电影",电影
+https://live.ottiptv.cc/yy/37454459
 #EXTINF:-1 tvg-id="" tvg-name="电影百团大战",电影百团大战
 https://live.ottiptv.cc/yy/1382736871
 #EXTINF:-1 tvg-id="" tvg-name="电影黑豹",电影黑豹
@@ -788,6 +841,8 @@ https://live.ottiptv.cc/yy/1354129442
 https://live.ottiptv.cc/yy/1354936210
 #EXTINF:-1 tvg-id="" tvg-name="监狱风云2",监狱风云2
 https://live.ottiptv.cc/yy/1354933540
+#EXTINF:-1 tvg-id="" tvg-name="相亲时代真实到让当代年轻人头皮发麻",相亲时代真实到让当代年轻人头皮发麻
+https://live.ottiptv.cc/yy/1354936231
 #EXTINF:-1 tvg-id="" tvg-name="看十四天之暖春来如何治愈严冬",看十四天之暖春来如何治愈严冬
 https://live.ottiptv.cc/yy/1354936154
 #EXTINF:-1 tvg-id="" tvg-name="看底层打工人逆袭翻身",看底层打工人逆袭翻身
@@ -798,6 +853,8 @@ https://live.ottiptv.cc/yy/1382671124
 https://live.ottiptv.cc/yy/1382736876
 #EXTINF:-1 tvg-id="" tvg-name="知否知否应是绿肥红瘦",知否知否应是绿肥红瘦
 https://live.ottiptv.cc/yy/21881901
+#EXTINF:-1 tvg-id="" tvg-name="知否知否应是绿肥红瘦",知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/1354936134
 #EXTINF:-1 tvg-id="" tvg-name="破案港剧",破案港剧
 https://live.ottiptv.cc/yy/1350670730
 #EXTINF:-1 tvg-id="" tvg-name="碟中谍系列电影",碟中谍系列电影
@@ -808,6 +865,8 @@ https://live.ottiptv.cc/yy/1382749907
 https://live.ottiptv.cc/yy/1382714119
 #EXTINF:-1 tvg-id="" tvg-name="神厨小福贵",神厨小福贵
 https://live.ottiptv.cc/yy/1382736860
+#EXTINF:-1 tvg-id="" tvg-name="神探狄仁杰1",神探狄仁杰1
+https://live.ottiptv.cc/yy/1354930934
 #EXTINF:-1 tvg-id="" tvg-name="神雕侠侣",神雕侠侣
 https://live.ottiptv.cc/yy/1351762426
 #EXTINF:-1 tvg-id="" tvg-name="离谱！我被自己追杀了",离谱！我被自己追杀了
@@ -842,6 +901,10 @@ https://live.ottiptv.cc/yy/1420843376
 https://live.ottiptv.cc/yy/1382736873
 #EXTINF:-1 tvg-id="" tvg-name="紧急营救",紧急营救
 https://live.ottiptv.cc/yy/1354926676
+#EXTINF:-1 tvg-id="" tvg-name="纪晓岚",纪晓岚
+https://live.ottiptv.cc/yy/1354143978
+#EXTINF:-1 tvg-id="" tvg-name="经典动漫",经典动漫
+https://www.goodiptv.club/yy/22777075
 #EXTINF:-1 tvg-id="" tvg-name="经典动漫",经典动漫
 http://luobo.bkpcp.top/yy/24180320
 #EXTINF:-1 tvg-id="" tvg-name="经典反转之战",经典反转之战
@@ -862,10 +925,18 @@ https://live.ottiptv.cc/yy/1354936159
 https://live.ottiptv.cc/yy/1354930937
 #EXTINF:-1 tvg-id="" tvg-name="缺宅男女-精彩港剧",缺宅男女-精彩港剧
 https://live.ottiptv.cc/yy/1382745088
+#EXTINF:-1 tvg-id="" tvg-name="老九门24",老九门24
+https://live.ottiptv.cc/yy/1355171357
 #EXTINF:-1 tvg-id="" tvg-name="老夫少妻搞笑忘年恋",老夫少妻搞笑忘年恋
 https://live.ottiptv.cc/yy/1354932391
 #EXTINF:-1 tvg-id="" tvg-name="老妖鬼片",老妖鬼片
 https://live.ottiptv.cc/yy/1354952229
+#EXTINF:-1 tvg-id="" tvg-name="老广的味道 第3季-美食纪录片",老广的味道 第3季-美食纪录片
+https://live.ottiptv.cc/yy/1382735565
+#EXTINF:-1 tvg-id="" tvg-name="老广的味道-美食之旅",老广的味道-美食之旅
+https://live.ottiptv.cc/yy/1354932375
+#EXTINF:-1 tvg-id="" tvg-name="耳边治愈系",耳边治愈系
+https://live.ottiptv.cc/yy/1355280749
 #EXTINF:-1 tvg-id="" tvg-name="聊天必备技能",聊天必备技能
 https://live.ottiptv.cc/yy/1354936178
 #EXTINF:-1 tvg-id="" tvg-name="能耐大了第1季",能耐大了第1季
@@ -880,20 +951,18 @@ https://live.ottiptv.cc/yy/1354930943
 https://live.ottiptv.cc/yy/1354930952
 #EXTINF:-1 tvg-id="" tvg-name="艾迪格里芬：经典就是我",艾迪格里芬：经典就是我
 https://live.ottiptv.cc/yy/1354932409
-#EXTINF:-1 tvg-id="" tvg-name="苍狼",苍狼
-https://live.ottiptv.cc/yy/1507704566
 #EXTINF:-1 tvg-id="" tvg-name="苍狼特战突击",苍狼特战突击
 https://live.ottiptv.cc/yy/1382736849
 #EXTINF:-1 tvg-id="" tvg-name="苦乐村官",苦乐村官
 https://live.ottiptv.cc/yy/1382736864
-#EXTINF:-1 tvg-id="" tvg-name="英叔之古墓狂魔",英叔之古墓狂魔
-https://live.ottiptv.cc/yy/1354930894
 #EXTINF:-1 tvg-id="" tvg-name="英雄无语，暗战无声",英雄无语，暗战无声
 https://live.ottiptv.cc/yy/1354932379
 #EXTINF:-1 tvg-id="" tvg-name="苹果工会招募主播",苹果工会招募主播
 https://live.ottiptv.cc/yy/1354889234
 #EXTINF:-1 tvg-id="" tvg-name="萌妹特攻队爆笑出击",萌妹特攻队爆笑出击
 https://live.ottiptv.cc/yy/1354930971
+#EXTINF:-1 tvg-id="" tvg-name="萌鸡小队S1-国漫",萌鸡小队S1-国漫
+https://live.ottiptv.cc/yy/1382736904
 #EXTINF:-1 tvg-id="" tvg-name="蔡明春晚小品",蔡明春晚小品
 https://live.ottiptv.cc/yy/1354936177
 #EXTINF:-1 tvg-id="" tvg-name="薛仁贵传奇",薛仁贵传奇
@@ -904,6 +973,8 @@ https://live.ottiptv.cc/yy/1354932365
 https://live.ottiptv.cc/yy/1382736846
 #EXTINF:-1 tvg-id="" tvg-name="西游记后传 蓝光",西游记后传 蓝光
 https://live.ottiptv.cc/yy/1353392400
+#EXTINF:-1 tvg-id="" tvg-name="许光汉主演喜剧大片",许光汉主演喜剧大片
+https://live.ottiptv.cc/yy/1382736825
 #EXTINF:-1 tvg-id="" tvg-name="请回答1988",请回答1988
 https://live.ottiptv.cc/yy/1354932362
 #EXTINF:-1 tvg-id="" tvg-name="谍影重重五季全",谍影重重五季全
@@ -930,6 +1001,8 @@ https://live.ottiptv.cc/yy/1382736835
 https://live.ottiptv.cc/yy/1382735576
 #EXTINF:-1 tvg-id="" tvg-name="超精彩武打场景",超精彩武打场景
 https://live.ottiptv.cc/yy/1354936131
+#EXTINF:-1 tvg-id="" tvg-name="超精彩！系列动作电影",超精彩！系列动作电影
+https://live.ottiptv.cc/yy/1382745096
 #EXTINF:-1 tvg-id="" tvg-name="超英集结",超英集结
 https://live.ottiptv.cc/yy/1382745091
 #EXTINF:-1 tvg-id="" tvg-name="躺平还是奋斗？搞笑中见真谛",躺平还是奋斗？搞笑中见真谛
@@ -946,6 +1019,10 @@ https://live.ottiptv.cc/yy/1354936228
 https://live.ottiptv.cc/yy/1354930984
 #EXTINF:-1 tvg-id="" tvg-name="这才是真巨星养成记",这才是真巨星养成记
 https://live.ottiptv.cc/yy/1382735561
+#EXTINF:-1 tvg-id="" tvg-name="这部剧你居然没看过？",这部剧你居然没看过？
+https://live.ottiptv.cc/yy/1354932355
+#EXTINF:-1 tvg-id="" tvg-name="进来 陪你看动漫",进来 陪你看动漫
+https://live.ottiptv.cc/yy/1352866135
 #EXTINF:-1 tvg-id="" tvg-name="进来 陪你看电视",进来 陪你看电视
 https://live.ottiptv.cc/yy/1353518742
 #EXTINF:-1 tvg-id="" tvg-name="远去的飞鹰-影视剧",远去的飞鹰-影视剧
@@ -960,6 +1037,8 @@ https://live.ottiptv.cc/yy/1382736911
 https://live.ottiptv.cc/yy/1382745089
 #EXTINF:-1 tvg-id="" tvg-name="重启之深渊疑冢",重启之深渊疑冢
 https://live.ottiptv.cc/yy/1382736841
+#EXTINF:-1 tvg-id="" tvg-name="重生之超级赛亚人",重生之超级赛亚人
+https://live.ottiptv.cc/yy/1354936124
 #EXTINF:-1 tvg-id="" tvg-name="野山鹰-影视剧",野山鹰-影视剧
 https://live.ottiptv.cc/yy/1354932395
 #EXTINF:-1 tvg-id="" tvg-name="金牌喜剧班",金牌喜剧班
@@ -984,24 +1063,20 @@ https://live.ottiptv.cc/yy/1354936128
 https://live.ottiptv.cc/yy/1382745121
 #EXTINF:-1 tvg-id="" tvg-name="院线动作大片",院线动作大片
 https://live.ottiptv.cc/yy/1382736900
+#EXTINF:-1 tvg-id="" tvg-name="陪你一起看好剧",陪你一起看好剧
+https://live.ottiptv.cc/yy/1354932359
 #EXTINF:-1 tvg-id="" tvg-name="隋唐英雄传",隋唐英雄传
 https://live.ottiptv.cc/yy/1352475619
-#EXTINF:-1 tvg-id="" tvg-name="雍正王朝",雍正王朝
-https://live.ottiptv.cc/yy/1356043620
 #EXTINF:-1 tvg-id="" tvg-name="雪中悍刀行",雪中悍刀行
 https://live.ottiptv.cc/yy/1382660835
 #EXTINF:-1 tvg-id="" tvg-name="雷霆再起",雷霆再起
 https://live.ottiptv.cc/yy/1382736884
-#EXTINF:-1 tvg-id="" tvg-name="雷霆救兵（普通话）",雷霆救兵（普通话）
-https://live.ottiptv.cc/yy/1382736844
 #EXTINF:-1 tvg-id="" tvg-name="震撼！国内功夫大片",震撼！国内功夫大片
 https://live.ottiptv.cc/yy/1382736902
 #EXTINF:-1 tvg-id="" tvg-name="霸星降临",霸星降临
 https://live.ottiptv.cc/yy/1354936168
 #EXTINF:-1 tvg-id="" tvg-name="霹雳火：速度与激情",霹雳火：速度与激情
 https://live.ottiptv.cc/yy/1382736895
-#EXTINF:-1 tvg-id="" tvg-name="靓剑",靓剑
-https://live.ottiptv.cc/yy/1382658790
 #EXTINF:-1 tvg-id="" tvg-name="靓剑",靓剑
 https://live.ottiptv.cc/yy/1356043643
 #EXTINF:-1 tvg-id="" tvg-name="非典型恋爱",非典型恋爱
@@ -1014,6 +1089,8 @@ https://live.ottiptv.cc/yy/1382735547
 https://live.ottiptv.cc/yy/1354936242
 #EXTINF:-1 tvg-id="" tvg-name="马永贞",马永贞
 https://live.ottiptv.cc/yy/1382736866
+#EXTINF:-1 tvg-id="" tvg-name="高分动作大片-热血出击",高分动作大片-热血出击
+https://live.ottiptv.cc/yy/1382736909
 #EXTINF:-1 tvg-id="" tvg-name="高分动作片——创可贴",高分动作片——创可贴
 https://live.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-id="" tvg-name="高分好电影1000000",高分好电影1000000

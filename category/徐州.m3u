@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="徐州公共频道",徐州公共频道
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合",徐州新闻综合
