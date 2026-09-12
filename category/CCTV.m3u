@@ -4,24 +4,34 @@
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 (1080p)",CCTV-1 (1080p)
 http://198.204.240.250:82/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-10科教",CCTV-10科教
-http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11",CCTV-11
 https://xykt-fix.github.io/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13 (1080p)",CCTV-13 (1080p)
 http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13新闻",CCTV-13新闻
+http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14少儿",CCTV-14少儿
+http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2财经",CCTV-2财经
+http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文国际",CCTV-4 中文国际
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789196400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e8f022bcc6b9034dfaf89515578f9b37&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文国际（欧）",CCTV-4 中文国际（欧）
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7国防军事",CCTV-7国防军事
-http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-8K (1080p)",CCTV-8K (1080p)
-http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4中文国际",CCTV-4中文国际
+http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+",CCTV-5+
+http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8K (1080p)",CCTV-8K (1080p)
 http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9 (576i)",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9 纪录",CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b5b80463b9632cb0769613ca258739b1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9 纪录",CCTV-9 纪录
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a7b8fd5527a7d17402b788978339a452
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9纪录",CCTV-9纪录
+http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV01",CCTV01
 http://j.s.bkpcp.top/jj/cctv1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV02",CCTV02
@@ -36,288 +46,276 @@ http://j.s.bkpcp.top/jj/cctv5
 http://j.s.bkpcp.top/jj/cctv6
 #EXTINF:-1 tvg-id="" tvg-name="CCTV07",CCTV07
 http://j.s.bkpcp.top/jj/cctv7
-#EXTINF:-1 tvg-id="" tvg-name="CCTV08",CCTV08
-http://j.s.bkpcp.top/jj/cctv8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV09",CCTV09
 http://j.s.bkpcp.top/jj/cctv9
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ol4Xj9&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=DASpOl&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://204.12.221.218:8181/3m1080p/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=VaAaU1&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=GRslVT&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=sPzAe7&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://173.208.212.130:8181/720p/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=b3eXPo&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://183.129.255.66:8480/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=BovPet&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=PldLrS&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=M8UbAJ&tk=FgM0vQMejxvG
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=GRslVT&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=M8UbAJ&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=BovPet&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DASpOl&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=PldLrS&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://183.129.255.66:8480/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b3eXPo&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=sPzAe7&tk=FgM0vQMejxvG
+http://173.208.212.130:8181/720p/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ol4Xj9&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://183.11.239.36:808/hls/28/index.m3u8
+http://183.129.255.66:8480/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
 http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://125.42.148.178:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
+http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
+http://183.11.239.36:808/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
 http://204.12.221.218:8181/3m1080p/cctv10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://go.bkpcp.top/mg/cctv10
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
 http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10",CCTV10
-http://183.129.255.66:8480/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10[1080][S]",CCTV10[1080][S]
-http://120.198.95.220:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10[1080][S]",CCTV10[1080][S]
 http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10[1080][S]",CCTV10[1080][S]
+http://120.198.95.220:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10[576][S]",CCTV10[576][S]
+http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10[576][S]",CCTV10[576][S]
 http://124.228.160.190:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://114.254.38.234:8888/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://2280.eu.org:1234/624878405$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
 http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/720p/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://chen.ccwu.cc:1234/624878405$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://k.061899.xyz/k.php?id=cctv10
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
 http://m.061899.xyz/mg/cctv10
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://198.204.228.26/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://120.76.248.139/live/bfgd/4200000129.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://111.8.242.142:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/1080p/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://111.8.242.127:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://f.123.rr.kg/163189/cctv10
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://j.s.bkpcp.top/jj/cctv10
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://218.206.193.218:8888/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://2280.eu.org:1234/624878405$LR•IPV4•29『线路3』
+http://2280.eu.org:1234/624878405$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
 http://107.150.60.122/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://120.76.248.139/live/bfgd/4200000129.m3u8$LR•IPV4•29『线路8』
+http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
-http://120.76.248.139/live/bfgd/4200000129.m3u8
+http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://173.208.212.130:8181/1080p/cctv10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
 http://192.151.150.154/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://120.76.248.139/live/bfgd/4200000129.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://111.8.242.127:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://173.208.212.130:8181/720p/cctv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://f.123.rr.kg/163189/cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://114.254.38.234:8888/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://k.061899.xyz/k.php?id=cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://120.76.248.139/live/bfgd/4200000129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://218.206.193.218:8888/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://chen.ccwu.cc:1234/624878405$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://120.76.248.139/live/bfgd/4200000129.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
 http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://go.bkpcp.top/mg/cctv11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://183.94.146.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/snwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://111.8.242.142:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://38.75.136.137:98/gslb/dsdqca/nxwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教",CCTV10科教
+http://2280.eu.org:1234/624878405$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://221.226.51.220:50081/newlive/live/hls/12/live.m3u8
+http://183.94.146.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
 http://204.12.221.218:8181/3m1080p/cctv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://183.129.255.66:8480/hls/12/index.m3u8
+http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://125.42.148.178:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.51.220:50081/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
+http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
+http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
+http://183.129.255.66:8480/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11",CCTV11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11[1080][S]",CCTV11[1080][S]
+http://120.198.95.220:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11[576][S]",CCTV11[576][S]
 http://124.228.160.190:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://m.061899.xyz/mg/cctv11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://j.s.bkpcp.top/jj/cctv11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://218.206.193.218:8888/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/ahwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://107.150.60.122/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://120.76.248.139/live/bfgd/4200000130.m3u8$LR•IPV4•29『线路9』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+http://chen.ccwu.cc:1234/667987558$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://2280.eu.org:1234/667987558$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://173.208.212.130:8181/1080p/cctv11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://192.151.150.154/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://f.123.rr.kg/163189/cctv11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://111.8.242.142:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://38.75.136.137:98/gslb/dsdqca/ahwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://2280.eu.org:1234/667987558$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://111.8.242.127:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://120.76.248.139/live/bfgd/4200000130.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://173.208.212.130:8181/720p/cctv11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://173.208.212.130:8181/720p/cctv11.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://chen.ccwu.cc:1234/667987558$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://k.061899.xyz/k.php?id=cctv11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqca/ahwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://114.254.38.234:8888/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://m.061899.xyz/mg/cctv11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://218.206.193.218:8888/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://2280.eu.org:1234/667987558$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://192.151.150.154/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://111.8.242.142:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://2280.eu.org:1234/667987558$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
 http://173.208.212.130:8181/720p/cctv11.m3u8$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://173.208.212.130:8181/720p/cctv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://120.76.248.139/live/bfgd/4200000130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/ahwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://120.76.248.139/live/bfgd/4200000130.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://f.123.rr.kg/163189/cctv11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/ahwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://107.150.60.122/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://111.8.242.127:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://k.061899.xyz/k.php?id=cctv11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://183.94.146.79:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UD8j7z&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=0RllDc&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://120.76.248.139/live/bfgd/4200000131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=KzUWhw&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://58.56.162.102:4466/newlive/live/hls/13/live.m3u8
+http://107.150.60.122/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://204.12.221.218:8181/3m1080p/cctv12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=URpjqF&tk=FgM0vQMejxvG
+http://go.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=6Hpvtu&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
@@ -325,1697 +323,1697 @@ http://kkk.888.3116598.xyz/api.php?n=tttt&id=fMMDXe&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=yc8lZU&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://183.129.255.66:8480/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=0RllDc&tk=FgM0vQMejxvG
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=UD8j7z&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=URpjqF&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://go.bkpcp.top/mg/cctv12
+http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+http://183.94.146.79:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=KzUWhw&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://183.129.255.66:8480/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://120.76.248.139/live/bfgd/4200000131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://58.56.162.102:4466/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12",CCTV12
 http://125.42.148.178:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12[1080][S]",CCTV12[1080][S]
-http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12[1080][S]",CCTV12[1080][S]
 http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12[576][S]",CCTV12[576][S]
 http://124.228.160.190:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://chen.ccwu.cc:1234/673168185$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://192.151.150.154/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://2280.eu.org:1234/673168185$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqca/xzwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://j.s.bkpcp.top/jj/cctv12
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://m.061899.xyz/mg/cctv12
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://111.8.242.127:9999/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://120.76.248.139/live/bfgd/4200000131.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://218.206.193.218:8888/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://114.254.38.234:8888/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://198.204.228.26/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://173.208.212.130:8181/1080p/cctv12.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+http://114.254.38.234:8888/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://2280.eu.org:1234/673168185$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://218.206.193.218:8888/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://38.75.136.137:98/gslb/dsdqca/xzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://173.208.212.130:8181/720p/cctv12.m3u8$LR•IPV4•29『线路12』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://k.061899.xyz/k.php?id=cctv12
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://f.123.rr.kg/163189/cctv12
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://m.061899.xyz/mg/cctv12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://k.061899.xyz/k.php?id=cctv12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://173.208.212.130:8181/1080p/cctv12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://111.8.242.127:9999/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
 http://173.208.212.130:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://38.75.136.137:98/gslb/dsdqca/xzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://183.129.255.66:8480/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=8D6cm9&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZiNrmy&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ctTjyy&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=b9W20q&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://j.x.bkpcp.top/jx/CCTV13HD
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=cfGBkp&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=0OGyQt&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://chen.ccwu.cc:1234/673168185$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://38.75.136.137:98/gslb/dsdqca/xzwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://120.76.248.139/live/bfgd/4200000131.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://192.151.150.154/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=a62xON&tk=FgM0vQMejxvG
+http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=rWsEHS&tk=FgM0vQMejxvG
+http://183.129.255.66:8480/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://120.76.248.139/live/bfgd/4200000067.m3u8
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=RVGrOZ&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=3eaJ7u&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ctTjyy&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://j.x.bkpcp.top/jx/CCTV13HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=0OGyQt&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=a62xON&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=8D6cm9&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rWsEHS&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
 http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=RVGrOZ&tk=FgM0vQMejxvG
+http://120.76.248.139/live/bfgd/4200000067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b9W20q&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=cfGBkp&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZiNrmy&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13[1080][S]",CCTV13[1080][S]
+http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13[1080][S]",CCTV13[1080][S]
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13[1080][S]",CCTV13[1080][S]
-http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13[1080][S]",CCTV13[1080][S]
-http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13[576][S]",CCTV13[576][S]
-http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13[576][S]",CCTV13[576][S]
-http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://k.061899.xyz/k.php?id=cctv13
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://pull-hls-f26.douyinliving.com/media/stream-120022690769404754.m3u8?expire=6aaa3e05&sign=70bff80bed34b158c2d72f944c457622&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260909145812733CE56B34D0DEE658F5-5HDIU5
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://111.8.242.127:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://2280.eu.org:1234/608807423$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/720p/cctv13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/1080p/cctv13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://114.254.38.234:8888/rtp/239.3.1.124:8128
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://j.s.bkpcp.top/jj/cctv13
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://chen.ccwu.cc:1234/608807423$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/hubwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://120.76.248.139/live/bfgd/4200000067.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://218.206.193.218:8888/hls/13/index.m3u8
+http://124.228.160.190:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://m.061899.xyz/mg/cctv13
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+http://198.204.228.26/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://120.76.248.139/live/bfgd/4200000067.m3u8$LR•IPV4•29『线路10』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://2280.eu.org:1234/608807423$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://f.123.rr.kg/163189/cctv13
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/ybwshd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://192.151.150.154/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://198.204.228.26/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-https://10.fast.hidns.vip/163189/cctv13/
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://107.150.60.122/live/cctv13hd.m3u8
+http://j.s.bkpcp.top/jj/cctv13
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/ybwshd.m3u8?auth=test20251009
+http://2280.eu.org:1234/608807423$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+http://f.123.rr.kg/163189/cctv13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://192.151.150.154/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://111.8.242.127:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://pull-hls-f26.douyinliving.com/media/stream-120022690769404754.m3u8?expire=6aaa3e05&sign=70bff80bed34b158c2d72f944c457622&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260909145812733CE56B34D0DEE658F5-5HDIU5
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqca/ybwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://107.150.60.122/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://38.75.136.137:98/gslb/dsdqca/ybwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+http://chen.ccwu.cc:1234/608807423$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://38.75.136.137:98/gslb/dsdqca/hubwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqca/ybwshd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://120.76.248.139/live/bfgd/4200000067.m3u8$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+https://10.fast.hidns.vip/163189/cctv13/
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/1080p/cctv13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://114.254.38.234:8888/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqca/hubwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•29『线路16』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://k.061899.xyz/k.php?id=cctv13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
 http://38.75.136.137:98/gslb/dsdqca/hubwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=FJimDi&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=DZackR&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ox3GOu&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=XfpSLB&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=DxuQh6&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://218.206.193.218:8888/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://2280.eu.org:1234/608807423$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻",CCTV13新闻
+http://120.76.248.139/live/bfgd/4200000067.m3u8$LR•IPV4•29『线路9』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=3eYTI1&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://125.42.148.178:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://183.129.255.66:8480/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
+http://go.bkpcp.top/mg/cctv14
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
 http://198.204.228.26/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
 http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=FJimDi&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DxuQh6&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=CGoxq8&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=HgGM9k&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://go.bkpcp.top/mg/cctv14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DZackR&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
-http://74.91.26.218:82/live/cctv14hd.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=XfpSLB&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://183.129.255.66:8480/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://125.42.148.178:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ox3GOu&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14[1080][S]",CCTV14[1080][S]
-http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.198.95.220:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14[1080][S]",CCTV14[1080][S]
 https://event.pull.hebtv.com/jishi/cp2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14[1080][S]",CCTV14[1080][S]
-http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://m.061899.xyz/mg/cctv14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14[576][S]",CCTV14[576][S]
+http://124.228.160.190:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
 http://k.061899.xyz/k.php?id=cctv14
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://173.208.212.130:8181/1080p/cctv14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://192.151.150.154/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
 http://114.254.38.234:8888/rtp/239.3.1.65:8132
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://120.76.248.139/live/bfgd/4200000132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
 http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
-http://j.s.bkpcp.top/jj/cctv14
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
 http://173.208.212.130:8181/720p/cctv14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://120.76.248.139/live/bfgd/4200000132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://173.208.212.130:8181/1080p/cctv14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://192.151.150.154/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://107.150.60.122/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿",CCTV14少儿
+http://m.061899.xyz/mg/cctv14
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://125.42.148.178:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=igs71Z&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ETisb8&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=5Bku41&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=DN2vWY&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=uDvEKH&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=975jMH&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://gmxw.7766.org:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
 http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://183.129.255.66:8480/hls/16/index.m3u8
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://125.42.148.178:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=Vy3kpu&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ETisb8&tk=FgM0vQMejxvG
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DN2vWY&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=igs71Z&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://gmxw.7766.org:808/hls/102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://183.129.255.66:8480/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uDvEKH&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15",CCTV15
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15[1080][S]",CCTV15[1080][S]
 http://120.198.95.220:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15[576][S]",CCTV15[576][S]
+http://124.228.160.190:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路7』
+http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路12』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://173.208.212.130:8181/720p/cctv15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+http://192.151.150.154/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://111.8.242.127:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://2280.eu.org:1234/673168223$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://218.206.193.218:8888/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://114.254.38.234:8888/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://2280.eu.org:1234/673168223$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://114.254.38.234:8888/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://111.8.242.142:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://120.76.248.139/live/bfgd/4200000133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://111.8.242.127:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://2280.eu.org:1234/673168223$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://173.208.212.130:8181/1080p/cctv15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://chen.ccwu.cc:1234/673168223$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://107.150.60.122/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://192.151.150.154/live/cctv15hd.m3u8
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://218.206.193.218:8888/hls/15/index.m3u8
+http://111.8.242.142:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
-http://2280.eu.org:1234/673168223$LR•IPV4•29『线路3』
+http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
 http://f.123.rr.kg/163189/cctv15
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=FLiBUu&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=WDJR2O&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://183.11.239.36:808/hls/169/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=EU5wNH&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ur5nnx&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://173.208.212.130:8181/1080p/cctv15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://chen.ccwu.cc:1234/673168223$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqca/jxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐",CCTV15音乐
+http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
 http://go.bkpcp.top/mg/cctv16
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-https://itv.1920.qzz.io/api/ysp.php?id=cctv16
+http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://198.204.228.26/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
 http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=FLiBUu&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
 http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WDJR2O&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=hS36LX&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=EU5wNH&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+http://183.11.239.36:808/hls/169/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
+https://itv.1920.qzz.io/api/ysp.php?id=cctv16
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
 http://120.198.86.186:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16",CCTV16
-http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ur5nnx&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
 http://183.129.255.66:8480/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=mKG6Oi&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uFZfdl&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=RNeK17&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=eqBvbO&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://182.61.15.163:80/673168256
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
 http://go.bkpcp.top/mg/cctv17
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=eqBvbO&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=uFZfdl&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=hZOdaK&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://182.61.15.163:80/673168256
+https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=cHEiBj&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=FikbIE&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=RNeK17&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=mKG6Oi&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hZOdaK&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17[576][S]",CCTV17[576][S]
 http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://173.208.212.130:8181/720p/cctv17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://2280.eu.org:1234/673168256$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://2280.eu.org:1234/673168256$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://chen.ccwu.cc:1234/673168256$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://120.76.248.139/live/bfgd/4200000204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://f.123.rr.kg/163189/cctv17
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://218.206.193.218:8888/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009
+http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•29『线路12』
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://114.254.38.234:8888/rtp/239.3.1.151:8144
+http://chen.ccwu.cc:1234/673168256$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://192.151.150.154/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://f.123.rr.kg/163189/cctv17
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://2280.eu.org:1234/673168256$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://173.208.212.130:8181/720p/cctv17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://173.208.212.130:8181/1080p/cctv17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://198.204.228.26/live/cctv17hd.m3u8
+http://2280.eu.org:1234/673168256$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1[1080][S]",CCTV1[1080][S]
-http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://107.150.60.122/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://114.254.38.234:8888/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1[1080][S]",CCTV1[1080][S]
 http://182.140.125.47:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1[576][S]",CCTV1[576][S]
 http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1[576][S]",CCTV1[576][S]
-http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://107.150.60.122/live/cctv1hd.m3u8
+http://120.76.248.139/live/bfgd/4200000489.m3u8$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://120.76.248.139/live/bfgd/4200000489.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://chen.ccwu.cc:1234/608807420$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://114.254.38.234:8888/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://play.kankanlive.com/live/1698234869325962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://k.061899.xyz/k.php?id=cctv1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://120.76.248.139/live/bfgd/4200000484.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://173.208.212.130:8181/720p/cctv1.m3u8$LR•IPV4•29『线路15』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://111.8.242.127:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000488.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+https://cdn6.cc.cd/163189/cctv1$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路18』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://120.76.248.139/live/bfgd/4200000201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-https://cdn6.cc.cd/163189/cctv1$LR•IPV4•29『线路1』
+http://2280.eu.org:1234/608807420$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://120.76.248.139/live/bfgd/4200000484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000488.m3u8$LR•IPV4•29『线路8』
+https://cdn6.cc.cd/163189/cctv1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://173.208.212.130:8181/720p/cctv1.m3u8$LR•IPV4•29『线路16』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://173.208.212.130:8181/720p/cctv1.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://173.208.212.130:8181/1080p/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-https://cdn6.cc.cd/163189/cctv1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000484.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•29『线路17』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000484.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://2280.eu.org:1234/608807420$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000489.m3u8$LR•IPV4•29『线路10』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000201.m3u8$LR•IPV4•29『线路11』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://f.123.rr.kg/163189/cctv1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路18』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000201.m3u8$LR•IPV4•29『线路10』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://114.254.38.234:8888/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://120.76.248.139/live/bfgd/4200000488.m3u8$LR•IPV4•29『线路9』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://120.76.248.139/live/bfgd/4200000489.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://k.061899.xyz/k.php?id=cctv1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://218.206.193.218:8888/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+http://120.76.248.139/live/bfgd/4200000488.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://120.76.248.139/live/bfgd/4200000484.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•29『线路16』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://2280.eu.org:1234/608807420$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•29『线路17』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://120.76.248.139/live/bfgd/4200000488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://f.123.rr.kg/163189/cctv1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://173.208.212.130:8181/1080p/cctv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
 http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路17』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
-http://chen.ccwu.cc:1234/608807420$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://183.94.146.79:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://go.bkpcp.top/mg/cctv2
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=qaUykc&tk=FgM0vQMejxvG
+http://120.76.248.139/live/bfgd/4200000201.m3u8$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合",CCTV1综合
+http://120.76.248.139/live/bfgd/4200000201.m3u8$LR•IPV4•29『线路11』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://173.208.212.130:8181/1080p/cctv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://125.42.148.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://173.208.212.130:8181/720p/cctv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=xwqfUv&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=kMsOKh&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=l8iCee&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=uO3YKJ&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=qaUykc&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=sJQzul&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://183.129.255.66:8480/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
 http://192.151.150.154/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=fSEU0s&tk=FgM0vQMejxvG
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=l8iCee&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://173.208.212.130:8181/1080p/cctv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=xwqfUv&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://173.208.212.130:8181/720p/cctv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
-http://183.129.255.66:8480/hls/2/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uO3YKJ&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://101.66.198.251:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://183.94.146.79:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kMsOKh&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fSEU0s&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2[1080][S]",CCTV2[1080][S]
-http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2[576][S]",CCTV2[576][S]
-http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://k.061899.xyz/k.php?id=cctv2
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://pull-hls-f26.douyincdn.com/media/stream-119931326014423724.m3u8?expire=6aaa3da5&sign=9793a0121f9fb1453226a767c858b368&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609091456360226BD6719C601C32015-nEZq6r
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://2280.eu.org:1234/631780532$LR•IPV4•29『线路3』
+http://120.76.248.139/live/bfgd/4200000061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+http://114.254.38.234:8888/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://pull-hls-f26.douyincdn.com/media/stream-119931326014423724.m3u8?expire=6aaa3da5&sign=9793a0121f9fb1453226a767c858b368&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609091456360226BD6719C601C32015-nEZq6r
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://218.206.193.218:8888/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://2280.eu.org:1234/631780532$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://2280.eu.org:1234/631780532$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://k.061899.xyz/k.php?id=cctv2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://chen.ccwu.cc:1234/631780532$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://114.254.38.234:8888/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://f.123.rr.kg/163189/cctv2
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://2280.eu.org:1234/631780532$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
 http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://120.76.248.139/live/bfgd/4200000061.m3u8
+http://f.123.rr.kg/163189/cctv2
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
-http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•29『线路12』
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经",CCTV2财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+http://107.150.60.122/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://120.76.248.139/live/bfgd/4200000062.m3u8
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://go.bkpcp.top/mg/cctv3
+http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://183.129.255.66:8480/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ODKBWl&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 http://219.145.93.74:10000/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=fxi4hL&tk=FgM0vQMejxvG
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=4mFBaV&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=CaQ9Sy&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ODKBWl&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://183.94.146.79:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://58.56.162.102:4466/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=rt36k7&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=kBy2n1&tk=FgM0vQMejxvG
+http://go.bkpcp.top/mg/cctv3
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 http://182.61.15.163:80/624878271
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://125.42.148.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kBy2n1&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rt36k7&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=dFegbT&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://183.129.255.66:8480/hls/3/index.m3u8
+http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=4mFBaV&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3[1080][S]",CCTV3[1080][S]
-http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.76.248.139/live/bfgd/4200000062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://58.56.162.102:4466/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fxi4hL&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3",CCTV3
+http://183.94.146.79:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3[576][S]",CCTV3[576][S]
+http://120.198.95.220:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3[576][S]",CCTV3[576][S]
 http://124.228.160.190:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://chen.ccwu.cc:1234/624878271$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://2280.eu.org:1234/624878271$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://192.151.150.154/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://114.254.38.234:8888/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://2280.eu.org:1234/624878271$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://f.123.rr.kg/163189/cctv3
+http://198.204.228.26/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://k.061899.xyz/k.php?id=cctv3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009
+http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://120.76.248.139/live/bfgd/4200000062.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://2280.eu.org:1234/624878271$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://192.151.150.154/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://f.123.rr.kg/163189/cctv3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://120.76.248.139/live/bfgd/4200000062.m3u8$LR•IPV4•29『线路8』
+http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://173.208.212.130:8181/720p/cctv3.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14938593250_strL_GameAvcFhdL0.flv?txSecret=893cc5cb1d04ea069938185cc0a6f7dc&txTime=6aa563ed&stat=N8uTKWCtKpmVH6shMJxRILH8ajm0XQ9MZvtOWca6VgI2Q4vvpR9cd95vI93yfR5P&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2756&no_script=1&srcStrm=t21fMFy0nzo&ss=s20&tfc_buyer=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://k.061899.xyz/k.php?id=cctv3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
+http://114.254.38.234:8888/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://173.208.212.130:8181/720p/cctv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://218.206.193.218:8888/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•29『线路13』
+http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://2280.eu.org:1234/624878271$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://38.75.136.137:98/gslb/dsdqca/scwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://173.208.212.130:8181/1080p/cctv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
+http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+http://chen.ccwu.cc:1234/624878271$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://198.204.228.26/live/cctv3hd.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://120.76.248.139/live/bfgd/4200000062.m3u8$LR•IPV4•29『线路7』
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺",CCTV3综艺
-http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=WdwTvm&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=MjsnQU&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://120.76.248.139/live/bfgd/4200000063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=b0DLyC&tk=FgM0vQMejxvG
+http://120.76.248.139/live/bfgd/4200000062.m3u8$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
 http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://125.42.148.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9nAWA&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=UqeuE0&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://219.145.93.74:10000/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://183.94.146.79:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=S8SfWs&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://173.208.212.130:8181/1080p/cctv4.m3u8
+http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UqeuE0&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b0DLyC&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WdwTvm&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://120.76.248.139/live/bfgd/4200000063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
 http://182.61.15.163:80/631780421
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
-http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+http://219.145.93.74:10000/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://183.94.146.79:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=MjsnQU&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://125.42.148.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://173.208.212.130:8181/1080p/cctv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9nAWA&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
 http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4",CCTV4
+http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K",CCTV4K
 http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1789214400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a19d70190a412c6bde4bcaceb6268b34&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4[1080][S]",CCTV4[1080][S]
-http://124.228.160.190:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.198.95.220:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4[1080][S]",CCTV4[1080][S]
 http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4[576][S]",CCTV4[576][S]
-http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4[1080][S]",CCTV4[1080][S]
+http://124.228.160.190:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4[720][S]",CCTV4[720][S]
 http://207.56.13.146:81/cdnlive/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/608807419$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://k.061899.xyz/k.php?id=cctv4
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://114.254.38.234:8888/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
 http://192.151.150.154/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•29『线路22』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://k.061899.xyz/k.php?id=cctv4m
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://114.254.38.234:8888/rtp/239.3.1.213:4220
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://f.123.rr.kg/163189/cctv4
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://218.206.193.218:8888/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://120.76.248.139/live/bfgd/4200000063.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009$LR•IPV4•29『线路11』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•29『线路27』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://114.254.38.234:8888/rtp/239.3.1.214:4220
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/720p/cctv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/631780421$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://111.8.242.127:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•29『线路23』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://chen.ccwu.cc:1234/608807416$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://120.76.248.139/live/bfgd/4200000063.m3u8$LR•IPV4•29『线路17』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
 http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路10』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路14』
+http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$LR•IPV4•29『线路7』
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
+http://173.208.212.130:8181/720p/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009
+http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•29『线路22』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•29『线路12』
+http://chen.ccwu.cc:1234/608807416$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$LR•IPV4•29『线路11』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•29『线路21』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://chen.ccwu.cc:1234/608807419$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路28』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/608807416$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://chen.ccwu.cc:1234/631780421$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://173.208.212.130:8181/720p/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/608807419$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/608807416$LR•IPV4•29『线路10』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路24』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://2280.eu.org:1234/631780421$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009$LR•IPV4•29『线路16』
+http://111.8.242.127:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
 http://198.204.228.26/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009$LR•IPV4•29『线路11』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路28』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
 http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•29『线路25』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://k.061899.xyz/k.php?id=cctv4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://173.208.212.130:8181/720p/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://114.254.38.234:8888/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•29『线路21』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://f.123.rr.kg/163189/cctv4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/631780421$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•29『线路23』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://k.061899.xyz/k.php?id=cctv4m
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/608807419$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://chen.ccwu.cc:1234/631780421$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/608807416$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/608807416$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$LR•IPV4•29『线路11』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://120.76.248.139/live/bfgd/4200000063.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://114.254.38.234:8888/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/ynwshd.m3u8?auth=test20251009$LR•IPV4•29『线路16』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
 http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•29『线路26』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://183.94.146.79:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Gd7JGa&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=zMqirA&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://173.208.212.130:8181/720p/cctv5.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://chen.ccwu.cc:1234/608807419$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路24』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://218.206.193.218:8888/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•29『线路27』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/608807419$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://120.76.248.139/live/bfgd/4200000063.m3u8$LR•IPV4•29『线路17』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://2280.eu.org:1234/631780421$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://115.171.216.32:4000/rtp/225.1.8.20:8004
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://gmxw.7766.org:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://183.129.255.66:8480/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=un8Qbv&tk=FgM0vQMejxvG
+http://gmxw.7766.org:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://115.171.216.32:4000/rtp/225.1.8.89:8000
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=WCkN7r&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=zMqirA&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=1A4eT4&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://183.94.146.79:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=7saWCa&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://120.76.248.139/live/bfgd/4200000064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=rXZ2Ua&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=7saWCa&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://118.122.144.115:8888/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://183.129.255.66:8480/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=OWbZsv&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://182.61.15.163:80/641886773
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://74.91.26.218:82/live/cctv5p.m3u8
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WCkN7r&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://183.129.255.66:8480/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=un8Qbv&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Gd7JGa&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5",CCTV5
+http://173.208.212.130:8181/720p/cctv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=9O5jfh&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UUAF8s&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=0msREY&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=hWGyoN&tk=FgM0vQMejxvG
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://go.bkpcp.top/mg/cctv5p
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=UHwStw&tk=FgM0vQMejxvG
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://182.61.15.163:80/641886773
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=OWbZsv&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=UUAF8s&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UHwStw&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://61.161.61.119:9004/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://61.162.52.6:8088/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=9O5jfh&tk=FgM0vQMejxvG
+http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hWGyoN&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://183.129.255.66:8480/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+",CCTV5+
+http://118.122.144.115:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+[1080][S]",CCTV5+[1080][S]
 http://59.39.89.130:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+[720][S]",CCTV5+[720][S]
 http://124.228.160.190:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
-http://111.8.242.127:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
 http://2280.eu.org:1234/641886773$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
-http://2280.eu.org:1234/641886773$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
 http://f.123.rr.kg/163189/cctv5p
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+http://111.8.242.127:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
+http://2280.eu.org:1234/641886773$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
 http://chen.ccwu.cc:1234/641886773$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
+http://120.198.95.220:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
+http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
+http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
 http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
 http://124.228.160.190:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
-http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5[1080][S]",CCTV5[1080][S]
-http://120.198.95.220:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5[720][S]",CCTV5[720][S]
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路25』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://m.061899.xyz/mg/cctv5p
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://192.151.150.154/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://120.76.248.139/live/bfgd/4200000246.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://218.206.193.218:8888/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://173.208.212.130:8181/1080p/cctv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://114.254.38.234:8888/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/1080p/cctv5p.m3u8$LR•IPV4•29『线路24』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•29『线路21』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://114.254.38.234:8888/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://120.76.248.139/live/bfgd/4200000064.m3u8$LR•IPV4•29『线路11』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/720p/cctv5p.m3u8$LR•IPV4•29『线路22』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/720p/cctv5p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://192.151.150.154/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://120.76.248.139/live/bfgd/4200000064.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://chen.ccwu.cc:1234/641886683$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/1080p/cctv5p.m3u8$LR•IPV4•29『线路22』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•29『线路23』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/1080p/cctv5p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://173.208.212.130:8181/720p/cctv5p.m3u8$LR•IPV4•29『线路20』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•29『线路21』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://198.204.228.26/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•29『线路19』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://2280.eu.org:1234/641886683$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://120.76.248.139/live/bfgd/4200000246.m3u8$LR•IPV4•29『线路10』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://j.s.bkpcp.top/jj/cctv5p
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路23』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://f.123.rr.kg/163189/cctv5
+http://120.76.248.139/live/bfgd/4200000246.m3u8$LR•IPV4•29『线路10』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://chen.ccwu.cc:1234/641886683$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/1080p/cctv5p.m3u8$LR•IPV4•29『线路22』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/1080p/cctv5p.m3u8$LR•IPV4•29『线路24』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://2280.eu.org:1234/641886683$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://f.123.rr.kg/163189/cctv5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•29『线路23』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+http://173.208.212.130:8181/1080p/cctv5p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
 http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009$LR•IPV4•29『线路10』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
-http://2280.eu.org:1234/641886683$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://183.94.146.79:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=nOyqEK&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=jDsfYP&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://198.204.240.250:82/live/cctv6.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://114.254.38.234:8888/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://218.206.193.218:8888/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/720p/cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://120.76.248.139/live/bfgd/4200000064.m3u8$LR•IPV4•29『线路11』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路25』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://192.151.150.154/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/720p/cctv5p.m3u8$LR•IPV4•29『线路22』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://120.76.248.139/live/bfgd/4200000246.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•29『线路21』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://120.76.248.139/live/bfgd/4200000064.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•29『线路21』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://m.061899.xyz/mg/cctv5p
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•29『线路19』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://2280.eu.org:1234/641886683$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育",CCTV5体育
+http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=gJZdKc&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://go.bkpcp.top/mg/cctv6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=TNm461&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://173.208.212.130:8181/1080p/cctv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://125.42.148.178:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://120.76.248.139/live/bfgd/4200000065.m3u8
+http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
 http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://120.76.248.139/live/bfgd/4200000065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
 http://183.129.255.66:8480/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=EVXXqj&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=TNm461&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=OBjTQM&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
 http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
-https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+http://173.208.212.130:8181/1080p/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=jDsfYP&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=Krvt15&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=OBjTQM&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=EVXXqj&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=nOyqEK&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://183.94.146.79:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://101.66.198.251:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6",CCTV6
+http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6[1080][S]",CCTV6[1080][S]
-http://182.140.125.47:808/hls/6/index.m3u8
+http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6[1080][S]",CCTV6[1080][S]
 http://120.198.95.220:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6[1080][S]",CCTV6[1080][S]
-http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+http://182.140.125.47:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6[576][S]",CCTV6[576][S]
 http://124.228.160.190:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
 http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://218.206.193.218:8888/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://120.76.248.139/live/bfgd/4200000065.m3u8$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://2280.eu.org:1234/624878396$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://2280.eu.org:1234/624878396$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://111.8.242.127:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://chen.ccwu.cc:1234/624878396$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://192.151.150.154/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
 http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•29『线路13』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://173.208.212.130:8181/720p/cctv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://f.123.rr.kg/163189/cctv6
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://120.76.248.139/live/bfgd/4200000065.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•29『线路12』
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
 http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•29『线路14』
+http://111.8.242.127:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://192.151.150.154/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://120.76.248.139/live/bfgd/4200000065.m3u8$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://114.254.38.234:8888/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://f.123.rr.kg/163189/cctv6
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
 http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
-http://114.254.38.234:8888/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=is7Yts&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=IxfPG7&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Nyd4Tu&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=wbdmyk&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=AtyFM3&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZBnhzm&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://183.94.146.79:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://120.76.248.139/live/bfgd/4200000127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=8Deu2V&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://8.138.7.223/tv/cctv7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ydh47G&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9ZlCH&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=79zmv5&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
-http://183.129.255.66:8480/hls/8/index.m3u8
+http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://218.206.193.218:8888/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://chen.ccwu.cc:1234/624878396$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://2280.eu.org:1234/624878396$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://107.150.60.122/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://2280.eu.org:1234/624878396$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://120.76.248.139/live/bfgd/4200000065.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://173.208.212.130:8181/720p/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影",CCTV6电影
+http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
 http://125.42.148.178:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Nyd4Tu&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=8Deu2V&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://183.129.255.66:8480/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZBnhzm&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
 http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ydh47G&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://69.30.245.50/live/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=is7Yts&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=IxfPG7&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://8.138.7.223/tv/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=AtyFM3&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=wbdmyk&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9ZlCH&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://183.94.146.79:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=79zmv5&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7",CCTV7
+http://101.66.198.251:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7[1080][S]",CCTV7[1080][S]
 http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7[1080][S]",CCTV7[1080][S]
-http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7[576][S]",CCTV7[576][S]
+http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7[576][S]",CCTV7[576][S]
 http://124.228.160.190:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7[720][S]",CCTV7[720][S]
 http://207.56.13.146:81/cdnlive/cctv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•29『线路11』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://2280.eu.org:1234/673168121$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://chen.ccwu.cc:1234/673168121$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://198.204.228.26/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://173.208.212.130:8181/720p/cctv7.m3u8
+http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://173.208.212.130:8181/1080p/cctv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://f.123.rr.kg/163189/cctv7
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://192.151.150.154/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://2280.eu.org:1234/673168121$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•29『线路12』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://120.76.248.139/live/bfgd/4200000127.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://120.76.248.139/live/bfgd/4200000127.m3u8$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://173.208.212.130:8181/720p/cctv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•29『线路14』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://chen.ccwu.cc:1234/673168121$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•29『线路11』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://120.76.248.139/live/bfgd/4200000127.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•29『线路12』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://2280.eu.org:1234/673168121$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://114.254.38.234:8888/rtp/239.3.1.61:8104
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://120.76.248.139/live/bfgd/4200000127.m3u8$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://2280.eu.org:1234/673168121$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+http://f.123.rr.kg/163189/cctv7
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
 http://218.206.193.218:8888/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://192.151.150.154/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://120.76.248.139/live/bfgd/4200000066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=CQPTro&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://183.129.255.66:8480/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://182.61.15.163:80/624878356
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://gmxw.7766.org:808/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
-http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+http://114.254.38.234:8888/rtp/239.3.1.61:8104
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
 http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CQPTro&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://120.76.248.139/live/bfgd/4200000066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://182.61.15.163:80/624878356
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://gmxw.7766.org:808/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
 http://125.42.148.178:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8[576][S]",CCTV8[576][S]
-http://124.228.160.190:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://183.129.255.66:8480/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8",CCTV8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8[576][S]",CCTV8[576][S]
 http://120.198.95.220:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8[576][S]",CCTV8[576][S]
+http://124.228.160.190:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8[720][S]",CCTV8[720][S]
 http://207.56.13.146:81/cdnlive/cctv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8[720][S]",CCTV8[720][S]
 http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://f.123.rr.kg/163189/cctv8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•29『线路19』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/720p/cctv8k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://2280.eu.org:1234/624878356$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/720p/cctv8k.m3u8$LR•IPV4•29『线路17』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://192.151.150.154/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•29『线路18』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://198.204.228.26/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路19』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://107.150.60.122/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/1080p/cctv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://218.206.193.218:8888/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://chen.ccwu.cc:1234/624878356$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://107.150.60.122/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/720p/cctv8.m3u8$LR•IPV4•29『线路17』
+http://173.208.212.130:8181/1080p/cctv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://111.8.242.142:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://173.208.212.130:8181/720p/cctv8k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://173.208.212.130:8181/720p/cctv8.m3u8$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://173.208.212.130:8181/720p/cctv8k.m3u8$LR•IPV4•29『线路18』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路20』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://120.76.248.139/live/bfgd/4200000066.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://2280.eu.org:1234/624878356$LR•IPV4•29『线路2』
+http://218.206.193.218:8888/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路19』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://173.208.212.130:8181/720p/cctv8k.m3u8$LR•IPV4•29『线路17』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•29『线路18』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$LR•IPV4•29『线路4』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
 http://120.76.248.139/live/bfgd/4200000066.m3u8$LR•IPV4•29『线路8』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://125.42.148.178:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://198.204.228.26/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://61.136.172.236:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://192.151.150.154/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://183.11.239.36:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://183.94.146.79:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://173.208.212.130:8181/720p/cctv8k.m3u8$LR•IPV4•29『线路18』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路20』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://2280.eu.org:1234/624878356$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://192.151.150.154/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://120.76.248.139/live/bfgd/4200000066.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://f.123.rr.kg/163189/cctv8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://173.208.212.130:8181/720p/cctv8.m3u8$LR•IPV4•29『线路17』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://2280.eu.org:1234/624878356$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•29『线路19』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://chen.ccwu.cc:1234/624878356$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
 http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
 http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://183.94.146.79:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
 http://183.129.255.66:8480/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
-http://69.30.245.50/live/cctv9.m3u8
+http://61.136.172.236:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9",CCTV9
+http://125.42.148.178:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9[1080][S]",CCTV9[1080][S]
-http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.198.95.220:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9[576][S]",CCTV9[576][S]
 http://124.228.160.190:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9[576][S]",CCTV9[576][S]
-http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://chen.ccwu.cc:1234/673168140$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•29『线路13』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/nmgwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://111.8.242.127:9999/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://120.76.248.139/live/bfgd/4200000128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://120.76.248.139/live/bfgd/4200000128.m3u8$LR•IPV4•29『线路8』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/720p/cctv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•29『线路15』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://2280.eu.org:1234/673168140$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://114.254.38.234:8888/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/nmgwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://play.kankanlive.com/live/1698423397390920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/1080p/cctv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://2280.eu.org:1234/673168140$LR•IPV4•29『线路2』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://38.75.136.137:98/gslb/dsdqca/nmgwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•29『线路14』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://120.76.248.139/live/bfgd/4200000128.m3u8$LR•IPV4•29『线路9』
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://f.123.rr.kg/163189/cctv9
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://218.206.193.218:8888/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/1080p/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/nmgwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
-http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
+http://2280.eu.org:1234/673168140$LR•IPV4•29『线路2』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/nmgwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://2280.eu.org:1234/673168140$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://f.123.rr.kg/163189/cctv9
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://111.8.242.127:9999/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://chen.ccwu.cc:1234/673168140$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://114.254.38.234:8888/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•IPV4•29『线路3』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://120.76.248.139/live/bfgd/4200000128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://120.76.248.139/live/bfgd/4200000128.m3u8$LR•IPV4•29『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://play.kankanlive.com/live/1698423397390920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路6』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://120.76.248.139/live/bfgd/4200000128.m3u8$LR•IPV4•29『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•29『线路13』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
 http://111.8.242.142:9999/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqca/sxwshd.m3u8?auth=test20251009$LR•IPV4•29『线路7』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•29『线路15』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•29『线路14』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录",CCTV9纪录
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•29『线路16』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
 https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="CCTV文化精品",CCTV文化精品
@@ -2023,9 +2021,9 @@ https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e
 #EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场",CCTV第一剧场
 https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云",游戏风云
-http://gat.bkpcp.top/ymg.php?id=yxfy
-#EXTINF:-1 tvg-id="" tvg-name="游戏风云",游戏风云
 http://8.138.7.223/tv/5gtv.php?id=224
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云",游戏风云
+http://gat.bkpcp.top/ymg.php?id=yxfy
 #EXTINF:-1 tvg-id="" tvg-name="监狱风云2",监狱风云2
 https://live.ottiptv.cc/yy/1354933540
 #EXTINF:-1 tvg-id="" tvg-name="笑看风云",笑看风云
@@ -2037,48 +2035,48 @@ https://live.metshop.top/huya/29465858
 #EXTINF:-1 tvg-id="" tvg-name="风云I人物志",风云I人物志
 https://live.ottiptv.cc/douyu/9970047
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-#EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
 http://183.11.239.36:808/hls/95/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
+https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
 https://itv.1920.qzz.io/api/ysp.php?id=cctvfyjc
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
 http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+http://173.208.212.130:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场",风云剧场
-https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
-http://dassby.qqff.top:99/live/风云足球/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
-http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
-http://120.76.248.139/live/bfgd/4200000225.m3u8
+http://207.56.13.146:81/cdnlive/fyzq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
-https://itv.1920.qzz.io/api/ysp.php?id=cctvfyzq
-#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 #EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
-http://207.56.13.146:81/cdnlive/fyzq.m3u8
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
+https://itv.1920.qzz.io/api/ysp.php?id=cctvfyzq
+#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
+http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="风云足球",风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云雄霸天下",风云雄霸天下
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21059612
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
+https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
-https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://183.11.239.36:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
-https://itv.1920.qzz.io/api/ysp.php?id=cctvfyyy
+http://207.56.13.146:81/cdnlive/fyyy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐",风云音乐
+https://itv.1920.qzz.io/api/ysp.php?id=cctvfyyy
