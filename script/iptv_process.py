@@ -8,7 +8,6 @@ import time
 from datetime import datetime
 from collections import defaultdict
 from typing import Optional, Tuple
-
 # ===================== 基础配置 =====================
 # 文件夹路径
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,7 +20,6 @@ FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
 # 创建必要文件夹
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
     os.makedirs(d, exist_ok=True)
-
 # 测速配置
 VLC_UA = "VLC/3.0.20 LibVLC/3.0.20"
 CONCURRENCY_HTTP = 15       # http请求并发
@@ -32,31 +30,33 @@ MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # 仅测速阶段最大运行时�
 PERMANENT_FAIL_THRESHOLD = 3  # 连续失败N轮标记永久失效
 HTTP_READ_BYTES = 2048       # http读取流字节数，优化检测准确性
 SKIP_AUDIO_ONLY_STREAM = False # 是否跳过仅音频流；True=仅音频视为无效，False允许纯音频源有效
-
 # 全局变量：控制测速强制终止
 stop_speed_test = False
 start_time = time.time()
-
 # ===================== 工具函数 =====================
 def load_json(path):
-    """加载JSON文件【带调试日志】"""
+    """加载JSON文件【带调试日志】修复：不存在/异常返回空字典{}，不是[]"""
     if not os.path.exists(path):
         print(f"[ERROR] JSON文件不存在: {path}")
-        return []
+        return dict()
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
             print(f"[DEBUG] 加载 {os.path.basename(path)}，读取列表长度：{len(data)}")
+            return dict()
+        elif isinstance(data, dict):
+            print(f"[DEBUG] 加载 {os.path.basename(path)}，读取字典，keys数量:{len(data.keys())}")
+            return data
         else:
-            print(f"[DEBUG] 加载 {os.path.basename(path)}，读取字典，keys:{list(data.keys())}")
-        return data
+            print(f"[WARN] {os.path.basename(path)} 不是字典/列表，返回空dict")
+            return dict()
     except json.JSONDecodeError as e:
         print(f"[ERROR] JSON解析失败 {path} : {str(e)}")
-        return []
+        return dict()
     except Exception as e:
         print(f"[ERROR] 文件读取异常 {path}: {str(e)}")
-        return []
+        return dict()
 
 def clean_text(s):
     """清理空白字符"""
@@ -510,6 +510,7 @@ def process_valid_sources():
     # 总合集m3u：不再添加#EPGURL标签
     m3u_out_path = os.path.join(SOURCES_DIR, "有效直播源.m3u")
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
+    print(f"[DEBUG] process_valid_sources tvg_id_map加载key总数:{len(epg_map)}")
     with open(m3u_out_path, "w", encoding="utf-8") as fm:
         fm.write("#EXTM3U\n")
         for line in lines:
@@ -544,6 +545,7 @@ def generate_categories(sources):
             cat_map["未分类"].append(line)
             other_count += 1
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
+    print(f"[DEBUG] generate_categories tvg_id_map加载key总数:{len(epg_map)}")
     epg_cfg = load_json(os.path.join(CONFIG_DIR, "epg.json"))
     epg_url = epg_cfg.get("epg_url", "")
     tvg_logo_base = epg_cfg.get("tvg_logo_base", "").rstrip("/")
