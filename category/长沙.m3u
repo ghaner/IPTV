@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="长沙女性",长沙女性
 http://nn.7x9d.cn/地方台8563/湖南2.php?id=230
 #EXTINF:-1 tvg-id="" tvg-name="长沙政法",长沙政法

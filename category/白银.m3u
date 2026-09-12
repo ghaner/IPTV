@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-URL: https://epg.zsdc.eu.org/t.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="白银综合",白银综合
 http://play.kankanlive.com/live/1720408089419110.m3u8
