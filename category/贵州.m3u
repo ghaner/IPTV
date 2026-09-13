@@ -1,53 +1,49 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://120.198.86.186:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=LwqcVx&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://192.151.150.154/live/gzwshd.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://107.150.60.122/live/gzwshd.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://218.206.193.218:8888/hls/34/index.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://120.76.248.139/live/bfgd/4200000101.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://112.234.22.76:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=qlzjOz&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://114.254.38.234:8888/rtp/239.3.1.149:8076
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=8F4OUD&tk=FgM0vQMejxvG
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
 http://221.226.51.220:50081/newlive/live/hls/39/live.m3u8
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=A2bDrQ&tk=FgM0vQMejxvG
+http://t.061899.xyz/tl/tl.php?id=gzws
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://198.204.228.26/live/gzwshd.m3u8
+http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=4zUEmu&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
-#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-https://www.yangshipin.cn/tv/home?pid=600002490
+http://112.234.22.76:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
 http://204.12.221.218:8181/3m1080p/gzws.m3u8
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+https://www.yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://192.151.150.154/live/gzwshd.m3u8
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://120.76.248.139/live/bfgd/4200000101.m3u8$LR•IPV4•29『线路2』
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://198.204.228.26/live/gzwshd.m3u8
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://120.198.86.186:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://107.150.60.122/live/gzwshd.m3u8
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
 http://218.13.170.98:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=uyvUXA&tk=FgM0vQMejxvG
+http://120.76.248.139/live/bfgd/4200000101.m3u8
 #EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
-http://120.76.248.139/live/bfgd/4200000101.m3u8$LR•IPV4•29『线路2』
+http://218.206.193.218:8888/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=58562c3c333b9bfd16f4b11230b6a0
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$LR•IPV4•29『线路1』
+#EXTINF:-1 tvg-id="guizhou-ws" tvg-name="贵州卫视",贵州卫视
+http://114.254.38.234:8888/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-id="" tvg-name="贵州省兴义市万峰林",贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
