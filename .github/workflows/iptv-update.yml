@@ -20,6 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
+          pip install aiohttp requests
 
       - name: 运行IPTV处理脚本
         run: python3 -u script/iptv_process.py
