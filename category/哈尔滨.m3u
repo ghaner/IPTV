@@ -2,37 +2,37 @@
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐",哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+http://streamings.hrbtv.net/live/4f28da88b8984bcbbced624179617f2c?fmt=h264_400k_flv
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
 http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
+http://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
 https://stream.hrbtv.net/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
-http://streamings.hrbtv.net/live/4f28da88b8984bcbbced624179617f2c?fmt=h264_400k_flv
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视",哈尔滨影视
-http://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
+http://streamings.hrbtv.net/live/09267a2e15214137aaae37b8a7124b1b?fmt=h264_400k_flv
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合",哈尔滨新闻综合
-http://streamings.hrbtv.net/live/09267a2e15214137aaae37b8a7124b1b?fmt=h264_400k_flv
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
+https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
-http://streamings.hrbtv.net/live/09e35fcca53542bfa24a6b34e0fc2ff8?fmt=h264_400k_flv
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
 http://stream.hrbtv.net/shpd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活",哈尔滨生活
-https://stream.hrbtv.net/shpd/sd/live.m3u8
+http://streamings.hrbtv.net/live/09e35fcca53542bfa24a6b34e0fc2ff8?fmt=h264_400k_flv
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨资讯",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨资讯",哈尔滨资讯

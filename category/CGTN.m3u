@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="CGTN",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p)
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p)
 https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN (1080p)",CGTN (1080p)
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN (720p)",CGTN (720p)
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p)
@@ -19,9 +19,15 @@ http://145.239.5.177/214/index.m3u8
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语",CGTN法语
+http://go.bkpcp.top/mg/cgtnf
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语",CGTN西班牙语
+http://go.bkpcp.top/mg/cgtne
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿拉伯语",CGTN阿拉伯语
+http://go.bkpcp.top/mg/cgtna
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语",CGTN阿语
 https://0472.org/hls/cgtna.m3u8

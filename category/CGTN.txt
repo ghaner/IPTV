@@ -1,13 +1,16 @@
 CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN (720p),https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN Documentary (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 CGTN French (1080p),http://145.239.5.177/214/index.m3u8
 CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+CGTN法语,http://go.bkpcp.top/mg/cgtnf
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN西班牙语,http://go.bkpcp.top/mg/cgtne
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿拉伯语,http://go.bkpcp.top/mg/cgtna
 CGTN阿语,https://0472.org/hls/cgtna.m3u8

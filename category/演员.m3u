@@ -17,8 +17,6 @@ https://live.ottiptv.cc/huya/30631741
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="" tvg-name="周星驰电影",周星驰电影
 https://live.metshop.top/huya/11342412
-#EXTINF:-1 tvg-id="" tvg-name="周星驰的直播间",周星驰的直播间
-https://live.ottiptv.cc/douyu/8257039
 #EXTINF:-1 tvg-id="" tvg-name="周润发-电影",周润发-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
 #EXTINF:-1 tvg-id="" tvg-name="周润发-赌神",周润发-赌神
@@ -37,12 +35,12 @@ https://live.ottiptv.cc/douyu/2287949
 https://live.metshop.top/huya/11342386
 #EXTINF:-1 tvg-id="" tvg-name="成龙系列",成龙系列
 https://live.ottiptv.cc/yy/1354888751
-#EXTINF:-1 tvg-id="" tvg-name="战狼7吴京退役",战狼7吴京退役
-https://live.ottiptv.cc/yy/1382773714
 #EXTINF:-1 tvg-id="" tvg-name="李连杰-功夫皇帝",李连杰-功夫皇帝
 https://live.ottiptv.cc/huya/30631746
 #EXTINF:-1 tvg-id="" tvg-name="李连杰-电影",李连杰-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342390
+#EXTINF:-1 tvg-id="" tvg-name="李连杰功夫 经典武侠",李连杰功夫 经典武侠
+https://live.ottiptv.cc/yy/74613175
 #EXTINF:-1 tvg-id="" tvg-name="李连杰电影",李连杰电影
 https://live.metshop.top/huya/11342390
 #EXTINF:-1 tvg-id="" tvg-name="梁家辉-电影",梁家辉-电影
@@ -57,12 +55,8 @@ https://live.metshop.top/huya/11601968
 http://tv.zimtv.cn/tv/player/api/huya.php?id=30080244
 #EXTINF:-1 tvg-id="" tvg-name="玉女林青霞",玉女林青霞
 https://live.ottiptv.cc/huya/30631751
-#EXTINF:-1 tvg-id="" tvg-name="王俊凯的资源组",王俊凯的资源组
-https://live.ottiptv.cc/douyu/8862216
 #EXTINF:-1 tvg-id="" tvg-name="精武英雄-李连杰主演经典动作片",精武英雄-李连杰主演经典动作片
 https://live.ottiptv.cc/yy/1382736873
-#EXTINF:-1 tvg-id="" tvg-name="胡椒粉的胡歌",胡椒粉的胡歌
-https://live.ottiptv.cc/douyu/5448413
 #EXTINF:-1 tvg-id="" tvg-name="贾玲春晚小品",贾玲春晚小品
 https://live.ottiptv.cc/yy/1382736720
 #EXTINF:-1 tvg-id="" tvg-name="贾玲经典小品",贾玲经典小品
