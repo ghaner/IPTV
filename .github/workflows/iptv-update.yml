@@ -1,36 +1,42 @@
-name: IPTV 直播源自动更新
+name: update-iptv
+
 on:
-  schedule:
-    - cron: '0 16 * * 5'
   workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
 jobs:
-  update-iptv:
+  run-iptv:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
     steps:
-      - name: 检出仓库代码
+      - name: Checkout code
         uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-      - name: 设置 Python 环境
+
+      - name: Setup Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
-      - name: 安装系统依赖 ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-      - name: 安装Python依赖
+          python-version: "3.11"
+
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install aiohttp requests
+          python3 -m pip install --upgrade pip
+          pip install -r script/requirements.txt
+
       - name: 运行IPTV处理脚本
-        run: python script/iptv_process.py
-      - name: 提交并推送变更
-        uses: EndBug/add-and-commit@v11
-        with:
-          message: '自动更新直播源 | 定时任务'
-          add: '.'
-          committer_name: GitHub Actions
-          committer_email: actions@github.com
-          pull: '--rebase --autostash'
+        run: python3 -u script/iptv_process.py
+        shell: /usr/bin/bash -e {0}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # ==========下面所有原有环境变量全部保持原样，完全不变==========
+          pythonLocation: /opt/hostedtoolcache/Python/3.11.16/x64
+          PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.16/x64/lib/pkgconfig
+          Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
+          Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
+          Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
+          LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.16/x64/lib
+
+      - name: Commit & Push files
+        run: |
+          git config --global user.name "github‑actions[bot]"
+          git config --global user.email "github‑actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto update iptv source" && git push)
