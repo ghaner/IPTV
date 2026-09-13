@@ -20,13 +20,13 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          pip install -r script/requirements.txt
+          pip install aiohttp requests
+     
 
       - name: 运行IPTV处理脚本
         run: python3 -u script/iptv_process.py
         shell: /usr/bin/bash -e {0}
         env:
-          # ==========下面所有原有环境变量全部保持原样，完全不变==========
           pythonLocation: /opt/hostedtoolcache/Python/3.11.16/x64
           PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.16/x64/lib/pkgconfig
           Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
