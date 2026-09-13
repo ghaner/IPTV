@@ -36,9 +36,9 @@ http://vd3.bdstatic.com/mda-jfai9k0sxf0nisvq/mda-jfai9k0sxf0nisvq.mp4?playlist=%
 #EXTINF:-1 tvg-id="" tvg-name="卓依婷-山不转水转",卓依婷-山不转水转
 http://vd3.bdstatic.com/mda-jb7pfvgc6wuivhqi/mda-jb7pfvgc6wuivhqi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 #EXTINF:-1 tvg-id="" tvg-name="卓依婷-捉泥鳅",卓依婷-捉泥鳅
-http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310
-#EXTINF:-1 tvg-id="" tvg-name="卓依婷-捉泥鳅",卓依婷-捉泥鳅
 http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 tvg-id="" tvg-name="卓依婷-捉泥鳅",卓依婷-捉泥鳅
+http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310
 #EXTINF:-1 tvg-id="" tvg-name="卓依婷-无言的结局",卓依婷-无言的结局
 http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 #EXTINF:-1 tvg-id="" tvg-name="卓依婷-杜十娘",卓依婷-杜十娘
@@ -234,6 +234,6 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2j1oprc77u04674
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-伤感的恋人",黄凯芹-伤感的恋人
 http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
-#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
 http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黄凯芹-雨中的恋人们",黄凯芹-雨中的恋人们
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
