@@ -8,6 +8,7 @@ import time
 from datetime import datetime, timedelta
 from collections import defaultdict
 from typing import Optional, Tuple
+from urllib.parse import urlparse, urlunparse, parse_qs, urlencode, quote
 
 # ==============================================
 # 【可调参数区】全部参数集中于此，后续修改只改这里
@@ -18,7 +19,6 @@ TEMP_BLACKLIST_EXPIRE_DAY = 30  # 临时黑名单过期天数
 MAX_TEMP_BLACKLIST_ENTRY = 4    # 累计进入临时黑名单多少次升级为永久黑名单
 TEMP_BLACKLIST_PATH = "sources/临时黑名单.txt"
 PERM_BLACKLIST_PATH = "sources/永久黑名单.txt"
-
 # 测速配置
 VLC_UA = "VLC/3.0.20 LibVLC/3.0.20"
 CONCURRENCY_HTTP = 15       # http请求并发
@@ -29,18 +29,15 @@ MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # 仅测速阶段最大运行时�
 HTTP_READ_BYTES = 2048       # http读取流字节数，优化检测准确性
 SKIP_AUDIO_ONLY_STREAM = False # 是否跳过仅音频流；True=仅音频视为无效，False允许纯音频源有效
 # ==============================================
-
 # 文件夹路径
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_DIR = os.path.join(BASE_DIR, "config")
 SOURCES_DIR = os.path.join(BASE_DIR, "sources")
 CATEGORY_DIR = os.path.join(BASE_DIR, "category")
 LOG_DIR = os.path.join(BASE_DIR, "log")
-
 # 创建必要文件夹
 for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
     os.makedirs(d, exist_ok=True)
-
 # 全局变量：控制测速强制终止
 stop_speed_test = False
 start_time = time.time()
@@ -51,7 +48,6 @@ start_time = time.time()
 def get_run_trigger_type():
     """获取触发类型: schedule=定时, workflow_dispatch=手动触发"""
     return os.environ.get("GITHUB_EVENT_NAME", "")
-
 
 def load_perm_blacklist() -> set:
     """加载永久黑名单，返回url集合"""
@@ -64,12 +60,10 @@ def load_perm_blacklist() -> set:
                     data.add(url)
     return data
 
-
 def save_perm_blacklist(black_set: set):
     with open(PERM_BLACKLIST_PATH, "w", encoding="utf-8") as f:
         for url in sorted(black_set):
             f.write(url + "\n")
-
 
 def load_temp_blacklist() -> dict:
     """
@@ -97,7 +91,6 @@ def load_temp_blacklist() -> dict:
                 continue
     return result
 
-
 def save_temp_blacklist(bl_dict: dict):
     lines = []
     for url, info in bl_dict.items():
@@ -107,7 +100,6 @@ def save_temp_blacklist(bl_dict: dict):
     with open(TEMP_BLACKLIST_PATH, "w", encoding="utf-8") as f:
         for line in lines:
             f.write(line + "\n")
-
 
 def clean_expired_temp_blacklist(temp_bl: dict) -> tuple[dict, set]:
     """清理过期临时黑名单；返回(保留未过期字典，被释放的url集合)"""
@@ -125,6 +117,107 @@ def clean_expired_temp_blacklist(temp_bl: dict) -> tuple[dict, set]:
 # ------------------------------
 # 工具函数
 # ------------------------------
+ZERO_WIDTH_PAT = re.compile(r'[\u200b\u200c\u200d\u2060\ufeff]')
+LR_SUFFIX_PAT = re.compile(r'(\.m3u8.*?)\$LR•.*$', re.IGNORECASE)
+PAREN_CONTENT_PAT = re.compile(r'[(\[].*?[)\]]')
+RESOLUTION_TAG_PAT = re.compile(r'(1080p|720p|4K|HD|超清|高清)', re.IGNORECASE)
+
+# IPTV垃圾线路query参数：需要移除的key（小写匹配）
+TRASH_QUERY_KEYS = {
+    "line", "lr", "route", "r", "sp", "channelno",
+    "uid", "userid", "type", "t", "live_type", "srcidx"
+}
+
+def sanitize_iptv_url(raw_url: str) -> str:
+    """
+    IPTV直播源URL标准化清洗，顺序严格不可调换
+    1. 删除.m3u8尾部 $LR•开头线路标记
+    2. 清除零宽字符、换行、回车、制表符
+    3. 删除括号及括号内全部内容，分辨率标记碎片
+    4. 首尾空白，清除内部多余空白
+    5. 协议头修复：
+       - http:// https:// rtsp:// rtmp://完整协议直接放行
+       - rtsp:/rtmp: 缺少//则补双斜杠
+       - 完全无协议标记兜底补 https://
+    6. Query参数处理：剔除垃圾线路参数，保留其余业务参数
+    7. 局部编码：仅 path、query 做特殊字符编码；协议、域名、斜杠不编码
+    """
+    u = raw_url
+
+    # ① 删除 .m3u8 后面以 $LR• 开头尾部字符串
+    u = LR_SUFFIX_PAT.sub(r"\1", u)
+
+    # ② 清除零宽字符、换行、回车、制表符
+    u = ZERO_WIDTH_PAT.sub("", u)
+    u = re.sub(r'[\r\n\t]', '', u)
+
+    # ③ 删除括号内容、分辨率标记碎片
+    u = PAREN_CONTENT_PAT.sub("", u)
+    u = RESOLUTION_TAG_PAT.sub("", u)
+
+    # ④ 首尾及内部多余空白全部清除
+    u = re.sub(r'\s+', '', u.strip())
+    if not u:
+        return ""
+
+    # ⑤协议头修复
+    full_protos = ("http://", "https://", "rtsp://", "rtmp://")
+    if u.startswith(full_protos):
+        pass
+    elif u.startswith("rtsp:"):
+        u = "rtsp://" + u[5:]
+    elif u.startswith("rtmp:"):
+        u = "rtmp://" + u[5:]
+    else:
+        # 完全没有协议标记，兜底补 https://
+        u = "https://" + u
+
+    try:
+        p = urlparse(u)
+
+        # ⑥ query参数过滤：移除垃圾线路参数，保留其他参数
+        qs_dict = parse_qs(p.query, keep_blank_values=True)
+        new_qs = {}
+        for k, v_list in qs_dict.items():
+            if k.lower() not in TRASH_QUERY_KEYS:
+                new_qs[k] = v_list
+        new_query = urlencode(new_qs, doseq=True)
+
+        # ⑦ 仅 path 和 query 编码；保护域名、scheme、/ 不被编码
+        safe_chars = "/:-,._~"
+        new_path = quote(p.path, safe=safe_chars)
+
+        sanitized = urlunparse((
+            p.scheme,
+            p.netloc,
+            new_path,
+            p.params,
+            new_query,
+            p.fragment
+        ))
+        return sanitized
+    except Exception:
+        # 解析异常直接返回处理后的原始字符串
+        return u
+
+def clean_m3u_display_name(raw_name: str) -> str:
+    """
+    m3u输出用：清理显示名称，移除线路标记、分辨率、括号内容；
+    区别于clean_channel_name：clean_channel_name是EPG匹配专用；本函数用于输出m3u界面展示
+    """
+    n = raw_name.strip()
+    # 删除 $ 开头线路标记
+    n = re.sub(r"\$.*", "", n)
+    # 删除括号和内部
+    n = re.sub(r"\(.*?\)", "", n)
+    n = re.sub(r"\[.*?\]", "", n)
+    # 删除分辨率高清标记
+    n = re.sub(r"(高清|超清|1080p|720p|4K|HD)", "", n, flags=re.IGNORECASE)
+    # 零宽字符、多余空格
+    n = ZERO_WIDTH_PAT.sub("", n)
+    n = re.sub(r"\s+", " ", n).strip()
+    return n
+
 def clean_channel_name(raw_name: str) -> str:
     """
     【EPG匹配专用清洗】只用于查询tvg_id_map，输出m3u保持原始频道名不变
@@ -141,7 +234,6 @@ def clean_channel_name(raw_name: str) -> str:
     name = re.sub(r"\(.*?\)", "", name)
     # 移除方括号内容 [xxx]
     name = re.sub(r"\[.*?\]", "", name)
-
     # ========= 增强修复部分 =========
     # 将各种长破折号、特殊横杠统一替换为标准减号
     name = re.sub(r"[‑–—―−]", "-", name)
@@ -152,7 +244,6 @@ def clean_channel_name(raw_name: str) -> str:
     # 删除全部空白字符（普通空格、制表、零宽空格）
     name = re.sub(r"\s+", "", name)
     # ==============================
-
     name = name.strip()
     return name
 
@@ -188,13 +279,12 @@ def clean_text(s):
     return s.strip() if s else ""
 
 def url_standardize(url):
-    """URL标准化"""
+    """URL标准化（旧接口保留，实际业务使用sanitize_iptv_url）"""
     return clean_text(url)
 
 def get_domain(url: str) -> str:
     """提取域名用于域名限流"""
     try:
-        from urllib.parse import urlparse
         p = urlparse(url)
         return p.netloc or "unknown"
     except Exception:
@@ -303,13 +393,11 @@ def process_merged():
     if not os.path.exists(merged_path):
         print("[WARN] 汇总.txt不存在，跳过初处理")
         return
-
     # 加载双黑名单
     perm_black = load_perm_blacklist()
     temp_black = load_temp_blacklist()
     temp_black, released_urls = clean_expired_temp_blacklist(temp_black)
     save_temp_blacklist(temp_black)
-
     count_perm_invalid = 0   # 被永久黑名单过滤掉的数量
     count_temp_invalid = 0   # 被临时黑名单过滤掉的数量
     count_dup_url = 0         # url重复过滤
@@ -325,8 +413,15 @@ def process_merged():
             count_bad_line += 1
             continue
         name, url_part = line.split(",", 1)
-        url = url_part.split("#")[0].strip()
+        raw_url = url_part.split("#")[0].strip()
         comment = "#" + url_part.split("#")[1] if "#" in url_part else ""
+
+        # ✅执行URL标准化清洗
+        url = sanitize_iptv_url(raw_url)
+        if not url:
+            count_bad_line += 1
+            continue
+
         if not name or not url:
             count_bad_line += 1
             continue
@@ -525,12 +620,10 @@ def update_blacklist_logic(results, released_urls):
     trigger_type = get_run_trigger_type()
     perm_black = load_perm_blacklist()
     temp_black = load_temp_blacklist()
-
     # 初始化连续失败计数器
     url_consec_fail = {}
     for ru in released_urls:
         url_consec_fail[ru] = 0
-
     for item in results:
         url = item["url"]
         if url not in url_consec_fail:
@@ -541,7 +634,6 @@ def update_blacklist_logic(results, released_urls):
             # 只有定时任务才累加连续失败
             if trigger_type == "schedule":
                 url_consec_fail[url] += 1
-
     # 仅定时任务执行黑名单新增、升级
     if trigger_type == "schedule":
         new_add_temp = set()
@@ -571,7 +663,6 @@ def update_blacklist_logic(results, released_urls):
         print(f"[BLACKLIST-INFO] 本轮新增临时黑名单:{len(new_add_temp)}；升级永久黑名单:{len(move_perm)}")
     else:
         print("[BLACKLIST-INFO] 当前为手动触发，不新增黑名单记录")
-
 
 def generate_source_report(source_map, results):
     total = defaultdict(int)
@@ -624,7 +715,7 @@ def process_valid_sources():
     lines = sorted(list(set(lines)), key=lambda x: x.split(",")[0])
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    # 总合集m3u：不再添加#EPGURL标签
+    # 总合集m3u
     m3u_out_path = os.path.join(SOURCES_DIR, "有效直播源.m3u")
     epg_map = load_json(os.path.join(CONFIG_DIR, "tvg_id_map.json"))
     print(f"[DEBUG] process_valid_sources tvg_id_map加载key总数:{len(epg_map)}")
@@ -633,10 +724,11 @@ def process_valid_sources():
         for line in lines:
             n, u = line.split(",", 1)
             lookup_name = clean_channel_name(n)
-            # =========调试打印，确认匹配情况，调试完成可以删除这行=========
+            display_name = clean_m3u_display_name(n)
+            # =========EPG调试打印，调试完成后可注释/删除=========
             print(f"[EPG-DEBUG] 原始={repr(n)} | lookup={repr(lookup_name)} | in_map={lookup_name in epg_map}")
             tvg_id = epg_map.get(lookup_name, "")
-            fm.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
+            fm.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}",{display_name}\n{u}\n')
     print(f"[STEP6-INFO] 有效直播源.m3u已生成，路径:{m3u_out_path}")
     print(f"[STEP6-END] 有效源处理完成：输入{raw_count}，去重排序后输出{len(lines)}条")
     return lines
@@ -685,13 +777,14 @@ def generate_categories(sources):
             for line in items:
                 n, u = line.split(",", 1)
                 lookup_name = clean_channel_name(n)
+                display_name = clean_m3u_display_name(n)
                 tvg_id = epg_map.get(lookup_name, "")
                 # 只有白名单分类才输出tvg‑logo
                 if cat_name in EPG_ALLOW_CATS and tvg_id and tvg_logo_base:
                     logo_url = f"{tvg_logo_base}/{tvg_id}.png"
-                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}" tvg-logo="{logo_url}",{n}\n{u}\n')
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}" tvg-logo="{logo_url}",{display_name}\n{u}\n')
                 else:
-                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{n}",{n}\n{u}\n')
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}",{display_name}\n{u}\n')
         generated += 1
     print(f"[STEP6-END] 分类完成；命中规则:{match_count}条；归入未分类:{other_count}条；生成分类文件数量：{generated}")
 
