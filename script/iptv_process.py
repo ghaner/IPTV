@@ -5,21 +5,20 @@ import json
 import re
 import os
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
 from typing import Optional, Tuple
-# ===================== 基础配置 =====================
-# 文件夹路径
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CONFIG_DIR = os.path.join(BASE_DIR, "config")
-SOURCES_DIR = os.path.join(BASE_DIR, "sources")
-CATEGORY_DIR = os.path.join(BASE_DIR, "category")
-LOG_DIR = os.path.join(BASE_DIR, "log")
-# 持久化失败计数器文件
-FAIL_COUNTER_FILE = os.path.join(LOG_DIR, "source_fail_counter.json")
-# 创建必要文件夹
-for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
-    os.makedirs(d, exist_ok=True)
+
+# ==============================================
+# 【可调参数区】全部参数集中于此，后续修改只改这里
+# ==============================================
+# 双黑名单配置
+MAX_CONSECUTIVE_FAIL = 3        # 定时任务连续失败多少轮进入临时黑名单
+TEMP_BLACKLIST_EXPIRE_DAY = 30  # 临时黑名单过期天数
+MAX_TEMP_BLACKLIST_ENTRY = 4    # 累计进入临时黑名单多少次升级为永久黑名单
+TEMP_BLACKLIST_PATH = "sources/临时黑名单.txt"
+PERM_BLACKLIST_PATH = "sources/永久黑名单.txt"
+
 # 测速配置
 VLC_UA = "VLC/3.0.20 LibVLC/3.0.20"
 CONCURRENCY_HTTP = 15       # http请求并发
@@ -27,13 +26,105 @@ CONCURRENCY_FFPROBE = 8     # ffprobe子进程并发(CPU密集，低于http)
 TIMEOUT = 4                 # 单个http请求超时
 SUCCESS_CODES = {200, 201, 202, 206}
 MAX_SPEED_TEST_RUN_TIME = 5 * 3600 + 30 * 60  # 仅测速阶段最大运行时长5.5小时
-PERMANENT_FAIL_THRESHOLD = 3  # 连续失败N轮标记永久失效
 HTTP_READ_BYTES = 2048       # http读取流字节数，优化检测准确性
 SKIP_AUDIO_ONLY_STREAM = False # 是否跳过仅音频流；True=仅音频视为无效，False允许纯音频源有效
+# ==============================================
+
+# 文件夹路径
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CONFIG_DIR = os.path.join(BASE_DIR, "config")
+SOURCES_DIR = os.path.join(BASE_DIR, "sources")
+CATEGORY_DIR = os.path.join(BASE_DIR, "category")
+LOG_DIR = os.path.join(BASE_DIR, "log")
+
+# 创建必要文件夹
+for d in [SOURCES_DIR, CATEGORY_DIR, LOG_DIR]:
+    os.makedirs(d, exist_ok=True)
+
 # 全局变量：控制测速强制终止
 stop_speed_test = False
 start_time = time.time()
-# ===================== 工具函数 =====================
+
+# ------------------------------
+# 黑名单工具函数
+# ------------------------------
+def get_run_trigger_type():
+    """获取触发类型: schedule=定时, workflow_dispatch=手动触发"""
+    return os.environ.get("GITHUB_EVENT_NAME", "")
+
+
+def load_perm_blacklist() -> set:
+    """加载永久黑名单，返回url集合"""
+    data = set()
+    if os.path.exists(PERM_BLACKLIST_PATH):
+        with open(PERM_BLACKLIST_PATH, "r", encoding="utf-8") as f:
+            for line in f:
+                url = line.strip()
+                if url:
+                    data.add(url)
+    return data
+
+
+def save_perm_blacklist(black_set: set):
+    with open(PERM_BLACKLIST_PATH, "w", encoding="utf-8") as f:
+        for url in sorted(black_set):
+            f.write(url + "\n")
+
+
+def load_temp_blacklist() -> dict:
+    """
+    加载临时黑名单
+    返回 {url: {"enter_time": datetime, "count": int}}
+    文件格式：url|iso时间字符串|累计进入次数
+    """
+    result = {}
+    if not os.path.exists(TEMP_BLACKLIST_PATH):
+        return result
+    with open(TEMP_BLACKLIST_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split("|")
+            if len(parts) != 3:
+                continue
+            url, time_str, cnt_str = parts
+            try:
+                enter_dt = datetime.fromisoformat(time_str)
+                cnt = int(cnt_str)
+                result[url] = {"enter_time": enter_dt, "count": cnt}
+            except Exception:
+                continue
+    return result
+
+
+def save_temp_blacklist(bl_dict: dict):
+    lines = []
+    for url, info in bl_dict.items():
+        iso_time = info["enter_time"].isoformat()
+        count = info["count"]
+        lines.append(f"{url}|{iso_time}|{count}")
+    with open(TEMP_BLACKLIST_PATH, "w", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line + "\n")
+
+
+def clean_expired_temp_blacklist(temp_bl: dict) -> tuple[dict, set]:
+    """清理过期临时黑名单；返回(保留未过期字典，被释放的url集合)"""
+    now = datetime.now()
+    keep_items = {}
+    released_urls = set()
+    for url, info in temp_bl.items():
+        expire_dt = info["enter_time"] + timedelta(days=TEMP_BLACKLIST_EXPIRE_DAY)
+        if now >= expire_dt:
+            released_urls.add(url)
+        else:
+            keep_items[url] = info
+    return keep_items, released_urls
+
+# ------------------------------
+# 工具函数
+# ------------------------------
 def clean_channel_name(raw_name: str) -> str:
     """
     【EPG匹配专用清洗】只用于查询tvg_id_map，输出m3u保持原始频道名不变
@@ -145,43 +236,6 @@ def parse_txt(content, source_url):
             sources.append(f"未知频道,{line} #{source_url}")
     return sources
 
-# ---------------- 失败计数器持久化工具 ----------------
-def load_fail_counter():
-    """加载URL失败轮次计数器 {url: fail_count}"""
-    if not os.path.exists(FAIL_COUNTER_FILE):
-        return dict()
-    try:
-        with open(FAIL_COUNTER_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return dict()
-
-def save_fail_counter(counter):
-    """保存计数器到json"""
-    with open(FAIL_COUNTER_FILE, "w", encoding="utf-8") as f:
-        json.dump(counter, f, ensure_ascii=False, indent=2)
-
-def update_fail_counter(results):
-    """根据本轮测速结果更新失败计数器
-    有效源：重置计数为0；失败源：计数+1
-    返回达到阈值的永久失效url集合
-    """
-    counter = load_fail_counter()
-    permanent_invalid_urls = set()
-    for item in results:
-        url = item["url"]
-        is_valid = item["valid"]
-        if is_valid:
-            counter[url] = 0
-        else:
-            old = counter.get(url, 0)
-            counter[url] = old + 1
-            if counter[url] >= PERMANENT_FAIL_THRESHOLD:
-                permanent_invalid_urls.add(url)
-    save_fail_counter(counter)
-    print(f"[COUNTER-DEBUG] 更新失败计数器，达到阈值{PERMANENT_FAIL_THRESHOLD}轮失败URL数量：{len(permanent_invalid_urls)}")
-    return permanent_invalid_urls
-
 # ===================== 1.下载直播源 =====================
 async def download_sources():
     """从配置文件下载所有直播源"""
@@ -243,22 +297,21 @@ def merge_sources():
         f.write("\n".join(merged))
     print(f"[STEP2-END] 汇总完成；下载源:{cnt_download}条；旧有效源:{cnt_valid_old}条；汇总.txt合计：{len(merged)}条")
 
-# ===================== 3.汇总直播源初步处理 =====================
+# ===================== 3.汇总直播源初步处理（加载双黑名单过滤） =====================
 def process_merged():
     merged_path = os.path.join(SOURCES_DIR, "汇总.txt")
-    invalid_path = os.path.join(SOURCES_DIR, "永久失效.txt")
     if not os.path.exists(merged_path):
         print("[WARN] 汇总.txt不存在，跳过初处理")
         return
-    invalid_urls = set()
-    if os.path.exists(invalid_path):
-        with open(invalid_path, "r", encoding="utf-8") as f:
-            for line in f:
-                if "," in line:
-                    u = line.split(",", 1)[1].split("#")[0].strip()
-                    invalid_urls.add(u)
-    print(f"[STEP3-DEBUG] 永久失效.txt加载失效URL总数：{len(invalid_urls)}")
-    count_perm_invalid = 0   # 被永久失效列表过滤掉的数量
+
+    # 加载双黑名单
+    perm_black = load_perm_blacklist()
+    temp_black = load_temp_blacklist()
+    temp_black, released_urls = clean_expired_temp_blacklist(temp_black)
+    save_temp_blacklist(temp_black)
+
+    count_perm_invalid = 0   # 被永久黑名单过滤掉的数量
+    count_temp_invalid = 0   # 被临时黑名单过滤掉的数量
     count_dup_url = 0         # url重复过滤
     count_bad_line = 0        # 坏行（空名字、空url等）
     raw_lines = []
@@ -277,8 +330,11 @@ def process_merged():
         if not name or not url:
             count_bad_line += 1
             continue
-        if url in invalid_urls:
+        if url in perm_black:
             count_perm_invalid += 1
+            continue
+        if url in temp_black:
+            count_temp_invalid += 1
             continue
         if url in url_set:
             count_dup_url += 1
@@ -291,9 +347,9 @@ def process_merged():
     output = os.path.join(SOURCES_DIR, "初处理.txt")
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"[STEP3-FILTER] 永久失效过滤：{count_perm_invalid} 条；URL去重过滤：{count_dup_url} 条；坏行丢弃：{count_bad_line} 条")
+    print(f"[STEP3-FILTER] 永久黑名单过滤：{count_perm_invalid} 条；临时黑名单过滤：{count_temp_invalid} 条；URL去重过滤：{count_dup_url} 条；坏行丢弃：{count_bad_line} 条")
     input_total = len(raw_lines)
-    sum_filtered = count_perm_invalid + count_dup_url + count_bad_line
+    sum_filtered = count_perm_invalid + count_temp_invalid + count_dup_url + count_bad_line
     output_total = len(lines)
     calc_total = sum_filtered + output_total
     if input_total == calc_total:
@@ -301,6 +357,7 @@ def process_merged():
     else:
         print(f"[STEP3-CHECK] ⚠️计数校验不匹配！输入:{input_total} 计算合计:{calc_total}，请检查计数逻辑")
     print(f"[STEP3-END] 初处理完成，初处理.txt剩余 {len(lines)} 条")
+    return released_urls
 
 # ===================== 4.直播源测速 =====================
 async def ffprobe_check(url: str, ffprobe_sem: asyncio.Semaphore) -> Tuple[bool, str, str, str, str]:
@@ -459,36 +516,62 @@ async def run_speed_test():
     print(f"[STEP4-END] 测速结束；有效:{valid_final}条；本轮失败:{fail_final}条；总结果集:{len(results)}")
     return results
 
-# ===================== 5.测速结果处理｜【方案A：累积持久黑名单】 =====================
-def update_permanent_invalid(permanent_invalid_urls, all_result_lines):
-    out_path = os.path.join(SOURCES_DIR, "永久失效.txt")
-    old_lines = []
-    old_url_set = set()
-    if os.path.exists(out_path):
-        with open(out_path, "r", encoding="utf-8") as f:
-            for l in f:
-                ll = l.strip()
-                if not ll or "," not in ll:
-                    continue
-                old_lines.append(ll)
-                u = ll.split(",", 1)[1].split("#")[0].strip()
-                old_url_set.add(u)
-    new_collect = []
-    for line in all_result_lines:
-        if "," not in line:
-            continue
-        url = line.split(",", 1)[1].split("#")[0].strip()
-        if url in permanent_invalid_urls and url not in old_url_set:
-            new_collect.append(line.strip())
-    total_lines = old_lines + new_collect
-    final_map = {}
-    for l in total_lines:
-        u = l.split(",", 1)[1].split("#")[0].strip()
-        final_map[u] = l
-    final_lines = list(final_map.values())
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(final_lines))
-    print(f"[STEP5-END] 永久失效.txt更新完成；历史载入{len(old_lines)}条；本轮新增{len(new_collect)}条；合并后总黑名单:{len(final_lines)}条")
+# ===================== 5.测速结果处理｜双黑名单更新逻辑 =====================
+def update_blacklist_logic(results, released_urls):
+    """
+    测速结束后黑名单更新逻辑
+    released_urls：本轮从临时黑名单过期释放出来的url集合
+    """
+    trigger_type = get_run_trigger_type()
+    perm_black = load_perm_blacklist()
+    temp_black = load_temp_blacklist()
+
+    # 初始化连续失败计数器
+    url_consec_fail = {}
+    for ru in released_urls:
+        url_consec_fail[ru] = 0
+
+    for item in results:
+        url = item["url"]
+        if url not in url_consec_fail:
+            url_consec_fail[url] = 0
+        if item["valid"]:
+            url_consec_fail[url] = 0
+        else:
+            # 只有定时任务才累加连续失败
+            if trigger_type == "schedule":
+                url_consec_fail[url] += 1
+
+    # 仅定时任务执行黑名单新增、升级
+    if trigger_type == "schedule":
+        new_add_temp = set()
+        for url, fail_cnt in url_consec_fail.items():
+            if fail_cnt >= MAX_CONSECUTIVE_FAIL:
+                if url not in temp_black:
+                    new_add_temp.add(url)
+        # 新增进入临时黑名单
+        for url in new_add_temp:
+            old_cnt = temp_black[url]["count"] if url in temp_black else 0
+            new_cnt = old_cnt + 1
+            temp_black[url] = {
+                "enter_time": datetime.now(),
+                "count": new_cnt
+            }
+        # 判断升级进入永久黑名单
+        move_perm = set()
+        for url in list(temp_black.keys()):
+            info = temp_black[url]
+            if info["count"] >= MAX_TEMP_BLACKLIST_ENTRY:
+                move_perm.add(url)
+                del temp_black[url]
+        if move_perm:
+            perm_black.update(move_perm)
+            save_perm_blacklist(perm_black)
+        save_temp_blacklist(temp_black)
+        print(f"[BLACKLIST-INFO] 本轮新增临时黑名单:{len(new_add_temp)}；升级永久黑名单:{len(move_perm)}")
+    else:
+        print("[BLACKLIST-INFO] 当前为手动触发，不新增黑名单记录")
+
 
 def generate_source_report(source_map, results):
     total = defaultdict(int)
@@ -624,18 +707,10 @@ async def main():
         print("[FATAL]下载阶段无数据，任务直接退出")
         return
     merge_sources()
-    process_merged()
+    released_urls = process_merged()
     results = await run_speed_test()
     if len(results) > 0:
-        perm_invalid_url_set = update_fail_counter(results)
-        all_result_lines = []
-        fail_file = os.path.join(SOURCES_DIR, "测速失败.txt")
-        valid_file = os.path.join(SOURCES_DIR, "有效直播源.txt")
-        for fp in [fail_file, valid_file]:
-            if os.path.exists(fp):
-                with open(fp, "r", encoding="utf-8") as f:
-                    all_result_lines.extend([clean_text(l) for l in f if clean_text(l)])
-        update_permanent_invalid(perm_invalid_url_set, all_result_lines)
+        update_blacklist_logic(results, released_urls)
         generate_source_report(source_map, results)
         valid_sources = process_valid_sources()
         if valid_sources:
