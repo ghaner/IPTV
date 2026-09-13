@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="白山公共",白山公共
-http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
-#EXTINF:-1 tvg-id="" tvg-name="白山新闻综合 [Geo-blocked]",白山新闻综合 [Geo-blocked]
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild=
+#EXTINF:-1 tvg-id="" tvg-name="白山新闻综合",白山新闻综合
 https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="白山综合",白山综合
 http://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="长白山电视台",长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild=

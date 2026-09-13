@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="徐州公共频道",徐州公共频道
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合",徐州新闻综合
-http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合",徐州新闻综合
 http://122.227.204.50:1905/639731747
+#EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合",徐州新闻综合
+http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州经济生活",徐州经济生活
 http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏徐州云龙湖风景区云龙山观景台西",江苏徐州云龙湖风景区云龙山观景台西

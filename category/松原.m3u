@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="松原公共",松原公共
 http://stream8.jlntv.cn/sytv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="松原新闻综合 [Geo-blocked]",松原新闻综合 [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-name="松原新闻综合",松原新闻综合
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松原综合",松原综合
 http://stream2.jlntv.cn/sytv/playlist.m3u8

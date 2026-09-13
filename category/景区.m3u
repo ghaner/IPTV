@@ -25,8 +25,6 @@ https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="云南白沙远眺玉龙雪山",云南白沙远眺玉龙雪山
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！",伤感DJ热歌《离境》现在是谁比我荣幸，成为你眼里新的风景！
-https://vd3.bdstatic.com/mda-mk6cxr3vscmh7awf/1080p/cae_h264/1636464338134174910/mda-mk6cxr3vscmh7awf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1702486769-0-0-0e1ffa9646c956a8bfc8e4dae84efaf6&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=3569167408&vid=15130139822554162047&klogid=3569167408&abtest=114675_1
 #EXTINF:-1 tvg-id="" tvg-name="八里沟风景区天界山玻璃栈道",八里沟风景区天界山玻璃栈道
 https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八里沟风景区桃花湾瀑布",八里沟风景区桃花湾瀑布
@@ -98,7 +96,7 @@ https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山",黄山
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山公共生活",黄山公共生活
-http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zan=
 #EXTINF:-1 tvg-id="" tvg-name="黄山始信新道",黄山始信新道
 https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山排云亭",黄山排云亭
@@ -106,9 +104,9 @@ https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山文旅",黄山文旅
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山新闻综合",黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zan=
 #EXTINF:-1 tvg-id="" tvg-name="黄山新闻综合",黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山飞来石",黄山飞来石
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄龙",黄龙
