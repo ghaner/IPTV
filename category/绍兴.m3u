@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="浙江 Ⅰ 绍兴综合 (576p)",浙江 Ⅰ 绍兴综合 (576p)
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="绍兴公共",绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="绍兴公共",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="绍兴公共",绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="绍兴文化",绍兴文化
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?
 #EXTINF:-1 tvg-id="" tvg-name="绍兴文化影视",绍兴文化影视
