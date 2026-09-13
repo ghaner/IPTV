@@ -60,28 +60,31 @@ def clean_channel_name(raw_name: str) -> str:
 
 
 def load_json(path):
-    """加载JSON文件【带调试日志】修复：不存在/异常返回空字典{}，不是[]"""
+    """加载JSON文件【修复BUG：区分list/dict】
+    DOWNLOAD_SOURCE_URLS.json 顶层为list，直接返回列表
+    tvg_id_map.json等映射配置顶层为dict，返回字典
+    """
     if not os.path.exists(path):
         print(f"[ERROR] JSON文件不存在: {path}")
-        return dict()
+        return [] if "DOWNLOAD_SOURCE_URLS" in path else dict()
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
             print(f"[DEBUG] 加载 {os.path.basename(path)}，读取列表长度：{len(data)}")
-            return dict()
+            return data
         elif isinstance(data, dict):
             print(f"[DEBUG] 加载 {os.path.basename(path)}，读取字典，keys数量:{len(data.keys())}")
             return data
         else:
-            print(f"[WARN] {os.path.basename(path)} 不是字典/列表，返回空dict")
-            return dict()
+            print(f"[WARN] {os.path.basename(path)} 不是字典/列表")
+            return [] if "DOWNLOAD_SOURCE_URLS" in path else dict()
     except json.JSONDecodeError as e:
         print(f"[ERROR] JSON解析失败 {path} : {str(e)}")
-        return dict()
+        return [] if "DOWNLOAD_SOURCE_URLS" in path else dict()
     except Exception as e:
         print(f"[ERROR] 文件读取异常 {path}: {str(e)}")
-        return dict()
+        return [] if "DOWNLOAD_SOURCE_URLS" in path else dict()
 
 
 def clean_text(s):
