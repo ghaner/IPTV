@@ -1,27 +1,23 @@
 name: update-iptv
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
-
 jobs:
   run-iptv:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
-
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
           python3 -m pip install --upgrade pip
           pip install aiohttp requests
-
       - name: 运行IPTV处理脚本
         run: python3 -u script/iptv_process.py
         shell: /usr/bin/bash -e {0}
@@ -32,7 +28,6 @@ jobs:
           Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
           Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.16/x64
           LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.16/x64/lib
-
       - name: Commit & Push files
         run: |
           git config --global user.name "github‑actions[bot]"
