@@ -1,4 +1,4 @@
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild=
 白山新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 白山综合,http://stream2.jlntv.cn/baishan1/sd/live.m3u8
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild=

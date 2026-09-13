@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="通化县",通化县
-http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-id="" tvg-name="通化县综合",通化县综合
-http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild=
 #EXTINF:-1 tvg-id="" tvg-name="通化县综合",通化县综合
 http://stream5.jlntv.cn/thx/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="通化新闻 [Geo-blocked]",通化新闻 [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-name="通化县综合",通化县综合
+http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="通化新闻",通化新闻
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="通化新闻综合",通化新闻综合
-https://live-master.jlntv.cn/thhd/sd/live.m3u8
+https://live-master.jlntv.cn/th/sd/live.m3u8

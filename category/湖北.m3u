@@ -1,56 +1,52 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://go.bkpcp.top/mg/hubws
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://2280.eu.org:1234/947472496$LR•IPV4•29『线路3』
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
 http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://114.254.38.234:8888/rtp/239.3.1.138:8044
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://38.75.136.137:98/gslb/dsdqca/hbwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8$LR•IPV4•29『线路6』
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://j.x.bkpcp.top/jx/HUBEIHD
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://218.13.170.98:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://192.151.150.154/live/hbwshd.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://t.061899.xyz/tl/tl.php?id=hubws
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://112.234.22.76:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://125.42.148.178:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://182.61.15.163:80/947472496
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub$LR•IPV4•29『线路4』
-#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://j.s.bkpcp.top/jj/hubws
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=cba0ddb3025df53ce4255196c1a026
 #EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
 http://218.206.193.218:8888/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://38.75.136.137:98/gslb/dsdqca/hbwshd.m3u8?auth=test20251009$LR•IPV4•29『线路5』
+http://107.150.60.122/live/hbws.m3u8
 #EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
-http://198.204.228.26/live/hbwshd.m3u8
+http://j.x.bkpcp.top/jx/HUBEI
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://182.61.15.163:80/947472496
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://38.75.136.137:98/gslb/dsdqca/hbws.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://218.13.170.98:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://125.42.148.178:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://198.204.228.26/live/hbws.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://120.76.248.139/live/bfgd/4200000102.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://j.s.bkpcp.top/jj/hubws
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://192.151.150.154/live/hbws.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbws
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://112.234.22.76:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://114.254.38.234:8888/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://t.061899.xyz/tl/tl.php?id=hubws
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://go.bkpcp.top/mg/hubws
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="hubei-ws" tvg-name="湖北卫视",湖北卫视
+http://2280.eu.org:1234/947472496%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 tvg-id="" tvg-name="湖北垄上",湖北垄上
 http://38.75.136.137:98/gslb/dsdqpub/hbls.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="湖北垄上",湖北垄上
@@ -60,16 +56,16 @@ http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="湖北影视",湖北影视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbys
 #EXTINF:-1 tvg-id="" tvg-name="湖北教育",湖北教育
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbjy
-#EXTINF:-1 tvg-id="" tvg-name="湖北教育",湖北教育
 http://38.75.136.137:98/gslb/dsdqpub/hbjy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="湖北生活",湖北生活
-http://38.75.136.137:98/gslb/dsdqpub/hbty.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="湖北教育",湖北教育
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbjy
 #EXTINF:-1 tvg-id="" tvg-name="湖北生活",湖北生活
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbty
+#EXTINF:-1 tvg-id="" tvg-name="湖北生活",湖北生活
+http://38.75.136.137:98/gslb/dsdqpub/hbty.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="湖北经视",湖北经视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbjs
 #EXTINF:-1 tvg-id="" tvg-name="湖北综合",湖北综合
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbzh
-#EXTINF:-1 tvg-id="" tvg-name="湖北综合",湖北综合
 http://38.75.136.137:98/gslb/dsdqpub/hbzh.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="湖北综合",湖北综合
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbzh

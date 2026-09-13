@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="辽源新闻综合",辽源新闻综合
 http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽源新闻综合 [Geo-blocked]",辽源新闻综合 [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-name="辽源新闻综合",辽源新闻综合
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
