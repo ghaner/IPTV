@@ -2,65 +2,69 @@
 #EXTINF:-1 tvg-id="" tvg-name="BRTV 北京卫视",BRTV 北京卫视
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=PdkXdi&tk=FgM0vQMejxvG
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Jm7bhg&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=bkpkjY&tk=FgM0vQMejxvG
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjws
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqca/bjws.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://2280.eu.org:1234/630287636%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=WsHTZA&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=yUi1um&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://38.75.136.137:98/gslb/dsdqca/bjws.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://198.204.228.26/live/bjws.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://107.150.60.122/live/bjws.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Jm7bhg&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=kTrxmd&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://38.75.136.137:98/gslb/dsdqbv/bjws.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://111.8.242.127:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://120.76.248.139/live/bfgd/4200000083.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=v0kvH1&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://j.x.bkpcp.top/jx/BEIJ
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://j.s.bkpcp.top/jj/bjws
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://173.208.212.130:8181//bjws.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://218.206.193.218:8888/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://111.8.242.142:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://192.151.150.154/live/bjws.m3u8
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://183.11.239.36:808/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://2280.eu.org:1234/630287636%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://t.061899.xyz/tl/tl.php?id=bjws
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://112.30.73.119:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=PdkXdi&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=v0kvH1&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://114.254.38.234:8888/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjws
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://111.8.242.142:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://173.208.212.130:8181//bjws.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqbv/bjws.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://2280.eu.org:1234/630287636%2524LR%25E2%2580%25A2IPV4%25E2%2580%25A229%25E3%2580%258E%25E7%25BA%25BF%25E8%25B7%25AF3%25E3%2580%258F
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://j.x.bkpcp.top/jx/BEIJ
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=236844036bf99dc93315e92b0e7c2e
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kTrxmd&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://t.061899.xyz/tl/tl.php?id=bjws
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://198.204.228.26/live/bjws.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://120.76.248.139/live/bfgd/4200000083.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://107.150.60.122/live/bjws.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=bkpkjY&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://183.11.239.36:808/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
+http://111.8.242.127:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
 http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="beijing-ws" tvg-name="北京卫视",北京卫视
-http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="北京大妈有话说er",北京大妈有话说er
 https://live.ottiptv.cc/douyu/9440530
 #EXTINF:-1 tvg-id="" tvg-name="北京影帝",北京影帝
@@ -70,12 +74,14 @@ https://live.ottiptv.cc/douyu/9805480
 #EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻
-https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻
 http://8.138.7.223/tv/bj.php?id=0007
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻",北京新闻
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京生活",北京生活
 http://8.138.7.223/tv/bj.php?id=0006
 #EXTINF:-1 tvg-id="" tvg-name="北京科教",北京科教
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd%3A%2F%2Fcctv_p2p_btv3
+#EXTINF:-1 tvg-id="" tvg-name="北京财经",北京财经
+http://8.138.7.223/tv/bj.php?id=0005
 #EXTINF:-1 tvg-id="" tvg-name="北京青年",北京青年
 http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd%3A%2F%2Fcctv_p2p_btv8&tai=btv8&VideoName=btv8&channelID=btv8

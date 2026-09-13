@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
-https://live.ottiptv.cc/douyu/9643264
 #EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
 https://live.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说
@@ -13,8 +11,6 @@ https://live.ottiptv.cc/douyu/9348282
 https://live.ottiptv.cc/douyu/8778280
 #EXTINF:-1 tvg-id="" tvg-name="享看电影",享看电影
 https://live.ottiptv.cc/douyu/8974130
-#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影",亮哥讲电影
-https://live.ottiptv.cc/huya/16144175
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
 https://live.ottiptv.cc/huya/29982687
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
@@ -133,6 +129,8 @@ https://live.ottiptv.cc/huya/15894162
 https://live.ottiptv.cc/huya/29982680
 #EXTINF:-1 tvg-id="" tvg-name="辰哥说电影",辰哥说电影
 https://live.ottiptv.cc/douyu/9371407
+#EXTINF:-1 tvg-id="" tvg-name="逗米说电影",逗米说电影
+https://live.ottiptv.cc/douyu/421222
 #EXTINF:-1 tvg-id="" tvg-name="钱小元说电影",钱小元说电影
 https://live.ottiptv.cc/douyu/9368265
 #EXTINF:-1 tvg-id="" tvg-name="鱼丸说电影",鱼丸说电影
