@@ -1,7 +1,7 @@
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
