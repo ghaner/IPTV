@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
-https://live.ottiptv.cc/douyu/9444320
+#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
+https://live.ottiptv.cc/douyu/9643264
 #EXTINF:-1 tvg-id="" tvg-name="JG影视解说",JG影视解说
 https://live.ottiptv.cc/douyu/9391277
 #EXTINF:-1 tvg-id="" tvg-name="丽姐说电影",丽姐说电影
@@ -12,9 +12,9 @@ https://live.ottiptv.cc/douyu/8778280
 #EXTINF:-1 tvg-id="" tvg-name="享看电影",享看电影
 https://live.ottiptv.cc/douyu/8974130
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
-https://live.ottiptv.cc/huya/29982687
-#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
 https://live.ottiptv.cc/huya/21059622
+#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
+https://live.ottiptv.cc/huya/29982687
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V",伯乐说电影V
 https://live.ottiptv.cc/douyu/9386057
 #EXTINF:-1 tvg-id="" tvg-name="俗哥看电影",俗哥看电影
@@ -65,10 +65,10 @@ https://live.ottiptv.cc/douyu/9476790
 https://live.ottiptv.cc/douyu/8851063
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影",扁豆看电影
 https://live.ottiptv.cc/huya/16028551
-#EXTINF:-1 tvg-id="" tvg-name="扁豆看电影2",扁豆看电影2
-https://live.ottiptv.cc/huya/21059623
 #EXTINF:-1 tvg-id="" tvg-name="指缝里看电影",指缝里看电影
 https://live.ottiptv.cc/douyu/9647834
+#EXTINF:-1 tvg-id="" tvg-name="撩电影8",撩电影8
+https://live.ottiptv.cc/douyu/9351043
 #EXTINF:-1 tvg-id="" tvg-name="星君说电影",星君说电影
 https://live.ottiptv.cc/douyu/8014467
 #EXTINF:-1 tvg-id="" tvg-name="晓晓说电影",晓晓说电影
@@ -85,6 +85,8 @@ https://live.ottiptv.cc/douyu/9769563
 https://live.ottiptv.cc/douyu/9375743
 #EXTINF:-1 tvg-id="" tvg-name="汪哥说电影",汪哥说电影
 https://live.ottiptv.cc/douyu/9312685
+#EXTINF:-1 tvg-id="" tvg-name="浩贤说电影",浩贤说电影
+https://live.ottiptv.cc/douyu/10535867
 #EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人",火龙果讲电影本人
 https://live.ottiptv.cc/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影",火龙果说电影
@@ -117,8 +119,6 @@ https://live.ottiptv.cc/douyu/3715426
 https://live.ottiptv.cc/douyu/3714736
 #EXTINF:-1 tvg-id="" tvg-name="虫哥说电影",虫哥说电影
 https://live.ottiptv.cc/douyu/8915074
-#EXTINF:-1 tvg-id="" tvg-name="西施撩电影",西施撩电影
-https://live.ottiptv.cc/douyu/7532080
 #EXTINF:-1 tvg-id="" tvg-name="说说电影故事",说说电影故事
 https://live.ottiptv.cc/douyu/9444627
 #EXTINF:-1 tvg-id="" tvg-name="谁语说电影",谁语说电影
