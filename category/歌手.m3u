@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Beyond-光辉岁月",Beyond-光辉岁月
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccu4ldjc77u4nmf3f54g&ratio=
-#EXTINF:-1 tvg-id="" tvg-name="Beyond-光辉岁月",Beyond-光辉岁月
 https://vd7.bdstatic.com/mda-nfphfcwchqeuc68e/sc/cae_h264/1656073580561051919/mda-nfphfcwchqeuc68e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beyond-光辉岁月",Beyond-光辉岁月
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccu4ldjc77u4nmf3f54g&ratio=
 #EXTINF:-1 tvg-id="" tvg-name="Beyond-大地",Beyond-大地
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cojstabc77uerhn878qg&ratio=
 #EXTINF:-1 tvg-id="" tvg-name="Beyond-岁月无声",Beyond-岁月无声
@@ -66,9 +66,9 @@ http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/vi
 #EXTINF:-1 tvg-id="" tvg-name="叶倩文-曾经心痛",叶倩文-曾经心痛
 http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="叶倩文-潇洒走一回",叶倩文-潇洒走一回
-http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="叶倩文-潇洒走一回",叶倩文-潇洒走一回
 https://vd4.bdstatic.com/mda-ndvid47wrxc1aay2/sc/cae_h264_delogo/1651329221927202288/mda-ndvid47wrxc1aay2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="叶倩文-潇洒走一回",叶倩文-潇洒走一回
+http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="周传雄-关不上的窗",周传雄-关不上的窗
 https://vd3.bdstatic.com/mda-pdgeegn0yj4pjw1f/sc/cae_h264/1681728621540755130/mda-pdgeegn0yj4pjw1f.mp4
 #EXTINF:-1 tvg-id="" tvg-name="周传雄-青花",周传雄-青花
@@ -101,6 +101,8 @@ http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/vi
 https://vd4.bdstatic.com/mda-paq1rstx5psmnh4d/sc/cae_h264/1674629486930515540/mda-paq1rstx5psmnh4d.mp4
 #EXTINF:-1 tvg-id="" tvg-name="张国荣-沉默是金",张国荣-沉默是金
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cgjuqvbc77uc1cnf47ag&ratio=
+#EXTINF:-1 tvg-id="" tvg-name="张国荣与周润发的兄弟情",张国荣与周润发的兄弟情
+https://live.ottiptv.cc/yy/1354930961
 #EXTINF:-1 tvg-id="" tvg-name="张学友-一千个伤心的理由",张学友-一千个伤心的理由
 https://vd3.bdstatic.com/mda-peb8u5pt2xuwuv98/sc/cae_h264/1683948176825371102/mda-peb8u5pt2xuwuv98.mp4
 #EXTINF:-1 tvg-id="" tvg-name="张学友-一颗不变心",张学友-一颗不变心

@@ -2,77 +2,61 @@
 #EXTINF:-1 tvg-id="" tvg-name="浙江 Ⅰ 绍兴综合",浙江 Ⅰ 绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://j.s.bkpcp.top/jj/zjws
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://111.8.242.142:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Wp4Edj&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=L61sZ4&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://218.206.193.218:8888/hls/52/index.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://112.30.73.119:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://t.061899.xyz/tl/tl.php?id=zjws
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://107.150.60.122/live/zjws.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjws
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://198.204.228.26/live/zjws.m3u8
+http://183.11.239.36:808/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://218.13.170.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://173.208.212.130:8181//zjws.m3u8
+http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://120.76.248.139/live/bfgd/4200000094.m3u8
+http://111.8.242.142:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://112.30.73.119:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://38.75.136.137:98/gslb/dsdqca/zjws.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://183.94.146.79:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqpub/zjws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://192.151.150.154/live/zjws.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://t.061899.xyz/tl/tl.php?id=zjws
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://198.204.228.26/live/zjws.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://221.226.51.220:50081/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://114.254.38.234:8888/rtp/239.3.1.137:8036
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=6Wckpl&tk=FgM0vQMejxvG
+http://111.8.242.127:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
+http://120.76.248.139/live/bfgd/4200000094.m3u8
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://go.bkpcp.top/mg/zjws
 #EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://183.94.146.79:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://107.150.60.122/live/zjws.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjws
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://173.208.212.130:8181//zjws.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://218.206.193.218:8888/hls/52/index.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
+http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
 http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://192.151.150.154/live/zjws.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=OkLY1P&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://183.11.239.36:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=ER7NWB&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://111.8.242.127:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=nHn2gE&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=KV23BZ&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=3erJTZ&tk=FgM0vQMejxvG
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/zjws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="zhejiang-ws" tvg-name="浙江卫视",浙江卫视
-http://101.66.194.200:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际",浙江国际
 http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿",浙江少儿
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rEiHkf&tk=FgM0vQMejxvG
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿",浙江少儿
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=yXd1Ze&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-id="" tvg-name="浙江教科影视",浙江教科影视
 http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江新闻",浙江新闻
@@ -81,9 +65,9 @@ http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江生活",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江生活",浙江生活
-http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江留学",浙江留学
 http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活",浙江经济生活
+http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江舟山东极岛",浙江舟山东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8

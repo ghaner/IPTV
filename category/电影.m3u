@@ -5,82 +5,82 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 https://live.ottiptv.cc/yy/1356363815
 #EXTINF:-1 tvg-id="" tvg-name="28岁电影",28岁电影
 https://live.ottiptv.cc/douyu/8884164
-#EXTINF:-1 tvg-id="" tvg-name="3说电影",3说电影
-https://live.ottiptv.cc/douyu/9643264
+#EXTINF:-1 tvg-id="" tvg-name="77说电影",77说电影
+https://live.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
 http://107.150.60.122/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://114.254.38.234:8888/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/hinws.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://2280.eu.org:1234/624878396%2524LR%25E2%2580%25A2IPV4%25E2%2580%25A229%25E3%2580%258E%25E7%25BA%25BF%25E8%25B7%25AF2%25E3%2580%258F
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqpub/cctv6.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6.m3u8?auth=test20251009
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
 http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://38.75.136.137:98/gslb/dsdqca/cctv6.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
 http://111.8.242.127:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://192.151.150.154/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://2280.eu.org:1234/624878396%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF1%E3%80%8F
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://218.206.193.218:8888/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
-http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://2280.eu.org:1234/624878396%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
 http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://2280.eu.org:1234/624878396%25252524LR%252525E2%25252580%252525A2IPV4%252525E2%25252580%252525A229%252525E3%25252580%2525258E%252525E7%252525BA%252525BF%252525E8%252525B7%252525AF2%252525E3%25252580%2525258F
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
 http://2280.eu.org:1234/624878396%252524LR%2525E2%252580%2525A2IPV4%2525E2%252580%2525A229%2525E3%252580%25258E%2525E7%2525BA%2525BF%2525E8%2525B7%2525AF2%2525E3%252580%25258F
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/hinws.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://192.151.150.154/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://218.206.193.218:8888/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://2280.eu.org:1234/624878396%2524LR%25E2%2580%25A2IPV4%25E2%2580%25A229%25E3%2580%258E%25E7%25BA%25BF%25E8%25B7%25AF1%25E3%2580%258F
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqpub/cctv6.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影",CCTV6电影
+http://38.75.136.137:98/gslb/dsdqca/cctv6.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://111.76.19.227:1234/644368714
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://107.150.60.122/live/chcdz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://182.61.15.73:80/644368714
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://27.12.12.57:1234/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://182.61.15.163:80/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://116.236.204.18:1234/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://111.76.19.227:1234/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://110.154.192.87:7788/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://42.94.210.135:7788/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://111.231.6.102:1234/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://116.52.173.223:1234/644368714
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
-http://223.247.25.200:1234/644368714
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://192.151.150.154/live/chcdz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://111.231.6.102:1234/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://110.154.192.87:7788/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://27.12.12.57:1234/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://198.204.228.26/live/chcdz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://42.94.210.135:7788/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://223.247.25.200:1234/644368714
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://117.63.79.167:1234/644368714
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://182.61.15.163:80/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
 http://36.104.221.118:7788/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://116.236.204.18:1234/644368714
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
 http://182.61.15.73:80/952383261
 #EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
 http://182.61.15.163:80/952383261
 #EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
-http://38.75.136.137:98/gslb/dsdqpub/chc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
 http://111.231.6.102:1234/952383261
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影",CHC影迷电影
+http://116.236.204.18:1234/952383261
 #EXTINF:-1 tvg-id="" tvg-name="CHC电影",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="IPTV经典电影",IPTV经典电影
@@ -105,10 +105,12 @@ https://live.ottiptv.cc/douyu/8443438
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
 #EXTINF:-1 tvg-id="" tvg-name="享看电影",享看电影
 https://live.ottiptv.cc/douyu/8974130
-#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
-https://live.ottiptv.cc/huya/21059622
+#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影",亮哥讲电影
+https://live.ottiptv.cc/huya/16144175
 #EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
 https://live.ottiptv.cc/huya/29982687
+#EXTINF:-1 tvg-id="" tvg-name="亮哥讲电影2",亮哥讲电影2
+https://live.ottiptv.cc/huya/21059622
 #EXTINF:-1 tvg-id="" tvg-name="伦帝电影说",伦帝电影说
 https://live.ottiptv.cc/douyu/9368091
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V",伯乐说电影V
@@ -118,9 +120,9 @@ https://live.ottiptv.cc/douyu/2161818
 #EXTINF:-1 tvg-id="" tvg-name="冒险电影放映厅",冒险电影放映厅
 https://live.ottiptv.cc/huya/21059566
 #EXTINF:-1 tvg-id="fenghuang-dy" tvg-name="凤凰电影",凤凰电影
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="fenghuang-dy" tvg-name="凤凰电影",凤凰电影
 http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="fenghuang-dy" tvg-name="凤凰电影",凤凰电影
+http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="刘哔电影",刘哔电影
 https://live.ottiptv.cc/douyu/2632223
 #EXTINF:-1 tvg-id="" tvg-name="刘德华-电影",刘德华-电影
@@ -225,6 +227,8 @@ https://live.ottiptv.cc/douyu/3432645
 https://live.ottiptv.cc/douyu/9396672
 #EXTINF:-1 tvg-id="" tvg-name="少年看电影",少年看电影
 https://live.ottiptv.cc/douyu/8762120
+#EXTINF:-1 tvg-id="" tvg-name="岳云鹏宋小宝也来演电影了？",岳云鹏宋小宝也来演电影了？
+https://live.ottiptv.cc/yy/1354926612
 #EXTINF:-1 tvg-id="" tvg-name="崽崽撩电影",崽崽撩电影
 https://live.ottiptv.cc/douyu/8325511
 #EXTINF:-1 tvg-id="" tvg-name="幕撩电影",幕撩电影
@@ -249,8 +253,6 @@ https://live.ottiptv.cc/douyu/9422144
 http://tv.zimtv.cn/tv/player/api/huya.php?id=30080256
 #EXTINF:-1 tvg-id="" tvg-name="恐怖电影",恐怖电影
 https://live.ottiptv.cc/yy/24066336
-#EXTINF:-1 tvg-id="" tvg-name="悠悠爱电影",悠悠爱电影
-https://live.ottiptv.cc/huya/30611864
 #EXTINF:-1 tvg-id="" tvg-name="悬疑电影放映厅",悬疑电影放映厅
 https://live.ottiptv.cc/huya/29982641
 #EXTINF:-1 tvg-id="" tvg-name="惊悚电影放映厅",惊悚电影放映厅
@@ -267,10 +269,10 @@ https://live.metshop.top/huya/21059574
 https://live.ottiptv.cc/huya/21059618
 #EXTINF:-1 tvg-id="" tvg-name="扁豆看电影",扁豆看电影
 https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 tvg-id="" tvg-name="扁豆看电影2",扁豆看电影2
+https://live.ottiptv.cc/huya/21059623
 #EXTINF:-1 tvg-id="" tvg-name="指缝里看电影",指缝里看电影
 https://live.ottiptv.cc/douyu/9647834
-#EXTINF:-1 tvg-id="" tvg-name="撩电影8",撩电影8
-https://live.ottiptv.cc/douyu/9351043
 #EXTINF:-1 tvg-id="" tvg-name="斯坦森-电影",斯坦森-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21059588
 #EXTINF:-1 tvg-id="" tvg-name="无际电影",无际电影
@@ -340,11 +342,11 @@ https://live.ottiptv.cc/douyu/5424258
 #EXTINF:-1 tvg-id="" tvg-name="涵哥评电影",涵哥评电影
 https://live.ottiptv.cc/huya/16865726
 #EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影
-http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B9%96%E5%8D%972.php?id=221
+http://php.jdshipin.com:8880/iptv.php
 #EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影
 http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="" tvg-name="湖南电影",湖南电影
-http://php.jdshipin.com:8880/iptv.php
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B9%96%E5%8D%972.php?id=221
 #EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人",火龙果讲电影本人
 https://live.ottiptv.cc/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影",火龙果说电影
@@ -449,8 +451,6 @@ http://live.metshop.top/huya/11342429?cdn=alicdn
 https://live.ottiptv.cc/douyu/8706350
 #EXTINF:-1 tvg-id="" tvg-name="电影犯罪片",电影犯罪片
 http://live.metshop.top/huya/11352974?cdn=alicdn
-#EXTINF:-1 tvg-id="" tvg-name="电影狂人A",电影狂人A
-https://live.ottiptv.cc/huya/18715610
 #EXTINF:-1 tvg-id="" tvg-name="电影百团大战",电影百团大战
 https://live.ottiptv.cc/yy/1382736871
 #EXTINF:-1 tvg-id="" tvg-name="电影笔记",电影笔记
@@ -463,20 +463,14 @@ http://live.metshop.top/huya/21059585?cdn=alicdn
 http://live.metshop.top/huya/21059587?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影贺岁",电影贺岁
 http://live.metshop.top/huya/11601971?cdn=alicdn
-#EXTINF:-1 tvg-id="" tvg-name="电影迷小雅",电影迷小雅
-https://live.ottiptv.cc/douyu/9639225
 #EXTINF:-1 tvg-id="" tvg-name="电影高分动作",电影高分动作
 http://live.metshop.top/huya/11352884?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影黑匣子",电影黑匣子
 https://live.ottiptv.cc/douyu/8706652
 #EXTINF:-1 tvg-id="" tvg-name="电影黑豹",电影黑豹
 https://live.ottiptv.cc/yy/1382736816
-#EXTINF:-1 tvg-id="" tvg-name="疯狂电影人2带你解锁无厘头拍戏",疯狂电影人2带你解锁无厘头拍戏
-https://live.ottiptv.cc/yy/1354932426
 #EXTINF:-1 tvg-id="" tvg-name="看电影了没V",看电影了没V
 https://live.ottiptv.cc/douyu/9562616
-#EXTINF:-1 tvg-id="" tvg-name="短剧电影院",短剧电影院
-https://live.ottiptv.cc/huya/31002899
 #EXTINF:-1 tvg-id="" tvg-name="碟中谍系列电影",碟中谍系列电影
 https://live.ottiptv.cc/yy/1382736836
 #EXTINF:-1 tvg-id="" tvg-name="科幻电影",科幻电影
@@ -492,17 +486,15 @@ https://live.ottiptv.cc/yy/1382736823
 #EXTINF:-1 tvg-id="" tvg-name="精彩动作电影享不停",精彩动作电影享不停
 https://live.ottiptv.cc/yy/1382736809
 #EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
-http://rihou.cc:555/tv/%2525E7%2525BA%2525AC%2525E6%25259D%2525A5%2525E7%252594%2525B5%2525E5%2525BD%2525B1
-#EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
+http://rihou.cc:555/tv/%252525E7%252525BA%252525AC%252525E6%2525259D%252525A5%252525E7%25252594%252525B5%252525E5%252525BD%252525B1
 #EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
 http://rihou.cc:555/tv/%25E7%25BA%25AC%25E6%259D%25A5%25E7%2594%25B5%25E5%25BD%25B1
 #EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
-http://rihou.cc:555/tv/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1
-#EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34852
+http://rihou.cc:555/tv/%2525E7%2525BA%2525AC%2525E6%25259D%2525A5%2525E7%252594%2525B5%2525E5%2525BD%2525B1
 #EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
 http://free.cnlive.club/channel/581b458b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纬来电影台",纬来电影台
+http://rihou.cc:555/tv/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-id="" tvg-name="经典电影",经典电影
 https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="维立方电影",维立方电影
@@ -527,6 +519,8 @@ https://live.ottiptv.cc/huya/28806637
 https://live.ottiptv.cc/huya/23177366
 #EXTINF:-1 tvg-id="" tvg-name="虫哥说电影",虫哥说电影
 https://live.ottiptv.cc/douyu/8915074
+#EXTINF:-1 tvg-id="" tvg-name="西施撩电影",西施撩电影
+https://live.ottiptv.cc/douyu/7532080
 #EXTINF:-1 tvg-id="" tvg-name="许冠英-电影",许冠英-电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11601972
 #EXTINF:-1 tvg-id="" tvg-name="说说电影故事",说说电影故事

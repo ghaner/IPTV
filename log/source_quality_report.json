@@ -1,27 +1,27 @@
 [
   {
     "source_url": "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-    "total": 494,
-    "valid": 402,
-    "failed": 92,
-    "failure_rate": 0.1862,
-    "available_rate": 0.8138
+    "total": 491,
+    "valid": 405,
+    "failed": 86,
+    "failure_rate": 0.1752,
+    "available_rate": 0.8248
   },
   {
     "source_url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u",
-    "total": 2535,
-    "valid": 2403,
-    "failed": 132,
-    "failure_rate": 0.0521,
-    "available_rate": 0.9479
+    "total": 3153,
+    "valid": 2428,
+    "failed": 725,
+    "failure_rate": 0.2299,
+    "available_rate": 0.7701
   },
   {
     "source_url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u",
-    "total": 1418,
-    "valid": 1239,
-    "failed": 179,
-    "failure_rate": 0.1262,
-    "available_rate": 0.8738
+    "total": 1365,
+    "valid": 1174,
+    "failed": 191,
+    "failure_rate": 0.1399,
+    "available_rate": 0.8601
   },
   {
     "source_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_china.m3u8",
@@ -33,58 +33,58 @@
   },
   {
     "source_url": "https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
-    "total": 88,
-    "valid": 86,
-    "failed": 2,
-    "failure_rate": 0.0227,
-    "available_rate": 0.9773
+    "total": 35,
+    "valid": 32,
+    "failed": 3,
+    "failure_rate": 0.0857,
+    "available_rate": 0.9143
   },
   {
     "source_url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u",
-    "total": 123,
-    "valid": 63,
-    "failed": 60,
-    "failure_rate": 0.4878,
-    "available_rate": 0.5122
+    "total": 130,
+    "valid": 62,
+    "failed": 68,
+    "failure_rate": 0.5231,
+    "available_rate": 0.4769
   },
   {
     "source_url": "https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt",
-    "total": 188,
-    "valid": 34,
-    "failed": 154,
-    "failure_rate": 0.8191,
-    "available_rate": 0.1809
+    "total": 193,
+    "valid": 38,
+    "failed": 155,
+    "failure_rate": 0.8031,
+    "available_rate": 0.1969
   },
   {
     "source_url": "https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u",
-    "total": 688,
-    "valid": 561,
-    "failed": 127,
-    "failure_rate": 0.1846,
-    "available_rate": 0.8154
+    "total": 610,
+    "valid": 479,
+    "failed": 131,
+    "failure_rate": 0.2148,
+    "available_rate": 0.7852
   },
   {
     "source_url": "https://raw.githubusercontent.com/David1016/live-merged/refs/heads/main/LIVE-merged.m3u",
-    "total": 0,
-    "valid": 0,
-    "failed": 0,
-    "failure_rate": 0,
-    "available_rate": 1
+    "total": 330,
+    "valid": 104,
+    "failed": 226,
+    "failure_rate": 0.6848,
+    "available_rate": 0.3152
   },
   {
     "source_url": "https://raw.githubusercontent.com/18302983787/iptv-api-gmh/refs/heads/master/output/result.m3u",
-    "total": 612,
-    "valid": 160,
-    "failed": 452,
-    "failure_rate": 0.7386,
-    "available_rate": 0.2614
+    "total": 621,
+    "valid": 164,
+    "failed": 457,
+    "failure_rate": 0.7359,
+    "available_rate": 0.2641
   },
   {
     "source_url": "https://raw.githubusercontent.com/ggoplaydd-bot/tvbox-live/refs/heads/main/live.txt",
-    "total": 1218,
-    "valid": 687,
-    "failed": 531,
-    "failure_rate": 0.436,
-    "available_rate": 0.564
+    "total": 1207,
+    "valid": 671,
+    "failed": 536,
+    "failure_rate": 0.4441,
+    "available_rate": 0.5559
   }
 ]
