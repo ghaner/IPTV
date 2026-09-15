@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="宿州公共",宿州公共
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宿州新闻综合",宿州新闻综合
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿州科教",宿州科教
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8

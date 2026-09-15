@@ -1,14 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://112.234.22.76:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://j.x.bkpcp.top/jx/NXWS
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://2280.eu.org:1234/738910535%252524LR%2525E2%252580%2525A2IPV4%2525E2%252580%2525A229%2525E3%252580%25258E%2525E7%2525BA%2525BF%2525E8%2525B7%2525AF2%2525E3%252580%25258F
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
 http://192.151.150.154/live/nxws.m3u8
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://61.161.61.119:9004/hls/50/index.m3u8
+http://112.234.22.76:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://111.8.242.142:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://2280.eu.org:1234/738910535%2525252524LR%25252525E2%2525252580%25252525A2IPV4%25252525E2%2525252580%25252525A229%25252525E3%2525252580%252525258E%25252525E7%25252525BA%25252525BF%25252525E8%25252525B7%25252525AF3%25252525E3%2525252580%252525258F
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://2280.eu.org:1234/738910535%2524LR%25E2%2580%25A2IPV4%25E2%2580%25A229%25E3%2580%258E%25E7%25BA%25BF%25E8%25B7%25AF2%25E3%2580%258F
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://182.61.15.163:80/738910535
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=1aebcf48d1f1fc0d2dd9f385f8425f
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://by4.nty.tv189.cn/tm-ysnxws-4000k.m3u8
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://2280.eu.org:1234/738910535%252524LR%2525E2%252580%2525A2IPV4%2525E2%252580%2525A229%2525E3%252580%25258E%2525E7%2525BA%2525BF%2525E8%2525B7%2525AF2%2525E3%252580%25258F
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://107.150.60.122/live/nxws.m3u8
+#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
+http://120.76.248.139/live/bfgd/4200000118.m3u8
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
@@ -16,32 +38,12 @@ http://111.8.242.127:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
 http://bztv.tvbus.cc:8081/cdnlive/nxws.m3u8
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://2280.eu.org:1234/738910535%25252524LR%252525E2%25252580%252525A2IPV4%252525E2%25252580%252525A229%252525E3%25252580%2525258E%252525E7%252525BA%252525BF%252525E8%252525B7%252525AF3%252525E3%25252580%2525258F
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://by4.nty.tv189.cn/tm-ysnxws-4000k.m3u8
+http://218.206.193.218:8888/hls/51/index.m3u8
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
 http://t.061899.xyz/tl/tl.php?id=nxws
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=1aebcf48d1f1fc0d2dd9f385f8425f
+https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://107.150.60.122/live/nxws.m3u8
+http://2280.eu.org:1234/738910535%25252524LR%252525E2%25252580%252525A2IPV4%252525E2%25252580%252525A229%252525E3%25252580%2525258E%252525E7%252525BA%252525BF%252525E8%252525B7%252525AF2%252525E3%25252580%2525258F
 #EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://182.61.15.163:80/738910535
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://218.206.193.218:8888/hls/51/index.m3u8
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://111.8.242.142:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://2280.eu.org:1234/738910535%2524LR%25E2%2580%25A2IPV4%25E2%2580%25A229%25E3%2580%258E%25E7%25BA%25BF%25E8%25B7%25AF2%25E3%2580%258F
-#EXTINF:-1 tvg-id="ningxia-ws" tvg-name="宁夏卫视",宁夏卫视
-http://2280.eu.org:1234/738910535%24LR%E2%80%A2IPV4%E2%80%A229%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
+http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
